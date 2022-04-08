@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jahresbericht über die Kanzley der Lbl. Kantons-Policey-Commißion.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-05-05"
+                            >05.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Jahresbericht über die Kanzley der Lbl.
+                        Kantons-Policey-Commißion.</title><date when="1825-01-06"
+                        >06.01.1825</date><ident>StAZH MM 1.90 RRB
+                        1825/0007</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.90</biblScope><biblScope unit="page">4−5</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung eines von der Lbl. Kantons-Policey-Commißion mit Weisung d.
+                d. 24sten passati über den Bestand und das Personale
+                ihrer Kanzley erstatteten reglementarischen Berichtes, woraus sich ergab, daß der
+                Geschäftsumfang dieser Behörde in unverändert ausgedehntem Umfange, die Dienste der
+                sämtlich Angestellten, als:
+            
+a.) Des Herrn Ferdinand
+                Meyer, welcher die Secretariatsgeschäfte nebst denjenigen für
+                die Lbl. Justiz-Commißion besorgt; und der drey gleichfalls für beyde Commißionen
+                beschäftigten Kanzlisten, Herren Rudolf
+                Keller, Georg
+                Locher und Heinrich
+                Brennwald.
+            
+b.) Des Herrn Hauptmann Trichtinger, als Besorger der
+                Policeyverhöre, des Paß- und Hausirwesens, nebst den ihm hiefür zugegebenen
+                Kanzlisten, Herren Felix
+                Boßhard und Johannes Bruppacher; und:
+            
+c.) Des Herrn Joh.
+                Jacob
+                Fehr, als Haupt- mann, sowie des Herrn
+                    Joh.
+                Jacob Finßler als Oberlieutenant der Landjäger, − in vollen
+                Anspruch nehme, und daß dieselben ihre Pflichten in allen Theilen genügend und wohl
+                erfüllt haben, auch unter solchen Umständen keine Reduction in dieser Kanzley
+                möglich sey, − haben UHHerren und Obern solche sämtlich in ihren Stellen, unter
+                Hochobrigkeitlicher Zufriedenheit mit ihren Verrichtungen bestätigt; wovon der Lbl.
+                Kantons-Policey-Commißion Kenntniß gegeben, und zugleich für gegenwärtiges Jahr
+                wieder ein Credit von 3200. Frk[en]. zu Deckung der Ausgaben bey der Staatscaßa
+                eröffnet wird.
+            
+Gegenwärtiger Beschluß wird auch der Lbl. Finanz-Commißion
+                zugestellt.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,14 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Gesetzesentwurf, betreff. Lostrennung der Höfe Thalmühle, Brämhof u. Rübensperg von dem Notariate Neuamt u. Anschluß an dasjenige v. Regensberg.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn25.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Gesetzesentwurf, betreff. Lostrennung der Höfe Thalmühle, Brämhof u. Rübensperg von dem Notariate Neuamt u. Anschluß an dasjenige v. Regensberg.</title>08.06.1847<ident>StAZH MM 2.96 RRB 1847/0918</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">293–294</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Gesetzesentwurf
+betreffend Lostrennung der Höfe Thalmühle, Brämhof und Rübensperg von dem Notariate Neuamt und Anschluß an dasjenige von Regensberg
+der Große Rath
+auf den Antrag des Regierungsrathes
+beschließt.
+§. 1.
+Die Höfe Thalmühle, Brämhof und Rübensperg in der Gemeinde Bachs werden von dem Notariate Neuamt getrennt und mit demjenigen von Regensberg  vereinigt.
+§. 2.
+Die Ausscheidung der Protokolle geschieht unter Leitung des Obergerichtes auf Kosten der Bewohner der benannten Höfe.
+§. 3.
+Der Regierungsrath und das Obergericht sind mit der Vollziehung dieses Gesetzes beauftragt.<p/></body></text></TEI>

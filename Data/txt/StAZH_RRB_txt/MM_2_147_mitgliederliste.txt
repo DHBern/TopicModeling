@@ -1,0 +1,15 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#csn" key="transcript">Transkript: csn05.12.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>04.01.1860-05.04.1860<ident>StAZH MM 2.147 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.147</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Herr Dr. M. Ulrich Zehnder v. Oberengstringen 1ter Präsident.
+  “    Dr. Jakob Dubs v. Affoltern a/A. IIter Präsident.
+  “    Paul Carl Eduard Ziegler, eidg. Oberst, v. Zürich.
+  “    Rudolf Benz v. Pfungen, eidg. Oberst.
+  “    Felix Wild v. Wädensweil.
+  “    Franz Hagenbuch v. Zürich.
+  “    J. Jakob Treichler v. Richtersweil.
+  “    Friedrich Salomon Ott v. Zürich.
+  “    Heinrich Fenner v. Winterthur, Oberstlieutenant.
+Staatsschreiber.
+Herr Karl Adolf Huber v. Wädensweil Iter Staatsschreiber.
+  “    Arnold Vogel v. Zürich, IIter Staatsschreiber.</body></text></TEI>

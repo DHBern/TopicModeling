@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gede Hittnau Bestimmung e. Staatsbeitrages an e. Straßenbaute
+                    II. Klasse.</title>
+                <respStmt>
+                    <resp ref="#kvr" key="transcript">Transkript: <date when="2013-02-06"
+                            >/6.02.2013</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Gede Hittnau Bestimmung e. Staatsbeitrages an e. Straßenbaute
+                        II. Klasse.</title>10.01.1874<ident>StAZH MM
+                        2.203 RRB 1874/0005</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">2.203</biblScope><biblScope
+                        unit="page">5–8</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+In Sachen
+            
+der Gemeinde Hittnau, 
+            
+betreffend Bestimmung eines Staatsbeitrages an die Kosten einer Straßenbaute II.
+                Klasse, 
+            
+hat sich ergeben: 
+            
+A. Mit empfehlendem Begleitschreiben vom <date when="1874-12-26">26.
+                    Christmonat</date> 1873 übermittelt das Statthalteramt
+                    Pfäffikon die Rechnung über den Bau der Straße II. Klasse
+                von Ober- nach Unterhittnau, nebst dem Gesuche des Gemeindrathes
+                    Hittnau um Verabreichung eines entsprechenden
+                Staatsbeitrages an die diesfälligen Kosten.
+            
+B. Die Direktion der öffentlichen Arbeiten berichtet:
+            
+a) Die Straße ist nach dem vom Regierungsrathe unterm <date when="1874-03-30">30.
+                    März</date> 1872 genehmigten Beschlusse des Bezirksrathes
+                    Pfäffikon ausgeführt worden und schon seit Augstmonat
+                1873 dem Betriebe übergeben. Der Bau umfasst 2750‘ neue Anlage und 350‘
+                Korrektionsarbeiten an der alten Straße bei der Einmündung der Straße in die Straße
+                I. Klasse im Dorfe Unterhittnau. Derselbe ist in allen Theilen nach Plan und
+                Vorschrift ausgeführt.
+            
+Die Totalausgabe beträgt nach der vorgelegten Rechnung Fr. 9856.30 und es sind die
+                einzelnen Posten durch Belege nachgewiesen. Dagegen finden sich einige Ansätze, wie
+                Zinsvergütungen, Taggelder für Gemeindräthe etc., welche gemäß dem Beschlusse des
+                Regierungsrathes vom 20. April 1872 nicht
+                berücksichtigt werden. Wenn man diese Posten wegläßt, so stellt sich die
+                bei der Berechnung des Staatsbeitrages in Betracht fallende Ausgabe folgender
+                Maßen:
+            
+1. Landentschädigungen Fr. 2830.88.
+            
+2. Eigentliche Baukosten “ 6657.25.
+            
+3. Allerlei “ 7.60.
+            
+ Sa Fr. 9495.73.
+            
+Werden für die Korrektion der alten Straße ca Fr. 200 berechnet, so beträgt die
+                Bausumme für 2750‘ Neubaute Fr. 9300 und es kommt der laufende
+                    Fuß auf Fr. 3.88 zu stehen.
+            
+b) Die Quote für Hittnau beträgt 332 00/00 [sic!] und damit
+                berechnet sich ein Staatsbeitrag von Frkn. 3057.40 Rp.
+            
+Der Regierungsrath,
+            
+nach Einsicht eines Antrages der Direktion der öffentlichen Arbeiten, 
+            
+beschließt:
+            
+1. Der Gemeinde Hittnau wird für die Erbauung einer Straße II.
+                Klasse von Oberhittnau nach Unterhittnau ein Staatsbeitrag von Fr. 3100
+                bestimmt.
+            
+2. Mittheilung an den Gemeindrath Hittnau, mit Weglassung von
+                Fact. B. b. und unter Rücksendung der Rechnung nebst Belegen, durch das Mittel des
+                Statthalteramtes, ferner an die Direktion der öffentlichen Arbeiten unter Rück- <pb
+                    n="8"/>stellung der übrigen Akten.
+        </body>
+    </text>
+</TEI>

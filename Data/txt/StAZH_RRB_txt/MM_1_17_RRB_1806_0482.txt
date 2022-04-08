@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antwort an den L. Stand Thurgau, der bey einem Vertrag wegen Behandlung der
+                    Paternitätsfälle, das Forum rei aufstellt.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-12-10"
+                            >10.12.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Antwort an den L. Stand Thurgau, der bey einem Vertrag wegen Behandlung
+                        der Paternitätsfälle, das Forum rei aufstellt.</title><date
+                        when="1806-04-19">19.04.1806</date><ident>StAZH MM 1.17 RRB
+                        1806/0482</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.17</biblScope><biblScope unit="page"
+                    >140–142</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Dem Lob[lichen] Stand Thurgau ist auf sein, den hießigen Antrag vom
+                    15ten Merz beantwortendes Schreiben vom <date
+                    when="1806-03-31">31sten ejusdem</date>, und das demselben beygelegte
+                Gegenprojekt, wegen eines abzuschließenden Vertrags über die gerichtliche Behandlung
+                der Paternitätsfälle, folgendes (unter abschriftlicher Beyfügung eines mit dem
+                obstehenden, sub hodierno an die L. Stände Glarus und St.
+                    Gallen gesendeten, ganz gleichgültigen Entwurfs) zu
+                erwidern: „Man habe aus seinem Antwortschreiben ersehen, daß derselbe sich nicht
+                entschließen könne, die Competenz des Fori delicti zum Fundament anzunehmen, sondern
+                das Forum rei oder Domicilii als Basis aufzustellen gedenke, und daß er dem hießigen
+                Entwurfe, deßen übrigen Punkten die dortige Regierung beypflichte, noch zwoo
+                Nebenbestimmungen beyzufügen wünsche. In Ansehung des Hauptgrundsatzes sey die
+                hießige Regierung, nach ihren schon getanen Äußerungen, bereit, auch auf das, ihrem
+                Principio vorgezogene Fundament des Fori rei den dießfälligen Vertrag zu gründen. – 
+            
+Die vorgeschlagenen Nebenbestimmungen aber vereinigen sich nicht mit den hierseitigen
+                Begriffen: Einerseits schlage der dortige Stand, in gefälliger Berüksichtigung der
+                hierseits geäußerten Bedenken gegen das Forum rei, zu Schonung der Klägerin in
+                eintrettenden Fällen, vor, daß es dem Richter des Beklagten frey
+                stehen soll, das Fo- rum der Niederkunft, oder jenes des Aufenthalts
+                der Klägerin, über die Klage sprechen zu laßen. Diese Spielung würde hierseitigen
+                Bedünkens, etwas Schwankendes in den Vertrag bringen, für die Anerkennung der
+                Competenz des Richters, und die Execution der Urtheile behinderlich seyn, und durch
+                die vorzusehenden häufigen Empfehlungsgesuche, mit welchen die Regierungen selbst
+                behelliget werden würden, mancherley Inconvenienzen erzeugen. Und anderseits wünsche
+                die dortige Regierung, daß der Termin, innerhalb welchem die Klägerin ihre Klage bey
+                dem competierlichen Richter anbringen soll, auf die ganze Dauer
+                der Schwangerschaft ausgedehnt werde. Dieses wäre, dießeitigen Erachtens für die
+                öffentliche Ordnung gefährlich, und es könnte zu bedenklichen Schritten verleiten,
+                wenn die Klägerin erst bey herannähernder Niederkunft, oder gar nach überwartetem
+                Termin ihre Ansprache eröffnen dürfte. In dieser Überzeugung habe der gesezgebende
+                Rath des hießigen Cantons auch hinlänglichen Grund gefunden, in dem
+                Matrimonial-Codex zu bestimmen, daß die Klägerin bis in den sechsten Monat ihrer
+                Schwangerschaft, die Vaterschaftsklage eröffnen soll, – so daß man sich hierorts
+                auch in einem dießfälligen Vertrag von der Festsezung dieses oder eines ähnlichen
+                Termins nicht entfernen könnte. Da man nun dem, von der Thurgäuischen Regierung
+                vorgeschlagenen Hauptgrundsatze sich zu fügen bereit sey, so hoffe man auch nun
+                desto eher, daß dieselbe es sich nicht entgegen seyn laßen werde, den
+                dießeitigen Begriffen über diese beyden Nebenbestimmungen beyzutretten, und in dem
+                man ihr das beyliegende, auf das Principium des Fori rei gegründete Projekt eines
+                Vertrags übersende, müße man sich nicht nur die verhoffentlich im Allgemeinen
+                zustimmenden Rückäußerungen der dortigen Regierung, sondern auch ihre Erklärung in
+                Ansehung eines beschränkteren Termins für die, von der Klägerin zu eröffnende Klage,
+                auf welche der 2te §. des beyliegenden Entwurfes speciellen Bezug habe,
+                ausbitten“.
+        </body>
+    </text>
+</TEI>

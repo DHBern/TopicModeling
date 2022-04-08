@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Herr Statthalter Steiner zu Winterthur dankt für die ihm und der
+                    Verhörcommißion daselbst übermachten Gratifikationen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-12-22"
+                            >22.12.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Herr Statthalter Steiner zu Winterthur dankt für die ihm und der
+                        Verhörcommißion daselbst übermachten Gratifikationen.</title><date
+                        when="1804-06-02">02.06.1804</date><ident>StAZH MM 1.8 RRB
+                        1804/0979</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.8</biblScope><biblScope unit="page">10</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Das verbindliche Dankschreiben des Herrn Bezirksstatthalter Steiners zu
+                Winterthur vom 31ten pti
+                für die unterm 23ten ejusdem demselben und den
+                übrigen Gliedern, so wie der Kanzley der dort verordnet gewesenen Verhörcommißion
+                bewiesene Erkenntlichkeit, worinn der Herr Statthalter bemerkt, dass er das ihm
+                bestimmte und übermachte Geschenk auf eine gemeinnüzige Weise zu verwenden sich
+                vorbehalte, ist ad acta zu legen.
+        </body>
+    </text>
+</TEI>

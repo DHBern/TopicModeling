@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beendigung der Berathung des Entwurfs zu einem Preßgesetz.</title><respStmt><resp ref="#jvs" key="transcript">Transkript: jvs10.08.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beendigung der Berathung des Entwurfs zu einem Preßgesetz.</title>23.05.1829<ident>StAZH MM 1.106 RRB 1829/0490</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.106</biblScope><biblScope unit="page">247–260</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Die Berathung des Entwurfs eines Preßgesetzes wurde heute beendigt, und neben einigen minder bedeutenden Modificationen noch ein Schlußartikel angefügt, welcher besagt, daß dieses Gesetz für vier Jahre in Kraft verbleibe, nach dieser Zeit aber wieder zu revidiren seye, in der Meinung jedoch, daß wenn unterweilen das allgemeine Strafgesetzbuch zu Stande käme, dieses besondere Gesetz entweder demselben einverleibt, oder aber nach deßen Grundsätzen neu abgefaßt werden solle.
+Endlich wurde nach beendigter Specialberathung über die Frage abgestimmt, ob man nunmehr den Entwurf in seiner modificirten Gestalt dem Großen Rathe als Gesetzesvorschlag hinterbringen wolle, und diese Frage mit Mehrheit bejahend entschieden, so wie dann auch die Kanzley beauftragt, solchen drucken zu laßen, damit er in der ersten Sitzung der Höchsten Behörde an die sämmtli-  chen Mitglieder derselben ausgetheilt werden könne.
+An den Großen Rath ist nachstehende Weisung zu erlaßen:
+Weisung.
+Es ist der Hohen Behörde des Großen Rathes aus den alljährlich vorkommenden Relationen hinlänglich bekannt, unter welchen ganz besondern Verhältnißen die Tagsatzungs-Conclusen von 1823. über den Mißbrauch der Druckerpreße in Beziehung auf das Ausland und die Fremdenpolicey gefaßt wurden, und wie sich in den letzten Jahren mehr und mehr, die, nicht so fast aus Inhalt und Sache, als aus Ursprung und Form hervorgehende Abneigung ein und andrer Stände gegen die alljährliche Erneuerung dieser Beschlüße vermehrte, so daß endlich die Nothwendigkeit eintrat, auf Mittel und Wege zu denken, wie die Bundesbehörde, ohne sich dem Vorwurfe einer Verlängerung oder Nichtachtung der darin ausgesprochenen völkerrechtlichen Grundsätze auszusetzen, der steten Wiederholung eines ihrer Würde nicht ganz angemeßen scheinenden, seiner Zeit durch äußern Einfluß veranlaßten Bekenntnißes derselben überhoben werden könnte.
+In dieser Absicht ertheilte die letzt-  jährige Hohe Bundesversammlung dem Eidgenößischen Vororte den Auftrag, reiflich zu berathen, und noch vor Mittheilung der Tractanden sein Befinden zu eröffnen, wie der einmüthige Wille der Hohen Stände in beyden, durch besagte Conclusa angegebenen Beziehungen, den befreundeten Mächten alle gebührende Beruhigung zu geben, deren gerechtes Vertrauen der Schweiz zu erhalten und so die beßten freundschaftlichen Verhältniße mit denselben zu bewahren, durch einen festen Zusammenhang und durch wirksame Vollziehung übereinstimmender Maßregeln von der Eidgenoßenschaft an den Tag gelegt werden möchte, um sodann jene frühern außerordentlichen Tagsatzungsverfügungen als beseitigt betrachten, und die Wiederholung daheriger Discußionen künftig unterlaßen zu können.
+Diesem Auftrage zufolg, erließ der Hohe Vorort Bern durch Kreisschreiben vom 26. Hornung d. J. an sämmtliche Eidgenößische Regierungen den Antrag, daß sie zu jenem Zwecke wiederholte Prüfung ihrer bestehenden Gesetze und Verordnungen, betreffend die Preße und Fremdenpolicey, Vervollständigung und Verbeßerung derselben, wenn sie unzureichend, sorgfältige Aus-  arbeitung solcher Verordnungen, wo sie etwa nicht vorhanden wären, vornehmen, und dafür wirksame Mittel anordnen möchten, damit jeder Stand im Falle sey, der nächsten Tagsatzung seine Erklärung über eigene Handhabung der, durch jene Conclusen ausgesprochenen Grundsätze zu geben, welche sämmtlichen Erklärungen sodann an eine Commißion zu weisen wären, auf deren Antrag die Tagsatzung einen endlichen Beschluß in Protokoll und Abschied niederlegen würde, daß sie in Folge der, von den Ständen ertheilten beruhigenden Zusicherungen jene frühern außerordentlichen Vefügungen als beseitigt betrachte, und hiemit die Wiederholung daheriger Discußionen künftig unterbleiben könne.
+Bey pflichtmäßiger Vorberathung dieser Anträge hat nun der Kleine Rath gefunden, daß es dem hiesigen Stande nicht schwer fallen werde, der Hohen Tagsatzung, hinsichtlich der Fremdenpolicey, durch eine geeignete Erklärung über den Bestand und die Handhabe seiner dießfälligen Verordnungen vollkommene Beruhigung zu geben, wie die Höchste Behörde aus dem hiefür entworfenen Instructionsantrage zu entnehmen belieben wird. 
+Was hingegen die Druckerpreße anbelangt, so befindet man sich hierorts keineswegs in gleicher Faßung, indem vielfache Thatsachen zur Genüge beweisen, wie wenig mehr unsre dießfalls bestehenden Verordnungen geeignet sind, die Preße in gesetzlichen Schranken zu halten.
+Bey Überlegung der nunmehr in dieser Beziehung gegen den Bundesverein zu erfüllenden Pflichten, hat sich dem Kleinen Rathe im Hinblick auf die gegenwärtigen Verhältniße der Preße im Allgemeinen auch das Bedürfniß gleicher Sorge für die innere Ruhe, Ordnung und Sittlichkeit, wie für jene Aufrechterhaltung eines guten Vernehmens in äußern Beziehungen dargestellt, und dieser Anlaß geeignet geschienen, den Gegenstand in seinem ganzen Umfange in Berathung zu faßen.
+Das Ao. 1805. erlaßene Gesetz, betreffend die Bücher-Censur, war schon lange nicht mehr geeignet, den vielseitigen, mit mehr und minderm Grunde geführten Klagen über den Mißbrauch der Druckerpreße abzuhelfen, indem unter gegenwärtiger Gestaltung der Begriffe von den Vortheilen der Oeffentlichkeit aller mit dem Gemeinwesen in naher und ferner Berührung stehenden Angelegenheiten, und besonders bey der politischen  Journalistik unsrer Tage, der Damm auf alle Seiten durchbrochen, und somit ihr ursprünglicher Zweck der Verhütung von Preßvergehen gänzlich vereitelt wurde. Diese Erfahrung hat die Nothwendigkeit dargethan, die Feststellung nöthiger Schranken gleich mehrern andern Staaten und vorangegangenen Schweizerkantonen auf dem Wege der Erlaßung eines Strafgesetzes über Preßvergehen zu suchen.
+Wenn das System der Censur unzweifelbar einige Vorzüge hatte, so spricht nun hingegen die erwiesene Unzulänglichkeit entschieden gegen seine Beybehaltung, und darf man um so weniger Anstand nehmen, zu Aufstellung eines Preßgesetzes zu schreiten, als solches nicht nur den neuern allgemeinen Begriffen über Freyheit der Meinungen in einem Freystaate entspricht, sondern auch auf der Strafgesetzgebung beruhend, festere Grundlagen erhält, allein seiner besondern Natur wegen, eine getrennte Abtheilung derselben bilden muß, und außerdem dermalen noch mit keinem Strafgesetzbuche vereinigt werden könnte.
+Der Kleine Rath hat daher in beyden Rücksichten, sowohl auf die Bundes- als die Kantonalverhältniße, und in der Überzeugung, daß die für jene ge-  forderte Gewährleistung sich nur durch dieses Mittel geben, für diese hingegen auf keinem andern Wege mehr eine Befriedigung erzielen laße, mit sorgfältiger Beachtung unserer besondern Lage und Einrichtungen, ein Preßgesetz berathen, deßen Entwurf nunmehr der Höchsten Behörde zu weiser Prüfung vorgelegt wird, und worauf sich sodann im Genehmigungsfalle der dießfällige Instructionsartikel gründen wird.
+Zürich den 23. May 1829.
+Im Nahmen des Kleinen Raths
+unterzeichnet:
+Der Amtsburgermeister.
+Wyß.
+Der Erste Staatsschreiber.
+Hottinger.
+Entwurf eines Gesetzes, 
+betreffend
+die Druckerpreße.
+Der Große Rath, in der Absicht, der Druckerpreße einen möglichst freyen Spielraum zu gestatten, hält sich hinwieder verpflichtet, gesetzliche Vorschriften gegen jeden die Ruhe des Staates in seinen innern und äußern Verhältnißen, die Religion und guten Sitten, oder die Rechte und Ehre der Behörden und Particularen beeinträchtigenden Mißbrauch derselben aufzustellen, und verordnet demnach, was folgt:  
+1.
+Jeder Angehörige und Einwohner des Kantons Zürich ist nach den hiernächst folgenden Bestimmungen verantwortlich für dasjenige, was er im Kanton, oder auch außer demselben druckt oder drucken läßt.
+2.
+Ein durch die Druckerpreße, durch Kupferstich, Steindruck oder ein anderes ähnliches Mittel verübtes Verbrechen oder Vergehen, wird als durch die Herausgabe des Gedruckten vollendet angesehen, und unterliegt folgenden Strafbestimmungen.
+3.
+Wer sich mittelst der Preße eines Verbrechens oder Vergehens gegen Religion oder Sittlichkeit schuldig macht, wird mit ein- bis zwölfmonathlichem Verhaft und einer Geldbuße von 40. bis 400. Franken bestraft.
+4.
+Wer sich einer Verleumdung oder Beschimpfung des Großen Raths, des Kleinen Raths, des Staatsrathes oder des Obergerichtes des Kantons Zürich schuldig macht, wird mit ein- bis zwölfmonathlichem Verhaft und einer Geldbuße von 40. bis 400. Frk[en]. bestraft.
+5.
+Wer sich der Verleumdung oder Beschimpfung einer andern Kantonal- oder einer oberamtlichen Behörde schuldig macht, wird mit Verhaft von zehn Tagen bis sechs Monathen und einer  Buße von 16. bis 160. Frk[en]. bestraft.
+6.
+Wer sich eines Ehre-Angriffs auf die Person eines der Eidgenoßenschaft befreundeten Souverains, oder gegen eine Eidgenößische oder auswärtige befreundete Staatsregierung schuldig macht, wird mit ein- bis zwölfmonathlichem Verhaft und 40. bis 400. Frk[en]. Buße bestraft.
+7.
+Die Verleumdung eines bey der Schweizerischen Eidgenoßenschaft beglaubigten Bothschafters, bevollmächtigten Ministers, Gesandten, Geschäftsträger oder andern diplomatischen Agenten, wird mit ein- bis zwölfmonathlichem Verhaft und 40. bis 400. Frk[en]. Buße bestraft.
+8.
+Wer sich der Verleumdung eines öffentlichen Beamteten in Bezug auf seine Geschäftsführung schuldig macht, wird mit Verhaft von acht Tagen bis sechs Monathen und einer Geldbuße von 20. bis 80. Frk[en]. bestraft.
+9.
+Die Verleumdung eines Privatmannes wird mit zweytägigem bis dreymonathlichem Verhaft und 20. bis 80. Frk[en]. Buße bestraft.
+10.
+Eine Beschimpfung der in den §§. 7. 8. und 9. bezeichneten Personen, wird mit der Hälfte der auf die Verleumdung derselben gesetzten Strafe belegt.  
+11.
+Wer einen Andern durch die Preße zur Verübung eines Verbrechens oder Vergehens unmittelbar anstiftet, wird folgender Maßen bestraft:
+Ist das Verbrechen oder Vergehen wirklich verübt worden, so wird der Anstifter als Mitschuldiger bestraft.
+Ist das Verbrechen nicht verübt worden, so wird der Anstifter mit ein bis zwölf Monathen Verhaft und einer Buße von 20. bis 400. Frk[en]. bestraft.
+Ist das Vergehen nicht verübt worden, so wird die Anstiftung mit zehntätigem bis sechsmonathlichem Verhaft und 16. bis 160. Frk[en]. Buße bestraft.
+12.
+Gegen Rückfällige tritt Verdoppelung der festgesetzten Strafen ein.
+13.
+Wenn ein Buchdrucker zum dritten Mahle des Druckes einer die unmittelbare Anstiftung zum Verbrechen beabsichtigenden Schrift überwiesen und dafür beurtheilt wird, so soll ihm, neben Auferlegung der angedrohten Strafe, die Preße für immer beschloßen werden; enthält hingegen das Gedruckte nur eine Anstiftung zu Vergehen, so tritt zwey bis vierjährige Schließung der Preße ein.
+14.
+Jeder im Kanton herausgebenden Druckschrift soll die bestimmte Angabe des Verlegers und des Jahres vorangesetzt seyn.
+15.
+Nichts desto weniger ist zuvorderst der  Verfaßer für dasjenige verantwortlich, was von ihm durch die Preße erscheint.
+Ist aber der Nahme des Verfaßers nicht auszumitteln, oder befindet sich dieser außerhalb des Bereiches der richterlichen Gewalt, oder kann er beweisen, daß sowohl der Druck als die Herausgabe seines Werkes ohne seine mittelbare oder unmittelbare Theilnahme Statt gefunden, so fällt die Verantwortlichkeit auf den Verleger, und wenn dieser nicht vor hierseitige Gerichte gezogen werden kann, auf den Drucker, in so ferne es möglich ist, denselben zu belangen.
+16.
+Zwischen Verfaßer, Verleger und Drucker findet eine solidarische Verbindlichkeit in dem Sinne Statt, daß, wo ein Bestrafter die Buße, Gerichts- und Verhaftskosten nicht bezahlen kann, der in obiger Reihenfolge nach ihm Stehende dafür zu belangen ist.
+17.
+Wer eine Zeitung, eine Monathlich Ein Mahl erscheinende politische Zeitschrift, oder ein Berichtsblatt herausgeben will, soll bey der L. Justiz-Commißion eine Real-Caution oder doppelte Bürgschaft für den Betrag von 1000. Frk[en]. hinterlegen, mittelst deren im eintretenden Fall die Buße, Gerichts- und Verhaftskosten gedeckt werden können.
+Eine Zeitung, Zeitschrift oder ein Blatt der angeführten Art, welches ohne vorheri-  ge Cautions- oder Bürgschaftsleistung erscheint, soll unterdrückt werden.
+18.
+Die Verantwortlichkeit für den Inhalt solcher Zeitschriften oder Berichtsblätter bestimmt sich nach den Vorschriften der §§. 15. und 16.
+19.
+Verbrechen oder Vergehen der im §. 3. bezeichneten Art werden durch den Kleinen Rath der zuständigen Gerichtsstelle überwiesen. Das Gleiche findet Statt, wenn solche strafbare Handlungen gegen den Großen Rath, oder gegen den Kleinen Rath selbst verübt werden.
+Andere beleidigte, in den §§. 4. und 5. benannte Behörden oder Beamteten haben ihre Klagen an den Kleinen Rath zu bringen, welcher dann solche dem zuständigen Richter überweisen wird.
+Doch werden dergleichen Klagen sowohl von befreundeten Souverains, als auch von Eidgenößischen oder fremden Staatsregierungen nur dannzumahl zur Überweisung an das Gericht angenommen, wenn von denselben eine Zusicherung gegenseitig amtlicher Einleitung des gerichtlichen Verfahrens gegeben ist.
+20.
+Die übrigen Beamteten oder Privaten wenden sich mit ihrer Klagen an das zuständige Oberamt; im Amtsbezirk Zürich an die Kantons-Policey-Commißion, von wo aus die Überweisung an das Amtsgericht geschieht.  
+21.
+Die überweisende Behörde kann, je nach Umständen, den ganzen Verlag des Werkes oder der Druckschrift, gegen welche die Klage gerichtet ist, bis zum richterlichen Entscheid mit Arrest belegen.
+22.
+Der beleidigte Theil soll in seiner schriftlichen oder mündlichen Klage diejenigen Stellen des Gedruckten, über die er, als über eine Rechtsverletzung, Beschwerde führen will, genau angeben, und überhaupt seine Klage gehörig begründen.
+23.
+In der Regel ist dasjenige Amtsgericht in der Sache zuständig, in deßen Bezirk das Verbrechen oder Vergehen vollendet worden. Ist aber die Vollendung außerhalb des Kantons erfolgt, so tritt der Gerichtsstand des Beklagten ein.
+24.
+Bey allen nach gegenwärtigem Gesetze an das Amtsgericht überwiesenen Straffällen findet für beyde Theile Appellation an das Obergericht Statt.
+25.
+Nach Verfluß von vier Monathen, von der Herausgabe einer Druckschrift an gerechnet, findet keine Klage mehr darüber Statt.
+26.
+Durch das gegenwärtige Gesetz werden diejenigen, betreffend die Bücher-Censur vom 17. May 1805, und vom 22. May 1812, betreffend den Mißbrauch der Publicität der Verhandlungen der Eidgenoßen-  schaft oder einzelner Kantone, aufgehoben und dem Kleinen Rathe aufgetragen, durch die Policeybehörden die nöthige Aufsicht auf reisende Buchhändler, Bücher- und Liederverkäufer, Kupferstichhändler u. s. w. halten zu laßen.
+27.
+Die Dauer dieses Gesetzes ist einstweilen auf vier Jahre bestimmt, mit Vorbehalt dannzumahliger Revision und in der Meinung, daß, wenn immer des angegebenen Zeitraums das allgemeine Strafgesetzbuch beschloßen werden sollte, dieses besondere Gesetz entweder solchem auf angemeßene Weise einverleibt werden, oder aber eine demselben anpaßende Faßung erhalten soll.<p/></body></text></TEI>

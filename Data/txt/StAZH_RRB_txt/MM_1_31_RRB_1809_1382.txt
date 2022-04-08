@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Weisung an den Großen Rath, betreffend die Staatsrechnung vom
+                    Jahr 1808.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2006-04-05"
+                            >05.04.2006</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Weisung an den Großen Rath, betreffend die Staatsrechnung vom
+                        Jahr 1808.</title>14.12.1809<ident>StAZH MM
+                        1.31 RRB 1809/1382</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.31</biblScope><biblScope
+                        unit="page">1–11</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Verlesung des bereits unterm <date when="1809-12-09">9ten
+                    hujus</date>, nebst der Staatsrechnung vom Jahr 1808. hinterbrachten Berichts
+                der Finanzcommißion vom 8ten Decembris, betreffend
+                den Zustand des Finanzwesens, – wurde beschloßen, die gedachte Staatsrechnung dem
+                    Grossen Rath unter nachstehendem Rapport zu überweisen:
+            
+Weisung
+            
+des Kleinen Raths an den Großen Rath,
+                betreffend die Staatsrechnung vom Jahr 1808.
+            
+Der Kleine Rath hat anmit die Ehre, dem <orgName>Großen
+                    Rath</orgName> nachfolgenden ehrerbietigen Jahrsbericht über das Finanzwesen des
+                Cantons, nebst der Rechnung um die Staats-Einnahmen und Ausgaben im Jahr 1808, zu
+                beliebiger Einsicht, Prüfung und Genehmigung vorzulegen.
+            
+Nach Innhalt dieser Rechnung, und wenn die Naturalien zu den festgesezten
+                Cammeral-Preisen in Geld angeschlagen werden, betragen die sämmtlichen Einnahmen
+                unter denjenigen Titeln, welche auf den eigentlichen Jahrsverkehr Bezug haben, mit
+                Innbegriff der Ao. 1808. enthobenen, und ebenfalls unter die
+                Jahrs-Einnahme gebrachten Vermögenssteuer von 100'000. Franken,
+                die Sume von 746'450. Fr. 9. Bz[en]. 1. Rpp[en], die Jahrs-Ausgaben hingegen, mit
+                Innbegriff von 12'468. Frk[en]. 5. Bz[en] 8. Rpp[en]. für den Verlurst auf dem
+                Frucht- und Wein-Verkauf, nur die Total-Summe von 672'607. Frk[en]. 4. Bz[en]. 2.
+                Rpp[en]., und ergiebt sich also im Ganzen bey der Staatsrechnung vom Jahr 1808. ein
+                Vorschuß von 73,843. Frk[en]. 4. Bz[en] 9. Rpp[en].
+            
+Da aber, wie bereits bemerkt, der in der Regel zu den außerordentlichen Einnahmen
+                gehörende Betrag der, zu Dekung des Déficit in der Staats-Bilanz von den Jahrgängen
+                1803, 1804, 1805. und 1806, von dem Großen Rath in seiner
+                Wintersitzung von Ao. 1807. decretierten, und im folgenden Jahr bezogenen
+                Vermögenssteuer von circa 100,000. Frk[en]. zu der Jahrs-Einnahme geschlagen ist, so
+                ist jener anscheinend bedeutende Überschuß nicht als ein auf dem Ganzen gewöhnlichen
+                Jahrsverkehr sich ergebender eigentlicher Vorschlag zu betrachten, indem im
+                Gegentheil, wenn diese außerordentliche Einnahme abgezogen wird, sich dannzumahl ein
+                würklicher Hinterschlag von circa 26,000. Franken ergiebt;
+                welches jedoch hauptsächlich dem sehr ungünstigen Umstand zuzuschreiben
+                ist, daß der Frucht- und Weinhandel, anstatt wie in den vorangehenden Jahren, einen
+                mehr oder minder beträchtlichen Gewinst abzuwerfen, im Jahr 1808, wegen den damahls
+                äußerst niedrigen Frucht- und Weinpreisen, einen Verlurst von 12,468. Frk[en]. 5.
+                Bz[en.] 8. Rpp[en]. gegeben hat, welcher bey der Vor- und Hinterschlags-Rechnung in
+                die Ausgabe gebracht werden mußte, so wie hingegen in den früheren Jahren der
+                daherige Gewinnst zu den Staats-Einnahmen geschlagen wurde, und bey Stellung der
+                Vor- und Hinterschlags-Rechnung in Anschlag gekommen ist.
+            
+Deßen ungeachtet ist der Kleine Rath nunmehr im Fall, dem
+                    Großen Rath die beruhigende Anzeige machen zu können, daß
+                vermittelst der bewilligten Vermögenssteuer, und nach Ausgleichung des Vor- und
+                Hinterschlags, welcher sich aus den, dem Großen Rath bisher
+                vorgelegten sechs Staats-Rechnungen ergiebt, das Déficit in der Staats-Bilanz mit
+                Ende des Jahrs 1808. bis auf circa 20,000. Franken als gedekt
+                anzusehen ist, indem der Vorschlag in den Jahren 1803, 1804, 1807. und 1808. 
+            
+zusammen
+            
+100,333.
+            
+5.
+            
+2.
+            
+und die nicht in die Vor- und Hinterschlags-Berechnung gefallenen außerordentlichen
+                Einnahmen in den Jahren 1804, 1805. und 1807.
+            
+267,129.
+            
+–
+            
+–
+            
+Also im Ganzen
+            
+Fr.
+            
+367,462.
+            
+5.
+            
+2.
+            
+Hingegen der Hinterschlag Ao. 1805. und 1806.
+            
+137,621.
+            
+9.
+            
+2.
+            
+und die außerordentlichen Ausgaben Ao. 1804, 1805. und 1807.
+            
+250,415.
+            
+3.
+            
+2.
+            
+und im Ganzen
+            
+Fr.
+            
+388,037.
+            
+2.
+            
+4.
+            
+betragen haben; wobey jedoch noch zu bemerken ist, daß wenn die Fruchtpreise Ao.
+                1807. und 1808. denjenigen der früheren Jahren entsprochen hätten, auch dieser im
+                Lauf von sechs Jahren sich ergebende kleine Hinterschuß von 20,000 Frk[en]
+                vollständig hätte gedekt werden können.
+            
+In Ansehung der einzelnen Theile der Staats-Einnahmen und Ausgaben vom Jahr 1808, hat
+                der Kleine Rath die Ehre, folgende Bemerkungen zu machen:
+            
+Titel. Einnahme von Schuldbriefen und anderen Capitalien.
+            
+Die sehr starke Verminderung dieser Einnahme von circa 10,000 Frk[en] rührt einzig
+                von der Cession von drey Capital-Posten auf den L. Stand St.
+                    Gallen von 208,000 Frk[en] her, welche bisher dem Staat
+                ver- zinset, bey der Acquisition der St. Gallischen Besitzungen und
+                Gefälle zu Stammheim aber, dem dasigen Stand an Zahlungsstatt
+                abgetretten worden sind.
+            
+Titel. Staats-Regalien.
+            
+Die Ao. 1808. und sinther ausgebliebenen Intereßen von einer starken Schuldforderung
+                auf das Ausland, haben in der Einnahme des hießigen Salzamts eine Lüke verursacht,
+                deren Wiederausfüllung einzig von dem guten Erfolg der angebahnten, aber noch nicht
+                ausgetragenen dießfälligen Unterhandlungen abhängt. So wie sich aber die daherigen
+                Einnahmen um circa 9000. Frk[en]. vermindert haben, so hat sich hingegen der Ertrag
+                des Postwesens um circa 11,000. Frk[en]., derjenige des Münzamts um 1000. Frk[en].,
+                und also der Titel Regalien im Ganzen doch um etwas vermehrt.
+            
+Titel. Bußen und Gerichts-Emolumente.
+            
+Hierunter erscheint zum ersten Mahl eine, obgleich nicht beträchtliche, doch zur
+                Vervollständigung des Titels dahin gehörende Einnahme; nämmlich diejenige an
+                Emolumenten von den Zunftgerichten, deren bisanhin sehr verworrnes Rech- <pb n="6"
+                />nungswesen nunmehr auch, in Folge der deßhalb ertheilten Vorschriften, den
+                nöthigen Grad von Vollständigkeit erhalten hat.
+            
+Titel. Abgaben.
+            
+Der starke Speculations-Handel im Jahr 1808, nebst einigen verschärften Verfügungen
+                der Exécution des Gesetzes, haben die Handels-Abgabe um circa 2000.
+                    Franken höher gebracht, als das vorangehende Jahr.
+            
+Nicht so verhält es sich mit der Stempel-Abgabe; indem sich diese zusehends
+                vermindert, und bereits von 16,110. Franken, die sie im Jahr
+                1804. ertrug, successive auf die in der vorligenden Staats-Rechnung enthaltene Summe
+                von 13,395. Franken herabgesunken ist.
+            
+Die Einnahme an Zehent- und Dominial-Gefällen, als dem wichtigsten Zweyg der
+                Staats-Einkünfte, hat wegen dem Mittel-Ertrag des Erndte-Segens, circa 21,000.
+                Frk[en]. weniger abgeworfen, als im vorangehenden Jahre. Da indeßen der
+                Herbst-Segen, in Rüksicht der Menge, würklich reichlich ausgefallen ist, so kann im
+                Ganzen der Jahrgang von Ao. 1808. immer noch zu den ertragli- cheren
+                gezählt werden.
+            
+Alle anderen Titel der Jahrs-Einnahme haben keine wesentlichen Veränderungen
+                erlitten; im Ganzen genohmen aber, beträgt in Folge der angedeuteten Abweichungen,
+                die Total-Einnahme im Jahr 1808. nach Abzug der darunter begriffenen Vermögenssteuer
+                circa 23,000. Frk[en]. weniger als diejenige im Jahr 1807.
+            
+In Absicht auf die verschiedenen Staats-Ausgaben, während dem gleichen Zeitpunkt,
+                wird der Große Rath zu bemerken belieben, daß die bisher unter
+                Titel Militair-Wesen, und Justiz- und Polizeywesen, verrechneten bedeutenden
+                Ausgaben, in Folge der eingeleiteten Ersparniße, und der bey der Mannschaft der
+                Standes-Compagnie und des Landjäger-Corps, stattgehabten Reductionen, jene wieder um
+                circa 19,000. Frk[en]., diese um 3000. Frk[en]., sich verminderet haben, so wie auch
+                bey den Ausgaben der Zuchthausverwaltung, vermittelst einiger angebrachter
+                Remeduren, circa 3,000. Frk[en]. erspart werden konnten.
+            
+Durch die schon seit geraumer Zeit in Berathung gelegene, nunmehr aber würklich
+                beschlossene, und im Lauf des künfti- gen Jahrs in Execution zu setzende
+                verbeßerete Einrichtung des Armen-Medicinal-Wesens, hofft der <orgName>Kleine
+                    Rath</orgName>, auch in den daherigen Ausgaben wesentliche Ersparrniße für die
+                Zukonft zu erzwecken.
+            
+Die zu Beförderung des Linthunternehmens nöthig gewordenen, und von dem hießigen
+                Stand veranstalteten Wuhrungs-Arbeiten beim Ausfluß der Sihl in die Limmath und in
+                der Limmath selbst, haben unter diesem Titel eine beträchtliche Ausgabe von circa
+                13,000. Frk[en]. verursacht, welche in den künftigen Rechnungen hoffentlich nicht
+                mehr in dem gleich starken Maaß erscheinen wird.
+            
+Bey den meisten der übrigen Ausgaben tritt der Fall ein, daß solche bereits schon
+                entweder gesetzlich festgesezt, oder aber von solcher Natur und Beschaffenheit, und
+                durch die im Lauf der verfloßenen Jahre unabänderlich im Auge gehabten und würklich
+                angebrachten Remeduren und Ersparniße so reguliert sind, daß außert den bemerkten
+                wenigen Ausnahmen, keine wesentlichen Veränderungen in denselben für die
+                Zukonft zu erwarten stehen, und also der vorligende Etat der Ausgaben im Jahr 1808.
+                als ein ziemlich annäherender Maaßstab der jährlichen Staatsausgaben überhaupt
+                betrachtet werden kann.
+            
+Nach diesen über die vorligende Staatsrechnung gemachten Bemerkungen, bleibt dem
+                    Kleinen Rath einzig noch übrig, über den, in der
+                Frühlings-Sitzung des Großen Raths in Berathung gefallenen
+                Gegenstand, in Betreff derjenigen Ausgaben, welche aus Veranlaßung der zu Dekung der
+                Eydsgenößischen Grenzen angeordneten Militar-Anstalten, dem hießigen Stand zur Last
+                fallen, dem Großen Rath seinen Bericht zu hinterbringen.
+            
+In Folge der deßhalb von dem Großen Rath unterm <date
+                    when="1809-05-17">17ten May</date> erhaltenen Vollmacht, hat der <orgName>Kleine
+                    Rath</orgName> eine erste Vermögenssteuer von 100,000.
+                    Franken auf die sämmtlichen Gemeinden des Cantons nach einem
+                verbessereten Repartitions-Maaßstab ausgeschrieben und bezogen; da aber die bisher
+                bezahlten drey mediationsmässigen Geldbeyträge des hießi- gen Cantons an
+                die Grenzbedeckungs-Unkosten, bereits eine Summe von 231,459. Frk[en]. ausmachen, zu
+                denen sich noch die Kosten des Commißariats, und einige andere noch zu berichtigende
+                außerordentliche, einzig auf die Grenzbedeckung bezügliche Ausgaben schlagen, und
+                also mit Zuverläßigkeit angenohmen werden kann, daß wenn, – wie bey der nunmehr
+                wirklich erfolgten Auflösung des Grenz-Cordons zu hoffen ist, – keine neue
+                Geldcontingente an die Eydsgenößische Kriegscaßa mehr statt haben werden, der
+                Totalbetrag der dießfälligen Unkosten für den Canton Zürich,
+                die Summe von circa 250,000. Franken betragen wird, – so hat der
+                    Kleine Rath für nöthig erachtet, in
+                    Kraft der erhaltenen allgemeinen Vollmacht des
+                    Großen
+                Raths, seine Finanz-Commißion zu beauftragen,
+                eine zweyte Cantonal-Steuer von 150,000. Franken auf die
+                sämmtlichen Gemeinden des Cantons auszuschreiben, und bis Mitte des kommenden Monats
+                Februar zu beziehen, wo dann allerdings angenohmen werden kann, daß vermittelst
+                dieser und der früher bezogenen Steuer, wenig- stens der wesentlichste
+                    Theil der Betreffniß des hießigen Standes an die
+                Gränzbedeckungs-Unkosten werde bestritten werden können.
+            
+Mit dieser pflichtmäßigen Anzeige schließt der Kleine Rath seinen
+                gewohnten Jahrsbericht über das Finanzwesen des Cantons, und die damit verbundene
+                Staatsrechnungh vom Jahr 1808, und will nun lediglich die nöthig findenden
+                Verfügungen darüber der Weisheit der Hohen Behörde ehrerbietig anheim stellen.
+        </body>
+    </text>
+</TEI>

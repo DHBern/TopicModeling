@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der von dem Bannißement befreyte Färber Hs. Jakob Eßlinger von Zürich, bittet
+                    um Rehabilitation, wegen des Zunftguts-Antheils auf der Schmieden.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-10-10"
+                            >10.10.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Der von dem Bannißement befreyte Färber Hs. Jakob Eßlinger von Zürich,
+                        bittet um Rehabilitation, wegen des Zunftguts-Antheils auf der
+                        Schmieden.</title>04.02.1806<ident>StAZH MM
+                        1.16 RRB 1806/0136</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.16</biblScope><biblScope
+                        unit="page">194–195</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Verlesung der, von dem Herren Bezirksstatthalter
+                    Angst, unterm 31.sten pass., eingesandten Petition des, seit
+                einiger Zeit zu Regensperg sich aufhaltenden, wegen
+                genohmenen Antheils an einer gefährlichen Kupplerwirthschaft, durch eine
+                Rathserkanntnuß vom 3ten Julii 1794, auf 10. Jahre
+                aus hießiger Stadt und Gebiet bannisierten, hießig verburgerten Hs.
+                    Jakob Eßlingers, Färbers, welcher von dem <orgName>Kleinen
+                    Rath</orgName> unterm 31.sten Jenner 1804. in so weit begnadigt
+                worden ist, daß sein 10. jähriges Bannißement aufgehoben, in seine Rehabilitation
+                aber nicht eingetretten, sondern ihm überlaßen wurde, sich nach Verfluß von sechs
+                Jahren, mit guten Zeugnißen versehen, neuerdings um Rehabilitation bey der Regierung
+                zu bewerben, und nun schon um dieselbe ansucht, mit der Bitte, daß ihm vergönnt
+                werde, an der Zunftgutsvertheilung auf der Schmiedenzunft Antheil zu nehmen, – wurde
+                beschloßen: In Bezug auf die Rehabilitation des Eßlingers, soll es bey der
+                Rathserkanntnuß vom 31sten Jenner 1804. lediglich
+                sein Bewenden haben; was aber seinen Antheil an dem Zunftgut betreffe, so sey die
+                    Commißion des Inneren ersucht, nach vorgenohmener
+                dießfälliger Prüffung, dem Kleinen Rathe ihren Bericht und
+                Gutachten, über diesen Gegenstand der Petiton des Eßlingers zu hinterbringen.
+            
+Gegenwärtiger Beschluß wird der Commißion des Inneren, und dem
+                Herrn Bezirksstatthalter Angst, zu Handen des Petenten,
+                mitgetheilt.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antwort des Obergerichts auf die Weisung in Betreff des gemachten Versuchs
+                    des Jacob Bleulers von Zollikon, sich im Sihlfluß das Leben zu nehmen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-25"
+                            >25.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Antwort des Obergerichts auf die Weisung in Betreff des gemachten
+                        Versuchs des Jacob Bleulers von Zollikon, sich im Sihlfluß das Leben zu
+                        nehmen.</title>05.09.1805<ident>StAZH MM 1.15
+                        RRB 1805/1352</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.15</biblScope><biblScope
+                        unit="page">10</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Empfangsbescheinigung des Obergerichts vom <date
+                    when="1805-09-03">3ten dieß</date> für die demselben unterm <date
+                        when="1805-08-31">31sten pti</date>. überwiesenen Acten in Ansehung des, von dem
+                nun im Spitthal befindlichen Jacob
+                Bleuler von Zollikon, gemachten Versuchs
+                sich in dem Sihlfluß das Leben zu nehmen, enthält zugleich die Anzeige von den
+                vorläuffigen dießfälligen Dispositionen des Obergerichts, bedarf aber keiner
+                Verfügung.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Besoldungsbestimmung für den Amtsschaffner zu Kappel.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-11-01"
+                            >01.11.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Besoldungsbestimmung für den Amtsschaffner zu Kappel.</title><date
+                        when="1804-02-28">28.02.1804</date><ident>StAZH MM 1.6 RRB
+                        1804/0378</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.6</biblScope><biblScope unit="page">15</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+In gänzlicher Genehmigung des unter gestrigem Dato von der
+                Finanzcommißion hinterbrachten gutächtlichen Antrags, ist die jährliche fixe
+                Besoldung des zu erwählenden Amtsschaffners von Kappel auf
+                500. Franken festgesezt, und der Finanzcommißion aufgetragen
+                worden, sowohl diese Besoldungsbestimmung, als die von ihr, nach habender Befugniß
+                für das Amt Kappel festgesezten Pachtbedingniße, den
+                sämmtlichen Aspiranten auf die Schaffnerey Kappel anzuzeigen,
+                und, nach ihrer erfolgten definitiven Erklärung über die Fortsezung oder Einstellung
+                ihrer Bewerbung, dem Kleinen Rath in Folge seines Beschlußes vom
+                    6ten Octobris a. p. zum Fundament der Wahl eines
+                Schaffners einen Dreyervorschlag zu hinterbringen.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,25 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes:</title><respStmt><resp ref="#mld" key="transcript">Transkript: mld06.11.2009</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2009<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes:</title>20.09.1831-24.11.1831<ident>StAZH MM 2.4 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.4</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+MHochgeachteter Herr Hs. Conrad von Muralt, von Zürich, Amtsbürgermeister.
+MHochgeachteter Herr David von Wyß von Zürich, Bürgermeister.
+HHerr Johannes Hegetschweiler, M. D. von Stäfa.
+HHerr Ludwig Meyer von Knonau von Zürich.
+HHerr Rudolf Rebmann von Stäfa.
+HHerr Caspar Pfenninger von Stäfa.
+HHerr Conrad Melchior Hirzel von Zürich.
+HHerr Salomon Rahn von Zürich.
+HHerr Eduard Sulzer von Winterthur.
+HHerr Heinrich Hüni von Horgen.
+HHerr Siegmund Spöndli von Zürich.
+HHerr Heinrich Weiß von Fehraltorf.
+HHerr Heinrich Escher von Zürich.
+HHerr Melchior Sulzer von Winterthur.
+HHerr Ferdinand Meyer von Zürich.
+HHerr Hartmann Keller von Glattfelden.
+HHerr Ulrich Hauser von Wädenschweil.
+HHerr Hs. Caspar Hirzel von Zürich.
+HHerr Hs. Jacob Hottinger von Zürich.
+Staatsschreiber.
+MHHerr Heinrich Hottinger, von Zürich, des Großen Raths, Erster Staatsschreiber.
+MHHerr Georg Finsler, von Zürich, des Großen Raths, zweyter Staatsschreiber.
+MHHerr Joh. Conrad Meyer von Knonau von Zürich, dritter Staatsschreiber.</body></text></TEI>

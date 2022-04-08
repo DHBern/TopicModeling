@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Anerkennung der Bezirkswahlen in den Bezirken Zürich, Affoltern, Horgen, Meilen, Hinweil, Uster, Pfäffikon Andelfingen, Bülach und Regensberg.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn15.07.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Anerkennung der Bezirkswahlen in den Bezirken Zürich, Affoltern, Horgen, Meilen, Hinweil, Uster, Pfäffikon Andelfingen, Bülach und Regensberg.</title>20.07.1861<ident>StAZH MM 2.153 RRB 1861/0986</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.153</biblScope><biblScope unit="page">134–146</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Nach Einsicht der von den Statthalterämtern der Bezirke Zürich, Affoltern, Horgen, Meilen, Hinweil, Uster, Pfäffikon, Andelfingen, Bülach und Regensberg, eingesandten Verbalprozesse, wonach die Bezirkswahlversammlung der genannten Bezirke unterm 10t dieß folgende Wahlen getroffen haben. 
+I. Bezirk Zürich.
+a. Bezirksrath
+Mitglieder:
+Herr Kaspar Vontobel von Wipkingen,
+“	 Diethelm Salomon Hofmeister von Zürich,
+“	 Gemeindrathspräsident Rud. Zangger von Unterstraß,
+“	 Hs. Konrad Wydler von Wiedikon.
+Ersatzmänner:
+“	 David Wismann, von Unterstraß,
+“	 Jakob Bölsterli, von Außersihl
+A. Bezirksgericht:
+Mitglieder:
+“	 Joh. Friedrich, Werdmüller von Zürich,
+“	 Casp. Eduard Tobler, von Zürich,
+“	 Heinrich Bachmann von Wiedikon
+“	 Heinrich Baumann von Hottingen
+Präsident:
+“	 Heinrich Meier von Zürich,
+Vicepräsident:  
+Herr Moriz Melchior von Wyß von Zürich
+Ersatzmänner:
+“	 Konrad Hausherr, von Wiedikon in Zürich Landschreiber,
+“	 Jakob Truppener von Riesbach, Kreisrichter
+c. Bezirksschulpflege:
+“	 Joh. Friedrich Werdmüller, von Zürich, Bezirksrichter,
+“	 Joh. Heinrich Müller, Pfarrer in Höngg,
+“	 Joh. Ludwig Spyri, Pfarrer in Altstetten,
+“	 J. Jakob Pfenninger von Zürich, in Unterstraß Bezirksrichter,
+“	 Rudolf Hanhart, in Dietikon, Schulpfleger,
+“	 Dr Albert Schneider, v. Albisrieden in Riesbach, Prokurator,
+“	 Konrad Widmer, Direktor der Rentenanstalt, v. Altnau, C. Thurgau, in Zürich,
+d. Bezirksschulpflege:
+“	 Hs. Konrad von Wyß, von Zürich, alt Statthalter.
+II. Bezirk Affoltern.
+a. Bezirksrath
+Mitglieder:
+“	 Joh. Jakob Spinner von Aeugst, Gemeindammann,
+“	 Hs. Jakob Hegetschweiler v. Ottenbach id.
+Ersatzmänner:
+“	 Rudolf Burkhardt v. Affoltern, Gemeindammann.   
+Herr Kaspar Syz, von Knonau, in Mettmenstetten,
+Kreisgerichtspräsident
+b. Bezirksgericht:
+Mitglieder:
+“	 Heinrich Frei, von Hedingen in Affoltern
+“	 Joh. Rud. Bär, von Riffersweil, Bezirkskommandant,
+“	 Joh. Heinrich Suter von Dachelsen.
+Präsident:
+“	 Bezirksrichter Heinrich Frei, von Hedingen, in Affoltern,
+Vicepräsident:
+“	 Bezirksrichter Joh. Jakob Bühler v. Wettsweil, Med Dr.
+Ersatzmänner:
+“	 Kasp. Syz, Kreisgerichtspräsident v. Mettmenstetten, in Knonau,
+“	 Joh. Jakob Epprecht, Kreisgerichtspräsident, von Affoltern.
+c. Bezirksschulpflege:
+“	 Bezirksrichter Joh. Heinr. Suter, von Dachselsen
+d. Bezirkskirchenpflege:
+“	 Bezirksgerichtspräsident Heinrich Frei von Hedingen, in Affoltern.
+III. Bezirk Horgen.
+a. Bezirksrath
+Mitglieder:  
+Herr Johannes Blattmann auf der Fehr in Wädensweil,
+“	 Joh. Jakob Wieland von Thalweil.
+Ersatzmänner:
+“	 a. Präsident Kaspar Rellstab auf dem Lehmhof, Wädensweil
+“	 Joh. Bär auf der Samstagern, Gemeinde Richtersweil.
+b. Bezirksgericht:
+Mitglieder:
+“	 Heinrich Schwarzenbach von Rüschlikon.
+“	 Johannes Stapfer, Oberstlieutnant v. Horgen.
+“	 Aschmann-Gujer von Richtersweil.
+Präsident:
+“	 Bezirksrichter Schwarzenbach
+Vicepräsident:
+“	 Karl Hauser von Wädensweil
+Ersatzmänner:
+“	 Heinrich Schärer, von Schönenberg
+“	 Joh. Hauser von Wädensweil, Kreisgerichtspräsident,
+c. Bezirksschulpflege:
+“	 Pfarrer Bodmer in Langnau
+“	 Kantonsrath Heinrich Schärer von Schönenberg, Friedensrichter,
+“	 alt Lehrer J. Baumann, in Horgen.
+d. Bezirkskirchenpflege:  
+Herr J. Jakob Huber-Ammann v. Wädensweil
+IV. Bezirk Meilen.
+a. Bezirksrath
+Mitglieder:
+Herr J. Heinrich Heußer, von Hombrechtikon
+“	 Theodor Kunz von Stäfa.
+Ersatzmänner:
+“	 Heinrich Oberist von Küßnacht, Präsident
+“	 L. Bantli von Meilen, Gemeindammann
+b. Bezirksgericht
+Mitglieder:
+“	 Andreas Wetli von Männedorf,
+“	 Joh. Jakob Knopfli im Feld zu Meilen
+“	 Heinrich Walder von Stäfa.
+Präsident:
+“	 Bezirksrichter Andreas Wetli
+Vice-Präsident:
+“	 Bezirksrichter J. J. Knopfli
+Ersatzmänner:
+“	 Jakob Hochstraßer von Meilen, Friedensrichter
+“	 Caspar Walder in Neuhaus/Oetweil
+c. Bezirksschulpflege:
+“	 Paul Burkhard, Pfarrer in Herrliberg
+“	 Prokurator Jakob Hasler in Meilen
+“	 alt Gemeindammann Heinrich Leemann von Erlenbach
+“	 Pfarrer Fay, in Meilen  
+d. Bezirkskirchenpflege:
+Herr Benjamin Ryffel von Stäfa.
+ 
+V. Hinweil.
+a. Bezirksrath
+Mitglieder:
+Herr Heinrich Nauer, von Hinweil, Friedensrichter,
+“	  Jakob Keller, von Wald, Kreisgerichtspräsident,
+Ersatzmänner:
+“	 Heinrich Bachmann von Hinweil, Schuldenschreiber.
+“	 Joh. Heinrich Hottinger, von Bubikon Gemeindammann.
+b. Bezirksgericht.
+Mitglieder:
+“	 Joh. Jakob Keller, von Fischenthal.
+“	 Hs. Heinrich Pfister, von Rüti
+“	 Johs. Weber, von Unterottikon–Goßau.
+Präsident:
+“	 Bezirksrichter Weber.
+Vice-Präsident:
+“	 Bezirksrichter Pfister.
+Ersatzmänner:
+“	 Heinrich Gubelmann von Unterwetzikon, Kreisgerichtspräsident.
+“	 Heinrich Stahel, Gemeindrath, in Goßau.
+c. Bezirksschulpflege:  
+Herr Jakob Martin, Kantonsrath, von Wald
+“	 Rudolf Hirzel, von Wetzikon, Statthalter
+“	 Joh. Heinrich Nauer, von Hinweil, Bezirksrath
+“	 Heinrich Strechler, Pfarrer in Fischenthal
+“	 Johannes Kägi, Pfarrer, in Goßau
+“	 Dr Albert Hürlimann, in Wald
+d. Bezirksschulpflege:
+“	 Johannes Weber von Unterottikon in Goßau, Bezirksgerichtspräsident.
+VI. Bezirk Uster.
+a. Bezirksrath
+Mitglieder:
+“	 Joh. Ulrich Weiß im Loo bei Weißlingen
+“	 Salomon Häußer von Uster.
+Ersatzmänner:
+“	 Jakob Hager, von Nänikon, Präsident
+“	 Major Jakob Pfister, von Greifensee
+b. Bezirksgericht:
+Mitglieder:
+“	 Heinrich Boßhardt von Oberuster
+“	 Ulrich Wettstein von Volketsweil
+“	 Boller von Hinteregg, Gemeindrathspräsident
+Präsident.
+“	 Bezirksrichter Boßhard
+Vice-Präsident:
+“	 Bezirksrichter Wettstein
+Ersatzmänner:  
+Herr Jakob Schuhmacher von Dübendorf, Gemeindrathspräsident,
+“	 Adam Stierli, in Greifensee, Landschreiber
+c. Bezirksschulpflege:
+“	 Heinrich Boßhard von Oberuster, Bezirksgerichtspräsident,
+“	 Heinrich Boller, in Uster, Präsident
+“	 Heinrich Trüb von Maur, in Fällanden Bezirksrichter,
+“	 Diethelm Hirzel, Pfarrer, in Volketsweil
+d. Bezirksschulpflege:
+“	 Heinrich Gujer in Wermatsweil, Statthalter:
+VII. Bezirk Pfäffikon.
+a. Bezirksrath
+Mitglieder:
+Herr Lehrer Wettstein in Russikon.
+“	 Heinrich Isler von Wyla.
+Ersatzmänner:
+“	 Jakob Keller, von Kleinikon bei Lindau, Gemeindammann,
+“	 Friedrich Hertenstein von Kyburg, in Fehraltorf, Forstmeister,
+b. Bezirksgericht.
+Mitglieder:
+“	 Joh. Jakob Strehler, von Hittnau, in Pfäffikon
+“	 Heinrich Boßhard von Bauma.
+“	 Jakob Bachofen, in Fehraltorf.   
+Präsident.
+Herr Bezirksrichter Strehler
+Vicepräsident:
+“	 Bezirksrichter Heinrich Mäder, von Illnau
+Ersatzmänner:
+“	 Heinrich Rüegg von Junkern b/Bauma, Kreisgerichtspräsident
+“	 Heinrich Enderli in Illnau, Kreisrichter.
+c. Bezirksschulpflege:
+“	 Joh. Jakob Strehler, in Pfäffikon, Bezirksgerichtspräsident
+“	 Heinrich Mäder von Illnau, Bezirksrichter
+“	 Conrad Wilhelm Kambli, Pfarrer in Illnau
+“	 Eduard Hasler von Stäfa in Pfäffikon, Bezirksgerichtsschreiber
+d. Bezirkskirchenpflege:
+“	 Joh. Jakob Strehler in Pfäffikon, Bezirksgerichtspräsident.
+ 
+VIII. Bezirk Andelfingen.
+a. Bezirksrath
+Mitglieder:
+Herr Ulrich Landolt von Klein-Andelfingen, Gemeindammann;
+“	 Rudolf Sprieß von Uhwiesen, Gemeindammann
+Ersatzmänner:
+“	 Georg Nägeli von Marthalen, alt Präsident,
+“	 Jakob Peter, von Trüllikon, Gemeindammann   
+b. Bezirksgericht:
+Mitglieder:
+Herr Jos. Jakob Hablützel von Trüllikon,
+“	 Gottfried, Toggenburger von Marthalen
+“	 Joh. Jakob Schuler von Ober-Stammheim
+Präsident:
+“	 Bezirksrichter Hablützel
+Vicepräsident:
+“	 Bezirksrichter Toggenburger
+Ersatzmänner:
+“	 Konrad Hatt von Schwandegg Bezirkskommandant,
+“	 Johs. Sigg von Flaach, Bezirksarzt.
+c. Bezirksschulpflege:
+“	 J. Jakob Hablützel von Trüllikon, Bezirksgerichtspräsident
+“	 Johannes Merz von Buch, Bezirksrichter
+“	 Jakob Sigg, von Rudolfingen, Gemeindrath
+d. Bezirkskirchenpflege:
+“	 Jakob Ruch von Großandelfingen Statthalter.
+IX. Bezirk Bülach.
+a. Bezirksrath
+Mitglieder:
+Herr Heinrich Meier, von Bülach, Schuldenschreiber
+“	 August Unholz, von Embrach, Med Dr.
+Ersatzmänner:  
+Herr David Kern von Bülach, Bezirksrathsschreiber
+“	 Johs. Winkler von Hochfelden, Kreisrichter
+b. Bezirksgericht:
+Mitglieder:
+“	 Konrad Denzler, von Eglisau, in Bülach
+“	 Rud. Frei von Illnau, in Eglisau, Landschreiber,
+“	 Dr Karl Ganz in Rorbas.
+Präsident:
+“	 Bezirksrichter Denzler
+Vicepräsident:
+“	 Bezirksrichter Ferdinand Meier von Bülach.
+Ersatzmänner:
+“	 David Kern von Bülach, Bezirksrathsschreiber,
+“	 Jakob Schlatter von Kloten, Gemeindrathspräsident,
+c. Bezirksschulpflege:
+“	 Dr Karl Ganz von Rorbas, Bezirksrichter
+“	 Gottlieb Ziegler, Pfarrer, in Eglisau
+“	 Ferdinand Meier von Bülach, Bezirksrichter
+“	 Hs. Konrad Meier von Bülach Bezirksrichter,
+d. Bezirkskirchenpflege:
+“	 Hartmann Keller, in Bülach, Statthalter.   
+X. Bezirk Regensberg:
+a. Bezirksrath
+Mitglieder:
+Herr Rudolf Wirth von Niederweningen, Schuldenschreiber.
+“	 Felix Frei von Watt, in Regensberg
+Ersatzmänner:
+“	 Heinrich Duttweiler von Oberweningen, in Regensberg, Bezirksrathschreiber,
+“	 Johannes Meier von Oberhasli
+b. Bezirksgericht:
+Mitglieder:
+“	 Joh. Jakob Stäubli von Regensdorf
+“	 Joh. Jakob Güller, von Hüttikon
+“	 Jakob Albrecht von Stadel, Gemeindammann
+Präsident:
+“	 Bezirksrichter Stäubli
+Vicepräsident:
+“	 Bezirksrichter Güller
+Ersatzmänner:
+“	 Jakob Weiß von Niederweningen, Kreisrichter
+“	 Gemeindrathspräsident Meier in Regensdorf.
+“		id.		R. Künz in Regensberg.
+c. Bezirksschulpflege:  
+Herr Joh. Jakob Stäubli, von Regensdorf, Bezirksgerichtspräsident,
+“	 Dr Johs. Wyß, von Otelfingen
+“	 Konrad Pfenninger, Pfarrer in Niederweningen,
+“	 Jakob Eigenherr in Niederhasli, Notariatssubstitut
+“	 Pfarrer Irminger in Buchs
+“	 “		Frick, in Bachs.
+d. Bezirkskirchenpflege:
+“	 Joh. Jakob Hauser, von Stadel, Arzt. –
+ 
+wurde beschlossen:
+Die getroffenen Wahlen werden anerkannt u. es wird hievon den betreffenden Statthalterämtern, ferner von den Wahlen unter b. dem Obergerichte, a. u. b der Direktion der Finanzen, von den Wahlen unter c, der Direktion des Erziehungswesens u. der Wahlen unter d. dem Kirchenrathe Mittheilung gemacht; den Gewählten sind Urkunden zuzustellen und die Wahlen durch das Amtsblatt zur öffentlichen Kenntniß zu bringen.<p/></body></text></TEI>

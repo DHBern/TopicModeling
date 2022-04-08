@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Abgewienes Gesuch der Holzgenoßenschaft Oberengstringen betreff. Bewilligung zu Veräußerung einiger Waldparzellen.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn28.05.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Abgewienes Gesuch der Holzgenoßenschaft Oberengstringen betreff. Bewilligung zu Veräußerung einiger Waldparzellen.</title>18.10.1847<ident>StAZH MM 2.98 RRB 1847/1651</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.98</biblScope><biblScope unit="page">127–131</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Antrag des Rathes des Innern, betreffend ein Gesuch der Holzgenoßenschaft Oberengstringen um Bewilligung zu Veräußerung einiger im obern Werd, Neugut und Reutenen gelegenen Waldparzellen im Umfange von 4 ¼. Jucharten und 3010 [Quadratfuß].
+nach Anhörung des Gutachtens, das die Forstkommißion mit Bezug auf dieses Gesuch dem Rathe des Innern eingereicht,
+da sich ergeben:
+A. Dem fraglichen Begehren zufolge wünscht die Genoßenschaft Oberengstringen behufs Abtragung des bei Anlaß der Ausscheidung zwischen ihr und der Gemeinde letzterer schuldig gewordenen Kapitales folgende Parzellen  zu verkaufen:
+1te. Parzelle im obern Wird
+enthaltendent [sic!] an Streuland ¾. Jchrtn 3750 [Quadratfuß]
+an schlecht bestoktem, 10.
+jährigem Eschen Saalweiden.
+Erlen u. Ulmen Stokausschlage 2/4. „	 6780. 1 ½. Juch. 		530. [Quadratfuß]
+2te. Parzelle im Neugut
+enthaltend an Streuland 	1 ¼. „	 1460
+an schlecht bestoktem, 8. jähr-
+gigem Eschen Erlen Saalweiden
+u. Schwarzpappeln Stokausschlage 1. „	 9220. 2 2/4. „			680. „
+3te. Parzelle in Reutenen
+schon seit einer Reihe v. Jahren als
+Pflanzland benutzt		¼.     „			1800. „
+				Summe  4 ¼.  „			 3010. „
+B. Das obere Werd liege mitten im Streulande und auch der jetzt noch mit Holz bewachsene Theil desselben eigne sich bei gehöriger Erhöhung und Verebnung des Bodens zu diesem Betriebe, überdieß liege diese sowie die zweite Parzelle in geringer Entfernung vom Dorfe.
+C. Das Neugut werde schon bei mittlerm Waßerstande der Limmat mit Waßer bedekt und die Flußufer seien ganz besonders der Abspühlung und Unterwäschung ausgesetzt, so daß sie gar sehr des Schutzes bedürfen.
+D. Die Parzelle in Reutenen sei seit so langer Zeit landwirthschaftlich benutzt worden, daß sich wohl die  anstoßenden Güterbesitzer auf jede Art einem Versuche des Holzbaues auf derselben widersetzen würde.
+E. Außer diesen Grundstüken besitze die Genossenschaft an Waldung ca. 70. Jucharten, wovon 4. mit 40–70. jährigem Nadelholz mittelmäßig, 6. mit 1–15. jährigem Nadelholze gut bestanden seien, der übrige Theil bestehe in Mittelwaldung auf 22–24. jährigem Umtriebe mit einem bald stärkern bald geringern Eichen- und Fichtenoberstande von 40–120. Jahren.
+F. Endlich noch liege in dem Ao. 1844/5. abgeholzten Mittelwaldbezirke im untern Werd auf westlicher Seite eine laut Grundriß 13/4. Jucharten 3770 [Quadratfuß] große Streu- und Wieslandfläche, die sich leicht entwäßern, mit Holz in Bestand bringen und jetzt sehr zwekmäßig mit dem anstoßenden Schlage vereinigen ließe.
+in Berüksichtigung:
+1.) Daß die drei Parzellen im obern Werd, Neugut und Reutenen zur landwirthschaftlichen Bewerbung sich ganz vorzüglich eignen und ihr auch bisher schon dem größern Theile nach unterlagen.
+2.) Daß die abzutretende Holzfläche im obern Werd und Neugut sehr zwekmäßig durch den Anbau der kulturfähigen Blöße im untern Werd mit Holz ersetzt werden kann und ein solcher Ersatz bei dem  geringen Waldbesitze der Genoßenschaft und der zunehmenden Holzkonsumation höchst wünschbar ist.
+3.) Daß aber bei dieser Abtretung die nöthigen wasserbaupolizeilichen Vorschriftsmaßregeln sowohl rücksichtlich der Erhaltung des Landes selbst als zur Sicherung der nahen Limmatbrücke nicht außer Acht gelaßen werden dürfen;
+beschloßen:
+I. Es sei der Verkauf der drei Parzellen im obern Werd, Neugut und Reutenen im Gesammtbetrage von 4 ¼. Jucharten 3010 [Quadratfuß] unter der Bedingung bewilligt, daß
+1.) im Neugut längs dem Limmatufer ein 12’ breiter Streifen Buschholz zur Sicherung des Ufers stehen bleibe,
+2.) im untern Werd einerseits als Ersatz für die abzutretende Holzfläche die kulturfähige 1 ¾. Jucharten 3770. [Quadratfuß] große Streu- und Wieslandfläche auf der westlichen, an die Schlierer-Gemeindswiesen anstoßenden Seite durch einen 2. Fuß tiefen und ebenso breiten Grenz- und Abzugsgrabn entwässert und mit Eschen und Erlen behufs Verbindung mit dem anstoßenden Mittelwaldbestande bepflanzt und anderseits die jetzt schon sehr gefährdeten Ufer durch zwekmäßige Wuhrung im Intereße der unterhalb befindlichen Limmatbrücke gesichert  werden und endlich
+3.) Behufs endlicher Vollendung der Waldvermessung ohne Verzug die noch vorhandenen Markenpfähle durch Marksteine ersetzt werden.
+II. Es sei hievon dem Rathe des Innern zu Handen der Forstkommißion und durch das Mittel des Statthalteramtes der Holzgenoßenschaft Oberengstringen Kenntniß zu geben.<p/></body></text></TEI>

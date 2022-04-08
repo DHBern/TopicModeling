@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht an den Großen Rath über die Wahl des Herrn Landschreiber Heinrich
+                    Hertenstein von Kyburg zu seinem Mitgliede.</title>
+                <respStmt>
+                    <resp ref="#lmr" key="transcript">Transkript: lmr<date when="2009-12-04"
+                            >04.12.2009</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2009
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Bericht an den Großen Rath über die Wahl des Herrn Landschreiber
+                        Heinrich Hertenstein von Kyburg zu seinem Mitgliede.</title><date
+                        when="1834-02-11">11.02.1834</date><ident>StAZH MM 2.16 RRB
+                        1834/0273</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.16</biblScope><biblScope unit="page">7</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Zufolge eines von dem Statthalteramte Pfäffikon
+                eingesandten Verbalproceßes hat die Zunft Illnau am <date when="1834-02-02">2ten d.
+                    M.</date> zum Mitgliede des Großen Rathes gewählt, den Herrn
+                    Heinrich
+                Hertenstein von Kyburg, Landschreiber.
+            
+Da sich nun aus dem hiermit vorliegenden Wahlprotokolle ergibt, daß diese Wahl in
+                gesetzlicher Form und Ordnung Statt gefunden, so stellt der Regierungsrath den
+                Antrag an die höchste Behörde, daß der Herr Landschreiber
+                    Hertenstein als Mitglied derselben anerkannt, und zur
+                Leistung des Amtseides einberufen werde. 
+        </body>
+    </text>
+</TEI>

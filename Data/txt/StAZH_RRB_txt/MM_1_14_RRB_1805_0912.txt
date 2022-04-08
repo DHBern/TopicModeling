@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ansinnen an die Herren Unterstatthalter wegen unbefugtem Zusammentritt von
+                    Handwerkern wegen den Handwerkseinrichtungen. Abweisung der Zünfte Stäfa und
+                    Männedorf in ihrem Gesuch zu Bewilligung eigener Handwerksgesellschaften.
+                    Eglisau und Elgg können dießfalls Vorschläge eingeben.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-08"
+                            >08.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Ansinnen an die Herren Unterstatthalter wegen unbefugtem Zusammentritt
+                        von Handwerkern wegen den Handwerkseinrichtungen. Abweisung der Zünfte Stäfa
+                        und Männedorf in ihrem Gesuch zu Bewilligung eigener
+                        Handwerksgesellschaften. Eglisau und Elgg können dießfalls Vorschläge
+                        eingeben.</title>01.06.1805<ident>StAZH MM
+                        1.14 RRB 1805/0912</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.14</biblScope><biblScope
+                        unit="page">1–3</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+In sorgfältiger Prüffung und Genehmigung des von der <orgName>Commißion
+                    des Inneren</orgName> hinterbrachten Berichts und Antrags vom <date
+                    when="1805-05-08">8ten May</date>, in betreff der ihr unterm <date
+                    when="1805-08-28">28ten August</date>, 6ten
+                Jbris. 1804, und 17ten Aprill 1805. zu näherer
+                Untersuchung überwiesenen Petitionen der Zünfte Männedorf,
+                    Stäfa, Eglisau und
+                    Elgg um Bewilligung eigener Handwerksgesellschaften, hat
+                der Kleine Rath mit Mehrheit beschloßen:
+            
+1. Indem die Art, wie diese Petitionen im Allgemeinen betrachtet, ihren
+                    Ursprung genommen, da nemmlich die Handwerker dieser
+                verschiedenen Zünfte, vermöge ihrer Vereinigung als eine dadurch verbundene
+                Corporation auftretten, wegen den nachtheiligen Folgen, welche in andern Fällen in
+                politischen und andern Rüksichten für die Beybehaltung guter Ordnung daraus
+                entstehen könnten, durch die betreffenden Unterstatthalter im Namen der Regierung zu
+                mißbilligen ist, so sollen dieselben auch zugleich beauftragt werden, dergleichen
+                Versammlungen, wo solche versucht werden sollten, bestimmt zu untersagen, und
+                überhaupt sorgfältig darauf zu wachen, daß Schritte dieser Art fürohin gänzlich
+                unterbleiben.
+            
+2. Da sich die Regierung, nach Prüffung der, – in mehrgedachten Petitionen
+                unterstellten Gründen, keineswegs von der Nothwendigkeit hat überzeugen können, daß
+                den Zünften, als solchen, jeder für sich, und für jedes einzelne Handwerk eine
+                besondere Innung und Lade gestattet werden solle, in dem eine solche Vermehrung der
+                Handwerksgesellschaften, nicht nur man- cherley Unordnungen verursachen,
+                und in polizeylicher Rüksicht durch Aufstellung von Herbergen, Austheilung von
+                Zehrpfenningen, besonders Geläuf von arbeitsuchenden Gesellen, sondern auch in
+                politischer Hinsicht, von den nachtheiligsten und verderblichsten Folgen seyn müßte,
+                und übrigens bey der oft geringen Zahl der Meister einer Art,
+                eine solche Einrichtung nicht einmal möglich wäre, da hingegen der Zutritt zu den
+                bestehenden Handwerksgesellschaften auf alle mögliche Art und namentlich durch
+                beträchtliche Verminderung der Auf- und Abdingskosten, durch Erlaßung der Bußen für
+                das Ausbleiben an Gebotten, u. dgl. mehr erleichtert ist, – so soll den beyden
+                Zünften Stäfa und Männedorf durch den
+                Herren Unterstatthalter Kaufmann verdeutet werden, daß ihrem
+                Begehren zu Errichtung eigener Handwerksgesellschaften nicht entsprochen werden
+                könne, sondern daß es bey den dießfälligen gesezlichen Bestimmungen vom <date
+                    when="1805-05-28">28ten May</date> 1804. lediglich sein Verbleiben haben solle,
+                worüber sich die Petenten übrigens um so mehr werden beruhigen können, als die durch
+                das Gesez vorgeschriebene Verbindung mit den bestehenden Meisterschaften nur für
+                diejenigen Meister bindend ist, welche Gesellen halten, die
+                übrigen Handwerker aber, wo dieser Fall nicht eintritt, nicht verpflichtet sind,
+                sich einer Handwerks-Innung einzuverleiben.
+            
+3. Hingegen hat die Regierung finden müßen, daß, da die Gemeinden
+                    Eglisau und Elgg, deren Industrie
+                hauptsächlich auf Betreibung von Handwerken beruht, u. die also eine beträchtliche
+                An- zahl Handwerker in sich vereinigen, auch schon ehemals solche
+                Handwerks-Einrichtungen und Laaden beseßen haben, und denen ihre örtliche Laage
+                täglich Gesellen zuführt, für deren Zehrung und Beherrbergung hin jährlich
+                beträchtliche Summen zusezen müßen, es allerdings der Fall sey, daß zu Gunsten
+                dieser beyden Ortschaften, ihrer besondern Laage wegen, eine Ausnahme gemacht werden
+                könne, und werden deßnahen die Herren Statthalter Steiner und
+                    Ganz beauftragt, der Gemeinde Eglisau
+                und Elgg, nebst dem eingangsbemerkten Ansinnen, anzuzeigen,
+                daß wenn dieselben einzig für ihre Gemeinden specielle Vorschläge zu einer auf die
+                ehemals bestandenen Einrichtungen, gegründete und mit dem Gesez vom <date
+                    when="1805-05-28">28ten May</date> 1804. vereinbare Handwerksordnung zu machen
+                wünschen, es denselben unbenohmen seyn solle, diese Vorschläge der
+                    Commißion des Innern zu Handen der Regierung einzugeben.
+        </body>
+    </text>
+</TEI>

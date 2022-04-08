@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschluß über eine Zahl Recurse gegen Vermögens- und Erwerbssteuern.</title><respStmt><resp ref="#atr" key="transcript">Transkript: atr17.12.2009</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2009<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beschluß über eine Zahl Recurse gegen Vermögens- und Erwerbssteuern.</title>27.01.1838<ident>StAZH MM 2.40 RRB 1838/0149</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.40</biblScope><biblScope unit="page">16–29</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Heute hat der Regierungsrath, auf angehörten Bericht der zur Prüfung der Recurse in Steuersachen niedergesetzten Commißion d. d. 12. und 17. d. M., rücksichtlich der von Steuerpflichtigen eingelegten Beschwerden über zu hohe Taxation ihrer Vermögens- und Erwerbstümer vom Jahr 1836, in Fortsetzung der früher angehobenen Berathung wieder beschloßen, was folgt:
+A.) Als mehr oder minder begründet wurden erfunden, die Recurse der Nachbenannten und demnach ihre Steuerbeyträge herabgesetzt:  
+
+Bezirk Zürich.
+3.) J. Ulrich Huber in Außersihl von 60. Frk[en]. auf 52. Frk[en]. Vermögenssteuer. Eine weitere Herabsetzung auf deßen Selbsttaxation findet hingegen nicht Statt, da die abgezogenen Baukosten für Gebäude diesen theilweise einen höhern Werth geben. 
+4.) J. J. Hürlimann in Fluntern von Frk[en]. 90. auf 80. Frk[en]. Vermögenssteuer. Eine weitere Herabsetzung auf die Selbsttaxation kann nicht Statt finden, da die Gebäulichkeiten zu niedrig angeschlagen sind. 
+5.) Johannes Müller, Metzger in Hirslanden, von Frk[en]. 3. auf Frk[en]. 1. Vermögenssteuer, in Folge genügender Auskunft. 
+6.) Johannes Gujer in Oerlikon von Frk[en]. 1. Btz[en]. 6. auf 6. Btz[en]. vom Erwerbe; da die Einwendung theilweise begründet erscheint. 
+19.) J. Jacob Koller in Wipkingen von Frk[en]. 48. auf Frk[en]. 40. Vermögenssteuer (durch Stichentscheid) zufolg gegebener Auskunft. 
+28.) Rudolf Gujer in Fluntern von Frk[en]. 20. auf Frk[en]. 16. Vermögenssteuer; nach eingelegten Ausweisen. 
+30.) Johannes Widmer in Altstetten von Frk[en]. 11. auf Frk[en]. 9.  Vermögenssteuer, weil der Recurs sich zum Theile begründet zeigte. Hingegen ist derselbe für die Erwerbssteuer nicht begründet, welche bey 1. Frk[en]. 6. Btz[en]. belaßen wird. 
+27.) Herr Hausheer, M. D. in Wollishofen, von Frk[en]. 48. auf Frk[en]. 40. vom Vermögen (mit Mehrheit) zufolge erhaltener Auskunft.
+31.) Herr Pfarrer Waser in Altstetten von Frk[en]. 45. auf Frk[en]. 40. vom Vermögen, da der Recurs durch gegebene Auskunft theilweise begründet erscheint. 
+33.) Frau Maria Greutert in Hottingen von Frk[en]. 75. auf Frk[en]. 72. Vermögenssteuer, in Folge genügender Ausweisung. 
+34.) Herr Antistes Füßli in Hottingen von Frk[en]. 48. auf Frk[en]. 46. vom Vermögen, wegen nachgewiesenem Verlurst [sic!]. 
+35.) Felix Bünzli in Wiedikon. Wird der Vermögenssteuer ganz entlaßen, und der Erwerb von Frk[en]. 1. Btz[en]. 6. auf 6. Btz[en]. herabgesetzt, zufolge Ausweis.
+36.) Herr Hirzel-Hofmeister in Zürich von Frk[en]. 45. auf 40. Frk[en]. vom Vermögen, auf gegebene Auskunft.
+42.) Jacob Meyer in Wiedikon von 3. Frk[en]. auf 2. Frk[en]. vom Vermögen zufolge Ausweisung, und die Erwerbssteuer ist ganz erlaßen, weil er keinen Erwerb hat.  
+44.) Herr Pfarrer Zimmermann in Zürich von Frk[en]. 48. auf Frk[en]. 44. vom Vermögen, in Folge gegebener Nachweisung. 
+46.) Herr J. Staub, Vater in Zürich, von Frk[en]. 100. auf Frk[en]. 85. vom Vermögen, als auf genügenden Nachweis zum Theil begründet. 
+48.) Herr Heinrich Steinfels, Metzger in Zürich, in Folge befriedigenden Ausweises, von Frk[en]. 85. auf Frk[en]. 80. vom Vermögen.
+49.) Ulrich Bölsterli in Außersihl von Frk[en]. 14. auf Frk[en]. 12. vom Vermögen, auf hinreichende Begründung. 
+50.) Frau Werdmüller geb: Stocker in Enge von Frk[en]. 85. auf Frk[en]. 80. vom Vermögen, auf vorgebrachte Gründe. 
+51.) Frau Wittwe Schultheß geb. Schaufelberger in Enge von Frk[en]. 200. auf Frk[en]. 180. vom Vermögen; in Berücksichtigung der vorgenommenen Bauten, welche nicht zum kostenden Preise angeschlagen werden können. 
+52.) Salomon Hottinger in Hirslanden von 32. Frk[en]. auf 30. Frk[en]. vom Vermögen, auf gehörigen Ausweis. 
+53.) Herr Alt-Amtsrichter Klöti von Frk[en]. 30. auf Frk[en]. 25. vom Vermögen, zufolg genügender Angaben. 
+58.) Herr Postdirector Schweizer. Die Vermögenssteuer desselben wird in Berücksichtigung angegebener Gründe  von Frk[en]. 40. auf Frk[en]. 36. herabgesetzt. Hingegen der Recurs gegen die Erwerbssteuer von Frk[en]. 26. unbegründet erfunden. 
+61.) Anton Schweizer; Mahler in Außersihl. Da derselbe befriedigende Auskunft sowohl über Vermögen als Erwerb gegeben, so wird seine Vermögenssteuer von Frk[en]. 3. auf 1. Frk[en]. und die Erwerbssteuer von Frk[en]. 7. auf 3. Frk[en]. herab gesetzt. 
+62.) Gebrüder Hotz in Außersihl erscheinen in ihrer Beschwerde betreffend die Vermögenssteuer zum Theile begründet, und wird also dieselbe von Frk[en]. 16. auf Frk[en]. 12. herabgesetzt; die Erwerbssteuer von 1. Frk[en]. 6. Btz[en]. hingegen unverändert beybehalten. 
+63.) Johannes Dolder in Außersihl auf gegebene gehörige Auskunft wird deßen Vermögenssteuer von 1. Frk[en]. 6. Btz[en]. auf 6. Btz[en]. herabgesetzt und die Erwerbssteuer ganz erlaßen. 
+64.) Herr Oberst Hauser in Hottingen. Auf geleistete Beweise über außerordentliche Ausgaben, wird die Vermögenssteuer von Frk[en]. 76. auf Frk[en]. 74. herabgesetzt, und der Erwerb von Frk[en]. 18. auf Frk[en]. 12., da diejenigen 600. Frk[en]. welche derselbe als Waffen-Commandant bezieht, nicht  als Gehalt, sondern als Entschädigung für Auslagen gegeben werden. 
+65.) Caspar Haug in Weiningen auf genügende Auskunft, Herabsetzung der Vermögenssteuer von Frk[en]. 2. auf Frk[en]. 1. Btz[en]. 3.
+66.) Heinrich Hotz in Wipkingen. In Berücksichtigung des theilweise begründeten Recurses, wird die Vermögenssteuer von Frk[en]. 7. auf 6. heruntergesetzt. 
+67.) Conrad Hotz allda ebenso von Frk[en]. 8. auf Frk[en]. 6. 
+75.) Heinrich Räß, Commis in Außersihl, auf erhaltene genügende Aufschlüße, ist deßen Vermögenssteuer von Frk[en]. 6. auf Frk[en]. 5. herabgesetzt. 
+76.) Johannes Abegg, Schreiber in Wiedikon. Vom Vermögen von Frk[en]. 1. Btz[en]. 2. auf 6. Btz[en]. herabgesetzt auf genügende Gründe. 
+77.) Jacob Brunner, Maurer in Wiedikon. Die Erwerbssteuer desselben wird von Frk[en]. 7. auf 3. Frk[en]. herabgesetzt, da seine Weigerung sich zum Theile begründet zeigte. 
+81.) Heinrich Knüsli, Alt-Gemeindrath in Außersihl. da sich derselbe ebenfalls gehörig gerechtfertigt, so wird seine Vermögensanlage von Frk[en]. 5. auf 4. Frk[en]. reducirt.
+82.) Ulrich Bryner in Enge. Hat sich ausgewiesen, daß  sein Erwerb unter der gemachten Schätzung steht, und wird also deßen Steuer von Frk[en]. 3. auf Frk[en]. 1. Btz[en]. 6. herabgesetzt.  
+85.) Jacob Furrer in Zürich. Da derselbe ohne bestimmten Verdienst ist, so wird seine Erwerbstaxe von Frk[en]. 4. auf Frk[en]. 2. herabgesetzt. 
+87.) R. Häberlin, Secretaire in Außersihl. Ist auf vollständige Ausweisung seiner ökonomischen Verhältniße ganz entlaßen. 
+89.) Herr Bauinspector Stadler in Enge. Die Vermögensanlage deßelben wird in Folge gegebenen Aufschlußes über gemachte außerordentliche Ausgaben von Frk[en]. 116. auf Frk[en]. 110. herabgesetzt. 
+91.) Herr General-Major Ziegler in Zürich. Die Vermögenssteuer deßelben wird in Folge erhaltener glaubwürdiger Auskunft von Frk[en]. 95. auf Frk[en]. 90. herabgesetzt. 
+93.) Herr Johannes Zeller von Zürich. Da sich deßen Recurs wegen gemachter außerordentlicher Ausgaben zum Theile als begründet ergeben, so wird seine Vermögenstaxation von Frk[en]. 200. auf Frk[en]. 170. herabgesetzt. 
+94.) Herr David Zundel, M. D. in Zürich. In Folge gegebenen  Ausweises wird deßen Erwerbssteuer von Frk[en]. 26. auf Frk[en]. 18. heruntergesetzt. Hingegen ist die Vermögenssteuer unverändert geblieben, weil sein Recurs mit keinerley begründender Auskunft begleitet ist. 
+96.) Jacob Meyer, Ziegler in Wiedikon. Deßen Vermögenssteuer ist mit Rücksicht auf gezeigte Verluste von Frk[en]. 80. auf Frk[en]. 75. herabgesetzt. 
+114.) Heinrich Morf in Wollishofen. Nach erhaltener Auskunft über Minderbesitz, wird deßen Vermögenssteuertaxe von Frk[en]. 7. auf Frk[en]. 6. herabgesetzt. 
+B.) Dagegen hat der Regierungsrath beschloßen, nachfolgende Recurse aus den angegebenen Gründen abzuweisen:
+Vorerst wegen Ermanglung gehöriger Ausweisbegründung des Recurses:
+2.) Herrn Friedrich Zimmermann in Zürich. Vermögenstaxe 75. Frk[en]. 
+20.)   "     Jacob Bär in Wytikon, Erwerbstaxe 1. Frk[en]. 6. Btz[en]. 
+26.)   "     Salomon Wehrli, Gastwirth in Altstetten. Vermögenstaxe Frk[en]. 160. 
+30.)   "     Gemeindammann Widmer in Hottingen. Vermögenssteuer Frk[en]. 18.
+54.) Jacob Bickel in Wipkingen vom Vermögen 6. Frk[en].  
+37.) Herr Beat Dolder in Zürich. Vermögenssteuer Frk[en]. 12.
+39.)   "      Gebrüder Bäbie in Ober-Engstringen. Vermögenssteuer Frk[en]. 160.
+40.)   "      Präsident Kienast im Riesbach. Vermögenssteuer Frk[en]. 85.
+41.) Jgfr. Süsette Rebmann im Riesbach. Vermögenssteuer Frk[en]. 40.
+45.) Herr Geßner-Zollikofer in Zürich. Vermögensst: 170. Frk[en]. 
+59.)   "     Heinrich Däniker, V. D. M in Zürich. Vermögenssteuer  Frk[en]. 80.
+17.)   "          "        Dr. Friedrich Ludwig Keller von Zürich. Da der Herr Recurrent zwar Theilungsinstrumente und Angaben über den Fortgang des Vermögensbestandes eingelegt, dieselben jedoch keineswegs über den gegenwärtigen Vermögenszustand Aufschluß geben, und eine klare Beweisleistung nicht gegeben worden; dagegen aber die Steigerung der schon Ao. 1832. bezahlten Vermögenssteuer von Frk[en]. 220. auf Frk[en]. 230. auf dem Grundsatze der Äufnung eines gut verwalteten Vermögens beruht, so hat der Regierungsrath (mit Mehrheit) gefunden, es könne keine Verminderung der Taxe Statt finden. 
+18.) Herr Jacob Arter in Außersihl. Da deßen Einwendungen die Richtigkeit der finanzräthlichen Vermögenstaxation herausstellen, so hat der Regierungsrath be-  schloßen, es müße bey der Anlage von Frk[en]. 14. sein Verbleiben haben.
+38.) Herr Escher-Zollikhofer. Da derselbe zwar eine allgemeine Vermögensübersicht eingegeben, dieselbe sich aber nur auf das in der Schweiz befindliche Besitzthum bezieht, nach den Grundsätzen des Steuergesetzes aber auch auswärtige Deposite steuerpflichtig sind, und endlich für die summarischen Angaben keinerley Belege vorgelegt wurden, so hat der Regierungsrath gefunden, es könne die Vermögenstaxation von Frk[en]. 800. nicht herabgesetzt werden. 
+47.) Herr Friedrich Steinfels von Zürich. Da der von demselben eingegebene Vermögensausweis vom Jahre 1832. gestellt ist, so kann derselbe auch nicht als Beweis für das Jahr 1836. dienen, und also die Vermögensbesteuerung von Frk[en]. 76. nicht vermindert werden.
+Bezirk Knonau.
+7.) Heinrich Hofstetter von Mattmenstetten. In Folge gegebener Auskunft wird deßen Vermögenssteuer von Frk[en]. 7. auf Frk[en]. 6. Btz[en]. 6. herabgesetzt, die Erwerbssteuer hingegen wegen Ermanglung hinreichender Gründe bey Frk[en]. 1. Btz[en]. 6. belaßen. 
+90.) Rudolf Huber von Mettmenstetten. Die Vermögens-  steuer desselben wird mit Rücksicht auf vorgenommene Bauten von Frk[en]. 5. auf Frk[en]. 4. Btz[en]. 5. herabgesetzt.
+103.) Heinrich Peter in Hedingen, Weinschenk. Aug gegebenen Ausweis wird deßen Vermögenssteuer von Frk[en]. 4. auf Frk[en]. 3. herabgesetzt. Die Erwerbssteuer hingegen Mangel Ausweises bey Frk[en]. 1. Btz[en]. 6. belaßen. 
+Bezirk Horgen.
+21.) Joh. de Jacob Hauser in der Gerwe in Wädenschweil. Auf genügenden Ausweis wird deßen Vermögenssteuer von Frk[en]. 100. auf Frk[en]. 90. herabgesetzt. 
+22.) Staatshauptmann Arnold Hauser in Wädenschweil ebenso von Frk[en]. 8. auf Frk[en]. 7.
+Bezirk Hinweil.
+11.) Heinrich Pfister, Müllers sel. Erben in Bärentschweil. Da sich aus der waisenamtlich aufgenommenen Inventur ergeben, daß der vorhandene Vermögensbestand sich auf Frk[en]. 45134. beläuft, so wird die Steuertaxe von Frk[en]. 44. nicht vermindert, und dem Finanzrathe zu Handen des Abgaben-Departements Behufs allfälliger Nachforderung des zu wenig Versteuerten Kenntniß gegeben.  
+29.) Rudolf Kunz in Wald. Die Vermögenssteuer wird in Folge erlittenen Verluste von Frk[en]. 12. auf Frk[en]. 10. herabgesetzt. 
+78.) Heinrich Häußer in Goßau vom Vermögen statt 5. Frk[en]. 4. Frk[en]. 
+79.) Hs. Jacob Häußer in Hinweil vom Vermögen statt 3. Frk[en]. 2. Frk[en]. 
+weil die Reclamanten gezeigt, daß sie ihrem Vater als Nutznießung jeder Frk[en]. 1000. überlaßen müßen, worauf aber der Finanzrath aufmerksam gemacht wird, da nunmehr dieser Betrag vom Vater zu versteuern ist. 
+Bezirk Winterthur.
+25.) Conrad Weiß in Sträubikon, Gemeinde Brütten. Die Vermögenssteuer desselben wird in Folge gegebener Auskunft von Frk[en]. 5. auf Frk[en]. 3. Btz[en]. 5. herabgesetzt. 
+Bezirk Andelfingen.
+74.) Jacob Gaßer, Bäcker in Klein-Andelfingen. Die Taxation deßelben auf Frk[en]. 9. Vermögenssteuer wird nicht abgeändert, weil der Recurs mit keinen genügenden Gründen unterstützt ist, und sich bey näherer Untersuchung diese Taxe als verhältnißmäßig herausgestellt hat.  
+Diese Entscheide über die angezeigten Recurse werden dem Finanzrathe zu Handen des Abgaben-Dapartements zugestellt und den betreffenden Statthalterämtern zu Handen der Recurrenten unter Rückstellung der Belege auszugsweise mitgetheilt. 
+Demnach hat noch der Regierungsrath des weiteren beschloßen:
+1.) Die Recurse des Herrn Conrad Kramer von Zürich und Herrn Caspar Schinz, Alt-Rathsherr von da, werden dem Finanzrathe überwiesen, da solche nur Verwahrungen gegen künftig gleiche, nach ihrer Behauptung zu hohe Taxirung enthalten. 
+2.) Wird der Finanzrath eingeladen, in Berathung zu nehmen, wie das Publicum durch eine angemeßene Kundmachung darüber belehrt werden könne, auf welche Art und Weise die Recurse gegen Vermögens- und Erwerbssteuern mit gehörigen Angaben und Ausweisen zu begleiten seyen. 
+3.) Wird dem Friedrich Bauer in Berg sein Recurs gegen Taxation der Vermögenssteuer durch das  Statthalteramt  zurückgestellt, weil der Termin zu solchen Eingaben längs [sic!] verstrichen ist, wobey ihm indeß, wenn er sich nicht beruhigen kann, überlaßen bleibt, dießfalls die gesetzlichen Schritte zu thun.
+[Fortsetzung RRB 1838/0237]<p/></body></text></TEI>

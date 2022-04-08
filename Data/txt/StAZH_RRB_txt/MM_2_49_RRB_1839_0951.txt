@@ -1,0 +1,15 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Niederlaßungsbewilligungen in den Bezirken Uster, Winterthur und Andelfingen.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn23.03.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Niederlaßungsbewilligungen in den Bezirken Uster, Winterthur und Andelfingen.</title>29.06.1839<ident>StAZH MM 2.49 RRB 1839/0951</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.49</biblScope><biblScope unit="page">136b–136c</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body><p/>
+a. Bezirk Uster.
+Gemeinde Greifensee.
+1.) Rebecka Levi geb. Weil aus Frankreich, Wittwe nebst Kindern.
+b. Bezirk Winterthur.
+Gemeinde Veltheim.
+2.) Hs. Jacob Vogelsanger aus Beggingen, Cantons Schaffhausen, verheirathet, Taglöhner.
+3.) Anna Wild geb: Freyhofer aus Holderbank, Cantons Aargau, Cattundruckerin nebst Kindern.
+Gemeinde Wiesendangen.
+4.) Joh. Georg Friedrich Huß aus Köngen, Königreich Würtemberg, verheirathet, Glaser.
+c.) Bezirk Andelfingen.
+Gemeinde Klein-Andelfingen.
+5.) Joh. Martin Traub aus Unterhausen, im Konigreich Würtemberg, unverheirathet, Schuster.
+ertheilten Niederlaßungsbewilligungen einfach zu bestätigen. Hiervon wird den Statthalterämtern Uster, Winterthur und Andelfingen zu Handen der betreffenden Gemeindräthe und Bitt-  ertheilten Niederlaßungsbewilligungen einfach zu bestätigen. Hiervon wird den Statthalterämtern Uster, Winterthur und Andelfingen zu Handen der betreffenden Gemeindräthe und Bitt-  </body></text></TEI>

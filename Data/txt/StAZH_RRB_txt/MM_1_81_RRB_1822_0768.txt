@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Synodalbericht.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Synodalbericht.</title><date when="1822-10-01"
+                        >01.10.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0768</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >27–31</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Durch ein ausführliches Rescript des Hochwürdigen
+                    Kirchenrathes d. d. <date when="1822-09-27">27sten
+                    passati</date> sowohl, als die sorgfältige mündliche Relation MHochgeachten
+                    Junker Burgermeisters Wyß und MHHerrn
+                Rathsherrn Lavater, erhielt die hohe Behörde des <orgName>Kleinen
+                    Raths</orgName> vollständige Kenntniß von den Verhandlungen der am <date
+                    when="1822-10-17">17ten</date> und 18ten
+                Herbstmonath gehaltenen Synode, welche, da der Hochwürdige erste Vorsteher unsrer
+                Kirche, Herr Antistes Heß, wegen seines hochangestiegenen Alters
+                nicht selbst beywohnen konnte, von Sr. Hochehrwürden, dem Herrn Pfarrer und Profeßor
+                    Geßner geleitet wurde.
+            
+Die gewohnter Maaßen zuerst vorgetragenen Nachrichten über den Zustand der
+                protestantischen Kirche im In- und Auslande boten manche intereßante Gegenstände
+                dar, und besonders merkwürdig war es zu vernehmen, wie sich durch Veranstaltung des
+                Königl. Preußischen Gesandten am päbstlichen Hofe, des Herrn Geheimen Staatsra- <pb
+                    n="28"/>thes von Niebuhr, zu Rom
+                selbst eine evangelische Gemeinde gebildet habe, zu deren erstem Prediger Herr
+                    Schmieder aus Preußen bestellt wurde. Diese Einrichtung ist
+                höchst wohlthätig für die dort lebenden Protestanten, besonders
+                    Schweizer und Deutsche, deren manche schon wegen Mangel des
+                kirchlichen Cultus, und besonders des geistlichen Trostes in Krankheitsfällen, zum
+                Uebertritt zu dem katholischen Glaubensbekenntniße verleitet wurden.
+            
+Sodann wurde zum Gegenstand der Synodal-Proposition die Betrachtung des Zustandes der
+                religiosen Aufklärung bey unsern Gemeinden gewählt, und mit vieler Einsicht und
+                Sachkentnniß behandelt. Wenn dabey freylich, wie bey allen menschlichen Dingen, noch
+                viele Mängel aufgedeckt wurden, so konnte hingegen das erfreuliche Zeugniß abgelegt
+                werden, daß sich doch das Leben und der Geist wahrer, mit Aufklärung verbundener
+                Religiosität in manchen Tugendübungen unsers Volkes offenbare; und es sprach der
+                Herr Proponent die Ueberzeugung aus, daß bey den Lehranstalten und Hülfsmitteln,
+                welche vorhanden sind, jeder der Willen und Fähigkeit hat, wenn seine
+                Verhältniße es gestatten, in religioser Bildung weiter kommen könne.
+            
+Endlich wurden, unter Berufung auf die Gegenstände, welche der Hochw.
+                    Kirchenrath bereits mit einer frühern Zuschrift an die hohe
+                Regierung brachte Hochderselben noch folgende Fragen zur Beherzigung vorgelegt:
+            
+1.) Spricht nicht das Gesetz über den frühzeitigen Beyschlaf zu gelinde und
+                unbestimmt? In demokratischen Kantonen sind neue Gesetze und Verordnungen hierüber
+                vorhanden, welche doch davon zeugen, daß der Sinn und die
+                Stimmung des Volkes für Zucht und Ehrbarkeit dem größern Theile noch nicht so locker
+                seyen.
+            
+2.) Sollte es nicht rathsamer seyn, wenn antstatt schriftlicher Vorweisung des
+                Vermögens so eine Braut aus einem andern Kanton haben sollte, eine gewiße erhöhete
+                Summe gleich andern Kantonen bey der Verehelichung in die Armencaßa der Gemeine oder
+                ins Kirchengut erlegt würde?
+            
+3.) Ob nicht eine gleichförmige Behandlung bey Einsammlung und Austheilung der
+                Steuern bey sich ereigneten Unglücksfällen, nebst so manchem andern, was in die
+                nothwendigen Bestimmungen und Begränzung[en] des Collectirens einschlägt, in einer
+                    reiflichen Erdaurung würdiger Gegenstand seyn möchte, zumal wenn es
+                um die Revision des Gesetzes, betreffend die Brandversicherungsanstalt zu thun
+                wäre?
+            
+4.) Sollte nicht auch die Betrachtung der wenigstens theilweisen Nothwendigkeit einer
+                beßern Besoldung für die Landschullehrer, verbunden mit der Bemerkung, daß durch die
+                Ableitung der Unterstützungen in fremde Canäle, die einheimischen Armen- und
+                Unterrichtsanstalten leiden, wo nicht gar zu Grunde gehen müßen, der Sorgfalt einer
+                landesväterlichen Berathung sich zu erfreuen haben?
+            
+In diesen Verhandlungen erkannte der Kleine Rath den immer gleich
+                lebhaften Eifer der Ehrw. Geistlichkeit für Erfüllung ihres heiligen Pflichtberufes,
+                verbunden mit angemeßenem Fortschreiten nach den Bedürfnißen des Zeitalters und
+                ausgehend von der Ueberzeugung, daß unsre heilige Religion und die reine Vernunft
+                aus der nähmlichen göttlichen Urquelle entspringend, in vollkommenster Harmonie
+                wieder auf einen und ebendenselben Punct zusammen fließen. Die hohe Regierung
+                wünscht lebhaft, daß die treue Amtsverwaltung des Ehrw. Ministerii von dem <pb
+                    n="31"/>reichsten Seegen begleitet seyn möge, und versichert dasselbe hierzu in
+                allen Fällen seines kräftigsten Schutzes und Beystandes.
+            
+Was sodann die vorgetragenen Specialbemerkungen anbelangt, so überweisen UHHerren und
+                Obern solche der Lbl. Commißion des Innern zur Vorberathung,
+                indem Wohlderselben zugleich ihr bereits eingereichtes Gutachten über die früher
+                berührten Gegenstände zu umfaßender Behandlung und Einbringung eines gutächtlichen
+                Berichts und Antrags wieder zugestellt wird.
+        </body>
+    </text>
+</TEI>

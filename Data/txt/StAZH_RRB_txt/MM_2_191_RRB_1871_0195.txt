@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Dir. d. Finanzen. Verordnung betr. d. Inventarisirung d. Staatsmobiliars.</title><respStmt><resp ref="#rlt" key="transcript">Transkript: rlt19.02.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Dir. d. Finanzen. Verordnung betr. d. Inventarisirung d. Staatsmobiliars.</title>28.01.1871<ident>StAZH MM 2.191 RRB 1871/0195</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.191</biblScope><biblScope unit="page">195–199</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Verordnung
+des Regierungsrathes
+betreffend die Inventarisirung des Staatsmobiliars.
+§ 1. Der Inventarisirung unterliegen alle dem Staate gehörenden Mobilien u. Vorräthe.
+§ 2. Dieselbe wird durch die betreffenden Direktionen des Regierungsrathes ausgeführt u. zwar:
+a.
+Durch die Direktion des Innern:
+in der landwirthschaftlichen Schule.
+b.
+durch die Direktion der Finanzen:
+bei der Domänenverwaltung
+beim Oberforstamt
+mit Ausschluß des von der Direktion der öff. Arbeiten 
+beschafften Mobiliars.
+bei der Verwaltung des Bergwerkes in Käpfnach; 
+bei den sämmtlichen kant. Kranken- u. Versorgungsanstalten; 
+im Salzamte u.
+in der Fischzuchtanstalt in Meilen;
+c.
+durch die Polizeidirektion:
+beim Kantonalpolizeikorps;
+bei den Eichmeistern;
+in der Strafanstalt;  
+in den Bezirksgefängnissen;
+d.
+Durch die Militärdirektion:
+beim Kantonskriegskommissariat;
+beim Zeugamte;
+e.
+Durch die Direktion der öff. Arbeiten:
+bei sämmtlichen Verwaltungs- u. Gerichtsburreaux die sich im 
+Obmannamte, Rathhause, Staatskanzleigebäude, Staatsarchivariate,
+in den Bezirksgebäuden, resp. bei den Statthalterämtern u. bei den
+Straßen- u. Wasserbaubeamten, sowie deren Angestellten befinden,
+soweit es sich um Mobiliar handelt, das unter der Kontrole dieser
+Direktion steht;
+f.
+Durch die Direktion des Erziehungswesens:
+in der Hochschule;
+in der Kantonsschule, im Turnschopf u. bezüglich der Waffen des 
+Kadettenkorps im Zeughause;
+in der Thierarzneischule;
+im Seminar;
+im Neuspital, Anatomiegebäude, in der Gebäranstalt, soweit das Mobiliar zu 
+Unterrichtszwecken dient;
+im botanischen Garten;
+bei der Kantonsschulverwaltung;
+g.
+Durch die Medizinaldirektion:
+in der Kantonsapotheke;
+§ 3. Die Direktion soll darauf achten, daß für jede  Unterabtheilung ein besonderes Inventar gefertigt werde, mit Beziehung der Gebäude u. einzelnen Räume, in welchen sich die Gegenstände befinden.
+§ 4. Die Inventars sind nach folgendem Formular doppelt auszufertigen:
+Mobiliar-Inventar
+Eingang									Ausgang
+Datum
+Bezeichnung des
+Gegenstandes
+[durch Ankauf od. Hertrag]
+Zahl
+Maß
+Gewicht.
+Einheits-
+preis.
+Schätzungs-
+werth.
+Da-
+tum
+Beziehung
+des Gegen-
+standes dch.
+Uebertrag u.
+Verkauf od.
+Abgang
+Zahl
+Maß
+Ge-
+wicht
+1871
+1872
+1873
+1874
+1875
+1876
+1877
+1878
+1879
+1880
+Fr. /Rp.
+Fr.  / Rp.
+Fr/.R. 
+Fr./R.
+Fr./R. 
+Fr./R. 
+Fr./R. 
+Fr./R. 
+Fr./R. 
+Fr./R. 
+Fr./R. 
+Fr./R. 
+Das eine Doppel bleibt bei der betreffenden Verwaltung oder bei dem Burreauchef, das andere gelangt an die vorgesetzte Direktion für sich u. zu Handen der Finanzdirektion.
+§ 5. Die Gegenstände sind nach ihrem muthmaßlichen Verkaufswerthe zu schätzen. Den Direktionen ist gestattet zur richtigen Werthung Sachkundige zuziehen.
+Schreibmaterialien u. andere stark dem Abgang unterworfenen Sachen von ganz unbedeutendem Werth werden nicht inventarisirt. Sammlungen, Bibliotheken etc. über welche ein Katalog geführt wird, können auf Grundlage des Letztern summarisch aufgeführt werden.
+§ 6. Die Uebertragung oder der Abgang eines untheilbaren Gegenstandes [wie Tische, Stühle, Pulte etc.]  ist sofort auf die dem Eingang gegenüber stehenden Linie im Ausgang der Kolonne des betreffenden Jahres zu buchen, u. zwar mit dem gleichen Werth, welcher im Eingang steht.
+Brennmaterialien, Lebensmittel, Linge- u. ähnliche dem steten Verbrauch ausgesetzten Dinge, für welche besondere Verbrauchkontrolen von den Verwaltungen geführt werden, sind nach allgemeinen Kategorien mit der Gesammtsumme des Einganges u. Ausganges eines Jahres in dem Inventarium zu verzeichnen.
+§ 7. Alle zehn Jahre, zunächst im Monat Februar 1871 findet eine neue Aufnahme der Gegenstände statt.
+Im Laufe des Monats Januar in jedem der zwischen inne liegenden Jahre haben die Direktionen einen Etat über den stattgehabten Zuwachs u. Abgang der Finanzdirektion einzureichen.
+Dieser Etat ist folgendermaßen einzurichten:
+Bestand am 31. Januar 
+Fr.
+…..
+Hergetragen u. neu angeschaffte Gegenstände
+“
+…..
+Verkauf, Uebertragung oder Abgang
+“
+…..
+Bestand am 31. Januar
+Fr.
+…..
+§ 8. Uebertragungen von einem Inventar auf das andere oder von einer Unterabtheilung in die andere dürfen nur mit Bewilligung der die Aufsicht führenden Beamten stattfinden u. sind sofort,  vorzumerken.
+§ 9. Diejenigen Beamten u. Angestellten, welchen die Gegenstände zum Gebrauche oder zur Verwaltung übergeben sind, sind für dieselben verantwortlich.
+§ 10. In Folge gegenwärtiger Verordnung, welche sofort in Kraft tritt, wird der Beschluß des Regierungsrathes vom 17. Okt. 1853, so weit dieser die Aufnahme u. Führung des Inventars über das Staatsmobiliar betrifft u. mit vorstehenden Bestimmungen im Widerspruche steht, aufgehoben.<p/></body></text></TEI>

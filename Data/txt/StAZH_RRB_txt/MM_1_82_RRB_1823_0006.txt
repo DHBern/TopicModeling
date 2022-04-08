@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Das Hausierwesen wird an die Lbl. Commißion des Innern zu einer Revision
+                    überwiesen.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-04-26"
+                            >26.04.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Das Hausierwesen wird an die Lbl. Commißion des Innern zu einer
+                        Revision überwiesen.</title><date when="1823-01-07"
+                        >07.01.1823</date><ident>StAZH MM 1.82 RRB
+                        1823/0006</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.82</biblScope><biblScope unit="page">4–5</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Lbl. Finanz-Commißion, veranlaßt durch ein von dem
+                Lbl. Oberamte Grüningen einbegleitetes Memorial der Wirthe
+                und Weinschenke des dortigen Amtsbezirkes über Beeinträchtigung ihrer Gewerbe durch
+                die Hausierer mit Branntwein und das Weinschenken vom Zapfen, erstattete der hohen
+                Behörde des Kleinen Raths mit Weisung d. d. <date
+                    when="1822-12-27">27sten passati</date> darüber einen Bericht, mit dem Antrage,
+                daß bis zu einer allgemeinen Revision des Hausierwesens, keine neuen Patente an
+                sogenannte Brenzträger ertheilt werden möchten.
+            
+In Genehmigung dieses Gutachtens, haben UHHerren und Obern lediglich den
+                bereits sub 28sten passati der Lbl.
+                Kantons-Policey-Commißion in Betreff der einstweiligen Nichterneuerung solcher
+                Patente ertheilten Auftrag bestätigt, zugleich aber die Lbl. <orgName>Commißion des
+                    Innern</orgName>, unter Zustellung dieser Acten und eines das Hausierwesen
+                betreffenden Auszuges aus dem Berichte der Lbl. Finanz-Commißion
+                über die Handelsabgabe, beauftragt, eben diesen Gegenstand des Hausierens im
+                Allgemeinen mit möglicher Beförderung in kluge Berathung zu nehmen und darüber
+                wieder ihre Anträge auf angemeßene policeyliche oder gesetzliche Verfügungen
+                einzubringen. 
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+Direktion d. öffentl. Arbeiten, Ermächtigung derselben, die Ausführungspläne für die neue Irrenanstalt ausführen zu lassen.
+Betreffend die Anfertigung der Ausführungspläne für die neue Irrenanstalt,
+hat sich ergeben:  
+A. Nachdem der Regierungsrath unterm 30. Jenner l. Js. der Direktion der öffentlichen Arbeiten den Beschluß des Großen Rathes betreffend den Bau einer neuen Irrenanstalt vom 27. Jenner zur Antragstellung überwiesen hatte, verlangte die Direktion unterm 3. März von der Bauinspektion u. A. auch ein Gutachten über die Frage, welche Aenderungen oder Ergänzungen sich seit Anfertigung der Pläne mit Bezug auf Programm u. Pläne etwa als wünschbar herausgestellt haben.
+B. Die Bauinspektion gab unterm 18. März ihr Gutachten dahin ab, wenn das Programm keine Aenderungen oder Modifikationen erleide, so können auch die Pläne im Wesentlichen nicht verändert werden; untergeordneten Wünschen, wie sie theils in der technischen Expertise, theils im Gutachten des Hrn. Dr Hoffmann vorkommen, sei entweder schon Rechnung getragen oder werde bei Anfertigung der Detailzeichnungen geschehen; dagegen müsse sie gestützt auf das Studium der Pläne einer großen Zahl der neuern Irrenanstalten bezüglich des Programms die Frage aufwerfen, ob nicht die Abtheilung der Isolirten supprimirt, die Abtheilung für Tobsüchtige vergrößert u. diese dann so eingerichtet werden könnte, daß sie immerhin in zwei voneinander abgeschlossene Unterabtheilungen zerfallen würde. Herr Staatsbauinspektor Wolff erblickte hierin große  bauliche Vortheile u. eine Verminderung der Kosten um beiläufig Frk. 120,000.
+C. Dieses Gutachten wurde unterm 23. März der Spitalpflege mit dem Gesuche mitgetheilt, der Direktion hierüber ihre Ansichten zu eröffnen.
+Laut einem Berichte dieser Behörde vom 8. Brachmonat  l. Js. wurde diese Angelegenheit der früher schon bestellt gewesenen Programmkommission in Zuzug des Hrn. Staatsbauinspektors Wolff, der inzwischen eine Reihe deutscher Irrenanstalten besucht hatte, zur Begutachtung überwiesen. Diese Kommission gab nun folgendes Gutachten ab, dem sich die Spitalpflege in allen Theilen anschließt:
+„Die Kommission habe sich von Hrn. Bauinspektor Wolff die Veränderung an dem ursprünglichen Plane, die er bei seiner Bemerkung im Auge gehabt habe, näher bezeichnen u. erläutern lassen. Sie sei im Wesentlichen darauf hinausgegangen, die Zahl der Isolirzimmer zu vermindern[,] den Bau zu vereinfachen u. die südnördliche Durchschnittslinie der Gebäulichkeiten zu verkürzen. Dieser Modifikation habe zwar die Kommission nicht zustimmen können, dagegen habe sie sich auf eine solche vereinigt, welche der Idee des Hrn. Wolff, namentlich dem Wunsche nach Vereinfachung der Baute u. Erzielung von Ersparnissen von einer andern Seite entgegenkomme. Die Kommission habe sich nämlich davon überzeugt, daß  die Zahl der Tobzellen noch vermindert werden könne u. daß diese mit den Isolirzellen oder Zimmern so verbunden werden können, daß eine bedeutende Vereinfachung u. Raumersparniß eintrete, zumal im Fernern auch auf den doppelten Korridor der Tobabtheilung verzichtet werde. Die Zahl der Tobzellen jeder Abtheilung würde demnach von 11 auf 7, diejenige der Isolirzimmer je von 13 auf 11 reduzirt, die Reduktion finde aber ihre vollständige Kompensation darin, daß auf den übrigen Abtheilungen die Zahl der Einzelzimmer erheblich vermehrt worden sei u. demnach ein Ausfall in der programmgemäßen Plätzezahl nicht stattfinde. Die Modifikation bestehe ferner darin, daß die Aufsichtsgänge weggelassen u. dagegen die 2 Hauptkorridors zu Tagräumen umgewandelt werden. Dadurch seien die Speisezimmer überflüssig u. es werde nun möglich, das Zellenhaus auf einen Langbau mit 9000 [Quadratfuss] Grundfläche zu beschränken, während die Hufeisenförmige Anlage 14,000 [Quadratmeter] in Anspruch nehme. Es ergebe sich somit auf beiden Abtheilungen ein Gesammtmindermaß von 10,000 [Quadratfuss] Grundfläche oder ca 150,000 Kubik-Fuß Gebäudeinhalt. Die Ersparniß, die erzielt werde, bezeichne Herr Wolff als bedeutend.
+Nach der ursprünglichen Anordnung hätte der Zellenflügel enthalten:
+a. Abtheilung der Isolirten.
+				13 Einzelzimmer  
+				  1. Speisezimmer.
+				  2. Wärterzimmer.
+				  1. Theeküche.
+				  1. Garderobe.
+				      Corridors Abtritte etc.
+b. Abtheilung der Tobsüchtigen.
+				11. Tobzellen zwischen 2 Corridors
+				  1. Speisezimmer.
+				  2. Wärterzimmer.
+				  1. Theeküche.
+				  1. Bad.
+				  1  Garderobe.
+				      Corridors, Abtritte etc.
+Großer Hof für die Tobsüchtigen u. Gartenanlagen für die Isolirten.
+Nach der neuen Anordnung ergebe sich:
+a. Abtheilung der Isolirten:
+				11. Einzelzimmer.
+				  1. Tagraum, gleichzeitig Corridor
+				  2. Wärterzimmer
+				  1. Theeküche gemeinschaftl. mit der Tobabtheilung
+				  1. Garderobe				id:
+				  1. Bad						id:
+				  1. Abtritt
+				  1. Ausgang in den Hof, von dem aus die einzelnen 				      Gärtchen zugänglich sind.  
+b. Abtheilung der Tobsüchtigen.
+				  7. Tobzellen
+				  1. Tagraum, gleichzeitig Corridor
+				  1. Wärterzimmer.
+				  1. Theeküche gemeinschaftl. mit der Isolirabtheilung
+				  1. Bad						id:
+				  1. Garderobe				id:
+				  1. Abtritt
+				  1. Ausgang in den Tobhof.
+Die Kommission habe sich, nachdem ihr Herr Wolff die Skizzen für eine derartige Modifikation vorgelegt, davon überzeugt, daß dieselbe den Plan nicht nur nicht beeinträchtige sondern wirklich verbessere. Sie spreche sich demnach dahin aus, daß diese Modifikation gutgeheißen werden möchte. Im Uebrigen habe die Kommission gefunden, es sei kein Grund vorhanden, weitere Modifikationen am Programm vorzunehmen.“
+D. In den Gutachten, welche theils von Hrn. Dr Hoffmann, theils von den Bauexperten eingeholt worden sind (S. 19 u. ff. der gedruckten Weisung an den Großen Rath vom 21. Wintermonat 1863.) sind folgende Punkte berührt worden, welche auf Aenderungen in den Plänen hinzielen:
+a. Gutachten des Hrn. Dr Hoffmann
+1. Einrichtung von Einzelstuben für die Unruhigen dritter Klasse.
+2. Aenderungen in der Zellenabtheilung (Ausgang  in den Garten, Verlegung der Dienstkorridors nach Nord oder Ost.)
+3. Verbindung der Bäder mit den Krankenflügeln
+4. Direkte Verbindung der Zellenabtheilung mit der Küche.
+5. Wohnung des Verwalters u. Oekonomen.
+6. Einrichtungen für Leinenzeug u. s. f.
+7. Richtung der Straße.
+8. Boden in den Korridors von Holz.
+b. Das Gutachten der Herren Stadler, Kunkler u. Semper vom 20. Weinmonat 1863 bemerkt, daß die von Hrn. Dr Hoffmann vorgeschlagenen Aenderungen durch schon erfolgte Berücksichtigung der Wünsche derselben von Seite der Herren Staatsbauinspektor Wolff zum Theil schon erledigt seien, mit Ausnahme des Desideriums, daß die Zellenabtheilungen mit der Küche in direkte Verbindung gesetzt werden, in welcher Beziehung diese Experten noch etwas weiter gehende Vorschläge machen, die sich auf das ganze Wirthschaftsquartier erstrecken.
+Im fernern regen diese Experten folgende Aenderungen an:
+1. Veränderung der Lage der Bäder u. der Werkstätten [Arbeitsräume]
+2. Beleuchtung der Wärterzimmer.
+3. Etwelche Veränderung der Hauptscheidemauern.
+4. Verminderung der Durchschneidung der Fenster durch  die Treppenpodeste.
+5. Verminderung der Fensterzahl in den Höfen
+6. 		“	          “   Höfe des Souterrains
+7. Hinweglassung des Quaderwerks im Parterre der Südfronte.
+8. Weglassung gewisser Gesimsegurten.
+9.		“           von Giebeln u. Vorsprüngen in den Façaden.
+E. Die Direktion der öffentlichen Arbeiten berichtet:
+. Diese 2 Punkte betreffen die Aenderungen in den Tobabtheilungen u. die Verlegung der Arbeitsräume in die Souterrains. Mit Bezug auf den ersten Punkt enthält das Gutachten der Spitalpflege die nöthigen Angaben, dagegen spricht sich dasselbe über den zweiten nicht aus, indessen ist der Direktion bekannt, daß die Aerzte, welche bei der Entwerfung des Programms thätig waren, die Verlegung der Werkstätten in das, wenn auch geräumige Kellergeschoß, als eine bedenkliche Verschlimmerung der Anlage erklären. Mündlich bemerkte sodann noch der Herr Staatsbauinspektor, die Besichtigung der fremden Irrenan-  stalten habe ihn zu der Ueberzeugung gebracht, daß den Vorschriften des Programmes u. der zweckmäßigen Einrichtung der Anstalt unbeschadet, noch verschiedene Aenderungen in den Plänen vorgenommen werden können, wodurch nicht unwesentliche Ersparnisse in den Kosten erzielt werden können. Ein solches Resultat, bei dem es sich selbstverständlich nicht darum handeln kann, durch kleinliche Ersparnisse die große Idee, etwas möglichst vollkommenes zu erzielen, außer Auge zu setzen, wäre um so erfreulicher, als der Voranschlag es dringend nothwendig macht, gerechtfertigte Ersparnisse nicht zu unterlassen. Denn wenn auch die Bauexperten erklärt haben, sie haben die Preisansätze durchweg so angesetzt gefunden, daß ein Ueberschreiten der Bausumme nicht wohl denkbar sei, selbst wenn während der Bauzeit einzelne Preise mehr oder weniger steigen sollten, so fällt dagegen schwer ins Gewicht, daß im Voranschlage der Titel für Unvorherzusehendes nur Frk. 78,410 zeigt, was bei einer Bausumme von Frk. 2,700,000 offenbar zu wenig ist. Ein Theil dieses Titels muß schon für die Expropriationen in Anspruch genommen werden, wenn man die dießfällige Ausgabe nicht durch Landverkauf anderweitig decken kann, u. wenn bei der Straßenanlage die betreffenden Gemeinden nicht bereitwillig mitwirken würden, so müßte auch hiefür noch die Deckung der Kosten auf diesem Titel gesucht werden. Um gegen eine allfällige Kreditüberschreitung beruhigt zu werden, wäre  es daher sehr erwünscht, wenn die auf Grundlage der Ausführungspläne neu zu fertigenden Voranschläge eine Minderausgabe von etwa Frk.150,000 zeigen würden.
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion der öffentlichen Arbeiten,
+beschließt:
+1. Die Direktion der öffentlichen Arbeiten wird ermächtigt, durch Hrn. Staatsbauinspektor Wolff die Ausführungspläne nebst Kostenberechnungen auf Grundlage der vorliegenden Pläne u. im Sinne der Fact. E. enthaltenen Bemerkungen anfertigen zu lassen, wobei überall auf Ersparnisse Bedacht zu nehmen ist, wo es ohne Beeinträchtigung höhere Rücksichten, wie insbesondere der Zweckmäßigkeit u. Solidität der Baute geschehen kann.
+2. Mittheilung an die Direktion der öffentlichen Arbeiten.
+		

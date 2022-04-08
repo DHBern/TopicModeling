@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Neues Gutachten der Waßerbau-Policey-Commißion, betreffend die
+                    Kostenliquidation der Glattunternehmung.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-05-05"
+                            >05.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Neues Gutachten der Waßerbau-Policey-Commißion, betreffend die
+                        Kostenliquidation der Glattunternehmung.</title><date when="1825-01-11"
+                        >11.01.1825</date><ident>StAZH MM 1.90 RRB
+                        1825/0020</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.90</biblScope><biblScope unit="page">19</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Eine von der Lbl. Waßerbau-Policey-Commißion hinterbrachte neue Weisung
+                d. d. 9ten passati, betreffend die Liquidation der
+                Kosten für die Glattunternehmung, wird zum Behuf künftiger Berathung auf den
+                Kanzleytisch gelegt.
+        </body>
+    </text>
+</TEI>

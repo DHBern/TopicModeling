@@ -1,0 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschwerde der sard. Gesandtschaft hinsichtlich der fremden Kutscher.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn28.03.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beschwerde der sard. Gesandtschaft hinsichtlich der fremden Kutscher.</title>19.07.1847<ident>StAZH MM 2.97 RRB 1847/1170</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.97</biblScope><biblScope unit="page">61</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Praesidial-Verfügungen.
+Actum, den 19. July 1847.]
+Dem Polizeirathe wird überwiesen, mit der Einladung dem frühern dießfälligen Beschlußes mit Beförderung Folge zu geben.
+Ein Schreiben der sardinischen Gesandtschaft, d. d. 17t. Juli, enthaltend erneuerte Beschwerden über die Verfügungen, hinsichtlich der fremden Kutscher.<p/></body></text></TEI>

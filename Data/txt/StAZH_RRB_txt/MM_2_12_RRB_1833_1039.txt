@@ -1,0 +1,11 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Berathung des Gesetzesvorschlages betreffend die Gebühren der Zunftgerichte in Straffällen.</title><respStmt><resp ref="#sbh" key="transcript">Transkript: sbh07.12.2009</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority><pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Berathung des Gesetzesvorschlages betreffend die Gebühren der Zunftgerichte in Straffällen.</title>14.06.1833<ident>StAZH MM 2.12 RRB 1833/1039</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.12</biblScope><biblScope unit="page">54</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Hierauf wurde zur Berathung des von der Gesetzes-Revisions-Commißion mit Weisung vom 31. v. M. hinterbrachten Gesetzesvorschlages betreffend die Gebühren der Zunftgerichte in Straffällen geschritten, wie folgt:
+§. 1. a.) entscheidet sich der Regierungsrath für die erste Minorität, oder 1(4. Frk[en].
+b.) 1.) nach dem Entwurf b. 2. 5. Bz[en]. ( 2. Frk[en].
+c.) 2.) entscheidet sich der Regierungsrath für den Antrag der Majorität, mithin Beybehaltung des No. 2.
+d.) nach dem Entwurf.
+§. 2. ebenso.
+§. 3. ebenso.
+Anhang §. 4. ebenso
+Herr Regierungsrath Hotz wurde sonach als Referent bezeichnet. <p/></body></text></TEI>

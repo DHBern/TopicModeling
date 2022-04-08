@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anerkennung des Brandschadens auf der Höhe zu Ringweil, der Pfarre
+                    Hinweil.</title>
+                <respStmt>
+                    <resp ref="#dsa" key="transcript">Transkript: dsa<date when="2010-04-21"
+                            >21.04.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Anerkennung des Brandschadens auf der Höhe zu Ringweil, der Pfarre
+                        Hinweil.</title>17.02.1816<ident>StAZH MM
+                        1.57 RRB 1816/0140</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.57</biblScope><biblScope
+                        unit="page">217–218</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Brandaßecuranz-Commißion erstattet unterm <date when="1816-02-10"
+                    >10ten d. M.</date> ihren Bericht über das Brandunglück, welches sich den <date
+                        when="1816-01-30">30sten Jenner</date> Morgens, auf der Höhe zu Ringweil, Pfarre
+                Hinweil, in der gedoppelten Behausung, welche zur Hälfte der
+                    Barbara
+                Bachmann, Ehefrau des Rudolf
+                Sauter, und zur Hälfte dem Marx
+                Bolli angehörte, sich ereignet hat. Der Brand
+                war durch Dörren von Scheiteren im Ofen entstanden, und da keine Hülfleistung
+                möglich war, so wurde nicht nur die ganze doppelte Behausung gänzlich eingeäschert,
+                    sondern auch der größte Theil der vorhandenen
+                Fahrhabe und Victualien ein Raub der Flammen.
+            
+Das Gebäude war in dem Brandaßecuranz-Cadaster mit No. 84. und 85. bezeichnet, und
+                jede Hälfte für 600. fl, mithin das Ganze für 1200. fl aßecuriert [.]
+            
+Der Kleine Rath, in Genehmigung des mit diesem Bericht verbundenen
+                Antrags, beschließt: Den Brandschaden nach dem vollen Aßecuranzwerth von 1200. fl
+                anzuerkennen, und in den Etat der dießjährigen Brandschadens-Entschädigungen
+                aufzunehmen, und zugleich die Finanzcommißion zu begwältigen, jeder der beyden
+                brandbeschädigten Haushaltungen, nämmlich der Barbara
+                Bachmann und ihrem Ehemann Rudolf
+                Sauter, und dem Marx
+                Bolli, nebst Frau und drey minderjährigen Kinderen, die gewohnte
+                Hochobrigkeitliche Brandsteuer an Frucht und Geld verabfolgen zu laßen. 
+        </body>
+    </text>
+</TEI>

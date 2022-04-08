@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erledigung der Kanzley Eglisau durch sel[igen] Hinschied des Herrn
+                    Landschreiber Lauffer.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Erledigung der Kanzley Eglisau durch sel[igen] Hinschied des Herrn
+                        Landschreiber Lauffer.</title><date when="1822-10-17"
+                        >17.10.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0781</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >45–46</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da, laut Bericht des Lbl. Oberamtes Embrach d. d.
+                    12ten hujus, die Notariats-Kanzley
+                    Eglisau und Bülach durch sel[igen]
+                Hinschied des Herrn Landschreiber Lauffer erlediget ist, so
+                ertheilen UHHerren und Obern der Lbl. Notariats-Commißion den Auftrag,
+                die gesetzliche Prüfung der sich hiefür anmeldenden Aspiranten vorzunehmen, und
+                ihren dießfälligen Bericht der Lbl. Justiz-Commißion zu Handen des <orgName>Kleinen
+                    Rathes</orgName> wieder einzubringen.
+        </body>
+    </text>
+</TEI>

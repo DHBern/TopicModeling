@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Regierung von Thurgau, betreffend die Pfrundverbeßerungsangelegenheit von
+                    Felwen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2007-01-08"
+                            >08.01.2007</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Regierung von Thurgau, betreffend die Pfrundverbeßerungsangelegenheit
+                        von Felwen.</title>28.03.1812<ident>StAZH MM
+                        1.40 RRB 1812/0401</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.40</biblScope><biblScope
+                        unit="page">376–377</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf die unterm 24sten d. M. eingekommene
+                Zuschrift des L. Standes Thurgau, womit derselbe anzeigt, daß er in Folge der
+                hierseitigen Zustimmung zu der Pfrundverbeßerung von Felwen, für nöthig erachtet
+                habe, den der Gemeinde Felwen früher auferlegten Beytrag von 52. fl., mit
+                demjenigen, zu welchem sich die beyden Stände anheischig gemacht haben, in ein etwas
+                beßeres Verhältniß zu setzen, und denselben auf 77. fl. zu erhöhen, – so daß dadurch
+                die ganze Verbeßerung nunmehr auf 307. fl., und das ganze Pfrundeinkommen, mit
+                Einschluß des alten Ertrags, auf 500. fl. zu stehen komme; welcher Mittheilung
+                annoch die Bemerkung beygefügt wird, daß, um die Rükstände der bisherigen
+                Vicariatskosten zu decken, erforderlich seye, die sämmtlichen Verbeßerungsbeyträge
+                schon für das Jahr 1811. zum ersten Mahl zu entrichten, – wird die Finanzcommißion,
+                in Entsprechung des von dem L. Stand Thurgau gemachten dießfälligen An- <pb n="377"
+                />trags begwältiget, den, den hießigen Stand betreffenden Beytrag an jene
+                Pfrundverbeßerung von 115. fl. auch für das Jahr 1811. verabfolgen zu laßen; –
+                welches dem L. Stand Thurgau (lt. Mißiven) anzuzeigen ist. 
+        </body>
+    </text>
+</TEI>

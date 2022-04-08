@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Gede Hofstetten; [Revisionsgesuch] betr. Erhöhung des Staatsbeitrages an d. Straße II. Kl. Elgg–Kollbrunnen.</title><respStmt><resp ref="#rke" key="transcript">Transkript: rke29.01.2015</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2015<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Gede Hofstetten; [Revisionsgesuch] betr. Erhöhung des Staatsbeitrages an d. Straße II. Kl. Elgg–Kollbrunnen.</title>25.05.1878<ident>StAZH MM 2.220 RRB 1878/0970</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.220</biblScope><biblScope unit="page">471–474</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+In Sachen der Gemeinde Hofstetten,
+betreffend Staatsbeitrag,
+hat sich ergeben:
+A. Durch Regierungsbeschluß vom 9. Februar d. Js. wurde der Gemeinde Hofstetten an die Kosten der in ihrem Banne neu erbauten Strecke der Straße II. Klasse von Elgg nach Kollbrunnen über die bereits gewährten Vorschüsse von Fr. 3500 hinaus ein Staatsbeitrag von Fr. 1100, also im Ganzen von Fr. 4600 bestimmt.
+B. Mit Eingabe vom 6. dß. stellt nun der Gemeindrath Hofstetten das Gesuch um Revision des erwähnten Beschlusses, resp. um Erhöhung des gesprochenen Beitrages, indem zur Begründung angeführt wird:
+Die Gemeinde Hofstetten gehöre gewiß zu den Gemeinden, bei welchen der § 9 des Straßenge-  setzes in Anwendung gebracht werden müsse, laut welchem die außerordentlich starke Belastung durch gesetzliche Leistungen durch den Staat angemessen zu erleichtern sei. Die Gemeinde müsse sehr große Steuern zahlen, und es sei noch eine geraume Zeit noch nicht abzusehen, wann die Steuerlast vermindert werde. In den 1860er Jahren haben die Gemeindesteuern per Faktor im Maximum Fr. 6, im Jahr 1877 Fr. 12 50 betragen und werden dieses Jahr auf Fr. 16 50 ansteigen. An diesen Mißverhältnissen trage namentlich die geographische Lage der Gemeinde Schuld. Sie bilde eine ganz unregelmäßige, längliche Form, von der thurg. Kantonsgrenze Rüedsberg - Iltishausen bis in die Nähe von Schottikon. Die Gemeinde bestehe aus fünf Zivilgemeinden Huggenberg, Geretsweil, Hofstetten, Wenzikon & Dickbuch, von denen jede ein abgeschlossenes Ganzes bilde, und ihre eigenen Verkehrsmittel beanspruche.
+C. Die Direktion der öffentlichen Arbeiten berichtet:
+Das Revisionsgesuch des Gemeindrathes stützt sich auf 2 Gesichtspunkte, und zwar:
+1. auf die ganz außerordentlich lästigen, hohen Steuern der letzten und auch der zukünftigen Jahre, und
+2. auf die ungünstige geographische Lage der Gemeinde, in Folge welcher die Vervollständigung des  Straßennetzes kaum zu erschwingende Opfer beanspruche.
+In Bezug auf den ersten Punkt gibt die durch das statistische Bureau aufgestellte Zusammenstellung sämmtlicher Gemeindesteuern in den Jahren 1869–1876 folgende Aufschlüsse:
+In
+Hofstetten
+14.45‰
+also
+Jahresdurchschnitt
+1.81‰
+“
+Dickbuch
+26.40‰
+“
+“
+3.30‰
+“
+Hoggenberg
+13.20‰
+“
+“
+1.65‰
+“
+Wenzikon
+18.35‰
+“
+“
+2.29‰
+Es kann also von einer bisherigen Ueberlastung durch Gemeindesteuern keine Rede sein, und es entspricht in dieser Beziehung der durch regierungsräthlichen Entscheid vom 9. Febr. d. Js. zugeschiedene Beitrag von Fr. 4600 an die ausgewiesene Baukostensumme von Fr. 17362 23 Rp. den Verhältnissen.
+Was den zweiten Gesichtspunkt anbetrifft, so ist es richtig, das die ganze Lage der Gemeinde eine ungünstige ist. Die Zusammensetzung der Gemeinde ist nämlich derart, daß von Huggenberg bis Dickbuch jedem einzelnen Hofe eine Straße gebaut werden muß, damit man ins Thal gelangen kann.
+Außer den drei in neuerer Zeit gebauten Straßen II. Klasse [Ruedsbergstraße, Gyrenbadstraße und Kollbrunnenstraße] bedarf die Gemeinde noch drei weiterer Bergstraßen III. Klasse & eine Menge Lokalstraßen zwischen den einzelnen Hö-  fen. Wenn diese noch fehlenden Verbindungen einmal wirklich zur Ausführung kommen werden, so dürfte dannzumal die Frage bejaht werden, ob nicht in Folge außerordentlicher Verhältnisse § 9 des Straßengesetzes zur Anwendung kommen könne. Eine besondere Berücksichtigung der ökonomischen Verhältnisse der Gemeinde Hofstetten erscheint im vorliegenden Falle nicht als dringlich; es kann daher um der Konsequenzen willen dem Gesuche nicht entsprochen werden.
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion der öffentlichen Arbeiten,
+beschließt:
+1. Dem Gesuch des Gemeindrathes Hofstetten, betr. Revision des regierungsräthlichen Entscheides vom 9. Febr. d. Js. im Sinne einer Erhöhung des Staatsbeitrages an die Straße II. Klasse von Elgg nach Kollbrunnen im Banne Hofstetten, kann nicht entsprochen werden.
+2. Mittheilung an den Gemeindrath Hofstetten unter Zusendung des eingelegten Beschlusses und an die Direktion der öffentlichen Arbeiten unter Rückstellung der Akten.<p/></body></text></TEI>

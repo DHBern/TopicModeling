@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Präs. Maurer in Buchs; Wahlablehnung.</title>
+                <respStmt>
+                    <resp ref="#mls" key="transcript">Transkript: <date when="2014-06-27"
+                            >27.06.2017</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2014
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Präs. Maurer in Buchs; Wahlablehnung.</title><date when="1875-05-19"
+                        >19.05.1875</date><ident>StAZH MM 2.208 RRB
+                        1875/1217</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.208</biblScope><biblScope unit="page">574</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+
+            
+[Präsidial-Verfügungen
+            
+19. Mai 1875.]
+            
+Herr Gemeindspräsident Maurer in Buchs
+                lehnt die auf ihn gefallene Wahl zum Mitgliede der Bezirksschulpflege
+                    Dielsdorf mit Zuschrift vom 17. d. Mts ab, welches
+                Geschäft der Direktion des Innern zur Erledigung überwiesen wird.
+        </body>
+    </text>
+</TEI>

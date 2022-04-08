@@ -1,0 +1,25 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#ufn" key="transcript">Transkript: ufn26.10.2009</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2009<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>28.03.1835-26.05.1835<ident>StAZH MM 2.23 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.23</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+MHHerrn Joh: Jakob Heß von Zürich, Amtsbürgermeister. 
+MHHerrn Conrad Melchior Hirzel von Zürich, Bürgermeister. 
+MHHerrn Johannes Hegetschweiler von Stäfa, M. D.
+MHHerrn Ludwig Meyer von Knonau. 
+MHHerrn Caspar Pfenninger von Stäfa. 
+MHHerrn Eduard Sulzer von Winterhur. 
+MHHerrn Heinrich Hüni von Horgen. 
+MHHerrn Melchior Sulzer von Winterthur. 
+MHHerrn Hartmann Keller von Glattfelden. 
+MHHerrn Ulrich Hauser von Wädenschweil. 
+MHHerrn Hs. Jakob Huber von Dielstorf. 
+MHHerrn Heinrich Schinz von Zürich. 
+MHHerrn Joh: Jakob Fierz von Küßnacht. 
+MHHerrn David Bürgi von Adetschweil. 
+MHHerrn Heinrich Hotz im Balgrist. 
+MHHerrn Heinrich Escher von Zürich. 
+MHHerrn Heinrich Schäppi von Wipkingen.
+MHHerrn Ulrich Zehnder von Engstringen. 
+MHHerrn Hs. Caspar Hirzel von Zürich. 
+Staatsschreiber. 
+MHHerrn Heinrich Hottinger von Zürich, des Großen Rathes, 1ster Staatsschreiber. 
+MHHerrn Georg Finsler von Zürich, des Großen Rathes, 2ter Staatsschreiber. 
+MHHerrn Joh. Conrad Meyer von Knonau, des Großen Rathes, 3ter Staatsschreiber. </body></text></TEI>

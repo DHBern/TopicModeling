@@ -1,0 +1,13 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrates.</title><respStmt><resp ref="#lsz" key="transcript">Transkript: lsz21.10.2014</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2014<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrates.</title>02.07.1870-30.09.1870<ident>StAZH MM 2.189 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.189</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+[p. up.]
+Herr Gottlieb Ziegler von Winterthur, Präsident.
+  “    Joh. Kaspar Sieber, von Seebach, Vice-Präsident.
+  “    J. Jakob Scherer, von Winterthur, eid. Oberst.
+  “    Joh. Heinrich Müller, von Kloten.
+  “    Ferdinand Brändli, von Männedorf.
+  “    Joh. Jakob Pfenninger, von Hinweil.
+  “    Karl Felix Walder, von Hombrechtikon.
+Staatsschreiber.
+Herr Gottfried Keller, von Glattfelden,    I. Staatsschreiber.
+  “    Johannes Boßhard, von Pfäffikon  II.         id.</body></text></TEI>

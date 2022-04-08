@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Land- und Bürgerrecht für das uneheliche Töchterlein der Magdalena Siber von
+                    Außersihl.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2007-06-06"
+                            >06.06.2007</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Land- und Bürgerrecht für das uneheliche Töchterlein der Magdalena
+                        Siber von Außersihl.</title><date when="1815-01-05"
+                        >05.01.1815</date><ident>StAZH MM 1.52 RRB
+                        1815/0006</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.52</biblScope><biblScope unit="page">7–10</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Commißion des Inneren hinterbringt unterm <date
+                    when="1814-12-14">14ten passati</date> (in Folge Auftrags vom <date
+                    when="1815-11-15">15ten November</date> v. J.) ihren Bericht und Antrag über die
+                durch eine Weisung des L. Ehegerichts vom <date when="1815-11-03"
+                    >3ten November</date> an MHochgeachten HHerren und Oberen gelangte
+                Heymathrechts-Angelegenheit des unehelichen Töchterleins der in Müllhausen als
+                Nähterin sich aufhaltenden Magdalena
+                Siber, ehelichen Tochter des hier seßhaften Herrn Lieutenant
+                    Heinrich
+                Siber von Außersihl. Aus dem Referat der Ein- <pb n="8"
+                />zugs-Section vom 7ten December a. p. ergeben sich
+                folgende historische Data:
+            
+„Im Jahr 1801. habe die Magdalena
+                Siber einen gewißen Michael
+                Friedrich von Königshofen geehelicht, seye aber gleich in
+                folgendem Jahr wieder von demselben geschieden worden; nachher sey sie in
+                verdächtigern Häuseren herumgeschwärmt, und habe sich dann im November 1803. mit
+                einem Heinrich
+                Bleuler von Ebmatingen, Pfarre Maur,
+                verheurathet; da sie aber, nach ihrer eigenen Aussage, sich von einem Französischen
+                Chasseur, Antoine Guichon, schwanger befunden, sey dieses
+                Eheband kurze Zeit nachher wieder getrennt, und von derselben im Aprill 1804. das
+                vorbenannte, in der hiesigen Predigerkirche am 8ten
+                Aprill getaufte, Dorothea benannte Kind,
+                gebohren, welches durch den Ehegerichtlichen Spruch vom <date when="1815-10-04">4ten
+                    Oktober</date> 1804. ihr und den Ihrigen zu alleiniger Sustentation, ohne
+                Heymath- und Bürgerrechtsbestimmung, zugesprochen, und bis dato von dem
+                    Vater der Siberin vertischgeldet worden sey.“
+            
+In Genehmigung des, nach genohmener Rücksprache mit der Gemeindsvorsteherschaft von
+                Außersihl, und dem Herrn Lieutenant Siber, als Groß- <pb n="9"
+                />vater des erwähnten Kindes, hinterbrachten Antrags der <orgName>Commißion des
+                    Inneren</orgName>, – haben nun MHochgeachten HHerren und Oberen beschloßen:
+            
+1.) Dem genannten unehelichen Kinde der Magdalena
+                Siber ist das hießige Landrecht unentgeldlich ertheilt.
+            
+2.) Daßelbe ist Heymath- und Bürgerrechts halber der E. Gemeinde Außersihl
+                zuerkannt.
+            
+3.) Dagegen ist deßen Großvater, Herr Lieutenant Heinrich
+                Siber auf dem Münsterhof in hier verpflichtet, als Einzug für
+                daßelbe 50. Franken in das Gemeind-[,] 30.
+                    Franken in das Armen- und 30. Franken in
+                das Kirchengut der Gemeinde Außersihl zu bezahlen.
+            
+4.) Rücksichtlich des von der Gemeinde Außersihl gemachten Vorbehalts, „daß ihr
+                nämmlich dieses Kind nie und auf keine Weise zur Last fallen
+                solle“, – hat es gänzlich bey derjenigen Bestimmung sein Verbleiben, welche in dem
+                Ehegerichtlichen Urtheil vom 4ten October 1804, in
+                Bezug auf die Sustentation des minderjährigen Kindes, enthalten ist.
+            
+Gegenwärtiger Beschluß wird der Commißion des Inneren, dann dem L.
+                    Ehegericht, unter Zurückstellung des mitgetheilten Berichts
+                von dem L. Pfarr- amt St. Peter, zum Behuf
+                guterachtender Verfügung über das Copulationsgesuch der
+                    Magdalena
+                Siber mit dem ebenfalls in Müllhausen befindlichen Hs.
+                    Ulrich
+                Erb, Schuhster, Schulmeisters Sohn von Oberwinterthur, auch dem
+                Herrn Unterstatthalter Hotz zu Handen der Gemeinde Außersihl und
+                zu Benachrichtigung des Herrn Lieutenant Siber, und diesem
+                lezteren zu Handen des gedachten Töchterleins, in besonderer Ausfertigung als
+                Landrechts-Urkunde bey Vorweisung der Quittungen für die gedachten Einzugsgebühren,
+                welches (in Folge des Gesetzes vom 22sten März 1812.
+                über die Landrechtsertheilungen) innerhalb Monatsfrist von dato an geschehen soll,
+                zu Handen gestellt.
+        </body>
+    </text>
+</TEI>

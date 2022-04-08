@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wegen Versorgung des Felix Weydmann von Dielstorf in hiesigem
+                    Zuchthaus.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-03"
+                            >03.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Wegen Versorgung des Felix Weydmann von Dielstorf in hiesigem
+                        Zuchthaus.</title>
+                    25.04.1803
+                    <ident>StAZH MM 1.1 RRB 1803/0009</ident>
+                    <edition>Protokoll des Regierungsrats</edition>
+                    <biblScope unit="volume">1.1</biblScope>
+                    <biblScope unit="page">7–8</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die unterm 5ten Aprill an das
+                Cantonsgericht gelangte, von demselben aber unterm 14. huj: dem Justiz- und
+                Polizeydepartement der Regierungs-Commißion überwiesene Petition der Herren Pfarrer
+                    Weiß von Dielstorf, worinn derselbe,
+                Namens der Anverwandtschaft des Felix
+                Weidmann [sic!], Hansen sel. von
+                    Dielstorf, um die Aufnahme dieses, als dem Trunk und
+                einem liederlichen Leben ergebenen, und als höchst boshaft geschilderten Menschen,
+                in hiesiges Zuchthaus, sollicitiert, – veranlaßet den kleinen Rath, dem Herren
+                Districts-Commißarius Angst den Auftrag zu ertheilen, daß er von
+                der Municipalität Dielstorf einen bestimmten schriftlichen
+                Bericht über den Lebenswandel des Weydmanns ein- ziehe, – sodann mit dem
+                    Weidmann selbst ein Verhör über das ihm zur Last gelegte
+                liederliche Leben und brutale Betragen gegen die Seinigen, aufnehme, – und das
+                Resultat dieser gedoppelten Bemühung befürderlich an das Justiz- und
+                Polizeydepartement des kleinen Raths einsende, von wo dieses
+                Geschäft, verbunden mit den durch Veranstaltung des gedachten Departements
+                einzuholenden Gedanken der Zuchthauscommißion über die zweckmäßigste Versorgung des
+                Weydmanns, und besonders über das für ihn von der Anverwandtschaft zu bezahlende
+                Kostgeld, wieder zu endlichem Entscheid an den kleinen Rath gebracht werden
+                soll.
+        </body>
+    </text>
+</TEI>

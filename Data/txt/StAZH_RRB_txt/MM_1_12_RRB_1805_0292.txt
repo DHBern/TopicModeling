@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antwort des Herrn Unterstatthalter Kaufmann wegen des von dem Gemeindrath
+                    Hombrechtikon für den Jacob Wirz, gegenwärtigen Bürger zu Gossens im Canton
+                    Waadt, ausgestellten Abscheidscheins.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-13"
+                            >13.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Antwort des Herrn Unterstatthalter Kaufmann wegen des von dem
+                        Gemeindrath Hombrechtikon für den Jacob Wirz, gegenwärtigen Bürger zu
+                        Gossens im Canton Waadt, ausgestellten Abscheidscheins.</title><date
+                        when="1805-02-19">19.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0292</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >141–142</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+In Folge des, unterm 31sten pti. dem
+                Herrn Unterstatthalter Kaufmann ertheilten Auftrags, übersendet
+                nun derselbe dem Kleinen Rath wegen des, von dem Gemeindrath
+                    Hombrechtikon unterm <date when="1805-11-18">18ten
+                    November</date> a. p. ausgestellten Acts, über den im Canton Waadt seßhaften von
+                dem dortigen Großen Rath zum Cantonsbürger und von der Gemeinde
+                    Gossens zum Gemeindsbürger angenommenen
+                    Jacob
+                Wirz,
+            
+a. Einen Burgerbrief für gedachten Jacob
+                Wirz, von der Gemeinde Gossens, <pb
+                    n="142"/>
+            
+b. Den für denselben von der Regierung des Cantons Waadt ausgestellten
+                Naturalisations-Act,
+            
+c. Einen Abscheidsschein vom Gemeindrath Hombrechtikon für
+                gedachten Wirz, vom 18ten November
+                a. p., welches die Acte ist, deren halber die Regierung des Lobl. Cantons Waadt sich
+                an die hießige gewendet hat.
+            
+Da nun der Gemeindrath Hombrechtikon sich durch diese
+                Actenstüke selbst wegen des leztgedachten Abscheidsscheins, der die Aushingabe des
+                Bürgerrechts für den Wirz enthält, hinlänglich legitimiert
+                glaubt, so werden dieselben samt dem Begleitschreiben des Herrn Unterstatthalter
+                    Kaufmann, und den hierüber im Archiv liegenden Acten, der
+                    Commißion des Inneren überwiesen, deren gefälligen Bericht
+                und Gutachten der Kleine Rath zu weiterer Verfügung
+                gewärtigt.
+        </body>
+    </text>
+</TEI>

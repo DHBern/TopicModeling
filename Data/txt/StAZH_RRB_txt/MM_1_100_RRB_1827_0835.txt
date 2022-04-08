@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Hombergerische Familie von Riedikon wird mit ihrem Recurse gegen das von
+                    dem Amtsgericht Greifensee über die Gebrüder Hs. Jacob und Jacob Homberger
+                    verhängte Concursverfahren abgewiesen.</title>
+                <respStmt>
+                    <resp ref="#mal" key="transcript">Transkript: mal<date when="2010-08-03"
+                            >03.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Hombergerische Familie von Riedikon wird mit ihrem Recurse gegen
+                        das von dem Amtsgericht Greifensee über die Gebrüder Hs. Jacob und Jacob
+                        Homberger verhängte Concursverfahren abgewiesen.</title><date
+                        when="1827-11-03">03.11.1827</date><ident>StAZH MM 1.100 RRB
+                        1827/0835</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.100</biblScope><biblScope unit="page"
+                    >269–271mi</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nachdem die Lbl. Waisen-Section die Beschwerde der Hombergerischen
+                Familie von Riedikon, betreffend die über ihre minderjährigen Glieder geführte
+                Vormundschaft und den durch das Amtsgericht Greifensee über
+                die Gebrüder Hs. Jacob und Jacob
+                Homberger verhängten Concurs, welche Angelegenheit gedachter
+                Section durch die Lbl. Com- mißion des Innern zur Vorberathung
+                überwiesen worden, nach Vorbescheidung und Anhörung sämmtlicher in dieser Sache
+                zunächst betheiligten Personen einer genauen Prüfung unterworfen hatte, so
+                erstattete dieselbe dem Kleinen Rathe mit einem, durch die Lbl.
+                    Commißion des Innern unterm <date when="1827-10-31"
+                        >31sten v. M.</date> mit Empfehlung einbegleiteten Gutachten ihren umständlichen
+                und sorgfältigen Bericht über diesen Gegenstand.
+            
+Aus den in diesem Berichte enthaltenen Thatsachen ersahen zwar UHHerren und Obern mit
+                Bedauern und Mißlieben, wie die Hombergerische Familie durch mancherley Mißgriffe,
+                Versäumniße und Unförmlichkeiten in ihrer Oeconomie zurückgekommen und in höchst
+                nachtheilige Verwickelungen gerathen, und daß in Folge deßen sogar die vor wenigen
+                Jahren in’s Alter der Großjährigkeit getretenen Hs.
+                    Jacob und Jacob
+                Homberger nun in den Auffall ihres Bruders
+                    Rudolf gezogen zu werden besorgen müßen, allein auf der
+                andern Seite mußten sich Hochdieselben überzeugen, daß von dem <orgName>Kleinen
+                    Rathe</orgName> in seiner Eigenschaft als administrativer und oberster
+                vormundschaftlicher Behörde keine weitern Schritte in dieser Sache zu thun seyen. Es
+                wurde deßnahen (bey innestehenden Stimmen durch Stich- entscheidung)
+                erkannt: es sey den Recurrenten, wofern sie gegen irgend jemand, seyen es Individuen
+                oder Behörden, eine gerichtliche Klage erheben zu können glauben, lediglich zu
+                überlaßen, dieselben vor dem zuständigen Richter zu belangen.
+            
+Von diesem Beschluße wird dem Oberamt und Amtsgericht
+                    Greifensee zu ihrem weitern Verhalten in dieser Sache,
+                und dem Jacob
+                Pfister an der Obern Straße zu Handen der Hombergerischen Familie
+                Kenntniß gegeben, auch beyden Theilen die eingelegten Acten zurückgestellt.
+        </body>
+    </text>
+</TEI>

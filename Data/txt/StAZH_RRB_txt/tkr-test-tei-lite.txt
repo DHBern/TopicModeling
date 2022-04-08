@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 tei_lite.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+ 
+    <teiHeader>
+        <!-- [ TEI Header information ]  -->
+     <fileDesc>
+         <titleStmt>
+             <title>Wetterschaden im Bezirk Hinweil.</title>
+             <respStmt>
+                 <resp ref="#mld" key="transcript">
+                 Transkript: mld
+                 18.09.2009
+                 </resp>
+                <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                
+             </respStmt>
+         </titleStmt>
+        
+         <publicationStmt>
+             <authority>Staatsarchiv des Kantons Zürich</authority>
+             2009
+             <pubPlace>Zürich</pubPlace>
+         </publicationStmt>
+         
+         <seriesStmt>
+             <title>Regierungsratsbeschlüsse seit 1803 online</title>
+             <editor>Staatsarchiv des Kantons Zürich</editor>
+           </seriesStmt>
+           <sourceDesc>
+               <bibl>
+                   <title>Wetterschaden im Bezirk Hinweil.</title>
+                   01.08.1831
+                   <ident>StAZH MM 2.3 RRB 1831/0846</ident>
+                   <edition>Protokoll des Regierungsrats</edition>
+                   <biblScope unit="volume">3</biblScope>
+                   <biblScope unit="page">6-7</biblScope>
+               </bibl>
+           </sourceDesc>   
+         
+     </fileDesc>   
+        
+        <encodingDesc>
+        <editorialDecl>
+                
+
+                    Die Transkriptionsrichtlinien sind publiziert unter
+                    <ref target="http://www.staatsarchiv.zh.ch/TRANSKRIPTIONSRICHTLINIEN">
+                        URL
+                    </ref>
+                    .
+                
+        </editorialDecl>
+        </encodingDesc>
+        
+        
+    </teiHeader>
+    <text>
+        
+        <body>
+            <!-- [ body of text ... ]  -->
+            
+            
+
+                Mit Zuschrift vom 30sten v. M. erstattet das Statthalteramt Hinweil Bericht von dem Wetterschaden, 
+                der am 29sten Abends mehrere Gemeinden des dasigen Bezirks betroffen, so wie von den Verfügungen, 
+                welche es zu Erleichterung der Geschädigten sofort erlaßen.
+            
+
+                Nach Anhörung dieses Schreibens
+            
+                haben UHHerren beschloßen, dasselbe dem L. Rathe des Innern zur Benutzung bey seinem Gutachten
+                über die Wetterschäden im Allgemeinen zu überweisen, dem L. Statthalteramte Hinweil aber der Dank
+                für die bewiesene Sorgfalt zu bezeugen, mit der Bemerkung, daß man ihm mit Vertrauen die weitere
+                Anordnungen überlaße und seine dießfälligen Berichte gewärtige.
+            
+            
+        </body>
+        
+    </text>
+</TEI>
+
+<!-- 
+Mögliche Textauszeichnungen:
+<sic />
+evtl. noch Ergänzungen in Klammern (kläre ich noch ab)
+
+Seitenumbruch:
+// [p. XXX(1-3 Stellen)]
+
+Diskutieren:
+- Umgang mit Tabellen
+
+
+-->

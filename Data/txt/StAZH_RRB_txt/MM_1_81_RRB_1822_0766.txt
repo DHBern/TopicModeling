@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Regierung von St. Gallen berichtet, daß Baptist Helbling von
+                    Rapperschweil, welcher die Magdalena Bleuler in Enge geschwängert, kein Vermögen
+                    besitze.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Regierung von St. Gallen berichtet, daß Baptist Helbling von
+                        Rapperschweil, welcher die Magdalena Bleuler in Enge geschwängert, kein
+                        Vermögen besitze.</title><date when="1822-10-01"
+                        >01.10.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0766</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page">25</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Ein Schreiben d. d. 28sten passati, mit
+                welchem die Regierung des Lbl. Standes St. Gallen nachträglich
+                die Anzeige macht, daß zufolge eingezogener Erkundigungen der in Wien befindliche
+                    Steinmetz
+                Baptist
+                Helbling von Rapperschweil, welcher die
+                    Magdalena
+                Bleuler in Enge geschwängert, kein
+                Vermögen besitze, und sich also die Geschwächte mit ihren Unterstützungsforderungen
+                an denselben persönlich wenden müße, wird dem Lbl. Ehegericht
+                angemeßener Mittheilung an die Bleuler überwiesen.
+        </body>
+    </text>
+</TEI>

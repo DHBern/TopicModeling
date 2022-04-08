@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der vorörtliche Staatsrath zeigt an, daß Se. Majestät, der König von Preußen,
+                    in Carlsruhe angelangt seye, und von da, auf noch nicht bekannter Rute nach
+                    Verona reisen werde.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Der vorörtliche Staatsrath zeigt an, daß Se. Majestät, der König von
+                        Preußen, in Carlsruhe angelangt seye, und von da, auf noch nicht bekannter
+                        Rute nach Verona reisen werde.</title><date when="1822-10-01"
+                        >01.10.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0765</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >24–25</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da der vorörtliche Staatsrath den betreffenden Eydsgenößischen Ständen
+                mit Begleit d. d. 30sten passati, eine Zuschrift des
+                Königl. Preußischen Gesandten, Herrn Grafen von Meuron, mittheilt, welche, unter
+                Anzeige, daß Se. Majestät, der König von Preußen, den <date
+                    when="1822-10-27">27sten</date> in Carlsruhe angekommen seye, und von da, auf
+                noch nicht bekannter Rute (incognito unter dem Nahmen eines Grafen von Ruppin) nach
+                    Verona reisend, vielleicht über Schweizerisches
+                Territorium gehen werde, dafür ansucht, daß in sich ereignendem Falle zu
+                Erleichterung und Beschleunigung der Reise Sr. Majestät das möglichste beygetragen,
+                indeßen aber das Incognito respectirt werden möchte, so ertheilen UHHerren und Obern
+                der Lbl. Kantons-Policey-Commißion den Auftrag, die nöthigen Veranstaltungen zu
+                treffen, damit diesem Begehren erforderlichen Falls in
+                hiesigem Kanton entsprochen würde.
+        </body>
+    </text>
+</TEI>

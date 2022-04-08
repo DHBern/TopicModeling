@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zug signalisiert den flüchtigen, eines meuchelmörderischen Angriffs
+                    verdächtigen Leonz Lüthard.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-03-07"
+                            >07.03.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Zug signalisiert den flüchtigen, eines meuchelmörderischen Angriffs
+                        verdächtigen Leonz Lüthard.</title><date when="1806-11-01"
+                        >01.11.1806</date><ident>StAZH MM 1.20 RRB
+                        1806/1249</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.20</biblScope><biblScope unit="page">1</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Das von dem Lobl. Stand Zug unterm <date
+                    when="1806-10-23">23sten passati</date> eingesandte Signalement des
+                    Leonz Lüthards, des Danielen jüngeren Sohn von
+                Merischwanden, Kantons Aargau, welcher sich eines am <date when="1806-11-21">21sten
+                    dieß</date>, Nachts um circa 9. Uhr, verübten gewalttätigen, mit drey sehr
+                gefährlichen Meßerstichen verbundenen meuchelmörderischen Angriff auf offenem Felde,
+                gegen den Herren Cantonsrath Jacob
+                Sutter von Hünenberg, als dieser auf
+                seinem Heimweg begriffen war, höchst verdächtig gemacht, und seither aus dieser
+                Gegend geflüchtet hat, – wird der Justiz- und Polizey-Commißion
+                und der Landjäger-Commißion zur Mittheilung an die Herren Statthalter und an das
+                Landjäger-Corps, mit der ferneren Einladung communiciert, die erforderlichen Befehle
+                zu ertheilen, damit auf den Lüthard genau geachtet, derselbe auf
+                Betreten angehalten und dem Lob[lichen] Stand Zug sicher
+                verwahrt überliefert werde. Der Regierung dieses Cantons wird die getroffene
+                Verfügung (laut Mißiven) notificiert.
+        </body>
+    </text>
+</TEI>

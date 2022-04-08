@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorörtliche Mittheilung, betreffend das Ableben der Erzherzogin Henriette von
+                    Oesterreich, und des Landgrafen G. Carl von Heßen.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-07-20"
+                            >20.07.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Vorörtliche Mittheilung, betreffend das Ableben der Erzherzogin
+                        Henriette von Oesterreich, und des Landgrafen G. Carl von
+                        Heßen.</title>23.02.1830<ident>StAZH MM 1.109
+                        RRB 1830/0162</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.109</biblScope><biblScope
+                        unit="page">256–257</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Im Begleite eines Kreisschreibens vom <date when="1830-02-17">17. d.
+                    M.</date> läßt der Hohe Vorort Bern sämmtlichen Ständen
+                zwey Notificationsschreiben vom 31sten Jenner und
+                    2ten
+                Hornung zugehen, durch welche einerseits Ihro Majestät, der
+                    Kaiser von Oesterreich, die
+                Eidgenoßenschaft von dem Tode der Frau Erzherzogin Henriette,
+                gebornen Prinzeßin von Naßau, anderseits der Großherzog von Heßen Königl. Hoheit von
+                dem Ableben Sr. Durchlaucht, des Landgrafen Georg
+                Carl von Heßen, in Kenntniß setzt.
+            
+Diese Mittheilung wird dem Hohen Vororte laut Mißiven verdankt.
+        </body>
+    </text>
+</TEI>

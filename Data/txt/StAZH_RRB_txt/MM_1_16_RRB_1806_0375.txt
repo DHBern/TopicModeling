@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Das Gutachten der Commißion des Inneren, betreffend die Einzugsgebühren in den Gemeinden unsers Cantons, wird auf den Canzleytisch gelegt.
+Das (in Folge Rathserkanntnuß vom 31sten Decembris a. p.) hinterbrachte Gutachten der Commißion des Inneren, vom 19ten dieß, enthaltend die Bestimmung der Einzugsgebühren für die Gemeinden unsers Cantons, wurde auf den Canzleytisch gelegt, um in einer folgenden Sitzung, in Berathung genohmen zu werden.

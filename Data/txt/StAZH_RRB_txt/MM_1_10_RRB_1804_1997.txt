@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Edictal-Citation von Jestetten, durch das Bezirksgericht Bülach
+                    eingesandt.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-03-08"
+                            >08.03.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Edictal-Citation von Jestetten, durch das Bezirksgericht Bülach
+                        eingesandt.</title>06.12.1804<ident>StAZH MM
+                        1.10 RRB 1804/1997</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.10</biblScope><biblScope
+                        unit="page">235</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die von dem Fürstlich Schwarzenbergischen Oberamtsverweser zu Jestetten
+                unterm 27sten passati ausgefertigte Edictal-Citation
+                für die Creditoren verschiedener Schuldenmaßen zu Jestetten und Lotstetten, welche
+                von dem Bezirksgericht
+                Bülach unterm 4ten dieß dem
+                    Kleinen Rathe eingesendet worden ist, wird dem hießigen
+                Stadtgericht zu Besorgung der gewohnten Publikation überwiesen, und dem
+                Bezirks-Gericht Bülach von dieser Verfügung Kenntniß
+                gegeben.
+        </body>
+    </text>
+</TEI>

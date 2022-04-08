@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht über das Sanitätswesen; – das Sanitätskollegium soll in seinen
+                    Verrichtungen einstweilen fortfahren.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-03"
+                            >03.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Bericht über das Sanitätswesen; – das Sanitätskollegium soll in seinen
+                        Verrichtungen einstweilen fortfahren.</title><date when="1803-04-25"
+                        >25.04.1803</date><ident>StAZH MM 1.1 RRB
+                        1803/0006</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.1</biblScope><biblScope unit="page">3–4</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Kleine Rath hat mit Intereße den umständlichen
+                Bericht des Sanitäts-Kollegii vom 23sten
+                dieß über die gegenwärtige Lage des Sanitätswesens angehört und
+                beschloßen, daßelbe, unter beßter und verbindlichster Verdankung seiner schon
+                vieljährig geleisteten geschikten und eifrigen Dienste, aufzufordern, mit eben der
+                rühmlichen Thätigkeit und Sorgfalt, seine gemeinnützigen Verrichtungen so lange auf
+                den bisherigen Fuß fortzusetzen, und in seiner gegenwärtigen
+                Stellung zu verbleiben, bis die Organisation der verschiedenen Departements und
+                Regierungsstellen vollendet, und auch in Absicht auf die Besorgung des
+                Sanitätswesens das Nähere festgesetzt seyn wird. Zu diesem Ende hin wird das
+                Sanitätskollegium, wegen Execution seiner Verfügungen, in wichtigen Fällen sich an
+                diese Behörde mit vollem Zutrauen wenden.
+        </body>
+    </text>
+</TEI>

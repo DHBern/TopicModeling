@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Überweisung des von dem Großen Rathe nicht angenohmenen Gesetzes-Vorschlags einer Bevogtigungsordnung an die Organisationskommißion.
+Nach geschehener Einfrage des HH[errn] Amtsburgermeisters in Betreff des, von dem Großen Rathe unterm 17ten dieß nicht angenommenen Gesetzesvorschlags einer Bevogtigungsordnung, wurde mit  Mehrheit beschloßen, diesen Gesetzesvorschlag der Organisationskommißion zu überweisen, damit dieselbe sich bemühe, dieser Behörde einen Antrag zu hinterbringen, wie der gedachte Gesetzesvorschlag in Bezug auf die seiner Nichtannahme zum Grund gelegenen Desiderien der Majorität des Großen Raths zu modificiren seyn möchte.

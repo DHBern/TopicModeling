@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fortsetzung der Berathung des neuen Gesetzesentwurfs über die
+                    Handelsabgabe.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: <date when="2010-08-03"
+                        >03.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Fortsetzung der Berathung des neuen Gesetzesentwurfs über die
+                        Handelsabgabe.</title>09.11.1822<ident>StAZH
+                        MM 1.81 RRB 1822/0873</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.81</biblScope><biblScope
+                        unit="page">148</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Berathung des Entwurfs eines neuen Gesetzes über die Handelsabgabe,
+                wurde fortgesetzt, und erstreckte sich über die §§. 3. 4. 5. 6. – und 7. deßelben;
+                wovon die vier ersten theils nach dem Antrag, theils mit den im Entwurf bemerkten
+                Modificationen angenommen wurden. In Absicht auf den <date when="1822-11-07"
+                    >7ten</date> §. wurde mit Mehrheit erkennt, daß statt desselben in das neue
+                Gesetz die vom Kaufmännischen Directorium vorgeschlagene Bestimmung aufgenommen
+                werde, daß der wirklichen Zahlung der Handelsabgabe, eine Declaration der
+                Handelsleute und Fabricanten, wie viel sie bezahlen wollen, vorangehen, und dann auf
+                diese Declarationen hin die Taxation der Untersuchung gegründet werden soll. MHHerr
+                Rathsherr Hirzel wurde eingeladen, auf diesen Grundsatz die
+                dahin einschlagenden §§. zu redigiren und solche dieser Behörde zu weiterm Entscheid
+                vorzulegen.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Die Vorsteher der Kaufmannschaft zu Winterthur zeigen die daselbst ernannten Deputirten auf den Handelscongreß in Zürich an.
+Das Schreiben der Vorsteher der Kaufmannschaft zu Winterthur vom 13ten dieß enthält die Anzeige, daß zu dem von der Regierung des Kantons St. Gallen in hier veranstalteten Kongreß von Handelsleuthen, wegen des nachtheiligen fränkischen Zollerhöhungs[-]Dekrets vom 6. Brumaire, aus der Mitte des dortigen Vorsteherkollegii Herr Präsident Andreas Biedermann und aus der Mitte des Handelsstandes H[err] Johann Jakob Rieter, Friedensrichter und Mitglied des kaufmännischen Vorsteher[-]Collegii zu Deputierten erwählt worden seyen; wobey es lediglich sein Bewenden hat.

@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Feststellung d. Bauordnung für die Lindstraße u. die Haldengutstraße in Winterthur.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn16.07.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Feststellung d. Bauordnung für die Lindstraße u. die Haldengutstraße in Winterthur.</title>20.07.1861<ident>StAZH MM 2.153 RRB 1861/0973</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.153</biblScope><biblScope unit="page">112–116</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Betreffend die Bauordnung für die Lindstraße u. die Haldengutstraße in Winterthur
+hat sich ergeben:
+A. Mit Schreiben vom 3 Heumonat v. Js. legte der Stadtrath von Winterthur die nachstehende Bauordnung dem Regierungsrathe zur Genehmigung vor u. erneuerte dieses Gesuch mit Schreiben vom 8 März l. Js.
+Bauordnung
+für die Lindgasse in Winterthur.
+(vergleiche Gesetz betreffend die Anlegung von Gassen auf dem Schanzengebiet u. in den Umgebungen von Zürich d. d. 19 Dezember 1834; Gesetz betreffend einen Zusatz zu diesem Gesetze, d. d. 10 November 1836; Beschluß des Regierungsrathes  betreffend die Lindgasse d. d. 14 April 1860)
+§ 1.
+Für die Strecke der Lindgasse vom ehemaligen Nägelithürli bis zur Eisenbahn gelten folgende Bestimmungen:
+Die Hauptseite der Gebäude ist 15 Fuß von der äußern Grenzlinie des Trottoirs u. parallel mit diesem oder der Sehne desselben aufzuführen; alle auf diese Baulinie zu errichtenden Gebäude aus anderm Material müssen mindestens 30 Fuß von der äußern Trottoirlinie entfernt übrigens gleichfalls mit der Hauptseite parallel zu derselben gestellt werden.
+Wohngebäude dürfen nur auf der normalen Baulinie (15 Fuß von der äußern Trottoirlinie und bloß aus Mauerwerk erbaut werden.)
+Diese Vorschriften gelten auch für den südlich von dem Eisenbahnübergang befindlichen Theil der Haldengutstraße mit der Modifikation jedoch, daß die Normaldistanz für Wohngebäude auf 12 Fuß festgesetzt wird.
+§ 2.
+Für die Strecke der Lindstraße von der Eisenbahn bis zum Fuß des Rosenberges gelten folgende Bestimmungen.
+Die Hauptseite des Gebäudes ist 15 Fuß von  der Straßenlinie und parallel mit dieser aufzuführen, Schöpfe, Scheunen, Stallungen dürfen auf die gleiche Linie oder in beliebiger größerer Entfernung jedoch ebenfalls nur parallel mit der Straßenlinie und mit der Hauptseite gegen diese gerichtet, erbaut werden.
+Diese Bestimmungen gelten auch für die im Friedthal zwischen der alten Schaffhauserstraße u. der Lindgasse anzulegenden Verbindungsstraße mit der Modifikation, daß die Normaldistanz auf 12 Fuß festgesetzt wird.
+§ 3.
+Da ungeachtet der festgesetzten Normaldistanz in Folge von Niveaudifferenzen die Baulinien von der geraden Linie abweichen könnten, so sind die Baulinien durch das Domainenamt in den Originalplan einzuzeichnen und in jedem einzelnen Fall die Facadenlinie der neu zu errichtenden Gebäude nach diesem Plan zu kontroliren.
+§ 4.
+Auf der ganzen Ausdehnung der Lindgasse dürfen zwischen den Gebäuden und der Straßenlinie oder sonst innerhalb 30 Fuß Entfernung von dieser keine Gruben, Sammler, Düngstätten und dergleichen angebracht werden und ebenso darf das Abwasser von Fabriken, Schüttsteinen,  Düngergruben, Abtritten u. s. f. nicht in den Gassengraben geleitet werden. 
+§ 5.
+Diese Bauordnung ist dem Regierungsrathe zur Genehmigung vorzulegen.
+B. Die Direktion der öffentlichen Arbeiten berichtet:
+Der Regierungsrath hat schon in dem Beschlusse vom 14 April 1860 die Bestimmung aufgenommen, daß die Lindstraße zur Gasse erklärt und für dieselbe eine bestimmte Baulinie aufgestellt werden soll. Was den künftigen Unterhalt derselben betrifft, so ist derselbe durch den genannten Beschluß ebenfalls geordnet.
+Auch diese Bauordnung stimmt zwar nicht mit dem Gassengesetze überein, der Regierungsrath ist jedoch schon in einem frühern Falle von der Ansicht ausgegangen, das Gesetz vom 10 Hornung 1836 verlange nicht die strickte Uebertragung, aller Vorschriften des Gassengesetzes auf eine zur Gasse zu erklärende Straße, sondern gestatte eine drei veränderten Verhältnisse angepaßte analoge Anwendung der Bestimmungen derselben.
+Zu Ausstellungen gibt die Bauordnung nicht Veranlaßung, zumal sie sich in den Hauptbestimmungen an das Straßengesetz an-  schließt, einzig hat der 3t Absatz von § 2 wegzufallen, da eine solche Verbindungsstraße wegen der veränderten Richtung der Lindstraße nicht mehr nöthig wird.
+Ebenso steht nichts entgegen, den Vorschriften für Bauten an der Haldengutstraße, welche bisher als Straße 4t Classe zu betrachten war, die Genehmigung zu ertheilen.
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion der öffentlichen Arbeiten,
+beschließt:
+I. Der vorgelegten Bauordnung wird unter dem Vorbehalte die Genehmigung ertheilt, daß der 3te Satz in § 2 gestrichen werde.
+II. Mittheilung an den Stadtrath von Winterthur durch das Mittel des Statthalteramtes u. an die Direktion der öffentlichen Arbeiten.<p/></body></text></TEI>

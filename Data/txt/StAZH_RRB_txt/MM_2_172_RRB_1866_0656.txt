@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Kirchgede. Dietlikon. Verabreich. e. Staatsbeitrages an d. Kosten e. Straße 3. Kl.</title><respStmt><resp ref="#kn/" key="transcript">Transkript: kn/5..3..2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Kirchgede. Dietlikon. Verabreich. e. Staatsbeitrages an d. Kosten e. Straße 3. Kl.</title>28.04.1866<ident>StAZH MM 2.172 RRB 1866/0656</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.172</biblScope><biblScope unit="page">134–137</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+In Sachen
+der Kirchgemeinde Dietlikon 
+betreffend Bestimmung eines Staatsbeitrages an eine Straßenbaute 3. Klasse,
+hat sich ergeben:
+A. Der Kirchgemeinde Dietlikon wurde vom Regierungsrathe unterm 10. Herbstmonat 1863 ein Staatsbeitrag an die Kosten der Straßenbaute 3. Klasse von der Gemeindsgrenze Bassersdorf über Dietlikon bis an die Hauptstraße von Zürich nach Winterthur zugesichert. Die Straßenbaukommission Dietlikon übermacht nun mit Schreiben vom 2. v. Mts. die Rechnung über diese Straßenbaute u. sucht um Bestimmung u. Verabreichung des zugesicherten Beitrages nach.
+B. Die Direktion der öffentl. Arbeiten berichtet:
+a. Die Gesammtkosten der fragl Straßenbaute belaufen sich nach der vorliegenden Rechnung auf Frk. 31 166.22. Die Rechnung enthält nur zwei Titel, nämlich „Allerlei“ u. „Entschädigungen für Abtretungen“, ist aber von der Inspektion in verschiedene Abtheilungen gesöndert worden, nach welchen die Kosten sich folgendermaßen stellen:
+1.
+Schatzungen, Beihülfe bei den technischen Vorarbeiten u. s. w.
+Fr.
+159.24.
+2.
+Bau des Straßendammes u. der Dolen [Akkordarbeiten]
+“
+12 747.17.
+3.
+Materialankauf für Brunnenleitungen u. s. w.
+“
+159.60.
+4.
+Brechen der Steine zum Steinbett, Kiesreinigen
+“
+1370.60.
+5.
+Taglohnarbeiten auf der Straße
+“
+236.10.
+6.
+Werkgeschirr
+“
+112.95.
+7.
+Schalen u. Ausmarchung
+“
+398.70.
+8.
+Transport des Materials für Fundamentirung u. Bekiesung [Frohnarbeit]
+“
+2939.84.
+
+9.
+Auf- u. Abladen dieses Materials [Frohnarbeit]
+Frk.
+2092.–.
+10.
+Entschädigungen von Privatrechten
+“
+10 288.05.
+11.
+der Nordostbahn an die Kosten der Erstellung der Station Dietlikon
+“
+410.–.
+12.
+Insertionen, Besoldung der Baukommission etc.
+“
+251.87.
+Sa. wie oben
+Frk.
+31 166.22.
+Diese Ausgaben geben zu etwelchen Reduktionen Veranlaßung. Zunächst kann nach der Ansicht der Inspektion das Auf- u. Abladen des Materials [Tit. 9] nicht höher als zu 45 Rp. pr. Fuder angeschlagen werden; diese Arbeit hat demnach nur einen Werth von
+Frk. 1541.48 u. es fallen in Abzug
+Frk.
+550.
+52.
+ferner fällt in Abzug die Ausgabe unter Titel 10 [Zinse für verzögerte Zahlungen]
+“
+402.
+42.
+Desgleichen die unter Titel 11 enthaltene Ausgabe [Beitrag an die Kosten der Bahnstation]
+“
+410.
+–.
+Ebenso die Auslagen für Insertionen u. s. w. [Tit. 12]
+“
+251.
+87.
+Es sind also in Abzug zu bringen
+Frk.
+1614.
+81.
+Die Straße hat eine Länge von 7699 Fuß, der laufende Fuß kostet somit Frk. 3.84.
+Die in den Jahren 1862–1865 von der Staatskasse bestrittenen Ausgaben für technische Vorarbeiten u. Bauaufsicht belaufen sich auf Frk. 684.50.
+b. Die mittlere Quote für Dietlikon beträgt 302 ‰, damit berechnet sich der Staatsbeitrag nach Abzug der Ausgaben für Bau-  aufsicht u. s. f. zu Frk. 8240.03.
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion der öffentl. Arbeiten,
+beschließt:
+1. Der Kirchgemeinde Dietlikon wird an die Kosten des Baues der Straße 3. Klasse von der Gemeindsgrenze Bassersdorf über die Bahnstation Dietlikon bis in die Winterthurer Hauptstraße ein Staatsbeitrag von Frk. 8200 bestimmt.
+2. Mittheilung an die Straßenbaukommission Dietlikon, mit Weglassung von Fact. B. b und unter Rücksendung der Rechnung nebst den Belegen, durch das Mittel des Statthalteramtes; u. die Direktion der öffentl. Arbeiten unter Rückstellung der übrigen Akten.</body></text></TEI>

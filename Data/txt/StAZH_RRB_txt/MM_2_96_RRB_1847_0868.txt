@@ -1,0 +1,9 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Uebesendung v. gerichtl. Aktenstüken durch die K. frz. Gesandtschaft.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn22.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Uebesendung v. gerichtl. Aktenstüken durch die K. frz. Gesandtschaft.</title>29.05.1847<ident>StAZH MM 2.96 RRB 1847/0868</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">251</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Iussu Praesidii
+Actum den 29. May 1847]
+Mit Schreiben vom 27t. d. M. übersendet die K. französische Gesandtschaft vier gerichtliche Aktenstüke für die Herrn 1. Jakob Heinrich Kramer
+	2. Escher-Wyß u. Cu.
+	3. u. 4. J. J. H. Strehler, Kaufmann dahier.
+Es wurden dieselben dem Statthalteramte Zürich zu Handen der betreffenden gegen Insinuationsdokumente, welche der Staatskanzlei einzusenden sind, übermacht.<p/></body></text></TEI>

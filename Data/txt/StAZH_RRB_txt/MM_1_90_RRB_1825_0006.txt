@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Niederlaßungsbewilligung für Herrn Graf von Benzel-Sternau von Mainz.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-05-05"
+                            >05.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Niederlaßungsbewilligung für Herrn Graf von Benzel-Sternau von
+                        Mainz.</title>06.01.1825<ident>StAZH MM 1.90
+                        RRB 1825/0006</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.90</biblScope><biblScope
+                        unit="page">3−4</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Es hat der Kleine Rath, nach Anhörung und in
+                Genehmigung eines Berichts und gutächtlichen Antrags der Lbl. <orgName>Commißion des
+                    Innern</orgName> d. d. 29. passati, dem Herrn
+                Grafen von Benzel Sternau von Mainz, Eigenthümer des Landsitzes Mariahalden in
+                    Erlenbach, die Niederlaßung und den Aufenthalt in dem
+                hiesigen Kanton und der benannten Gemeinde, fürohin und ohne weiter erforderliche
+                periodische Erneuerung ad dies vita, als in so ferne er zugleich Besitzer jenes
+                Landgutes verbleiben wird, bewilligt und zugestanden.
+            
+Hievon wird dem Lbl. Oberamte Meilen zu Handen des Herrn
+                Grafen von Benzel-Sternau und der Gemeinde Erlenbach, unter
+                Beylage einer besondern Ausfertigung gegenwärtiger Erkanntnuß als
+                Niederlaßungsurkunde für den Herrn Grafen Benzel Sternau Kenntniß gegeben.
+        </body>
+    </text>
+</TEI>

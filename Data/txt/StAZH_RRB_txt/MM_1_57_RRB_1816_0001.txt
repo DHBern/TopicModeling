@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reorganisation der Staatscanzley pro Ao. 1816.</title>
+                <respStmt>
+                    <resp ref="#dsa" key="transcript">Transkript: dsa<date when="2010-03-22"
+                            >22.03.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Reorganisation der Staatscanzley pro Ao. 1816.</title><date
+                        when="1816-01-06">06.01.1816</date><ident>StAZH MM 1.57 RRB
+                        1816/0001</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.57</biblScope><biblScope unit="page">1–2</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da die gewöhnlich am letzten Rathstag im Jahr vorgenohmene periodische
+                Erneuerung der Angestellten der Staatscanzley und der sämmtlichen
+                Departemental-Canzleyen, wegen außerordentlichen Zeitumständen und schwankender Lage
+                der Organisation seit dem 29sten Decembris 1812.
+                nicht mehr Statt gefunden hat, und wegen überhäuften Geschäften auch am lezten
+                Sammstag nicht vorgenohmen werden konnte, – so ist heute darzu geschritten, und
+                allervorderst der dießfällige Bericht des HHerrn Staatsschreiber
+                    Lavater vom 30sten Decembris
+                verlesen, und von dem Berichtserstatter annoch näher mündlich erläutert worden. 
+            
+In Folge deßen haben MHochgeachten HHerren und Oberen erkennt: 
+            
+1.) Die beständigen und fix salarierten Canzlisten der Staatscanzley sollen für das
+                Jahr 1816. auf die Zahl von vieren ergäntzt, und zu dem Behuf dem HHerrn
+                Staatsschreiber Lavater bey der Finanzcommißion ein Credit von
+                Frk[en]. 2112. eröffnet werden, die Er quartalsweise in Raten von 528.
+                    Franken zu beziehen hat. 
+            
+2.) Die beyden einzigen, noch übrig bleibenden, aus den bisher von der
+                Regierung anerkannten, beständigen Canzlisten, nämmlich Herr
+                    Heinrich
+                Burkhart von Wipkingen, und Herr Freyhauptmann und
+                Gemeindammann Johannes
+                Widmer von Hottingen, werden auf eingelegtes sehr gutes Gezeugniß
+                bestätiget, und hat jeder von ihnen pro Ao. 1816 einen Gehalt von 576.
+                    Franken zu beziehen.
+            
+3.) Die beyden durch Absterben der Herren Felix
+                Römer und Hs. Jacob Remi erledigten Stellen,
+                wurden aus dem von dem Ersten Staatsschreiber hinterbrachten gedoppelten Vorschlag
+                wiederbesetzt, und einmüthig dem Herrn Elias
+                Heinrich
+                Keller von Rußikon, und dem Herrn Joh.
+                Heinrich
+                Tobler von Zürich, aufgetragen, von denen
+                pro Ao. 1816. jeder 480. Franken zu beziehen hat. 
+            
+4.) Gegenwärtiger Beschluß wird der Finanzcommißion, dem Ersten Staatsschreiber, und
+                den beyden neugewählten Canzlisten zugestellt. 
+        </body>
+    </text>
+</TEI>

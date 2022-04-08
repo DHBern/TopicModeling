@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondenz mit St. Gallen wegen dem einzuführenden gemeineydsgenößischen
+                    Münzfuß.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-04-25"
+                            >25.04.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Correspondenz mit St. Gallen wegen dem einzuführenden
+                        gemeineydsgenößischen Münzfuß.</title><date when="1803-11-01"
+                        >01.11.1803</date><ident>StAZH MM 1.3 RRB
+                        1803/1138</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.3</biblScope><biblScope unit="page">265</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Von der unterm 18ten Octobris
+                eingekommenen Zuschrift des Kleinen Raths des Cantons St.
+                    Gallen, worinn derselbe die ihm unterm <date
+                    when="1803-10-13">13ten passati</date> gemachte Mittheilung desjenigen, was
+                hießigen Orts bisdahin in Betreff des neu einzuführenden gemeineydsgenößischen
+                Münzfußes vorgegangen ist, – mit der Anzeige verdankt, daß er seine Finanz-commißion
+                beauftragt habe, mit der hießigen über die Ausführung des das Münzwesen betreffenden
+                Beschlußes der Tagsazung in freundschaftliche Mittheilung der dießfalls gegenseitig
+                obwaltenden Begriffe und Ansichten einzutretten, – ist lediglich der
+                Finanz-commißion die dienliche abschriftliche Kenntniß zu geben.
+        </body>
+    </text>
+</TEI>

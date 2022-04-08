@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L. Stand Thurgau macht Einwendungen gegen die von dem hießigen Obergericht
+                    verhängte Bannisation des Conrad Bruggmann von Oberhofen, der Pfarre
+                    Sirnach.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2007-06-11"
+                            >11.06.2007</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>L. Stand Thurgau macht Einwendungen gegen die von dem hießigen
+                        Obergericht verhängte Bannisation des Conrad Bruggmann von Oberhofen, der
+                        Pfarre Sirnach.</title>10.12.1814<ident>StAZH
+                        MM 1.51 RRB 1814/1175</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.51</biblScope><biblScope
+                        unit="page">337–340</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Regierung des L. Standes Thurgau bescheint unterm <date
+                    when="1814-12-09">9ten dieß</date> den Empfang der ihr un- term
+                    3ten dieß mitgetheilten Obergerichtlichen
+                Strafsentenz vom 30sten passati, durch welche der
+                dortige Angehörige Conrad
+                Bruggmann von Oberhofen, wegen begangener
+                Pferde- und Getreidediebstähle auf 6. Jahre aus dem Gebiete der gesammten
+                Eydsgenoßenschaft verbannt ist, in so fern er nicht auf mehrere Jahre in dem Canton
+                Thurgau in eine Corrections-Anstalt versorgt würde. Auf das dießfällige
+                Auslieferungsanerbieten macht die dortige Regierung die Bemerkung, daß sie bey der
+                anerkannten Unmöglichkeit, dergleichen Bannißements in Vollziehung zu setzen, da die
+                Bannisierten bey der wachsamen Polizey im Ausland immer wieder in ihre Heymath
+                zurückgewiesen werden, weil sie als solche mit keinen legalen Päßen versehen werden
+                können, erwartet hätte, daß der Bruggmann in hießigem Canton, wo
+                er sein Vergehen verübt habe und beurtheilt worden, in eine Corrections-Anstalt
+                abgegeben worden wäre, so wie dieses auch in dem Canton Thurgau gegen Individuen des
+                hießigen Cantons, die sich durch ihr Vergehen als der bürgerlichen Gesellschaft ge-
+                    fährliche Menschen qualificierten, in ähnlichen Fällen ausgeübt
+                worden. Wenn aber gleichwohl auf dem Bannißement beharret werden wolle, so bleibe
+                der dortigen Regierung nichts anderes übrig, als den Vorbehalt zumachen, den
+                bannisierten Bruggmann, wenn er von den auswärtigen
+                Polizeybehörden in den Canton Thurgau zurückgewiesen würde, wieder in denjenigen
+                Canton zu lieferen, in welchem das Bannißements-Urtheil über ihn ausgefällt worden.
+                Diese Antwort des L. Standes Thurgau ist dem Obergericht
+                abschriftlich mitzutheilen, mit dem Beyfügen, daß die darin bemerkten
+                Schwierigkeiten in der Handhabung der Execution der Bannisierung von
+                Schweizerbürgeren außer die Eydsgenoßenschaft – indem nämlich bey der Wachsammkeit
+                der Polizey in den benachbarten fremden Staaten die Rückweisung solcher Bannisierten
+                zu erwarten wäre – den Kleinen Rath veranlaßen, mit der
+                gegenwärtigen Communication das Ansuchen zu verbinden, daß es dem
+                    Obergericht gefällig seyn möchte, die dießfalls
+                gegen den Bruggmann verhängte Strafbestimmung, nach anwohnender
+                Klugheit und Gerechtigkeit zu modificieren; und der Kleine Rath
+                wolle die guterachtenden Verfügungen des Obergerichts
+                gewärtigen.
+        </body>
+    </text>
+</TEI>

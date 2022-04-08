@@ -1,0 +1,15 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Recharge an den Bez. Rath Hinweil in S. des Gemdrths Fischenthal betr. Verhängung d. Vormundschaft üb. [Jakob] Mahler, ab dem Oberberg, Fischenthal.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn15.07.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Recharge an den Bez. Rath Hinweil in S. des Gemdrths Fischenthal betr. Verhängung d. Vormundschaft üb. [Jakob] Mahler, ab dem Oberberg, Fischenthal.</title>19.07.1861<ident>StAZH MM 2.153 RRB 1861/0966</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.153</biblScope><biblScope unit="page">100–101</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Praesidial-Verfügungen.
+Actum den 19 Juli 1861.]
+In Sachen des Gemeindrathes Fischenthal Rekurrenten gegen einen Beschluß des Bezirksrathes Hinweil, –
+betreffend Verhängung der Vormundschaft über Jakob Mahler ab dem Oberberg, Gemde Fischenthal,  
+hat sich ergeben:
+A. Durch Beschluß des Regierungsrathes vom 8 v. Mts. wurden die Akten dem Bezirksrathe Hinweil zurückgestellt mit der Einladung an letztern, die von dem Gemeindrathe Fischenthal in seinem Rekurse angeführten neuen Thatsachen zu erhärten u. je nach dem Resultate dieser Untersuchung u. Prüfung, falls es nöthig oder angemessen erscheint, entweder einen neuen Beschluß in Sachen zu fassen, oder dem Regierungsrathe einen auf die Sache näher eingehenden Bericht zu erstatten, je unter Rücksendung der Akten.
+B. Seither ist weder eine neue Schlußnahme noch eine Berichterstattung von Seite des Bezirksrathes Hinweil eingelangt.
+Dennoch hat das Präsidium des Regierungsrathes,
+nach Einsicht eines Antrages der Direktion der Justiz, Abtheilung Vormundschaftswesen,
+verfügt:
+I. Sei der Bezirksrath Hinweil wiederholt zu beförderlicher Fassung einer neuen Schlußnahme resp. zu beförderlicher Berichterstattung eingeladen.
+II. Mittheilung a. an den Bezirksrath Hinweil, b. an die Direktion der Justiz, Abtheilung Vormundschaftswesen. <p/></body></text></TEI>

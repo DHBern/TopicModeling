@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Recepiße der Stände Aargau und Luzern wegen der unbekannten stummen Weibsperson in hiesigem Spital.
+Die Recepiße der Regierung der Kantone Aargau und Luzern, auf die dießörtige Zuschrift vom 3ten dieß, in Betreff einer, dem hiesigen Spital zugeloffenen stummen Weibsperson, bedürfen keiner Verfügung. 

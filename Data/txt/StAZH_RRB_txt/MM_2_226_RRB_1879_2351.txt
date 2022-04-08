@@ -1,0 +1,12 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Dr Aebli, Honorar als Stellvertreter d. Staatsanwaltschaft.</title><respStmt><resp ref="#lhr" key="transcript">Transkript: lhr28.04.2015</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2015<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Dr Aebli, Honorar als Stellvertreter d. Staatsanwaltschaft.</title>08.11.1879<ident>StAZH MM 2.226 RRB 1879/2351</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.226</biblScope><biblScope unit="page">373</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Der Regierungsrath hat,
+in Sachen des Advokat Dr Aebli, dahier,
+betreffend dessen Honorirung als Außerordentlicher Stellvertreter der Staatsanwaltschaft,
+da sich ergeben:
+Zufolge Beschlusses des Regierungsrathes vom 17. Juli bekleidete Advokat Dr Aebli im Sinne der §§ 74 und 1153 des Gesetzes betr. die Rechtspflege für die Dauer vom 30. Juli bis 27. August d. Js, die Stelle eines außerordentlichen Stellvertreters der Staatsanwaltschaft und es beantragt Hr. Staatsanwalt Dr Kappeler das betreffende Honorar à raison der Besoldung des I. Staatsanwaltes von jährlich Fr. 4500 auszumessen, welches demnach Fr. 345 35 Rp. betragen würde;
+nach Einsicht eines Antrages der Justiz- & Polizeidirektion,
+beschlossen:
+I. Sei das Honorar des Advokat Dr Aebli für außerordentliche Stellvertretung der Staatsanwaltschaft nach Maßgabe der Besoldung des I. Staatsanwaltes auf Fr. 345 35 Rp. festgesetzt.
+II. Mittheilung an die Direktion der Finanzen zu Handen der Staatskasse behufs Ausrichtung & an Dr Aebli. <p/></body></text></TEI>

@@ -1,0 +1,24 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes:</title><respStmt><resp ref="#rgr" key="transcript">Transkript: rgr15.01.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority><pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes:</title>02.08.1834-14.10.1834<ident>StAZH MM 2.19 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.19</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+MHHerr Conrad Melchior Hirzel von Zürich, Amtsbürgermeister.
+MHHerr Joh. Jacob Heß von Zürich, Bürgermeister.
+MHHerr Johannes Hegetschweiler von Stäfa, M. D.
+MHHerr Ludwig Meyer von Knonau.
+MHHerr Caspar Pfenninger von Stäfa.
+MHHerr Eduard Sulzer von Winterthur.
+MHHerr Heinrich Hüni von Horgen.
+MHHerr Melchior Sulzer von Winterthur.
+MHHerr Hartmann Keller von Glattfelden.
+MHHerr Ulrich Hauser von Wädenschweil.
+MHHerr Hs. Jacob Huber von Dielstorf.
+MHHerr Heinrich Schinz von Zürich.
+MHHerr Heinrich Rüegg von Bauma.
+MHHerr Joh. Jacob Fierz von Küßnacht.
+MHHerr David Bürgi von Adentschweil.
+MHHerr Heinrich Hotz im Balgrist.
+MHHerr Heinrich Escher von Zürich.
+MHHerr Heinrich Schäppi von Wipkingen.
+Staatsschreiber.
+MHHerr Heinrich Hottinger von Zürich, des Großen Rathes, Erster Staatsschreiber.
+MHHerr Georg Finsler von Zürich, des Großen Rathes, Zweyter Staatsschreiber.
+MHHerr Joh. Conrad Meyer von Knonau, dritter Staatsschreiber.</body></text></TEI>

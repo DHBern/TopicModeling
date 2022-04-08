@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Recepiße des Standes Fryburg für die Verordnung wegen des französischen Viehaufkaufs in der Schweiz.
+Das Recepiße der Regierung des Kantons Fryburg vom 13ten dieß für die unterm 3ten dieß derselben mitgetheilte Verordnung den französischen Viehaufkauf in der Schweiz betreffend, bedarf keiner Verfügung.

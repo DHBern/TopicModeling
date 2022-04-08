@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ernennung des Herrn Pfarrer Oeri zu Erlenbach zum Pfarrer nach Wyl auf
+                    Absterben Herrn Pfarrer Frießen sel[igen].</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-02-04"
+                            >04.02.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Ernennung des Herrn Pfarrer Oeri zu Erlenbach zum Pfarrer nach Wyl auf
+                        Absterben Herrn Pfarrer Frießen sel[igen].</title><date when="1804-11-01"
+                        >01.11.1804</date><ident>StAZH MM 1.10 RRB
+                        1804/1781</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.10</biblScope><biblScope unit="page"
+                    >27–28</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Kleine Rath hat auf die, durch erfolgtes sel[iges]
+                Absterben des Herrn Pfarrer Frieß, erledigten Pfarrpfründe
+                    Wyl auf dem Rafzerfeld, aus dem, unterm <date
+                        when="1804-10-31">31ten pti</date> hinterbrachten 4 fachen Vorschlag des
+                Kirchenraths, bestehend aus
+            
+Herrn Jacob
+                Oeri, Pfarrer zu Erlenbach und
+                    Kirchenrath,
+            
+ “ Friedrich
+                Hottinger, Pfarrer im Eichberg,
+            
+ “ Conrad
+                Schweitzer, Pfarrer zum Kreuz, und
+            
+ “ Conrad Beyel, Pfarrer zu Berneck im
+                Rheinthal
+            
+mit 16. Stimmen zu einem neuen Pfarrer erwählt den
+            
+Herrn Pfarrer und Kirchenrath
+                Jacob
+                Oeri zu Erlenbach.
+            
+Von dieser Ernennung wird nicht nur dem Herrn Pfarrer Oeri,
+                sondern auch Ihro Hochwürden Herrn Antistes Heß und dem Herrn
+                Bezirksstatthalter Angst auf Regensberg,
+                vermittelst Zustellung gegenwärtiger Erkanntnuß, Anzeige gegeben, damit durch Ihro
+                Hochwürden die Geistlichen, und durch den Herrn Bezirksstatthalter
+                    Angst die weltlichen Functionen, auf den durch beliebige
+                Verabredung zu bestimmenden Tag der Installation des neuen Herrn Pfarrers zu
+                    Wyl eingeleitet werden.
+            
+Und da nun durch Beförderung die Pfarrpfründe Erlenbach vacant
+                ist, so wird der Kirchenrath ersucht, dem <orgName>Kleinen
+                    Rath</orgName> einen Vorschlag zu Wiederbesetzung dieser Pfarrpfründe mit
+                Befürderung einzugeben.
+        </body>
+    </text>
+</TEI>

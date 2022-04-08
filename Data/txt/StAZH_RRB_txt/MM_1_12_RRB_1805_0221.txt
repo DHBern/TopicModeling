@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brückenbau von Langnau und dießfällige Unterstüzung der Gemeinden Thalweil
+                    und Langnau.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-29"
+                            >29.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Brückenbau von Langnau und dießfällige Unterstüzung der Gemeinden
+                        Thalweil und Langnau.</title><date when="1805-02-09"
+                        >09.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0221</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >61–63</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung des von der Commißion des Inneren unterm
+                29sten Jenner empfehlend einbegleiteten Berichts
+                und Gutachtens der Section für das Steuer- und Unterstützungs-Wesen, betreffend die
+                bereits sub 28st[en] Junii a. p. von dem Kleinen Rath vorläuffig
+                im Allgemeinen erkennte Unterstüzung der Gemeinden Thalweil und Langnau zum Behuf
+                der Wiederherstellung der Langnauer-Brüke, – wurde beschloßen:
+            
+1o. Den Gemeinden Thalweil und Langnau soll von Obrigkeits wegen, obschon hierzu
+                nicht die ge- ringste Verpflichtung obwaltet, eine milde Unterstüzung
+                von dem Werth von Achthundert Franken zum Behuf der vorhabenden
+                Wiederherstellung der Langnauerbrücke, durch Disposition der
+                    Finanz-Commißion abgereicht werden, und zwar [je nach
+                Befinden der Commißion und vorgenohmener Rüksprache mit den Gemeinden] entweder ganz
+                in Geld, oder zum Theil baar, und zum Theil in
+                Naturalien.
+            
+2o. Dargegen werden die betreffenden Gemeinden verbindlich gemacht, die neu zu
+                erbauende Brücke durchaus nach dem unterm <date when="1805-10-07">7ten
+                    Octobris</date> a. p. von dem Maurer
+                Heinrich
+                Staub von Thalweil eingegebenen, einen Kostensbetrag von 4077 fl.
+                21 ß. zeigenden Plan und Devis errichten zu laßen, nämlich gesprengt, 110. Schuhe
+                lang, 16. Schuh breit, die Wände mit Laden verschlagen, und das
+                Dach gedoppelt mit Ziegeln gedekt.
+            
+3o. Das Baudepartement der Finanzcommißion wird genau darüber wachen, daß der
+                Brückenbau von den betreffenden Gemeinden genau nach dem eingelegten Plan und Calcul
+                bewerkstelliget werde.
+            
+4o. Den Gemeinden Thalweil und Langnau bleibt überlaßen, sich, nach ehevoriger Übung
+                auch bey den Klösteren Wettingen und
+                    Muri, welche in dortiger Gegend beträchtliche Gefälle
+                besitzen, um einige Unterstützung geziemend zu melden.
+            
+5o. Gleichwie dieser Beschluß der Finanzcommißion und dem Baudepartement derselben
+                abschrift- lich zu Handen gestellt wird, also geschiehet solches auch
+                gegen den Herrn Unterstatthalter Ulmer in
+                    Enge, mit dem Auftrag, davon den Gemeinden Thalweil und
+                Langnau die erforderliche Kenntniß zu geben, und auch seines Orts dazu mitzuwirken,
+                daß in allem nach dem vorliegenden Plan gehandelt werde, welcher nebst dem Devis,
+                dem Baudepartement zu Handen gestellt wird.
+        </body>
+    </text>
+</TEI>

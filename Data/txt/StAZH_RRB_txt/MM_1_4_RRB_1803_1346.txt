@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Angaben des Herren Gerichtsschreiber Höhn zu Horgen über seine Einnahmen und Ausgaben vom 6. Julii bis ultimo Novembers.
+Das Schreiben des Herrn Bezirksgerichtschreibers Höhn zu Horgen vom 28ten. November, enthaltend die auftragsmäßige Angabe seiner Gerichtseinnahmen und Ausgaben vom 6ten. Julii a. c. bis Ende November und des erforderlichen Kanzleypersonals, wird der Organisations-Commißion zum Behuf des, wegen der Besoldung der Gerichtschreiber abzufaßenden Gutachtens zu Handen gestellt.

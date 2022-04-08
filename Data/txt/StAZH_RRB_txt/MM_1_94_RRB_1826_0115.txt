@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Eröffnung eines Credits von Frk[en]. 30,832. dem Straßendepartement.</title><respStmt><resp ref="#chs" key="transcript">Transkript: chs01.06.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Eröffnung eines Credits von Frk[en]. 30,832. dem Straßendepartement.</title>11.02.1826<ident>StAZH MM 1.94 RRB 1826/0115</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.94</biblScope><biblScope unit="page">90–91</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Nach Einsicht und Genehmigung der von der Finanz-Commißion mit Weisung vom 1sten d. M. vorgelegten Uebersicht der muthmaaßlichen Kosten, welche sowohl der gewöhnliche Unterhalt, als die Fortsetzung der Correctionen der Heer- und Landstraßen in hiesigem Kanton in diesem Jahr erfordern werden, und die sich, laut nachstehender Specification, nach Abzug der auf circa 9000. Frk[en]. berechneten directen Einnahmen des Straßendepartements, auf Frk[en]. 30,832. belaufen, – wurde der Finanz-Commißion zu Handen des Straßen-Departements für diese Summe von Frk[en]. 30,832. ein Credit bey der Staats-Caßa eröffnet, wovon beyden Lbl. Behörden mittelst Zustellung gegenwärtiger Erkanntnuß Kenntniß ertheilt wird. 
+Uebersicht
+der Kosten, welche der Unterhalt und die Correction der Heer- und Landstraßen im Jahr 1826. erfordern werden.
+Gewöhnliche Ausgaben:
+Frk[en].
+pr. Besoldung der Wegknechte
+“
+7100.
+“
+“
+der Weggeldeinzieher
+“
+1152.
+“
+“
+und Oberaufsicht
+“
+2500.
+“
+Werkzeuge und Geräthschaften
+“
+250.
+Allgemeiner Unterhalt der Straßen.
+Unterhalt der Straße von Zürich bis Rafz
+4000.
+NB. Hiebey sind 400. Fr. begriffen, welche zum Ankauf einer Juchart Grienland solle verwendet werden.
+
+Uebertrag
+Frk[en].
+15,002.
+Unterhalt der Straße von Zürich bis Baßerstorf
+“
+2400.
+Unterhalt der Straße von Baßerstorf bis Winterthur, Frauenfeld und Elgg
+“
+7360.
+NB. Dieser Betrag erscheint etwas höher als voriges Jahr, da wegen naßer Witterung nicht überkieset werden konnte, und dieß Jahr nachgeholt werden muß.
+Unterhalt der Badenerstraße über Dietikon
+“
+2000.
+Unterhalt der Badenerstraße über Höngg
+“
+320.
+Corrections-Arbeiten.
+Fortsetzung der Correction der Schaffhauserstraße
+“
+8,000.
+Da bey der bereits statt gehabten Correction dieser Straße, noch einige Vervollständigungsarbeiten erforderlich sind, welche wegen ungünstiger Witterung nicht vorgenommen werden konnten, voriges Jahr aber Frk[en]. 1550. weniger bezogen worden, als der eröffnete Credit bewilligte, so werden diese hier zu Bewerkstelligung jener Arbeiten nachgeholt.
+“
+1,550.
+Fortsetzung der Correction des Rümiker und Räterscher Straßenbezirks
+“
+3,200.
+Hiebey sind 280. Frk[en]. begriffen, als Beytrag zu Hebung des, die Straße bey der Tößbrugg gefährdenden Bergschlipfs, und die Erweiterung der Steigstraße bey dort Statt gehabtem Bergschlipf.
+39 832.
+Davon ziehen sich ab: die dießjährigen directen Einnahmen, welche ungefähr betragen
+9000.
+Bleibt also dießjähriges Geldbedürfniß
+30,832.<p/></body></text></TEI>

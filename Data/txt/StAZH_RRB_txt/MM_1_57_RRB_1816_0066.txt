@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Entlaßung der Herren Hauptleute Finsler und Hottinger von L.
+                    Succurs-Regiment.</title>
+                <respStmt>
+                    <resp ref="#: d" key="transcript">Transkript: : <date when="2010-03-30"
+                            >30.03.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Entlaßung der Herren Hauptleute Finsler und Hottinger von L.
+                        Succurs-Regiment.</title><date when="1816-01-25"
+                        >25.01.1816</date><ident>StAZH MM 1.57 RRB
+                        1816/0066</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.57</biblScope><biblScope unit="page"
+                    >112–113</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf angehörte Weisung der L. Militär-Commißion vom <date
+                    when="1816-01-20">20sten d. M.</date>, ward sowohl dem Herrn
+                    Conrad
+                Finsler von Zürich,
+                    Hauptmann der Artillerie, als dem Herrn
+                    Jacob
+                Salomon
+                Hottinger von da, Hauptmann
+                der Infanterie, beyde vom L. Succurs-Regiment, deren Entlaßungsgesuch
+                sich bey dem Ersteren auf wesentlich veränderte häusliche Verhältniße, und bey dem
+                Lezteren auf eine erhaltene Anstellung im Ausland, bey beyden zugleich aber überdem
+                auf lange erfüllte gesetzliche Dienstzeit beziehet, – die anverlangte Dimmißion von
+                den dießfalls aufgehabten Stellen, mit dem gedoppelten Auftrag an die L.
+                Militar-Commißion ertheilt, den beyden Entlaßenen die wohlverdienten Abscheide und
+                Danksgezeugniße auf gewohnte Weise zuzufertigen; und bey sich erzeigendem Anlaß den
+                Bedacht auf angemeßenen Gebrauch des Herrn Hauptmanns Finsler bey
+                der Artillerie-Reserve zu richten. Die gegenwärtige Erkanntnuß wird auch dem Herrn
+                Obersten des Succurs-Regiments zugestellt. 
+        </body>
+    </text>
+</TEI>

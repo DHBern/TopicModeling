@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Verwaltungs Kommißion soll einstweilen ihre Geschäfte fortsetzen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-03"
+                            >03.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Verwaltungs Kommißion soll einstweilen ihre Geschäfte
+                        fortsetzen.</title>25.04.1803<ident>StAZH MM
+                        1.1 RRB 1803/0002</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.1</biblScope><biblScope
+                        unit="page">1–2</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Verwaltungs Kommißion soll beauftragt werden, mit ihren
+                bisherigen Geschäften bis zu vollendeter neuer Organisation des Finanzwesens unseres
+                Kantons und der besonders hiermit zu beauftragenden Stelle, fortzufahren, und
+                besonders die noch hängenden Verwaltungsgeschäfte so beförderlich als möglich zu
+                beendigen. Der kleine Rath nährt bey diesem Auftrag die gegründete Überzeugung, daß
+                die Verwaltungs Kommißion demselben mit eben dem Eifer und der rühmlichen Sorgfalt
+                ein Genügen leisten werde, womit sie bisher ihre Arbeiten verrichtet hat.
+        </body>
+    </text>
+</TEI>

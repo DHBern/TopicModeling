@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Endliche Verification der Außagen der in Reichenau inhaftierten Magdalena
+                    Küßeler, betreffend ihre Niederkunft in Pfäffikon.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-10-30"
+                            >30.10.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Endliche Verification der Außagen der in Reichenau inhaftierten
+                        Magdalena Küßeler, betreffend ihre Niederkunft in Pfäffikon.</title><date
+                        when="1804-02-18">18.02.1804</date><ident>StAZH MM 1.5 RRB
+                        1804/0327</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.5</biblScope><biblScope unit="page"
+                    >368–369</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da der Herr Unterstatthalter Wild in Richterschweil
+                [in Folge erhaltener Aufträge vom 7ten. und <date
+                    when="1804-02-11">11ten</date>. Februar] unterm <date when="1804-02-16"
+                    >16ten</date>. ejusdem ein von dem Herren Bezirksammann
+                    Keller in Pfäffikon, Cantons
+                    Schwyz, an das Hochlöbliche Kurfürstlich Badensche
+                Obervogteyamt in Reichenau adreßiertes, die endliche Verification der Außagen der
+                dort arretierten Magdalena Küßeler über derselben um
+                Weihnachten Ao. 1790. in dem Hause eines gewißen Peter Walders
+                zu Pfäffikon erfolgte Niederkunft, enthaltendes Schreiben
+                einsendet; so soll dieses Aktenstük dem erwähnten Kurfürstlich Baadischen Oberamt,
+                unter dem in den Mißiven nachzulesenden Begleitschreiben, – als Antwort auf
+                deßelben, an die hießige Behörde gerichtete Zuschriften vom <date
+                    when="1804-01-30">30ten. Jenner</date>, <date when="1804-02-02"
+                >2ten</date>. und 4ten. Februar – im Original
+                übersandt werden.
+        </body>
+    </text>
+</TEI>

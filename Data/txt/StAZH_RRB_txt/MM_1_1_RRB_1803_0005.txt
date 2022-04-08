@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Districts Commißär Steiner wegen dem Mühlen Streit zu Altikon.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-03"
+                            >03.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Districts Commißär Steiner wegen dem Mühlen Streit zu
+                        Altikon.</title>25.04.1803<ident>StAZH MM 1.1
+                        RRB 1803/0005</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.1</biblScope><biblScope
+                        unit="page">3</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Dem Herrn Districts-Commißarius Dr. Steiner zu
+                    Winterthur, wird auf seine Einfrage vom <date
+                    when="1803-04-16">16. dieß</date>, die Erläuterung gegeben, daß der wegen
+                erfolgter Protestationen gegen alles weitere Fortsetzen der Ausdehnung des
+                Waßerwerks in der Mühle zu Altikon
+                ertheilte Rechtsvorschlag bekräftigt, und das Districts-Gericht von
+                    Andelfingen die kompetierliche Behörde ist, welche über
+                den vorliegenden, durchaus civilrichterlichen Streit zu
+                entscheiden hat.
+        </body>
+    </text>
+</TEI>

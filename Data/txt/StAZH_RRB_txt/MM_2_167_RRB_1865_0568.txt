@@ -1,0 +1,3533 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Erledig. v. Steuerrekursen aus dem Bezirk Zürich.</title><respStmt><resp ref="#: s" key="transcript">Transkript: : sh/.01.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Erledig. v. Steuerrekursen aus dem Bezirk Zürich.</title>28.03.1865<ident>StAZH MM 2.167 RRB 1865/0568</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.167</biblScope><biblScope unit="page">592–611</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Die zur Prüfung & Begutachtung der gegen die Taxationen der Vermögens- & Einkommenssteuer für das Jahr 1864 aus dem Bezirke Zürich eingegangenen Recurse niedergesetzte Commission stellt ihre diesfälligen Antrage & bezieht sich zur Begründung derselben auf die durch die Direktion der Finanzen von den Statthalterämtern eingeholten Gutachten.
+Hierauf hat der Regierungsrath,
+nach Einsicht eines Antrages der verordneten Commission,  
+beschlossen:
+I. Werden die Recurse in nachstehender Weise erledigt:
+Gemeinde
+Name des Recurrenten
+Vermögen
+oder
+Einkommen
+Taxation
+der
+Finanzdir.
+Beschluß
+des
+Reg. Rathes
+1000
+100
+1000
+100
+Zürich
+Bodmer, Cleophea
+V.
+12
+begründet
+   “
+    “        Hch, Kfm
+“
+7000
+7000
+unbegründet
+   “
+    “        Stockar, Hch
+“
+3500
+3500
+id
+   “
+Bürkli gb. Füßli, Wilhelm
+“
+400
+380
+thlw begrdt
+   “
+Däniker, C. Steinmetzmstr
+“
+30
+30
+unbegründet
+   “
+Eink.
+26
+26
+unbegründet
+   “
+    “       J. Conr. Lehrer
+Verm.
+80
+80
+thlw. begrdt
+   “
+Eink.
+5
+3
+thlw. begrdt
+   “
+Fäsi, Fdch, Sattler
+Verm.
+25
+20
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Zürich]
+Fries, Hch. Goldarbtr
+[Verm.]
+25
+20
+id
+   “
+Gaßmann J Jb
+    “
+30
+24
+id
+   “
+Geiger, Jb, Lederhdlr
+    “
+20
+20
+unbegründet
+   “
+Glättli, Carl     id
+    “
+5
+2
+thlw. begründet
+   “
+Grob, Hch, Prof.
+Eink.
+34
+30
+begründet
+   “
+  “     Ulrich, Hch, Bäcker
+Verm.
+10
+10
+unbegründet
+   “
+Eink
+12
+12
+unbegründet
+   “
+Gysi, Mart. Kfm.
+Verm.
+300
+270
+thlw. begrdt
+   “
+Hanke, Franz. Bchhdlr
+   “
+40
+40
+unbegründet
+   “
+Henggeler-Schmid
+   “
+500
+250
+thlw. begrdt
+   “
+Keller, Hch, Kunstverleger
+   “
+17
+17
+unbegründet
+   “
+Kuhn, Math. Schreiner
+Eink.
+35
+30
+begründet
+   “
+Lamprecht, Hch, Weinhdlr
+Verm.
+30
+30
+thlw id
+   “
+Eink.
+10
+8
+thlw id
+   “
+Landis, Joh. Hch. Vater
+Verm.
+40
+40
+unbegründet
+   “
+Meyer, Franz, Notar
+   “
+250
+250
+id
+   “
+Niedermann, Balt. Glaser 
+Eink.
+14
+10
+begründet
+   “
+Notz, Hch, a. Bez Richter
+Verm.
+90
+70
+id
+
+Zürich
+Nüscheler, Dav. Oberstl.
+Verm.
+300
+300
+unbegründet
+   “
+Pestalozzi-Hirzel, Sal.
+   “
+500
+350
+begründet
+   “
+Römer, Hch
+   “
+50
+32
+thlw. id
+   “
+    “      Ulrich, Melchior
+   “
+150
+115
+id
+   “
+Rüegg, Rud. Weinschenk
+   “
+10
+3
+id
+   “
+Schuhmacher, Hch. Schlossermstr
+   “
+35
+35
+unbegründet
+   “
+Eink.
+30
+30
+unbegründet
+   “
+Schweizer, Wittwe gb. Debrunner
+Verm.
+–
+–
+10
+id
+   “
+Stadler-Vogel, Carl
+   “
+100
+50
+begründet
+   “
+Staub-Abegg, Bernh. Weinhdlr
+   “
+200
+170
+thlw. id
+   “
+Tobler, C. Messerschmid
+   “
+25
+25
+unbegründet
+   “
+Trümpler-Greuter C. Kfm.
+   “
+600
+500
+thlw. begründet
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Zürich]
+Uster, Johs
+[Verm.]
+1
+2
+–
+–
+id
+   “
+Eink.
+6
+6
+id
+   “
+Vogel, Georg, Hafner
+Verm
+24
+24
+unbegründet
+   “
+Weber, Jb, Gastw.
+   “
+25
+25
+id
+   “
+Eink
+32
+32
+id
+   “
+Wild, Johs Kfm.
+Verm.
+500
+400
+begründet
+   “
+Zundel, Johs
+   “
+90
+70
+thlw. id
+   “
+Zeeb, Rosina
+   “
+5
+5
+5
+3
+id
+   “
+Schweiz. Rentenanstalt
+   “
+165
+150
+thlw id
+   “
+Alder, Carl Metzger
+   “
+1
+5
+id
+   “
+Eink.
+5
+5
+id
+   “
+Ammann, Jb. Mobilienhdlr
+Verm.
+14
+10
+id
+   “
+Binder, J J. Inspektor
+Verm.
+5
+3
+thlw. id
+   “
+Bleuler, Jb. Polizeidiener
+   “
+5
+–
+–
+id
+   “
+    “       Felix
+   “
+10
+10
+unbegründet
+   “
+Böppli, Gottfr. Notar
+   “
+20
+20
+id
+   “
+Brändli, Jb, Waibel
+   “
+5
+2
+begründet
+
+Zürich
+Diener, Hch, Mechaniker
+Verm.
+30
+30
+unbegründet
+   “
+Dürr-Hotz, C
+   “
+30
+25
+begründet
+   “
+Egli-Schärer, Hch
+   “
+10
+10
+unbegründet
+   “
+Eichenberger, Rud.
+   “
+8
+8
+id
+   “
+Eink.
+10
+10
+id
+   “
+Erni, Diethelm
+   “
+10
+7
+thlw. begründet
+   “
+Fahrner-Häusler
+Verm.
+15
+12
+id
+   “
+Gamper, Ulr. Schlosser
+   “
+9
+2
+9
+2
+unbegründet
+   “
+Geering, H. Metzger
+   “
+20
+18
+thlw. begrdt
+   “
+Gut, Joh. Part
+   “
+10
+5
+id
+   “
+Hämiker, [?Leenh]-Einnehmer
+   “
+15
+10
+id
+   “
+Hardmeier R. Gustav.
+   “
+20
+20
+unbegründet
+   “
+      “        Hch.    “
+   “
+20
+20
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Zürich]
+Hasler, Rud. Portier
+[Verm.]
+18
+15
+begründet
+   “
+Helbling, Spengler
+   “
+40
+30
+thlw. id
+   “
+Honegger, Jb. Handelsm.
+   “
+15
+15
+unbegründet
+   “
+     “       -Denzler, Joh. Kfm
+   “
+20
+15
+thlw. begrdt
+   “
+Hüni-Burkhardt, [?Clavierf.]
+   “
+110
+100
+id
+   “
+Jucker Dr Prok.
+   “
+10
+6
+id
+   “
+Eink
+25
+20
+id
+   “        B
+Willner, Buchbinder
+Verm.
+20
+20
+unbegründet
+   “
+Knosp Carl
+   “
+35
+35
+id
+   “
+Koller, Maria Barb.
+Eink.
+3
+–
+–
+begründet
+   “
+Kraut, J J.
+Verm.
+20
+20
+unbegründet
+   “
+Meili, Rud. Schneider
+   “
+6
+–
+–
+begründet
+   “
+Meier, Jb. Part
+   “
+36
+30
+id
+   “
+Pfenninger, Paulina
+E.
+8
+6
+thlw. id
+
+Zürich
+Müller geb. Schmid, Maria
+Verm.
+40
+40
+unbegründet
+   “
+Nötzli, Hch Wirth
+   “
+15
+10
+begründet
+   “
+Ochsner, Melchior
+   “
+50
+30
+thlw. id
+   “
+Pfenninger Louise
+Eink.
+4
+4
+unbegrdt
+   “
+Pfrunder, Johs, Zimmermster
+  “
+35
+30
+thlw. bgrdt
+   “
+Ryffel, Jb. Weinhdlr
+Verm.
+20
+18
+id
+   “
+Schenkel, Johs. Gassenbesetzer
+   “
+10
+10
+id
+   “
+Eink.
+15
+10
+id
+   “
+Schmid, Aug. Wirth
+Verm.
+20
+15
+id
+   “
+Eink.
+20
+20
+id
+   “
+Schnurrenberger, Casp. Wirth
+Verm.
+15
+10
+id
+   “
+Schölly, C.
+   “
+13
+13
+id
+   “
+Eink.
+5
+–
+–
+id
+   “
+Spiehlmann, Hch Sattler
+Verm.
+20
+20
+unbegründet
+   “
+Stadelmann gb. Wehrli
+   “
+7
+7
+thlw. bgrdt
+   “
+Eink.
+8
+–
+thlw. bgrdt
+   “
+Syz, Johs Kfm.
+Verm.
+200
+150
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Zürich]
+Wanger, Hch, Kfm.
+[Verm.]
+50
+25
+id
+   “
+    “        Jb,      “
+   “
+50
+25
+id
+   “
+Wanner, Hch. Wirth
+   “
+20
+16
+id
+   “
+Weber, J Jb Einkärner
+   “
+17
+17
+unbegründet
+   “
+Wenny, J.
+Eink.
+20
+–
+–
+begründet
+   “
+Wild-Isler, Kfm,
+Verm.
+52
+52
+unbegründet
+   “
+Zimmermann, Carl
+   “
+220
+220
+id
+   “
+Zürcher, Johs, Weinhdlr
+   “
+125
+125
+id
+   “
+Zuppinger-Zollinger Hch
+   “
+20
+20
+id
+   “
+Albrecht, Jb, Lokomotivf.
+E.
+8
+6
+begründet
+   “
+Basler, C.
+Verm.
+3
+2
+id
+Albisrieden
+Haller, Jb
+   “
+30
+30
+unbegründet
+       “
+Eink.
+10
+10
+unbegründet
+
+Albisrieden
+Nievergelt, Jb
+Verm.
+25
+25
+unbegründet
+      “
+Spalinger, Ulrich
+   “
+15
+12
+thlw. begründet
+      “
+Eink.
+7
+4
+thlw. begründet
+      “
+Wydler, Jb, Müller
+Verm.
+50
+50
+unbegründet
+Altstetten
+Appenzeller, Caspar
+   “
+44
+44
+id
+      “
+Boßhard, Hch, Gmdrth
+   “
+12
+12
+id
+      “
+     “        Rud.
+   “
+15
+15
+id
+      “
+Eink
+8
+8
+id
+      “
+Ehrensperger, Casp.
+Verm.
+30
+30
+id
+      “
+Forster, Johs Landw.
+Eink.
+7
+7
+id
+      “
+    “       Hch
+  “
+5
+5
+id
+      “
+Fügli, Markus
+Verm.
+10
+10
+id
+      “
+Eink
+5
+5
+id
+      “
+Hauser, Conr. Bäcker
+Verm.
+10
+10
+thlw. bgdt
+      “
+Eink
+5
+3
+thlw. bgdt
+      “
+Müller, Jb a Sekelmstr
+Verm.
+14
+14
+unbegründet
+      “
+Eink
+10
+10
+unbegründet
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Altstetten]
+Strübi, Johs, Schuster
+Verm.
+5
+5
+id
+      “
+Eink.
+8
+8
+id
+      “
+Studer, Jb, Landw
+Verm.
+7
+7
+id
+      “
+Eink.
+6
+6
+id
+      “
+Weber, Rudolf
+Verm.
+6
+6
+id
+      “
+Eink
+7
+7
+id
+      “
+Wehrli, Jb
+Verm.
+425
+415
+begründet
+      “
+Dietrich, J. R. Weinschenk
+   “
+25
+16
+id
+      “
+Meier, Reg. gesch. Müller
+   “
+1
+7
+thlw. id
+Aussersihl
+Abegg, J Jb, Weinhdlr
+   “
+25
+20
+id
+      “
+Bachmann, Hs Jb Landw.
+   “
+13
+10
+id
+      “
+Billeter, Casp. Gärtner
+   “
+40
+30
+thlw. id
+      “
+Eink.
+15
+15
+thlw. id
+      “
+Bölsterli, Jb
+Verm.
+55
+55
+unbegründet
+      “
+     “        Wittwe, Hebamme
+   “
+4
+2
+5
+begründet
+      “
+Boßhard, Johs, Part
+   “
+5
+5
+unbegründet
+      “
+Eink.
+6
+6
+unbegründet
+      “
+gegen die Taxation des Gemeindrathes ist nicht rekurrirt worden.
+
+Aussersihl
+Brändli s. E.
+Verm.
+20
+15
+begründet
+      “
+Bradbeck, C. F. Steinmetz
+Eink.
+20
+20
+unbegründet
+      “
+Boßhard, Ludw
+Verm
+10
+10
+id wie oben
+      “
+Dolder, Johs, Landw.
+   “
+45
+45
+id
+      “
+Eink.
+15
+15
+id
+      “
+   “           “     Fuhrmann
+Verm
+5
+5
+id
+      “
+Eink
+12
+12
+id
+      “
+Dubs Hs Jb
+Verm
+10
+10
+id
+      “
+Diener, Hch a. Pfarrer
+   “
+20
+–
+–
+begründet
+      “
+Frei Joh. Hch Schlosser
+Eink.
+10
+10
+unbegründet
+      “
+Gaßmann, C. Maurer
+Verm.
+8
+5
+thlw. bgrdt
+      “
+Eink.
+10
+10
+thlw. bgrdt
+      “
+Gastell Dr Prof
+  “
+30
+8
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Aussersihl]
+Huber Jb, Zimmermann
+Verm.
+1
+5
+5
+id
+      “
+Knobel, Hilarius, Arch.
+  “
+4
+4
+unbegründet
+wie oben
+      “
+Eink
+25
+25
+      “
+Locher Jb, älter
+  “
+5
+–
+begründet
+      “
+Meier, Ulrich, Zimmermstr
+Verm.
+15
+15
+unbegründet
+      “
+   “      Hch. a. Präs.
+   “
+30
+30
+id
+Zürich    B
+Knüsli-Kappeler
+   “
+250
+200
+thlw. bdrtd
+   “         “
+Schinz, Rud, Pfarrers E
+   “
+25
+19
+id
+Aussersihl
+Mayer, Jb, Condukteur
+Verm.
+4
+4
+unbegründet
+      “
+Eink.
+10
+10
+unbegründet
+      “
+Merki, Vater, Schriftsetzer
+  “
+18
+14
+begründet
+      “
+Regmann Daniel Fdsrchtr
+Verm.
+110
+110
+unbegründet
+      “
+Eink
+4
+4
+unbegründet
+      “
+Siegfried Jb
+Verm.
+15
+15
+id
+      “
+Schellenberg, Conrad
+   “
+14
+14
+id
+      “
+Stoll, Carl, Bildhauer
+   “
+3
+–
+–
+begründet
+      “
+Walcher, Andreas z. Grodau
+   “
+30
+20
+id
+      “
+Walter, Val. Seiler
+   “
+35
+35  
+unbegründet
+
+Außersihl
+Waidmann Jb Zugführer 
+Eink.
+25
+20
+begründet
+      “
+Wyder, A. Präsident
+Verm.
+20
+15
+thlw. id
+      “
+Eink.
+10
+7
+thlw. id
+      “
+Wethli, Bernh. Locomotivf
+  “
+22
+22
+unbegründet
+      “
+Zeller-Enderli
+Verm.
+50
+42
+begründet
+      “
+Zimmerli, Emil
+   “
+3
+2
+thlw. id
+      “
+Eink.
+40
+40
+thlw. id
+      “
+Koller, Casp. Färber
+Verm.
+2
+1
+id
+      “
+Küng, Joh. Conr.
+   “
+70
+40
+id
+Birmensdorf
+Oggenfuß, Joh. Scheurer
+Eink.
+6
+4
+id
+        “
+Weber, Ed. Metzger
+Verm.
+5
+3
+thlw id
+        “
+Eink.
+8
+8
+thlw id
+Dietikon
+Boßhard, Hch, Rothfärber
+Verm.
+7
+6
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Dietikon]
+Bindschädler, Charlotte
+[Verm.]
+2
+2
+unbegründet
+      “
+Jenni, C. Arzt
+   “
+24
+24
+id
+      “
+Seiler, Jb. Oeler
+   “
+19
+19
+id
+      “
+Wiederkehr Gbr. Trinies
+   “
+16
+16
+id
+Enge
+Abegg, Rud. Landw.
+   “
+60
+50
+thlw. bgrdt
+   “
+Eink.
+15
+12
+thlw. bgrdt
+   “
+Altorfer, Rud & Ulr.
+  “
+15
+15
+unbegründet
+   “
+Baumann geb. Hüni
+Verm.
+160
+160
+id
+   “
+mit Rücksicht darauf, daß das Leibdingskapital von d. Leibdingsnehmerin zu versteuern ist u. ein
+Ausweis nicht vorliegt, daß dasselbe durch den Sohn der Recurrentin versteuert wird.
+   “
+   “
+Benninger-Biedermann
+Verm.
+60
+60
+id
+   “
+Escher, Dr Alfred
+   “
+1400
+1300
+begründet
+   “
+Gasser, Wittwe
+   “
+3
+1
+5
+id
+   “
+Grimminger, A. Lithograph
+Eink.
+25
+20
+id
+   “
+Hottinger, Hch, Handlgr
+Verm.
+2
+1
+id
+   “
+Kitzinger S. G.
+   “
+20
+20
+unbegründet
+
+Enge
+Kraus, G.
+Verm.
+60
+40
+begründet
+   “
+Landolt, Jb z. Stern
+   “
+60
+60
+unbegründet
+   “
+    “      Joh. b. Bethaus
+   “
+25
+25
+id
+   “
+    “      auf’en Bürgli
+   “
+125
+125
+id
+   “
+Leuzinger-Zehnder, J. Melch
+   “
+30
+20
+begründet
+   “
+Nägeli, Hch z. Seeau
+   “
+20
+20
+unbegründet
+   “
+Eink.
+5
+5
+unbegründet
+   “
+Reutlinger, Casp. Pfr
+  “
+45
+36
+begründet
+   “
+Rinderknecht Jbs E.
+Verm.
+275
+250
+id
+   “
+Seemann, Gust.
+   “
+100
+80
+thlw. id
+   “
+Stähelin, Hch, Spezereihdl.
+   “
+8
+5
+  “    id
+   “
+Sulzberger, Julius
+   “
+150
+125
+  “    id
+   “
+Vontobel, C. Weinhlr
+   “
+130
+130
+unbegründet
+   “
+Wittenbach-Kunz
+   “
+1000
+1000
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Enge]
+Wunderli-Zollinger
+[Verm.]
+2500
+2300
+thlw. begrdt
+   “
+Zollinger-Billeter
+   “
+2300
+2100
+id
+Fluntern
+Ackermann, Geschw.
+   “
+38
+35
+id
+     “
+Bavier, A.
+   “
+300
+300
+unbegründet
+     “
+Bruppacher, Hch, GdA.
+   “
+35
+35
+id
+     “
+Dürst, Hch
+   “
+15
+15
+id
+     “
+Eink
+12
+12
+id
+     “
+Frank, Alexander
+Verm.
+15
+15
+id
+     “
+Geering, Hs Jb
+   “
+20
+15
+begründet
+     “
+     “       Hs Hch
+   “
+20
+15
+id
+     “
+Huber, Hchs Erben
+   “
+80
+80
+unbegründet
+     “
+Müller, J Jb, Bierbrauer
+Eink.
+20
+15
+thlw. bgrdt
+     “
+Nägeli Johs
+Verm.
+20
+20
+unbegründet
+
+Fluntern
+Rordorf, Hch Landw.
+Verm.
+280
+260
+thlw. begründet
+     “
+Rütschi, J. C. Kreisrichter
+   “
+40
+30
+id
+     “
+Sieber, Albert, Gdrth
+   “
+20
+20
+unbegründet
+     “
+Stäheli, Rud. Bäcker
+   “
+20
+15
+thlw. bgrdt
+     “
+Eink.
+15
+15
+thlw. bgrdt
+     “
+Näf, Frau geb. Weiß
+Verm
+8
+5
+id
+     “
+Wüst, Sus. “     Lienhard
+   “
+30
+15
+id
+Geroldsweil
+Benz, Wittwe
+   “
+7
+7
+unbegründet
+       “
+Stadtmann Hch
+   “
+4
+5
+5
+begründet
+       “
+Bräm Elise
+   “
+2
+5
+5
+begründet
+       “
+Stadtmann, Johs
+   “
+5
+4
+thlw. id
+       “
+Eink.
+5
+5
+thlw. id
+       “
+Vollenweider Jb.
+Verm.
+7
+7
+unbegründet
+       “
+Eink.
+8
+8
+unbegründet
+Hirslanden
+Boller, Rud. Schmid
+Verm.
+21
+5
+21
+5
+id
+       “
+Bleuler Hs Ulr. Geschirrfasse
+Eink.
+10
+7
+begründet
+       “
+Bodmer, Sek. Lehrer
+Verm.
+1
+1
+thlw. id
+       “
+Eink.
+28
+22
+thlw. id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Hirslanden]
+Gödel, C
+Verm.
+30
+20
+id
+       “
+Bertschi, Johs
+   “
+12
+12
+do id
+       “
+Eink
+18
+12
+do id
+       “
+Hotz, Conrad
+Verm
+60
+60
+unbegründet
+       “
+Leemann, Ulr.
+Eink.
+7
+6
+thlw. bgrdt
+       “
+Müller, Johs, Lehrer
+Verm.
+14
+12
+id
+       “
+Eink.
+25
+24
+id
+       “
+Rüegg, J Hch Lampist
+Verm.
+15
+15
+unbegründet
+       “
+Steiner Rud Spez Hdlr
+   “
+2
+1
+begründet
+       “
+Schneider Johs
+   “
+25
+25
+unbegründet
+       “
+Thomann, Conrad
+Eink.
+12
+8
+begründet
+       “
+Wettstein, Hch z. wild. Mann
+Verm.
+50
+50
+unbegründet
+       “
+Eink.
+30
+30
+unbegründet
+       “
+Zwingli, Theod. Posthalter
+Verm.
+6
+5
+5
+begründet
+
+Hirslanden
+Hüni, Albert
+Verm.
+30
+25
+thlw. begründet
+Höngg
+Appenzeller, Rud.
+   “
+35
+35
+unbegründet
+    “
+Eink
+9
+9
+unbegründet
+    “
+Birchler, Georg z. a. Trotte
+Verm.
+6
+6
+id
+    “
+Großmann, Gescher
+   “
+8
+8
+id
+    “
+Glättli, Johs
+   “
+7
+7
+id
+    “
+Hottinger, Conr
+   “
+35
+30
+begründet
+    “
+Marian-Fischer, Gutsbes.
+   “
+500
+200
+thlw. id
+    “
+Schwarzenbach, Rud
+   “
+16
+15
+thlw. begründet
+    “
+Eink.
+9
+9
+thlw begründet
+Hottingen
+Bachmann, Hch Schreiner
+  “
+10
+9
+thlw. begründet
+     “
+Baumann, Frdch, Gesangl.
+Verm.
+14
+14
+unbegründet
+     “
+Berchtold, Jb. Spengler
+   “
+5
+5
+id
+     “
+Eink
+12
+12
+id
+     “
+Berthold Dr Prof.
+Verm.
+70
+60
+thlw begründet
+     “
+Eink.
+26
+26
+thlw begründet
+     “
+Beust, F. Instituteur
+  “
+35
+30
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Hottingen]
+Brunner Joh. Hch Küfer
+[Eink.]
+16
+16
+unbegründet
+     “
+Bruppacher, Felix
+Verm.
+40
+35
+thlw. begründet
+     “
+Büchi, Ulr. Lohnwascher
+Eink.
+8
+4
+id
+     “
+Fischer, Jb, Maurer
+Verm.
+5
+5
+unbegründet
+     “
+Eink.
+14
+14
+unbegründet
+     “
+    “      Hermann Robert
+Verm.
+30
+25
+thlw. begründet
+     “
+Hofmann Johs
+Eink
+15
+10
+ “     id
+     “
+Hausamman, Hch
+Verm
+15
+10
+ “     id
+     “
+Heuser-Lyrer, Johs
+   “
+50
+40
+ “     id
+     “
+Hotz, Hch, Sonnenberg
+   “
+28
+25
+ “     id
+     “
+Eink
+10
+10
+ “     id
+     “
+  “        “    Commis
+Verm.
+40
+34
+ “     id
+     “
+Lachmund, Jul. Zinngießer
+   “
+25
+25
+unbegründet
+     “
+Lüthi-Leimbacher
+Eink.
+40
+40
+id
+
+Hottingen
+Meyer-Gujer F.
+Verm.
+80
+70
+thlw. begründet
+     “
+Peter, Ulrich
+   “
+70
+50
+ “     id
+     “
+Pfenninger, Jb StRwaibel
+   “
+2
+1
+id
+     “
+Ris, Jb, Kfm.
+   “
+400
+400
+unbegründet
+     “
+Ryffel, Jb. Mobilienhdlr
+Eink.
+10
+5
+thlw. begrdt
+     “
+Rümeli A. Commis
+Verm.
+20
+20
+unbegründet
+     “
+Eink.
+40
+40
+unbegründet
+     “
+Schellenberg, Jbs E.
+Verm.
+45
+45
+id
+     “
+Eink.
+12
+12
+id
+     “
+Spötti, Gustav
+  “
+30
+25
+thlw. begrdt
+     “
+Steiner, Jb, Lederhändler
+Verm.
+60
+60
+unbegründet
+     “
+Tuggener, Hch, Metzger
+Eink.
+20
+16
+thlw. bgrdt
+     “
+Ulrich, E. a. Oberrichter
+Verm.
+150
+140
+id
+     “
+Werndli, Rud.
+   “
+80
+60
+id
+     “
+Wirz, Hch. z. Au
+   “
+30
+30
+unbegründet
+Niederurdorf
+Lips, Hs Urlich
+   “
+9
+9
+id
+        “
+  “    Hch, Weber
+   “
+2
+2
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Niederurdorf]
+[Lips] Jb. a. Präs.
+[Verm.]
+3
+3
+id
+        “
+Eink.
+5
+5
+id
+Oberengstringen
+Bebie, Casp Fabrikbesitzer
+Verm.
+1000
+900
+thlw. begdt
+          “
+Bühler Jb, Gutsbesitzer
+   “
+12
+12
+unbegründet
+          “
+Hintermann, Barb.
+   “
+10
+10
+id
+          “
+Eink.
+10
+10
+id
+          “
+Müller Gebdr Hch & Jb
+Verm.
+15
+15
+id
+          “
+Siegfried, Casp. Gutsbes.
+   “
+15
+10
+thlw. begrdt
+          “
+Eink.
+25
+20
+thlw. begrdt
+Oberstraß
+Fiez, Aug, Weinhdlr
+Verm.
+50
+30
+id
+       “
+Herter, Jb
+   “
+170
+160
+id
+       “
+Köng, J. Seckelm.
+   “
+30
+30
+unbegründet
+       “
+Eink.
+10
+10
+unbegründet
+       “
+Keller, Jb, Part.
+Verm.
+40
+35
+thlw begrdt
+
+Oberstraß
+Meßmer, C F. W.
+Verm.
+60
+60
+thlw. begrdt
+       “
+Eink
+10
+–
+thlw. begrdt
+       “
+Scheuchzer geb. Geßner Wwe
+Verm.
+215
+215
+unbegründet
+       “
+Schadegg, Ulr. Chirurg
+   “
+5
+–
+thlw. bgrdt
+       “
+Eink
+10
+8
+thlw. bgrdt
+       “
+Weidmann, Ulrich
+Verm
+20
+20
+unbegürndet
+Oberurdorf
+Gallmann, Johs
+   “
+3
+1
+5
+thlw. bgdt
+       “
+Geering, Jb, Bauaufseher
+   “
+6
+4
+id
+       “
+Eink.
+7
+7
+id
+       “
+Gloor, Tobias Scheurhof
+Verm.
+17
+16
+id
+       “
+Eink.
+13
+13
+id
+       “
+Zollinger, Jb, Anr.
+Verm.
+4
+3
+id
+       “
+Eink
+5
+3
+id
+Oetweil
+Lienberger, Jb Wirth
+Verm
+4
+4
+unbegründet
+    “
+Eink
+7
+7
+unbegründet
+    “
+Nötzli, Jb, Präs.
+Verm.
+35
+35
+id
+    “
+Eink.
+14
+14
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Oetweil]
+Lenz, Johs in Oberötweil
+Verm.
+10
+10
+id
+    “
+Meier, Johs “         “
+   “
+3
+3
+id
+    “
+Eink.
+5
+5
+id
+    “
+Nötzli, Jb. a. GdA.
+Verm.
+15
+15
+id
+    “
+Eink.
+8
+8
+id
+Riesbach
+Altorfer, Dl Kleiderhdlr
+Verm
+8
+4
+begründet
+    “
+Arbenz-Näf, J J
+   “
+80
+75
+thlw. id
+    “
+Auer, J J
+   “
+170
+150
+  “    id
+    “
+Baur-Wirth, Hch
+   “
+35
+35
+unbegründet
+    “
+Bär, Hch. Landw.
+   “
+200
+200
+id
+    “
+Eink.
+16
+16
+id
+    “
+Beder, J.
+Verm
+180
+160
+begründet
+    “
+Bereuter, Hch, Viehhdlr
+   “
+25
+20
+thlw. id
+    “
+Bickel Hch
+   “
+80
+80
+unbegründet
+    “
+Blatter, Casp.
+   “
+300
+300
+id
+    “
+Bleuler Hch Stabsmajor
+Eink.
+10
+7
+begründet
+    “
+    “      Conr. Schlosser
+Verm.
+2
+5
+5
+thlw. id
+    “
+Bourgeois-Pestalozzi
+   “
+300
+275
+id
+
+Riesbach
+Bünzli-Groß Jb.
+Verm.
+25
+25
+unbegründet
+    “
+Carpentier, Ferd.
+   “
+10
+6
+thlw. bgdt
+    “
+Corrodi, Casp Kanzlist
+   “
+1
+–
+–
+ “     id
+    “
+Eink.
+9
+9
+ “     id
+    “
+Egg, Rud. Fabrkt
+Verm.
+30
+30
+unbegründet
+    “
+Egli, Johs, Torfhändler
+Eink.
+16
+10
+begründet
+    “
+Ernst-Staub
+Verm.
+150
+120
+thlw. id
+    “
+Fierz, Robert
+   “
+90
+80
+id
+    “
+Forster, J. Bäcker
+   “
+35
+35
+unbegründet
+    “
+Fröbel, Th. Gärtner
+   “
+50
+40
+thlw. begrdt
+    “
+Grosch, Carl
+   “
+50
+44
+id
+    “
+Gujer, Jb Schöffbauer
+   “
+2
+1
+id
+    “
+Eink.
+16
+10
+id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Riesbach]
+Hardmeier Jb
+Verm.
+20
+5
+id
+    “
+      “         Conrad
+   “
+20
+5
+id
+    “
+      “         Ferdinand
+Eink.
+15
+15
+unbegründet
+    “
+Hartmann, Carl, Schreiner
+Verm.
+25
+20
+thlw. begrdt
+    “
+Eink.
+20
+16
+thlw. begrdt
+    “
+Hermann Jb Seiler
+Verm.
+12
+12
+id
+    “
+Eink.
+14
+12
+id
+    “
+Hiltpold, K. Maurer
+Verm.
+1
+1
+unbegründet
+    “
+Eink
+12
+12
+unbegründet
+    “
+Hofmann, Jul.
+   “
+30
+30
+id
+    “
+Itschner, J. Sek. Lehrer
+   “
+27
+24
+thlw. begdt
+    “
+Jäggli, Hch Schneider
+   “
+7
+7
+unbegründet
+    “
+Kienast-Fenner
+Verm.
+190
+180
+begründet
+    “
+Kiesling, Erwin
+   “
+20
+20
+thlw. bgdt
+    “
+Lüthi Johs Hafner
+   “
+12
+7
+thlw. bgdt
+    “
+Eink.
+14
+5
+thlw. bgdt
+    “
+Meyer-Orelli, Kupferstecher
+Verm.
+70
+65
+  “     id
+    “
+Eink.
+4
+–
+  “     id
+    “
+   “      Jb, Weinschenk
+Verm.
+16
+16
+  “     id
+    “
+Eink.
+40
+30
+  “     id
+
+Riesbach
+Meyer, Jb z. Seegarten
+Verm.
+15
+15
+unbegründet
+    “
+Millot, Ambrosius
+   “
+65
+65
+id
+    “
+Müller, Joh. Wirth
+   “
+20
+15
+thlw begründet
+    “
+Näf, Ferd. Bäcker
+   “
+70
+60
+id
+    “
+Oechsli, Rud Gmdrth
+   “
+25
+25
+unbegründet
+    “
+Rebsamen Hch
+   “
+300
+160
+thlw. begrdt
+    “
+Reif, J J.
+   “
+12
+10
+  “    id
+    “
+Reimann H. Lehrer
+Eink
+18
+15
+  “    id
+    “
+Reithaar Gustav
+   “
+25
+20
+  “    id
+    “
+Ringger, Casp.
+   “
+14
+10
+  “    id
+    “
+Suter Hch Seidenfbkt
+Verm.
+18
+12
+  “    id
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Riesbach]
+Schälchlin, J. Lehrer
+Eink.
+20
+19
+   “    id
+    “
+Schneeli, Meinrad
+Verm.
+550
+520
+id
+    “
+Schranz, Abraham
+   “
+35
+20
+id
+    “
+Schreiber C. G Rschrbr
+Eink.
+18
+12
+id
+    “
+Stocker, Jb Käshdlr
+Verm
+80
+80
+unbegründet
+    “
+Tuggener, J.
+Eink.
+20
+20
+id
+    “
+Ullmann, F. Fabrikt
+Verm
+15
+15
+id
+    “
+     “       Theodor
+   “
+15
+15
+id
+    “
+Ullmer, W. Weinhdlr
+   “
+50
+50
+thlw. begründet
+    “
+Eink.
+30
+–
+thlw. begründet
+    “
+Wegmann Gyrsperger
+Verm.
+500
+450
+id
+    “
+Wehrli, Wittwe
+   “
+7
+7
+unbegründet
+    “
+Werdmüller-Ziegler
+Eink.
+10
+5
+begründet
+    “
+Zolliker z. weißen Kreuz
+Verm.
+30
+30
+unbegründet
+    “
+Bächi, Frau a. d. Speisergasse
+Eink.
+25
+25
+id
+
+Schlieren
+Bräm, Conr. a. Frdrchtr
+Verm.
+3
+3
+unbegründet
+    “
+Eink.
+14
+14
+unbegründet
+    “
+   “     Jb, Ammann
+Verm.
+25
+25
+id
+    “
+Eink
+7
+7
+id
+    “
+Fretz, Johs
+  “
+5
+5
+id
+    “
+Locher, Johs a. Gmdrth
+Verm.
+8
+8
+id
+    “
+Weber, Johs, Lehrer
+   “
+5
+5
+id
+    “
+Eink
+15
+15
+id
+Schwamendingen
+Ochsner Conr. & Jb.
+Verm.
+40
+35
+thlw. begründet
+           “
+Schneider, Johs Oerlikon
+   “
+10
+6
+id
+           “
+Weber, Hch              “
+Eink.
+6
+6
+unbegründet
+Seebach
+Bänninger, Rud. Köschenrüti
+Verm.
+10
+10
+id
+    “
+Beutler, David
+   “
+2
+5
+2
+5
+id
+    “
+Eink
+6
+6
+id
+    “
+Goßweiler, Casp. a Gmdrth
+Verm.
+16
+16
+id
+    “
+Meier, Joh. Buchenwies
+   “
+25
+23
+thlw. begrdt
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Seebach]
+[Meier, Joh] am Bach
+[Verm.]
+2
+1
+id
+    “
+Tanner, Hch, Ziegler
+   “
+45
+40
+id
+Uitikon
+Wiesmer, Jb, Küfer
+Eink.
+4
+4
+unbegründet
+Unterengstringen
+Brunner Jb
+Verm.
+4
+4
+id
+          “
+Ehrsam, Jb
+15
+15
+id
+          “
+Eink.
+10
+10
+id
+          “
+Fehr, Jb.
+Verm.
+50
+50
+id
+          “
+Eink
+12
+12
+id
+          “
+Schmid, Jb. Lehrer
+Verm.
+6
+6
+id
+Unterstraß
+Boßhard, Jb
+Eink.
+6
+4
+begründet
+      “
+Bürkli, Emil
+Verm.
+60
+50
+thlw. id
+      “
+Elmer, Caspar
+   “
+20
+20
+unbegründet
+      “
+Laufer, Jb, aufm Rüdtli
+   “
+145
+145
+id
+      “
+Meyer-Nägeli, J
+   “
+750
+750
+id
+      “
+Raths, Ed. Schmid
+   “
+2
+2
+id
+      “
+Eink
+15
+15
+id
+
+Unterstraß
+Schütz, Hch, Zimmermstr
+Eink.
+15
+12
+thlw. begründet
+      “
+Schweizer, Holzhalb Wwe
+Verm.
+380
+365
+  “    id
+      “
+Schwyter-Brändli        “
+   “
+8
+6
+6
+6
+  “    id
+      “
+Sutz Johannes
+   “
+9
+5
+  “    id
+      “
+Zimmermann Schweiter
+   “
+10
+7
+  “    id
+Weiningen
+Ehrsam, Jb, Vogts
+   “
+1
+5
+1
+5
+unbegründet
+      “
+    “       Johs    “
+   “
+1
+5
+1
+5
+id
+      “
+    “       Casp. Dulben
+   “
+3
+3
+id
+      “
+    “       Jb, GmdA.
+   “
+3
+3
+id
+      “
+Eink
+6
+6
+id
+      “
+Frei, Hch, Vogtheires
+Verm
+7
+7
+id
+      “
+Grimm, J. Med Dr
+   “
+35
+35
+id
+      “
+Greutert, Ulrich
+   “
+1
+6
+begründet
+      “
+Haug, Casp. a. Seckelm.
+   “
+20
+20
+unbegründet
+      “
+   “     Hs Hch, Caspar
+   “
+3
+2
+5
+begründet
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Weiningen]
+Hintermann, Jb, Andresen
+[Verm.]
+3
+2
+5
+id
+      “
+Hofmann, Caspar
+   “
+12
+10
+thlw. id
+      “
+Hug, Hs Jb Schuster
+   “
+6
+6
+unbegründet
+      “
+Rhyner, Hch
+   “
+29
+29
+id
+Wiedikon
+Abegg, Johs, Commis
+Eink.
+18
+16
+thlw. begrdt
+      “
+Hofmann, J. Casp.
+   “
+10
+–
+–
+id
+      “
+Lattmann Johs
+   “
+6
+6
+unbegründet
+      “
+Läubli, Johs, Commis
+Verm
+5
+5
+id
+      “
+Eink.
+15
+15
+id
+      “
+Meierhofer, Lehrer
+  “
+17
+16
+thlw. bgrdt
+      “
+Wintsch, Jacob
+Verm.
+25
+25
+unbegründet
+      “
+Wild, Hch Med Dr
+   “
+70
+70
+id
+      “
+Eink
+14
+14
+id
+
+Wiedikon
+Ritter, Johs, Gewerbskn.
+Verm.
+2
+2
+unbegründet
+      “
+Steiner, Rud. Landw
+Eink
+12
+12
+id
+      “
+Trüb, Conr. Waibel
+   “
+8
+8
+id
+Wipkingen
+Angst geb. Schultheß Wwe
+   “
+6
+–
+begründet
+      “
+Homberger, Casp.
+Verm.
+6
+5
+id
+      “
+Maurer J Jb a. Lehrer
+   “
+6
+2
+id
+      “
+Siegfried, Fdsrchtr
+   “
+42
+42
+unbegründet
+Wollishofen
+Asper, Cds Erben
+   “
+30
+30
+thlw. bgdt
+      “
+Eink
+20
+18
+thlw. bgdt
+      “
+   “       J J.
+Verm.
+35
+30
+id
+      “
+Eink.
+40
+26
+id
+      “
+Burkhard Johs
+Verm.
+9
+9
+id
+      “
+Eink.
+7
+5
+id
+      “
+Hausheer, Johs No 65
+  “
+15
+12
+id
+      “
+Morf, Rud.
+Verm.
+10
+10
+id
+      “
+Eink.
+12
+10
+id
+      “
+Nägeli  “
+Verm.
+8
+8
+unbegründet
+      “
+Schellenberg, Johs Hch
+   “
+12
+11
+thlw. bgdt
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Wollishofen]
+Staub, Jb. Baumeister
+[Verm.]
+120
+120
+unbegründet
+      “
+Eink
+30
+30
+unbegründet
+      “
+   “      Ulr. z. Hirschen
+Verm
+10
+10
+thlw. begdt
+      “
+Eink.
+20
+16
+thlw. begdt
+Wytikon
+Ochsner, Hch.
+Verm.
+3
+2
+4
+id
+      “
+Weber, Hch a. Präs
+   “
+25
+20
+id
+Zollikon
+Bernhard Hch
+   “
+130
+130
+unbegründet
+    “
+Eink.
+18
+18
+unbegründet
+    “
+     “           “     Gdrth
+Verm.
+30
+30
+thlw. begdt
+    “
+Eink
+7
+–
+thlw. begdt
+    “
+Bleuler, Cd im Gugger
+Verm
+26
+26
+unbegründet
+    “
+Bürchler, Casp.
+   “
+15
+15
+thlw. begrdt
+    “
+Eink.
+10
+8
+thlw. begrdt
+    “
+Huber, Hch, Weinschk
+Verm.
+2
+2
+unbegründet
+    “
+Eink
+7
+7
+unbegründet
+    “
+Irminger, Cd Schuster
+  “
+id
+    “
+Kunz-Hartmann
+Verm.
+35
+32
+thlw. bgrdt
+    “
+Eink
+25
+25
+thlw. bgrdt
+
+Zollikon
+Maurer Johs Friedensrchtr.
+Verm.
+20
+20
+unbegründet
+    “
+Schärer Caspar
+Eink.
+6
+5
+thlw. begrdt
+    “
+Schwarzenbach, Rud
+Verm
+10
+10
+unbegründet
+    “
+Schweiter, Jb, Seidenweber 
+Eink
+5
+5
+id
+    “
+Spörri Hch
+Verm.
+100
+100
+id
+    “
+Stettbacher, Conrad
+Eink.
+4
+3
+begründet
+    “
+Thomann, Jb, Major
+Verm.
+70
+70
+unbegründet
+    “
+     “          Felix
+   “
+115
+115
+id
+    “
+Tobler, Jb, Sennhof
+   “
+2
+4
+2
+4
+id
+    “
+Trüb Conrad
+   “
+12
+12
+id
+    “
+Waldvogel, Ulrich
+Eink.
+5
+–
+begründet
+    “
+Weber Hs Hch 
+Verm.
+30
+30
+unbegründet
+    “
+   “      Cd. a. Präs.
+   “
+6
+5
+thlw. begrdt
+[Gemeinde]
+[Name des Recurrenten]
+[Vermögen
+oder
+Einkommen]
+[Taxation
+der
+Finanzdir].
+[Beschluß
+des
+Reg. Rathes]
+[1000]
+[100]
+[1000]
+[100]
+[Zollikon]
+[Weber] Hch, Feldschrbr
+Eink.
+6
+6
+unbegründet
+    “
+Weisling, Jb. Mehlhdlr
+Verm.
+1
+1
+id
+    “
+Eink.
+6
+6
+id
+    “
+Wirz, Hch Küfer
+  “
+7
+7
+id
+    “
+Wolfensberger, J R. Pfr
+Verm.
+40
+12
+7
+begründet
+Außersihl
+Elmer, Hch Bäcker
+   “
+4
+4
+unbegründet
+Enge
+Knell, Hch
+   “
+20
+1’
+thlw begrdt
+Zürich
+Appenzeller Jb Speisew
+Eink.
+46
+26
+id
+   “
+Lüthi Hch Hafner
+   “
+15
+10
+   “
+Kopp, Fr. Carl Comms
+   “
+12
+–
+   “
+Nötzli J C. Polizeihptm
+Verm.
+10
+6
+id
+   “
+Schlatter, Paul Ed
+   “
+20
+5
+thlw. id
+   “
+Schnyder J H. Gesch. Agent
+Eink.
+10
+5
+id
+
+Hottingen
+Stork, Hermann
+Verm.
+30
+5
+thlw. begründet
+Zollikon
+Landolt, Hch Steinhauer
+Eink.
+8
+7
+id
+Zürich 
+Blesi, Johs, Drechsler
+  “
+6
+6
+unbegründet
+   “
+Fick, Hrch Dr & Prof.
+Verm.
+70
+45
+begründet
+II. Sei von der Erledigung der Recurse Kenntniß zu geben:
+a. den Recurrenten in üblicher Weise;
+b. dem Statthalteramt Zürich zu Handen der Bezirksrathskanzlei & der Gemeindräthe behufs Vormerkung sämmtlicher Veränderungen auf den Steuerregistern.
+c Der Direktion der Finanzen zur Vormerkung auf dem Kantonalsteuerregister, sowie zum Behuf der erforderlichen Verfügungen resp. Anordnung der Rückzahlungen an diejenigen Recurrenten, welche in ihren Steueransätzen reduzirt wurden.</body></text></TEI>

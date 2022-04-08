@@ -1,0 +1,14 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Gesetzesentwurf, betreff. einen Zusatz zu dem Wirthschaftsgesetze v. 15. Christmonat 1845.</title><respStmt><resp ref="#dsa" key="transcript">Transkript: dsa06.12.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Gesetzesentwurf, betreff. einen Zusatz zu dem Wirthschaftsgesetze v. 15. Christmonat 1845.</title>22.01.1846<ident>StAZH MM 2.91 RRB 1846/0114</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.91</biblScope><biblScope unit="page">75–76</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Von den hierseitigen Tit. Abgeordneten zu der Conferenz mit Mitgliedern des Obergerichtes, betreffend die Vollziehung des neuen Wirthschaftsgesetzes wurde der Bericht erstattet, daß die Mitglieder des Obergerichtes sowohl für sich als zu Handen ihrer Behörde beharrlich die Zustimmung zu einem bloßen Beschlusse der Vollziehungsbehörden verweigert haben und daher nichts anderes übrig bleibe als dem Großen Rathe einen hierauf bezüglichen Gesetzesentwurf vorzulegen, welcher auch angenommen wurde, wie folgt:
+Gesetzes-Entwurf
+betreffend 
+einen Zusatz zu dem Wirthschaftsgesetz vom 15t. Christm. 1845.
+Der Große Rath 
+auf den Antrag des Regierungsrathes
+beschließt
+§. 1.
+Die Bestimmungen des Wirthschaftsgesetzes vom 21. Weinm: 1834. und des Gesetzes über das Ausschenken von Bier vom 30t. Herbstm. 1840. insofern sie sich auf das Recht des Auswirthens von Wein oder von Bier oder von Speisen und die hierauf gegründeten Taxationen beziehen, finden übergangsweise ihre Anwendung noch für das Jahr 1846.
+Die Uebertretung dieser Bestimmung wird gemäß §. 1. des Gesetzes vom 15. Christm. 1845. als unbefugtes Wirthen bestraft.  
+Der Regierungsrath ist mit Vollziehung dieses Gesetzes beauftragt.
+[Fortsetzung RRB 1846/0115]<p/></body></text></TEI>

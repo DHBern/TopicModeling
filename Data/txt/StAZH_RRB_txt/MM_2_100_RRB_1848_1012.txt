@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ergänzung der Wasserrechtsurkunde des Hrn. J. Schmid v. Birchweil.</title>
+                <respStmt>
+                    <resp ref="#csn" key="transcript">Transkript: csn<date when="2011-06-24"
+                            >24.06.2011</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2011
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Ergänzung der Wasserrechtsurkunde des Hrn. J. Schmid v.
+                        Birchweil.</title>20.06.1848<ident>StAZH MM
+                        2.100 RRB 1848/1012</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">2.100</biblScope><biblScope
+                        unit="page">549–552</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Regierungsrath hat auf den Antrag des Rathes des Innern betreffend
+                das dem Herrn Gemeindrath Jakob
+                Schmid in Birchweil ertheilte Wasserrecht;
+            
+nach Einsicht eines Berichtes des Rathes des Innern dahingehend.
+            
+Nachdem Herr Ingenieur Hartung beauftragt worden, das von Herrn
+                    Schmid errichtete Wasserwerk zu prüfen und die Wasserkraft
+                desselben Behufs Bestimmung eines alljährlich an den Staat zu entrichtenden
+                Wasserzinses zu vermessen, berichte derselbe in einer vom <date when="1848-05-31"
+                    >31ten v. Mts.</date> datirten Eingabe Folgendes:
+            
+1. In den nachstehenden zwei Pun[k]ten weiche das Wasserwerk von der
+                Bewilligungsurkunde ab.
+            
+a.) Das Wasser des Frau Escherbaches werde nicht durch eine
+                Teichelleitung, sondern durch einen offenen Graben, der
+                übrigens noch nicht einmal vollendet sei, in den Holzbach geleitet.
+            
+b.) Das Gesammtgefäll dieses Wasserwerks betrage nicht bloß 28, sondern
+                31. Fuß;
+            
+bei Ertheilung des Wasserrechtes sei die erwähnte Teichelleitung auf den Wunsch des
+                Petenten selbst vorgeschrieben und nachher auch wirklich ausgeführt, später aber
+                wieder aufgegeben worden, weil sie sich im Winter nicht bewährt
+                habe, ein offener Graben mit der nöthigen Sorgfalt
+                ausgeführt, könne aber hier für Niemanden nachtheilig sein, hinsichtlich der
+                Gefällsvermehrung habe sich Herr Schmid mit den
+                Grundeigenthümern, welche gegen dieselbe Einsprache hätten erheben können,
+                abgefunden, übrigens sei diese Vermehrung bei dem sehr geringen mittlern
+                Wasserzufluß, welcher diesem Wasserwerke zu Gebote stehe sehr zweckmäßig und
+                nothwendig;
+            
+2.) Bei der Vermessung der Wasserkraft sei zugleich auch eine Höhenmarke gesetzt
+                worden, deren nachträgliche in die Conzessionsurkunde aufzunehmende Beschreibung
+                beigefügt sei.
+            
+3.) Der Wasserzufluß per Sekunde betrage 1. Cubikfuß und der Äußere Raddurchmesser
+                27. Fuß oder 30/20.–15. Dynamische Einheiten, diese Wasserkraft
+                sei aber nur während eines Theiles des Jahres vorhanden, weßhalb hier die Dynamische
+                Einheit nur zu 4, 2. frc. berechnet werden könne; 
+            
+beschlossen:
+            
+I. Die den Herrn Gemeindrath Schmid in Birchweil unter’m 20t
+                    April 1847. erheilte Wasserrechtsurkunde sei, unter Vorbehalt
+                allfälliger späterer privatrechtlicher Einsprachen, deren Erledigung dem
+                Wasserrechtsbesitzer obläge, nachträglich durch folgende Zusätze zu ergänzen.
+            
+a.) das Wasser des Frau Escherbaches dürfe vermittelst eines
+                offenen Grabens anstatt der früher vorgeschriebenen
+                Teichelleitung in den Holzbach geführt werd[en]
+            
+b.) das Gesammtgefäll dieses Wasserwerks betrage nicht bloß acht und zwanzig sondern
+                ein und dreißig Fuß, und der äußere Durchmesser des Wasserrades
+                messe sieben und zwanzig Fuß;
+            
+c.) das feststehende Ueberfallswuhr [Schwelle] sei litt c. [im Plan] habe eine Länge
+                von 12. Fuß 6. Zoll und liege an seiner
+                Oberfläche vier Zoll, 3. Linien tiefer, als die daneben gesetzte
+                Höhenmarche, oder vier Zoll tiefer, als der natürliche Boden
+                [acht Fuß rechts vom nächsten Schwellende in gleicher Richtung
+                gemessen] die Höhenmarche sitze gege[n]über auf dem linkseitigen Bachufer, mit ihrer
+                Oberfläche zwei Zoll über dem natürlichen Boden und achtzehn
+                    Fuß vom nächsten Schwellende entfernt, ebenfalls in gleicher
+                Richtung mit der Schwelle und sei im Ganzen zwei
+                Fuß, zwei Zoll lang in der Mitte am breitesten
+                nämlich einen Fuß zwei Zoll und an ihrer
+                oberfläche [sic!] fünf Zoll in’s Quadrat;
+            
+d.) alle übrigen Conzessionsbestimmungen bleiben unverändert, wobei namentlich auf
+                die Bestimmung in §. 1. aufmerksam gemacht werde, welche vorschreibe, daß durch die
+                neuen Leitungen kein fühlbarer Wasserverlust für die untern Gewerbe entstehen
+                dürfe[.]
+            
+II. Es seien diese Bestimmungen in die von Herrn Schmid
+                eingesandte Wasserrechtsurkunde nachträglich aufzunehmen.
+            
+III. Habe Herr Schmid einen jährlichen Wasserzins von Frkn. 6.
+                Rpn. 30. dem Staatt zu entrichten.
+            
+IV: Es sei von diesem Beschlusse dem Rathe des Innern unter Rückstellung des von ihm
+                eingelegten Aktenstückes im Auszuge, von Disp. III. dem Finanzrathe von dem ganzen
+                Beschlusse dem Herrn Schmid durch das Mittel des Statthalteramtes
+                    Bülach Mittheilung zu machen.
+        </body>
+    </text>
+</TEI>

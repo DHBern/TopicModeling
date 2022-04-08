@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aßecuranzvergütung eines Brandunglücks zu Regensperg.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: <date when="2010-08-03"
+                        >03.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Aßecuranzvergütung eines Brandunglücks zu Regensperg.</title><date
+                        when="1822-11-09">09.11.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0870</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >145–146</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Mit Weisung vom 4ten hujus erstattete die
+                Lbl. Brandaßecuranz-Commißion der hohen Behörde des <orgName>Kleinen
+                    Rathes</orgName> Bericht über das am <date when="1822-10-26">26sten
+                    passati</date> auf der Burg
+                Regensperg stattgehabte Brandunglück, durch welches
+                nachfolgende Wohnungen eingeäschert wurden:
+            
+Die Wohnung No. 17, zur Hälfte Abraham Stauben sel[igen]
+                    Erben, und zur andern Hälfte der Gemeinde zugehörig, von
+                    Rudolf
+                Haupt bewohnt und aßecurirt für
+            
+fl.
+            
+1000.
+            
+Die Behausung No. 18. des Heinrich
+                Kunz, Nagler, aßecurirt für
+            
+“
+            
+1000.
+            
+Das Haus No. 19. zu gleichen Theilen dem
+                    Rudolf
+                Huber und Ludwig
+                Huber angehörend, und aßecurirt für
+            
+“
+            
+1440.
+            
+No. 20 ebenfalls zu gleichen Theilen der Wittwe Schwenk und
+                    Jacob
+                Schwenk zuständig, aßecurirt für 
+            
+“
+            
+1000.
+            
+Uebertrag
+            
+fl.
+            
+4440.
+            
+
+            
+Wobey dann ferner die anstoßende Feuermauer des für fl. 1600. aßecurirten Hauses No.
+                21. einen Schaden erlitten, der verhältnißmäßig des Ganzen geschätzt worden, auf
+            
+“
+            
+100.
+            
+Mithin der ganze Schaden beträgt
+            
+fl.
+            
+4540.
+            
+Die Veranlaßung des Brandes, welcher zuerst auf dem Windenboden
+                der Behausung No. 17. und 18. bemerkt worden, konnte ungeachtet aller sorgfältigen
+                Untersuchung nicht ausgemittelt werden; da jedoch auf den Hausbewohnern kein
+                Verdacht haftet, zumal selbige in gutem Rufe stehen, und auch unglücklicher Weise
+                bey diesem Brande alle ihre Fahrhabe einbüßten, so haben UHHerren und Obern keinen
+                Anstand genommen, zu bewilligen, daß sämtlichen Brandbeschädigten die oben gegebene
+                Aßecuranz-Summe vergütet werde, so wie auch die Lbl.
+                    Finanz-Commißion bevollmächtigt wird, selbigen die gewohnte
+                obrigkeitliche Steuer an Frucht und Geld verabfolgen zu laßen.
+            
+Gegenwärtiger Beschluß wird der Lbl. Brandaßecuranz-Commißion, der Lbl.
+                    Finanz-Commißion und dem Lbl. Oberamte
+                    Regensperg zu Handen der Brandbeschädigten
+                communicirt.
+        </body>
+    </text>
+</TEI>

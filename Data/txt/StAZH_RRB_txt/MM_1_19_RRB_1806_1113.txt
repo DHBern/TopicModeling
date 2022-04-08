@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht des Herren Statthalter Sigg über den Zustand seines Amtsbezirks.
+                    Diesfälliger Auftrag an die Commißion des Innern.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-02-01"
+                            >01.02.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Bericht des Herren Statthalter Sigg über den Zustand seines
+                        Amtsbezirks. Diesfälliger Auftrag an die Commißion des Innern.</title><date
+                        when="1806-09-13">13.09.1806</date><ident>StAZH MM 1.19 RRB
+                        1806/1113</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.19</biblScope><biblScope unit="page"
+                    >47–48</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der unterm 4ten Septembris von dem Herren
+                Unterstatthalter Sigg im Eigenthal (nach vorjährigem Beyspiel und
+                in Folge Auftrags vom 31sten Augusti a. p.)
+                eingesendete umständliche Bericht über den dermahligen religosen, sittlichen,
+                öconomischen und politischen Zustand seiner Bezirksabtheilung, – wird
+                der Commißion des Innern mit dem Ersuchen zugestellt, die
+                verschiedenen, in diesem Amtsbericht enhaltenen, und einer weiteren Verfügung
+                bedürftig seyn könnenden Momente, Bemerkungen und Desideria herauszuheben, gehörig
+                zu sönderen, und nach Maaßgabe ihrer verschiedenen Natur, theils selbst in nähere
+                Überlegung zu nehmen, theils den betreffenden Regierungsstellen und Behörden zur
+                Berathung zuzuweisen, das Resultat dieser Bemühungen aber zusammen zu faßen, und dem
+                    Kleinen Rath wieder zu hinterbringen, und darmit, nach dem
+                bereits in Handen habenden Auftrag vom <date when="1805-08-31">31sten Augusti
+                a. p.</date>, auch einen Antrag zu verbinden, ob und in wie ferne den sämmtlichen Herren
+                Statthaltern eine angemeßene Instruction zu periodischer Hinterbringung gründlicher
+                und zwekmäßiger Berichte über den inneren Zustand ihrer Amtsbezirke, ertheilt werden
+                könnte? – Dem Herren Unterstatthalter Sigg inzwischen wird auch
+                sein dießjähriger Bericht durch Zustellung gegenwärtiger Erkanntnuß beßtens
+                verdankt.
+        </body>
+    </text>
+</TEI>

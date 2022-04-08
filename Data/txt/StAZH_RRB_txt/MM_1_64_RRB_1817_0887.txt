@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>19ter und 20ster Legationsbericht von den Verhandlungen der Tagsatzung in
+                    Bern.</title>
+                <respStmt>
+                    <resp ref="#ssc" key="transcript">Transkript: ssc<date when="2010-05-26"
+                            >26.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>19ter und 20ster Legationsbericht von den Verhandlungen der Tagsatzung
+                        in Bern.</title>02.09.1817<ident>StAZH MM
+                        1.64 RRB 1817/0887</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.64</biblScope><biblScope
+                        unit="page">216–219</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Es wurden zwey Legationsberichte MHHerrn Rathsherrn und Legations- <pb
+                    n="217"/>rath Hirzel d. d. <date when="1817-09-30"
+                    >30sten</date> und 31sten August über die
+                Verhandlungen der hohen Tagsatzung in der 31sten bis
+                34sten Sitzung verlesen, welche nachfolgende Gegenstände berühren:
+            
+31ste Sitzung.
+            
+1.) Behandlung des Militär-Straf-Codex für die Schweizer-Regimenter in Französischen
+                Diensten, deßen Entwurf ad influendum in den Abschied gelegt, und die provisorische
+                Anwendung den Regimentern gestattet wird.
+            
+2.) Commißional-Rapport über ein Project des Etat civil für die Regimenter. Auch
+                dieser Entwurf wird in den Abscheid aufgenommen.
+            
+32ste Sitzung.
+            
+1.) Schriftlicher Bericht und Erklärung der Gesandtschaft von
+                    Bern, über die ihr von dem deutschen Bundestag in
+                Frankfurt gemachten Zumuthungen, wegen dem Transrhenanischen Sustentationsgeschäft,
+                an welche sich auch die Gesandtschaft von Basel anschloß; –
+                wird den Ständen zur Ratification mitgetheilt.
+            
+2.) Wahl des Herrn Alexander
+                Louis Prevot von Genf zum Schweizerischen Consul in London,
+                unter der Benennung Agent pour le Commerce Suisse.
+            
+3.) Rapport der wegen einigen Pendenzen über die Einfuhrgebühren verordneten
+                Commißion:
+            
+a. Über den Anstand mit der Regierung des Großherzogthums
+                    Baden und Abschluß einer Äußerung gegen dieselbe.
+            
+b. Begehren des Kantons Neuchatel wegen Herabsetzung der Einfuhrgebühr auf den rohen
+                    Zucker, welches verworfen ward.
+            
+c. Die Erhöhung der den Grenzständen auf der Einfuhrgebühr zukommenden Provision,
+                welche von 6. auf 8. %. gesetzt wurde.
+            
+33ste Sitzung.
+            
+1.) Die Beantwortung der Note des Französischen Ministers, betreffend die
+                Ansäßenverhältniße der Französischen Bürger in der Schweiz.
+            
+2.) Aberlaßung einer Note an den Französischen Minister, betreffend das
+                    Val de dappes.
+            
+34ste Sitzung.
+            
+1.) Rapport der Commißion, welche in Bezug auf die Handelsverhältniße mit Frankreich
+                niedergesetzt wurde, und Antrag derselben zu den Fundamenten einer dießfälligen
+                Note, deren Entwurf in künftiger Sitzung vorgelegt werden soll.
+            
+2.) Commißionalbericht über den von der Großherzoglich-Badischen Regierung
+                eingegangenen Antrag der Übereinkunft beyzutreten, welche
+                    Baden, Bayern und Würtemberg, wegen gegenseitiger
+                Übernahme herrenlosen Gesindels abgeschloßen. Wird den Ständen ad
+                influendum mitgetheilt, und einstweilen dem Badischen Herrn Minister eine
+                aufschiebende Antwort gegeben.
+        </body>
+    </text>
+</TEI>

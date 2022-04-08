@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bestimmung der Fleischtaxe.</title>
+                <respStmt>
+                    <resp ref="#mal" key="transcript">Transkript: mal<date when="2010-05-28"
+                            >28.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Bestimmung der Fleischtaxe.</title><date when="1827-02-01"
+                        >01.02.1827</date><ident>StAZH MM 1.98 RRB
+                        1827/0069</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.98</biblScope><biblScope unit="page">36</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung und in Genehmigung eines von der Lbl. <orgName>Commißion
+                des Innern</orgName> unterm 31sten v. M.
+                verfaßten Berichtes und Antrags, betreffend die Bestimmung der Fleischpreise für den
+                Zeitraum von Lichtmeß bis Mitte des Monaths May, hat der
+                    Kleine Rath, in Berücksichtigung der seit abgewichenem
+                Martinitag in den Verhältnißen des Viehhandels eingetretenen Veränderungen, die
+                Fleischpreise für den vorbemerkten Zeitraum folgender Maßen festgesetzt:
+            
+1. lb. des beßten Rindfleisches 5. ß.
+            
+1. lb. des geringern dto 4. 6. hlr.
+            
+1. lb. Küh- und Hagenfleisch 4. – “
+            
+1. lb. extra Kalbfleisch 5. 6. “
+            
+1. lb. ordinäres Kalbfleisch 4. 6.
+            
+1. lb. Schaaffleisch 4. 6.
+            
+Hiervon wird einerseits der Lbl. Commißion des Innern, anderseits
+                dem hiesigen Stadtrathe zu Handen der hiesigen Metzgermeister und sämmtlichen
+                Oberämtern zu Handen der Landmezger Kenntniß gegeben. 
+        </body>
+    </text>
+</TEI>

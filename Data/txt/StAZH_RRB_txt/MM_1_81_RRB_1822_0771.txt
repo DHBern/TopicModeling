@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Commutation der Strafsentenz über Vieharzt Hs. Ulrich Grob von
+                    Knonau.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Commutation der Strafsentenz über Vieharzt Hs. Ulrich Grob von
+                        Knonau.</title>12.10.1822<ident>StAZH MM 1.81
+                        RRB 1822/0771</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.81</biblScope><biblScope
+                        unit="page">33–34</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Eine von dem Lbl. Obergerichte sub <date when="1822-10-04">4ten
+                    hujus</date> erlaßene, und mit Zuschrift vom gleichen Tage an den
+                    Kleinen Rath einbegleitete Commutations-Sentenz, durch welche
+                dem wegen be- waffneten Aufruhr Ao. 1804. landesverwiesenen Vieharzt Hs.
+                    Ulrich
+                Grob von Knonau, mit Rücksicht auf sein
+                angestiegenes Alter und Körpersschwachheiten, die Rückkehr in
+                seine Heimath, unter gehöriger Eingränzung und andern erforderlichen Bestimmungen
+                bewilligt ist, wird der Lbl. Kantons-Policey-Commißion zu Verfügung der Execution
+                überwiesen und dem Tribunale laut Mißiven bescheint.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,18 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Festsetzung der Traktanden f. die ord. Herbstsitzung des Großen Rathes.</title><respStmt><resp ref="#dmr" key="transcript">Transkript: dmr27.20.2014</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2014<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Festsetzung der Traktanden f. die ord. Herbstsitzung des Großen Rathes.</title>12.10.1859<ident>StAZH MM 2.146 RRB 1859/1319</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.146</biblScope><biblScope unit="page">94–96</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Der Regierungsrath beschließt:
+I. Es sei der Große Rath zu seiner ordentlichen Herbstsitzung auf Montag den 24. Oktober einzuberufen.
+II. Es seinen demselben folgende Traktanden vorzulegen:
+1) Bericht der Regierungsrathes über die von den Wahlkreisen Hinweil und Regensdorf getrof-  fenen Wahlen von Mitgliedern des Großen Rathes.
+2) Geprüfter Entwurf eines Gesetzes betreffend die Kanzleien und die Bedienung des Regierungsrathes.
+3) Geprüfter Gesetzesentwurf betreffend die Verhältnisse der Fabrikarbeiter.
+4) Kommissionalgutachten betreffend den Entwurf eines Gesetzes über das gesammte Unterrichtswesen des Kantons Zürich.
+5) Entwurf eines Gesetzes betreffend die Leitung der Schulgemeindsversammlungen (Kommissionalantrag).
+6) Entwurf eines Gesetzes betreffend das Staatsbauinspektrorat.
+7) Weisung des Regierungsrathes betreffend das Begnadigungsgesuch des vom Schwurgerichte wegen Versuch von Nothzucht verurtheilten Jakob Frei von Hinterteufen.
+8) Vorlegung der Staatsrechnung und der Rechnungen über die unter besonderer Verwaltung stehenden Kantonalgüter vom Jahr 1858.
+9) Vorlegung des Rechenschaftsberichtes des Regierungsrathes über das Jahr 1858.
+10) Vorlegung des Rechenschaftsberichtes des Obergerichtes über das Jahr 1858.
+11) Erneuerungswahlen dreier Mitglieder der  Staatsrechnungsprüfungskommission.
+12) Petitionen.</body></text></TEI>

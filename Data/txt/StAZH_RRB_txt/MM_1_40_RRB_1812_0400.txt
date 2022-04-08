@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Stadtrath von Zug dankt für die von Cantonsbürgeren aus dem Bezirk Horgen
+                    bey dem Brandunglük in Zug geleisteten ausgezeicheten Hilfe.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2007-01-08"
+                            >08.01.2007</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Der Stadtrath von Zug dankt für die von Cantonsbürgeren aus dem Bezirk
+                        Horgen bey dem Brandunglük in Zug geleisteten ausgezeicheten Hilfe.</title>
+                    28.03.1812
+                    <ident>StAZH MM 1.40 RRB 1812/0400</ident>
+                    <edition>Protokoll des Regierungsrats</edition>
+                    <biblScope unit="volume">1.40</biblScope>
+                    <biblScope unit="page">375–376</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da der Stadtrath von Zug in einer verbindlichen
+                Zuschrift vom 23sten dieß, die schnelle und glükliche
+                Hilfe, welche bey dem daselbst am 21sten dieß in der
+                    Nacht ausgebrochenen Brand, der zwey
+                    Häuser in die Asche legte, von den
+                hießigen Cantonsangehörigen aus dem Bezirke Horgen, und
+                vorzüglich aus den E. Gemeinden Maschwanden, Ürzlikon,
+                Hauptikon, Cappel, Hausen,
+                Rifferschweil, Mettmannstetten und Knonau, auf ausgezeichnete
+                Weise geleistet worden, auf das kräftigste verdankt, und die hießige Hohe Regierung
+                ersucht, diesen ihren freundeydsgenößischen Dank den betreffenden Gemeinden zu
+                Handen der so rühmlich sich ausgezeichneten Einwohner und Beamten noch einmahl
+                zukommen zu laßen, – so wird zu diesem Ende dem Herrn Bezirksstatthalter
+                    Frick das eingekommene Danksagungsschreiben abschriftlich
+                    mitgetheilt, und dieser Mittheilung auch die Bezeugung des
+                dießeitigen Hochobrigkeitlichen Wohlgefallens beygefügt.
+            
+Dem Stadtrath von Zug wird sein verbindliches Schreiben (laut
+                Mißiven) auf angemeßene Weise erwideret.
+        </body>
+    </text>
+</TEI>

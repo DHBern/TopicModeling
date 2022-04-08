@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Genehmigung des Schulplanes für die in der Cantonalstrafanstalt zu errichtende Schule.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn23.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Genehmigung des Schulplanes für die in der Cantonalstrafanstalt zu errichtende Schule.</title>03.06.1847<ident>StAZH MM 2.96 RRB 1847/0897</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">268–274</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat nach Einsicht des von der Aufsichtsbehörde über die Cantonalstrafanstalt, resp. dem Polizeirathe vorgelegten Schulplan für die in der Cantonalstrafanstalt zu errichtende Schule
+beschloßen:
+I. Ist derselbe sowohl im Allgemeinen genehmigt als im  Speciellen die Aufsichtsbehörde zur Ausschreibung der Lehrstelle und zur Bestellung des Lehrers ermächtigt.
+II. Wird dem Polizeirathe hievon [unter Rükstellung des Schulplanes] Kenntniß gegeben.
+Schulplan
+für die in der Cantonal-Strafanstalt zu errichtende
+Schule.
+I. Zwek der Schule.
+§. 1. Der Zwek der Schule besteht darin, den Sträflingen beider Geschlechter vom 12. bis zum zurükgelegten 20. Altersjahre.
+a. beßere religiöse und moralische Grundsätze und
+b. Diejenigen Kenntniße und Fertigkeiten beizubringen oder weiters auszubilden, welche geeignet sind, [sie] je nach vollendeter Strafzeit zu brauchbaren Mitgliedern der Gesellschaft zu machen und ihnen ein ehrliches Auskommen in derselben zu erleichtern.
+Von dieser Regel sind ausgenommen, konfirmirte Sträflinge unter 20. Jahren, deren Strafzeit weniger als drei Monate beträgt
+§. 2. Auf den Beschluß der Schulkommißion können auch Sträflinge über 20. Jahre dem Unterrichte in allen oder einzelnen Fächern zugetheilt werden.
+II. Lehrergegenstände.
+§. 3. Diese sind:
+a. Religion: Biblische Geschichte, Wekung und Entwiklung religiöser und moralischer Gefühle und Begriffe, christ-  liche Pflichtlehre:
+b. Deutsche Sprache: Lesen und Erklären des Niedergeschriebenen und Gelesenen, schriftliche Aufsätze mit Rüksicht auf das Nothwendigste im praktischen Leben die Sprachausbildung selbst ist durch angemeßene Belehrung bei Behandlung des Lehrstoffes zu erzielen.
+c. Rechnen: Kopf und Zifferrechnen, mit vorzüglicher Rüksicht auf das praktische Leben, Anleitung zur Anfertigung verschiedenartiger Haushaltungs- und Berufs-Rechnungen.
+d. Schreiben: Uebungen in deutscher Kurrentschrift nach Vorlagen, welche hauptsächlich kleinere Geschäftsaufsätze enthalten.
+e. Gedächtnißübungen als Aufgaben über den Sonntag namentlich über religiösen Stoff.
+f. Gesang. Einübung der beim Gottesdienste vorkommenden Chorale.
+III. Lehrmittel
+§. 4.
+a. Das neue Testament, eine biblische Geschichte und das Kirchengesangbuch.
+b. Ein für das Alter, die eigenthümlichen Verhältniße der Anstalt und die Bildungsstufe der Schüler paßendes Lesebuch, oder mehrere diesem Zweke entsprechende k[l]einere Schriften, namentlich moralische Erzählungen, Belehrungen aus der vaterländischen und der Naturgeschichte Pflichtenlehre und Gedichte enthaltend  
+c. Die für die Primarschule des Cantons Zürich obligatorisch erklärten Vorlegeblätter der deutschen Kurrentschrift.
+d. Der nöthige Vorrath von Schreibmaterialen, eine Wandtafel und eine hinlängliche Anzahl Schiefertafeln.
+IV. Klaßeneintheilung.
+§. 5. Sämmtliche Schüler, sowohl der männlichen als der weiblichen Abtheilung werden nach Alter und Fähigkeiten in zwei Claßen eingetheilt, welche jedoch zu gleicher Zeit, und, wo dieß die Natur des Lehrgegenstandes gestattet, auch gemeinsam unterrichtet werden.
+V. Zahl der Schulstunden.
+A. Für die männliche Abtheilung.
+§. 6. Die Zahl der wöchentlichen Schulstunden ist mit Inbegriff der Religionsstunde auf 12. festgesetzt, wovon je 2. auf einen Arbeitstag fallen. Sie vertheilen sich folgender Maßen auf die einzelnen Fächer.
+Religion		2. Stunden
+Sprachunterricht	4. „
+Rechnen		4. „
+Schreiben		1 ½. „
+Gesang			½. „
+				12. Stunden.
+B. Für die weibliche Abtheilung.
+§. 7. Die Zahl der wöchentlichen Schulstunden ist auf 8. festgesetzt, von denen 2. für den Religionsunterricht bestimmt sind, von den übrigen 6. soll je eine auf einen Arbeitstag fallen, und dieselben sind folgendermaßen auf  
+Die einzelnen Fächer zu vertheilen:
+Sprachunterricht	2. Stunden
+Rechnen		2. „
+Schreiben		1 ½. „
+Gesang			½. „ 	insofern die Zahl der Sträflinge dieses zuläßt.
+				6. Stunden.
+VI. Zeit der Unterrichtsstunden.
+§. 8. Ueber die Zeit des zu gebenden Unterrichtes setzt sich die Aufsichtsbehörde mit dem Lehrer ins Einverständniß
+VII. Wahl und Stellung des Lehrers.
+§. 9. Der Religionsunterricht wird von dem Seelsorger der Anstalt ertheilt, der übrige Unterricht dagegen einem Mitgliede der Zürcherischen Volksschullehrerstandes übertragen.
+Die Wahl des Lehrers geschieht durch die Aufsichtsbehörde der Strafanstalt nach geschehener Ausschreibung auf die Dauer eines Jahres mit Wiederwählbarkeit. Die Besoldung desselben beträgt nach §. 41. der Ordnung für das Cantonalgefangenhaus vom 12t. September 1843. Franken 400.
+VIII. Beaufsichtigung der Schule.
+§. 10. Die Aufsicht über die Lehrer und die Schule übt die Aufsichtsbehörde der Strafanstalt durch eine aus ihrer Mitte zu wählende Commißion von zwei Mitgliedern aus, zu welcher der Geistliche der Anstalt von Amtswegen gehört, und welche Sachverständige zu ihren Bera-  thungen zuziehen kann.
+§. 11. Der Lehrer erstattet jährlich der Aufsichtskommißion einen Bericht, welcher dem Jahresberichte der Aufsichtsbehörde beigelegt und dem Regierungsrathe mitgetheilt wird.
+IX. Lektionsplan.
+§. 12. Die Aufsichtskommißion der Schule entwirft, unter Mitwirkung des Lehrers, den Lektionsplan, welcher der Aufsichtsbehörde der Strafanstalt zur Genehmigung vorzulegen ist.
+X. Schulordnung u. Schulzucht.
+§. 13. Der Lehrer hat eine Verhaltungstabelle anzufertigen in welche die kleinern Fehler der Schüler nach fruchtlosem Mahnen eingetragen werden. Gröbere Fehler sind dem Präsidenten der Aufsichtsbehörde anzuzeigen.
+§. 14. Für die Bedürfniße der Schule wendet sich der Lehrer an die Schulkommißion, welche in wichtigern Fällen z. B. bei bedeutenden Ausgaben für die Schule, ihre Anträge an die Aufsichtsbehörde der Strafanstalt zu bringen hat.
+§. 15. Vierteljährlich berichtet der Lehrer an die Aufsichtsbehörde der Strafanstalt über die Verhältniße der Schule und das Betragen der Schüler.
+XI. Jahresprüfung.
+§. 16. Jährlich werden zwei Prüfungen abgehalten.
+XII. Prüfung beim Austritte.
+§. 17. Beim Austritte eines Sträflings aus der Schule soll  von dem Lehrer, in Gegenwart des Geistlichen der Anstalt, eine Prüfung mit demselben vorgenommen, das Resultat derselben protokollirt und mit dem Zeugniße über sein Verhalten der Aufsichtsbehörde der Anstalt zu Berüksichtigung bei Begehren um Strafverwandlung mitgetheilt werden.
+§. 18. Jedem aus der Strafanstalt tretenden Schüler wird von der Schul-Aufsichts-Commißion ein Zeugniß über seine Leistungen und sein Betragen in der Schule ausgefertigt und dem Stillstande seiner Heimatsgemeinde zugestellt.<p/></body></text></TEI>

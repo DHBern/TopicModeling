@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Execution der Forstordnung, und Organisation der
+                    Forstpoliceycommißion.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-07-03"
+                            >03.07.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Execution der Forstordnung, und Organisation der
+                        Forstpoliceycommißion.</title><date when="1807-06-18"
+                        >18.06.1807</date><ident>StAZH MM 1.22 RRB
+                        1807/0782</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.22</biblScope><biblScope unit="page"
+                    >402–403</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung und in gänzlicher Genehmigung des von der
+                    Commißion des Inneren unterm <date when="1807-05-25">25sten
+                    May</date> (in Folge erhaltenen Auftrags vom <date when="1807-06-16"
+                    >16ten</date> ejusdem) hinterbrachten Berichts und Gutachtens, betreffend die
+                nöthigen Executiv-einleitungen in Bezug auf die am <date when="1807-05-14">14ten
+                    May</date> von dem Großen Rath zum Gesetz erhobene,
+                erneuerete Forstordnung für den Canton Zürich, – wurde
+                beschloßen:
+            
+1. Die gedachte Forstordnung solle fürdersammst gedrukt, und den sämmtlichen Herren
+                Bezirks- und Unterstatthalteren in hinreichender Anzahl von Exemplaren zu geflißener
+                Handhabe und Bekanntmachung, und mit dem bestimmten Auftrag zugestellt werden,
+                solche in allen Gemeinden ihrer respvé Bezirksabtheilungen öffentlich verlesen zu
+                laßen, und jedem Gemeindammann, jeder Gemeindraths- und Gerichts-behörde, wie auch
+                jedem Forster ein Exemplar zuzustellen.
+            
+2. Die in dem 2ten §. des XXI. Tituls der Forstordnung
+                vorgeschriebene Commißion zu Handhabung der Forstpolizey über Gemeinds-[,]
+                Corporations- und Privatwaldungen, bestehet aus:
+            
+Herren Rathsherr Wyß.
+            
+ “ Rathsherr Hirzel.
+            
+ “ Rathsherr Wolf.
+            
+ “ Rathsherr Ott an der Thorgaß
+            
+ “ Rathsherr Homberger.
+            
+ “ Oberrichter Meis.
+            
+ “ Forstinspector Hirzel;
+            
+in Zuzug des Herren Forstmeisters Hotz, welcher jedoch nur eine
+                deliberative Stimme hat.
+            
+3. Diese Commißion wird sich befürderlich auf Art und Weise in Activität setzen, wie
+                die näheren Bestimmungen des Gesetzes solches mit sich bringen. 
+        </body>
+    </text>
+</TEI>

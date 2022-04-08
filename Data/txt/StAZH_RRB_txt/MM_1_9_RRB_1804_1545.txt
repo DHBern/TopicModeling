@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anerkennung von L. 8'500 für die Kriegsbrandbeschädigten, ab Seite der
+                    Liquidations-Commißion.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-01-22"
+                            >22.01.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Anerkennung von L. 8'500 für die Kriegsbrandbeschädigten, ab Seite der
+                        Liquidations-Commißion.</title><date when="1804-09-08"
+                        >08.09.1804</date><ident>StAZH MM 1.9 RRB
+                        1804/1545</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.9</biblScope><biblScope unit="page"
+                    >157–158</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf den von der Finanzcommißion hinterbrachten Bericht vom <date
+                when="1804-08-31">31ten Augusti</date>, daß die schweizerische
+                Liquidations-Commißion unter anderm eine Summe von L. 8'500 für die
+                Kriegsbrandbeschädigten des Cantons Zürich anerkannt habe,
+                wofür der Gutschein sich in ihren Handen befinde, und sie zu Wißen verlange, ob und
+                in wie fern bey der nächstbevorstehenden Repartition der in vorigem Monat, laut
+                Publication vom 17ten Julii erhobenen Liebessteuer
+                auf jenen Gut- schein, seye es durch einen von Seiten des Staats zu
+                machenden baaren Geld-Vorschuß, oder auf eine andere Art Rüksicht zu nehmen seye, –
+                wurde beschloßen, diesen Gegenstand zu näherer Untersuchung und Berichterstattung
+                der Commißion des Innern zu Handen ihrer Steuer-Section zu
+                überweisen.
+        </body>
+    </text>
+</TEI>

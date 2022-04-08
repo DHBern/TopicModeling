@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Unterstüzung der Gemeinde Feuerthalen zum Behuf ihres Schulhausbaus.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-10-24"
+                            >24.10.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Unterstüzung der Gemeinde Feuerthalen zum Behuf ihres
+                        Schulhausbaus.</title>04.02.1804<ident>StAZH
+                        MM 1.5 RRB 1804/0231</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.5</biblScope><biblScope
+                        unit="page">294–295</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf angehörte Weisung des Erziehungsraths vom <date
+                when="1804-01-31">31ten. Jenner</date>, woraus sich ergiebt, daß, auf Verwendung
+                des provisorischen Erziehungsraths, im Wintermonat 1802. von der damahligen
+                Helvetischen Regierung, durch die Verwaltungskammer des hießigen Cantons, der
+                brandbeschädigten Gemeinde Feuerthalen zu Wieder-erbauung
+                ihres abgebrannten Schulhauses 275 fl. Reichsvaluta zugetheilt worden: daß aber
+                diese Summe nicht hinreichend gewesen, zumahlen die bisherigen Unkosten sich auf 469
+                fl. 33. Xr. belauffen, also 194 fl. 33 Xr. mehr ausgegeben als eingenohmen worden,
+                ohne 39 fl. 45 Xr. vorläuffige Auslaagen der Gemeinde, so wie die Fuhren für
+                Herbeyschaffung der Baumaterialien, und die während des Baus geleisteten
+                Frohndienste, in Anschlag zu bringen; und daß endlich die Berechnung deßen, was zur
+                Vollendung des Baus noch erforderlich sey, sich auf 93 fl. 30 Xr.
+                belaufe, welcher Betrag also mit obigem Deficit 288 fl. 3. Xr. ausmache, – hat der
+                    Kleine Rath seiner Finanzcommißion aufgetragen, der Gemeinde
+                    Feuerthalen als Hochobrigkeitliche Unterstüzung zum Behuf
+                der Vollendung ihres angefangenen Schulhausbaus, die obgedachte Summe von 288. fl. 3
+                Xr. Reichsgeld baar verabfolgen zu laßen. Von dieser Verfügung wird der
+                    Erziehungsrath benachrichtigt, damit der auf dienliche Weise
+                darüber wachen laße, daß diese Summe genau zu dem angezeigten Endzwek verwendet
+                werde.
+        </body>
+    </text>
+</TEI>

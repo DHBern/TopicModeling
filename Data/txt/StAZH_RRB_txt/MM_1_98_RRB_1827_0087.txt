@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schultheiß und Täglicher Rath von Luzern berichten, daß sie von Sr. Majestät,
+                    dem König von Preußen, das Geschenk eines Kelches für die reformirte Kirche
+                    empfangen, und daß Herr Carl Rickli seine Ernennung zum Pfarrer derselben
+                    angenommen.</title>
+                <respStmt>
+                    <resp ref="#mal" key="transcript">Transkript: mal<date when="2010-05-28"
+                            >28.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Schultheiß und Täglicher Rath von Luzern berichten, daß sie von Sr.
+                        Majestät, dem König von Preußen, das Geschenk eines Kelches für die
+                        reformirte Kirche empfangen, und daß Herr Carl Rickli seine Ernennung zum
+                        Pfarrer derselben angenommen.</title><date when="1827-02-03"
+                        >03.02.1827</date><ident>StAZH MM 1.98 RRB
+                        1827/0087</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.98</biblScope><biblScope unit="page"
+                    >59–61</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Durch Schreiben vom 27. passati machen
+                    Schultheiß und Täglicher Rath zu
+                    Luzern die officielle Anzeige, daß der
+                Königlich-Preußische Gesandte, Herr Baron von Otterstedt,
+                denselben das von Sr. Majestät, dem König von Preußen, der
+                evangelisch-reformirten Kirche in Luzern
+                zugedachte, in einem zu Berlin verfertigten, mit der
+                Inschrift: Friedrich
+                Wilhelm III. den 2ten August
+                1826. versehenen Kelche, zugedachte Geschenk, unter dem Ersuchen übersandt habe,
+                solches seiner Zeit an den Ort seiner Bestimmung abgeben zu wollen, über welchen
+                erfreulichen Beweis wohlwollender Gesinnungen man sich auch dortseits befreue.
+            
+Eine zweyte, von dem dortigen Staatsrathe eingegangene Mißive, d. d. <date
+                    when="1827-08-29">29. ejusdem</date>, enthält den Bericht, daß Herr
+                    Carl
+                Rickli Wohlerw. von Bern, die Ernennung
+                zum reformirten Pfarrer in Luzern angenommen, zugleich aber
+                den Wunsch geäußert habe, daß seine Amtsübernahme, in Berücksichtigung seiner noch
+                bestehenden Verhältniße und Pflichten gegen die bisherige Gemeinde, bis nach heil.
+                Ostern hinausgesetzt werden möchte. Da derselbe aber vorher auf
+                    Luzern zu kommen wünsche, so habe die Regierung ihn auf
+                Anfang Merzmonaths dahin beschieden, um das Nöthige mit ihm besprechen und vorläufig
+                anordnen zu können. 
+            
+Diese beyden Schreiben werden in Einem, das erste mit Bezeugung des daraus
+                geschöpften Vergnügens, und das andre ohne weitere Bemerkung rückantwortlich ver-
+                    dankt und dem Hohen Staatsrathe zu weiter erforderlichem Gebrauche
+                in die Hand gelegt.
+        </body>
+    </text>
+</TEI>

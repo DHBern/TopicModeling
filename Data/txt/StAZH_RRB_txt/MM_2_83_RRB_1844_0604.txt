@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Rekurse gegen die Vermögenssteuer.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn27.01.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Rekurse gegen die Vermögenssteuer.</title>20.04.1844<ident>StAZH MM 2.83 RRB 1844/0604</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.83</biblScope><biblScope unit="page">222–226</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Dem Abgabendepartemente werden zur Prüfung und Berichterstattung überwiesen, die nachstehenden Rekurse gegen die Vermögenssteuer, von:
+Rud. Bebie, im Turgi [?]	d. d.	19.	hjs.
+Casp. Ulmer in Richterschweil			“
+Heinrich Egolf in Außervollikon bei Egg	 “		15.	 “
+Joh. Kaspar in Richterschweil	 “		18.	 “
+Hs. Jb. Näf, Vater in Wallissellen	 “		15.	 “
+Oswald Burkhard in O. Mettmenstetten	 “		17.	 “
+Rudolf Schärer No. 632. pr. Stadt, Zürich 	 “		19.	 “
+Gmdam. Heinrich Honegger, im Rüti	 “		13.	 “
+Casp. Blikenstorfer in Medikon, O. Illnau	 “		18.	 “
+Joh. Höhn No. 331. in Wädenschweil	 “		16.	 “
+Fr. Elis. Weber, geb. Wipf in Albisrieden	 “		16. 	 “
+Wwe Anna Feh in Fluntern	 “		14.	 “
+Hs. Hrch. Hochstraßer in Uster	 “		15.	 “
+Johs. Hüni Goldarbeiter in Horgen	 “		17.	 “
+Hs. Hrch. Krauer in Riketschweil, 
+b. Bäretschweil	 “		10.	 “
+Johs. Rügg in Landenberg b. Bauma	 “		9.	 “
+Mdr. Brunner in Bülach	 “		11.	 “
+Felix Häusler in Zürich	 “		10.	 “	 
+Gmdrth. Rud. Baumann v. Herschmettlen,
+bey Goßau		d. d. 	17.	hjs.
+Hs. Jb. Meier von Egentschweil	 “		19.	 “
+Hs. Casp. Wirth in Bauma	 “		17.	 “
+Hrch. Escher Zollikofer in Enge	 “		13.	 “
+Casp. Schneider, in Wädenschweil	 “		19.	 “
+J. J. Wirz im Grüt b. Gossau	 “		18.	 “
+Rud. Frei, im Thal b. Hombrechtikon	 “		15.	 “
+Ed. Haßler, Gerichtschreiber in Pfäffikon	 “		9.	 “
+Rud. Wolfensperger in Mönchaltorf	 “		12.	 “
+Conr. Hofmann in Oerlikon	 “		11.	 “ nebst 2. Urk.
+Felix Benz, Hegens in M. Schwerzenbach	 “		17.	 “
+Fr. Kienast-Weiler in Zürich	 “		13.	 “ nebst 1. Urk.
+Conrad Isler in Töß	 “		15.	 “
+Civilvorsteherschaft Nürenstorf	 “		17.	 “
+Joh. Benz in Dietlikon	 “		17.	 “
+Rud. Köchli-Fürst s. L.	 “		15.	 “
+Eschraim Hägni von Stäfa	 “		15.	 “ nebst 1. Attest.
+Gebrüder Schmid in U. Illnau	 “		18.	 “
+J. U. Furrer z. Rosenhof No. 449.
+zu Winterthur	[d.d.]	16.	 [hjs.]
+Caspar Bölsterli in Rümikon	 “		13.	 “
+Jb. und Andr. Pfenninger Färber in Stäfa	 “		18.	 “
+Ulr. Leutholt in Küßnacht	 “		13.	 “
+Joh. Vollenweider in Langnau	 “		13.	 “
+Hs. Jb. Walder in Goßau	 “		18.	 “
+J. J. Hochstraßer z. Krone in Hütten	 “		16.	 “	 
+Hs. Ulr. Fröhlich, M. P. in Bülach	d. d.	18.	hjs.
+J. U. Burkhard v. Mettmenstetten	 “		17.	 “
+Rud. Kündig im Würt	 “		16.	 “
+J. Locher Hirzel b. Thörli in Zürich	 “		14.	 “
+Hrch. Weber in Höngg	 “		16.	 “
+J. Balber in Zürich	 “		12.	 “
+C. Nüßli in Wenzikon	 “		9.	 “
+Jb. Honegger in Hütten b. Rüti	 “		16.	 “
+Casp. Morf, ein Gießhübel, Gem. Wiedikon	 “		16.	 “
+Casp. Rellstab in Richterschweil	 “		14.	 “
+Hrch. Guggenbühl in Bendlikon	 “		18.	 “
+Hs. Rud. Lang, Friedensrichter in Wytikon	 “		18.	 “
+Rudolf Leemann Zimmermann in Uetikon a/Z “		18.	 “
+Hs. Jb. Haller in Wallissellen	 “		18.	 “
+Gebd. Korrodi im Hof b. Egg	 “		18.	 “ nebst 1. Urk.
+C. Siegrist, Schäfer in Rafz	 “		17.	 “
+H. und K. Schweizer     “	 “		17.	 “
+Hrch. Neukomm, Thierarzt “	 “		17. 	 “
+Johs. Schweizer           “	 “		17.	 “
+G. Steb Zukerbeck in Winterthur	 “		19.	 “
+H. Fröhlich, Prssdt. in Bülach	 “		19.	 “
+H. J. Enderli, in No. 12 in U. Illnau	 “		18.	 “
+S. Kramer auf d. Mühlehalden, Oberstraß	 “		17.	 “
+Hrch. Hottinger, a. Horn No. 21.
+in Richterschweil	 “		19.	 “
+H. S. Hug, A. Gmdrth. in Baßerstorf	 “		11.	 “	 
+H. H. Honegger im Tobel, b. Wald	 d. d. 	18.	hjs.
+Prsdt. J. Hintermann in U. Engstringen	 “		17.	 “
+J. Angst, alt Badwird in Wyl	 “		18.	 “
+J. Meier in Bülach			“	
+H. Großmann in Wallissellen			“	
+J. Großmann No. 54.			“	
+H. Lattmann in Zürich	 “		16.	 “
+R. Güttinger v. Opfikon, dato Landjäger
+in Tagelschwang[en]	 “		18.	 “
+Johs. Hinnen, Schneider in Zürich	 “		19.	 “ nebst 1. Theilr.
+Frau Pfarrer Beil in Wetzikon	 “		17.	 “
+Hs. Hrch. Dändliker in d. Hohlgasse
+b. Hombrechtikon	 “		16.	“  nebst 7. Urk.
+Joh. Baumann in Wiedikon	 “		19.	“
+Hs. Casp. Dändliker in d. Hohlgaße
+bei Hombrechtikon	 “		 “	 “ nebst Urk.
+A. Gemdrth. Hrch. Bänninger in Marchlen, b.
+Embrach				“	
+Hs. Hrch. Egli, im Laufenbach, b. Rüti	 “		17.	 “
+Hrch. Müller, Bleicher in O. Winterthur.	 “		16.	 “
+J. Baumann in Horgen	[d.d.]	16.	 [hjs.]
+J. Leutenegger in Wiedikon	 “		19.	 “ nebst 3. Urk.
+J. J. Sträßler z. Löwen in Eglisau	 “		19.	 “
+Johs. Vollenweider in Kloten	 “		18.	 “
+Gmdrth. Jb. Sauter in Langnau	 “		18.	 “
+J. E. Tobler, Pfarrer z. Wald	 “		19.	 “
+Leonhard Meier in Wallissellen	 “		19.	 “
+L. Aebi, Verwalter, Ns. Hr. Merian von der 
+Mühl in Teufen  nebst einer Urkunde	 d. d. 	20.	hjs.
+J. Weber in Eßlingen	 “		17.	 “
+Sal. Schaufelberger, gew. Bott in Weiningen	 “		19.	 “
+Jb. Heußer in Ottenhausen, Gmd. Pfäffikon	 “		18.	 “
+Rud. Schuepp in Schlieren			“	
+K. Theiler Wirz in Hottingen	 “		6.	 “
+Wwe. Schurter geb. Peier in Freienstein	 “		17.	 “
+N. diese 3. letztern Rekurse wurden den Betreffenden zurükgestellt, um sie binnen Frist einer Woche auf Stempelpapier geschrieben an die Canzlei des Abgabendepartements einzuschiken.<p/></body></text></TEI>

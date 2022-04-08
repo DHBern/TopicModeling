@@ -1,0 +1,14 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Rükweisung der Streitigkeit zwischen J. Hürlimann aus Oetweil in Wiedikon u. dem Gmdrthe Wiedikon betreff. Bezug v. Niederlaßungsgebühren.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn25.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Rükweisung der Streitigkeit zwischen J. Hürlimann aus Oetweil in Wiedikon u. dem Gmdrthe Wiedikon betreff. Bezug v. Niederlaßungsgebühren.</title>10.06.1847<ident>StAZH MM 2.96 RRB 1847/0944</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">311–312</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat in Sachen des Jakob Hürlimann aus Oetweil, wohnhaft in Wiedikon, Klägers und Appellanten, einerseits
+und
+des Gemeindrathes Wiedikon, Beklagten und Appellaten anderseits, betreffend Bezug von Niederlaßungsgebühren;
+auf Grundlage der faktischen Ergebniße des appellirten Erkenntnißes und nach Einsicht der Appellationsschriften
+in Berüksichtigung:
+1. Daß Hürlimann sich darauf stützt, er sei Taglöhner, habe als solcher keine Niederlaßungsgebühren zu bezahlen und zum Beweise für seine Behauptung verschiedene Zeugniße producirt.
+2. Daß es nun aber nicht Sache der Administrativbehörden sondern der Gerichte ist, ihm den Beweis abzunehmen, daß er Taglöhner sei und nicht in eine beßere Stellung gehöre.
+3. Daß daher der Kläger, resp. Appellant seine Klage bei den Gerichten und nicht bei den Administrativbehörden  hätte anhängig machen sollen.
+beschloßen:
+I. Ist das erstinstanzliche Erkenntniß aufgehoben und Kläger, insofern er überhaupt den Streit fortführen will, an die Gerichte verwiesen:
+II. Sind die erst- und zweitinstanzlichen Staats- und Canzleigebühren niedergeschlagen, hat hingegen Hürlimann die Stempel- und Ausfertigungsgebühren zu tragen.
+III. Wird hievon dem Bezirksrathe Zürich, für sich und zu Handen der Partheien [unter Rükstellung der Akten] Kenntniß gegeben.<p/></body></text></TEI>

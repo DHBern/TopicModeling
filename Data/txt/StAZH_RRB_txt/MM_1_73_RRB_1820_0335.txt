@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Brandunglück zu Niederweningen.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn09.05.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Brandunglück zu Niederweningen.</title>25.04.1820<ident>StAZH MM 1.73 RRB 1820/0335</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.73</biblScope><biblScope unit="page">75–78</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Mit großem Bedauern vernahm die Hohe Behörde des Kleinen Raths einen Bericht der L. Brandaßecuranz-Commißion d. d. 20sten hujus, über das traurige am 15ten ejusdem des Morgens frühe um 2. Uhr in der Gemeinde Niederweningen stattgehabte Brandunglück, durch welches zwölf unter sechs Firsten gestandene, von 83. Personen bewohnt gewesene Behausungen in die Asche gelegt wurden, wobey zwey Kinder, ein Mädchen von 12. und ein Knabe von 5. Jahren in den Flammen ihr Leben verloren, und seither noch zwey große Personen in Folge starker Brandwunden starben. Zufolge amtlichen Berichtes, hat Cleophea Bucher, Jacob Buchers, Geitheiris Frau, eine gemüths-  kranke Person, eingestanden, daß sie das Feuer in ihrem Hause angelegt. Da sie sich nach Ablegung dieses Geständnißes mit einem Meßerstich in den Hals das Leben zu nehmen versuchte, so ward sie seither in den Spital gebracht.
+Die eingeäscherten Behausungen waren folgende:
+1.) No. 38. 1/3. Wohnhaus des Rudolf Bucher, Schneider, aßecurirt	pr.	fl. 420.
+2.) No. 38. a. 1/6 Wohnhaus der Gebrüder Heinrich Bucher, Weber, aßecurirt für	 “	350.
+3.) Unter gleicher Nummer 1/6. Wohnhaus Hs. Jacob Bucher, 
+    Strumpfweber, jünger, zugehörend, aßecurirt					  “	350.
+4.) Unter gleicher Nummer 1/3. dem Jacob Bucher, Weber, aßecurirt für	  “	700.
+5.) No. 39. a. Das Wohnhaus des Jacob Bucher, Rüdis sel[igen]., aßecurirt für	  “	1800.
+6.) No. 40. a. Das Wohnhaus der Söhne des Rudolf Meyer,
+    Wagners sel[igen]., aßecurirt für						  “	1200.
+7.) No. 42. 1/4. Wohnhaus des Heinrich Zöbeli, aßecurirt für		  “	650.
+8.) No. 42. 1/4. Wohnhaus des Hans Wirth, Schulmeisters sel[igen]., aßecurirt für	  “	800.
+9.) Unter gleicher Nummer ein halbes Haus des Rudolf Scheibli, 
+    alt. Richter, aßecurirt für						  “	1400.
+											fl.     7670.  
+Uebertrag									fl.     7670.
+10.) No. 43. Das Wohnhaus des Johannes Scheibli, aßecurirt für 	  “	800.
+11.) No. 44. 1/3. Wohnhaus des Hs. Jacob Wirth, Schulmeisters, aßecurirt für	  “	1200.
+12.) No. 44. 2/3. der nähmlichen Behausung dem Jacob Uzinger zugehörend, 
+      aßecurirt für								  “	1800.
+									Summe	fl.	11,470.
+Da nun die vorbenannten Hauseigenthümer an dem Brandunglücke unschuldig sind, so hat die Hohe Behörde erkennt, es solle denselben die Aßecuranzvergütung nach vorbenannten Summen geleistet werden, und da beynahe nichts von Fahrnußen gerettet werden konnte, so wollen UHHerren und Obern gleichfalls den nachbenannten 15. Haushaltungen die gewohnte Obrigkeitliche Brandsteuer an Frucht und Geld verabfolgen laßen:
+Rudolf Bucher, Schneiders; Rudolf Kleisli, Schreiner; Heinrich Bucher, Weber; Hs. Jacob Bucher, Strumpfweber; Hs. Jacob Bucher, Weber; Hs. Jacob Bucher, Rudis sel[igen].; Hs. Jacob Meyer und Gebrüder; Hs. Rudolf Zöbeli; Heinrich Meyer, Hans Wirth, Schulmeisters sel[igen].; Johannes Scheibli; Susanna Brämhans Zöbelis sel[igen].; Hs. Jacob Wirth, Schul-  meisters sel[igen].; Caspar Wirth, Schulmeister; und Hs. Jacob Uzinger.
+Gegenwärtiger Beschluß wird der L. Brandaßecuranz-Commißion, der L. Finanz-Commißion, und dem L. Oberamte Regensberg zu Handen der Brandbeschädigten mitgetheilt.  <p/></body></text></TEI>

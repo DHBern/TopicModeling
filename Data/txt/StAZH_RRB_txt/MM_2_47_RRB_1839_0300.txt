@@ -1,0 +1,30 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Neuere Berichte und Verfügungen in der Angelegenheit des Herrn Dr. Strauß.</title><respStmt><resp ref="#ssc" key="transcript">Transkript: ssc11.03.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Neuere Berichte und Verfügungen in der Angelegenheit des Herrn Dr. Strauß.</title>26.02.1839<ident>StAZH MM 2.47 RRB 1839/0300</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.47</biblScope><biblScope unit="page">189–193</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Dem Regierungsrathe wurden heute wieder folgende in Betreff der Berufung des Herrn Dr. Strauß an die hiesige Hochschule eingegangene Petitionen vorgelegt:  
+1.) Gegen die Berufung:
+Von	der Kirchgemeinde Seen 	d. d.	23. Februar
+  “	Bürgern der Gemeinde Andelfingen 		23.    “    “
+  “	der Kirchgemeinde Rümlang 		21.    “    “
+  “	Stillstand und Gemeinde Oberglatt 		19.    “    “
+und ein anonymes Schreiben.
+2.) Für die Berufung.
+Von	Bürgern der Gemeinde Bülach 	d. d.	21. Februar.
+  “	Bürgern der Gemeinde Eglisau 	 “   “	23.    “    “
+  “	Bürgern der Gemeinde Dielstorf 	 “   “	24.    “    “
+und ein anonymes Schreiben.
+Endlich ein über diese Angelegenheit sich im Allgemeinen aussprechendes Schreiben mehrerer Bürger von Seebach.
+Nach diesem wurden wieder mehrere Statthalteramtliche Berichte an den Policeyrath über den Zustand ihrer Bezirke und die herrschende Stimmung verlesen, worauf sodann der Regierungsrath folgende Beschlüße faßte:
+1.) Die sämmtlichen eingegangenen Petitionen werden der bereits niedergesetzten (aus nachbenannten Mitgliedern, den Tit: HHerrn Amtsbügermeister Heß, Herrn Bürgermeister Hirzel, und den HHerren Regierungsräthen Weiß, Hegetschweiler und Zehnder  bestehenden) Special-Commißion überwiesen, zu sorgfältiger Prüfung und mit dem Auftrage, über die Gegenstände des Kirchen- und Erziehungswesens die Gutachten des Kirchen- und Erziehungsrathes einzuholen, und darüber ihr Befinden zu hinterbringen, damit der Regierungsrath gestützt auf diese Untersuchung dem Großen Rathe in seiner nächsten Versammlung seinen Bericht und Anträge vorlegen könne.
+2.) Wird der Policeyrath unter Verdankung seiner bisherigen Bemühungen für Erhaltung der Ordnung eingeladen, seine Wachsamkeit ferner walten zu laßen, und den Regierungsrath von der Lage der Dinge von Zeit zu Zeit in Kenntniß zu setzen.
+3.) Wird diesem Collegium bey der Staatscaßa ein Credit von Frk[en]. 10,000. für die wegen der außerordentlichen Umstände erforderlichen Maßregeln eröffnet.
+4.) Wird der Kirchenrath eingeladen, beförderlich zu berichten, was zu Vollziehung des sub 9. d. M. erhaltenen Auftrages, sowie auch der unterm 19. d. M. erlaßenen Publication gethan worden, und was seither durch seine Behörde oder durch Präsidialverfügung überhaupt geschehen.  
+5.) Wird die Staatsanwaldschaft beauftragt, von Zeit zu Zeit dem Regierungsrathe in Betreff der durch diese Aufregung veranlaßten und zur Beurtheilung an Gerichte überwiesenen Policeyvergehen Bericht zu erstatten.
+6.) Werden sämmtliche Statthalterämter aufgefordert, dem Präsidenten des Policeyrathes alle 2. bis 3. Tage über den Zustand ihrer Bezirke und allfällig vorfallende Ereigniße Bericht zu erstatten.
+Demnach wurde über einen geschehenen Antrag eingetreten, dahin gehend, daß die Regierung der im Siebner-Concordate begriffenen Stände durch ein Kreisschreiben von der hierseits stattfindenden Gährung benachrichtigt und eingeladen werden möchten, jede einen Abgeordneten wo möglich aus ihrer Mitte hieher zu senden, damit im Vereine mit solchen, die geeigneten Maßregeln berathen werden können, um weitern für den Canton und das gesammte Vaterland nachtheiligen Folgen vorzubiegen.
+Zuerst fiel nun folgende Frage in Abstimmung:
+Solle gegenwärtig eine Einladung an irgendwelche  fremde Stelle zu Leistung eines Beystandes erlaßen werden?
+Diese Frage wurde einmüthig verneinend entschieden.
+Die zweyte Abstimmungsfrage lautete also:
+Falls die Umstände eine solche Einladung nothwendig machen sollten, solle dieselbe an den gesammten Bund, oder an die im Siebner-Concordate begriffenen Stände gerichtet werden?
+Bey dieser Frage sprachen sich 15. Vota nebst dem Präsidium für den Bund, und 3. für die Concordatsstände aus.
+Aus gegenwärtigen Protokolle sind die nöthigen Auszüge für die Special-Commißion, den Policeyrath, Finanzrath, Kirchenrath und sämmtliche Statthalterämter zu machen.<p/></body></text></TEI>

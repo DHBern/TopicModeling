@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Die Tischmachermeister bitten um Ausmarchung der ihnen ausschließend zustehenden Arbeiten.
+Die Regierung hat die Bittschrift der Meister E. E. Tischmacher-Handwerks vom 21sten pti, enthaltend das Ansuchen um nähere Bestimmung der Tischmacherhandwerksordnung, in Bezug auf die Ausmarchung derjenigen Arbeiten, welche diesem Handwerk ausschließend zustehen, und wovon dann mithin die Zimmermeister und übrige in Holz arbeitende Handwerke ausgeschloßen seyn sollten, in Überlegung genommen und gefunden, daß es für das öffentliche Wohl nicht nothwendig sey, dießfalls in nähere Bestimmungen einzutretten, zumalen es bey dem allgemeinen, durch den 10ten §. des Handwerk-Polizeygesetzes vom 28sten May 1804. ausgedrükten Grundsatz, „daß nämlich Niemand befugt sey, Gesellen für ein Handwerk zu halten, das er nicht selbst erlernt hat“, lediglich sein Verbleiben habe.
+Hievon wird der Herr Bezirksstatthalter Geßner den Tischmachermeistern, zu ihrer Verbscheidung Kenntniß zu geben belieben.

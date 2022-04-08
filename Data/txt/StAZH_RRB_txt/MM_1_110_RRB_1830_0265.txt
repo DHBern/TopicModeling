@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Auftrag zu Bezahlung des dießjährigen Beytrags an die Eidgenößischen
+                    Central-Militär-Ausgaben.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-07-26"
+                            >26.07.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Auftrag zu Bezahlung des dießjährigen Beytrags an die Eidgenößischen
+                        Central-Militär-Ausgaben.</title><date when="1830-04-01"
+                        >01.04.1830</date><ident>StAZH MM 1.110 RRB
+                        1830/0265</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.110</biblScope><biblScope unit="page">72</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Mit Zuschrift vom 31sten v. M. fordert der
+                Hohe Vorort Bern, in Folge des Tagsatzungsbeschlußes vom
+                    13ten August v. J., den hiesigen Stand auf,
+                seinen scalamäßigen Beytrag von 2744. Frk[en]. 4. Btz[en]. 3. Rpp[en]. an die
+                dießjährigen Eidgenößischen Central-Militär-Ausgaben zu ihrer Disposition in
+                Bereitschaft zu halten. Es wird daher die L. Finanz-Commißion
+                beauftragt, der Staatscaßa-Verwaltung die Weisung zugehen zu laßen, die benannte
+                Summe auf Verfügung der vorörtlichen Behörde (welcher hiervon laut Mißiven Kenntniß
+                gegeben wird) auszubezahlen.
+        </body>
+    </text>
+</TEI>

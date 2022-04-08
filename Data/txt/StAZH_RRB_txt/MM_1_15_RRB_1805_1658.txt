@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Herr D. Wyß in Bern wegen der Wiederverheyrathung der unter seiner Curatel
+                    stehenden Wittwe Meyer geb: André von Paris, und der Theilung ihres Manns
+                    Verlaßenschaft mit ihrem Kind erster Ehe.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-09-10"
+                            >10.09.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Herr D. Wyß in Bern wegen der Wiederverheyrathung der unter seiner
+                        Curatel stehenden Wittwe Meyer geb: André von Paris, und der Theilung ihres
+                        Manns Verlaßenschaft mit ihrem Kind erster Ehe.</title><date
+                        when="1805-11-12">12.11.1805</date><ident>StAZH MM 1.15 RRB
+                        1805/1658</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.15</biblScope><biblScope unit="page"
+                    >275–277</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da es sich aus dem von Herrn D. Wyß unterm <date
+                    when="1805-11-27">27sten</date> pti. an den HHerrn
+                    Burgermeister
+                Escher eingekommenen Schreiben ergiebt, einerseits daß die, samt
+                    ihrem unmündigem Kinde, [laut Protocoll des <orgName>Kleinen
+                    Raths</orgName> vom 31sten December 1804] unter
+                der Vormundschaft des gedachten Herrn D. Wyß stehende Wittwe
+                    Josephine, geborne André aus
+                    Paris, Wittwe des am <date when="1805-11-04">4ten
+                    Novembris</date> in Bern verstorbenen Herrn
+                    Johannes
+                Meyers von Maur, hießigen Cantons, sich
+                nun, und zwar vor Ablauf des, nach dasigen Gesetzen zu beobachtenden Wittwenjahrs,
+                und ohne Vorwißen ihres genannten Vormünders, in zweytere Ehe,
+                und zwar mit einem Schuhmachermeister Valloton verheyrathet habe, weßwegen es nun um
+                die Theilung der Verlaßenschaft des verstorbenen Herrn Meyers
+                zwischen der André und ihrem Kinde erster
+                    Ehe zu thun sey, und es sich frage, ob diese Theilung nach
+                Bernerischen oder aber Zürcherischen Gesetzen vorgenohmen werden soll? – und
+                anderseits daß in Absicht auf die Instruction des Herrn D. Wyß
+                als Vormunds, von Seite des Gemeindraths von Maur, ungeachtet
+                der Insinuation des Kleinen Raths vom <date when="1804-12-31"
+                    >31sten Decembirs 1804</date>. bis jezt noch kein Schritt gegen denselben gethan
+                worden ist, so wird der Herr Unterstatthalter Krauer angewiesen,
+                dem gedachten Gemeindrath die beyliegende Abschrift des Schreibens von Herrn D.
+                    Wyß mitzutheilen, und demselben zu Handen des
+                    Kleinen Raths einerseits einen Bericht, warum der Gemeindrath
+                den ihm anbefohlenen Schritt gegen den Herrn D. Wyß noch nicht
+                gethan habe, und anderseits die Erklärung befürderlich abzufordern, ob der
+                Gemeindrath wünsche, daß die vorzunehmende Theilung nach Bernerischen oder aber nach
+                Zürcherischen Gesetzen geschehe?
+            
+Inzwischen wird HHerr Burgermeister
+                Escher ersucht, dem Herrn D. Wyß vorläuffig
+                gefälligst zu verb’scheiden, daß der Kleine Rath dießfalls näch-
+                    stens eine Verfügung treffen werde.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Traktat mit dem fränkischen Kriegs-Commißär Robert, wegen Wegschaffung des fränkischen Artillerieparks nach Basel.
+Auf geschehene mündliche Anzeige von der, von Seite des französischen Kriegskommißärs Robert an das Kantons[-]Kommißariat gelangten Aufforderung wegen Transportierung des hier befindlichen französischen Artillerieparks auf Basel, wird die Finanz[-]Commißion begwältigt, die nöthig[en] Fuhrpferde zu miethen und mit dem Kriegs[-]Commißair Robert einen Tractat für 2. Tage abzuschließen, wobey die von demselben zugesicherte Entschädigung auf Mann und Pferd, an die Bezalung der dießfälligen Kosten verwendet werden soll.

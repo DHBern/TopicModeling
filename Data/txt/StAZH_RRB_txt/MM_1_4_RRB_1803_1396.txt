@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verfügungen auf das Schreiben des Ehegerichts wegen der liederlichen Häuser
+                    u: Dirnen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-08-20"
+                            >20.08.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Verfügungen auf das Schreiben des Ehegerichts wegen der liederlichen
+                        Häuser u: Dirnen.</title><date when="1803-12-09"
+                        >09.12.1803</date><ident>StAZH MM 1.4 RRB
+                        1803/1396</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.4</biblScope><biblScope unit="page"
+                    >265–267</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach angehörtem sorgfältigem Gutachten der Polizeykommißion vom <date
+                    when="1803-11-18">18ten passati</date> über die derselben un- term
+                    6ten September überwiesene Zuschrift des
+                    Ehegerichts vom 11ten.
+                    August, worinn selbiges die, der Moralität so wohl als der
+                Oeconomie der Einwohner sehr verderblichen und in jeder andern Rüksicht höchst
+                schädlichen und gefährlichen Folgen der Ausschweifung schildert, die in so vielen
+                liederlichen Schenk- und andern Häusern Nahrung finden, hat der <orgName>Kleine
+                    Rath</orgName> beschloßen:
+            
+1. Den Herren Bezirks- und Unterstatthaltern, und durch sie ihren Unterbeamten, wird
+                neuerdings in Bezug auf schlechte Schenk- und lüderliche Häuser,
+                fahrende Dirnen, Kuppler und derselben Wirthe, die unverwandte Beobachtung der
+                dießfähligen Polizey-Reglement[e] eingeschärft, in der Meinung daß dieselben
+                einheimische Dirnen, Kuppler und ihre Wirthe zum ersten mahl warnen, auch nöthig
+                erachtenden Falls an den betreffenden Stillstand verweisen,
+                fremde und herumschweifende Dirnen hingegen, zum erstenmahl von Wacht zu Wacht an
+                ihren Heymathsort, oder an die Gränzen führen laßen, auf wiederholter Betrettung
+                aber, sowohl lüderliche Wirthe, als fremde und einheimische Dirnen und derselben
+                Kuppler, an die Competenz des Ehegerichts überweisen sollen.
+            
+2. Das Ehegericht wird begwältigt, in Erwartung neuer gesetzlicher
+                Bestimmungen, in Bezug auf fahrende Dirnen und ihre Kuppler, die ehevorigen
+                dießfälligen Gesetze mit neuer Kraft zu handhaben.
+            
+3. Der gegenwärtige Beschluß wird sowohl der Polizeykommißion zu dieß- <pb n="267"
+                />fähliger Beaufsichtigung, als dem Ehegericht und den sämtlichen
+                Hh[erren] Bezirks- und Unterstatthaltern zugestellt.
+        </body>
+    </text>
+</TEI>

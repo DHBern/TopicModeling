@@ -1,0 +1,9 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Reg. v. Schwyz; Zuschrift an dies. betr. Auslieferung d. Gotthard Bruhin v. Wangen.</title><respStmt><resp ref="#mls" key="transcript">Transkript: mls30.10.2014</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2014<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Reg. v. Schwyz; Zuschrift an dies. betr. Auslieferung d. Gotthard Bruhin v. Wangen.</title>21.08.1875<ident>StAZH MM 2.209 RRB 1875/2070</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.209</biblScope><biblScope unit="page">503–504</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Der Regierungsrath hat
+in Sachen des Gotthard Bruhin, Nagler von Wan-  gen wohnhaft in Siebnen,
+betreffend Auslieferung,
+beschlossen:
+1. An die Regierung von Schwyz ist das in den Missiven vom h. T. enthaltene Schreiben zu richten.
+2. Mittheilung an die Justiz- und Polizeidirektion.<p/></body></text></TEI>

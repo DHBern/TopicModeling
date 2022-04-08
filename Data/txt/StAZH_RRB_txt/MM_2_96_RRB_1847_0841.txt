@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Niederlaßungsbewilligungen in den Bez. Horgen u. Bülach.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn18.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Niederlaßungsbewilligungen in den Bez. Horgen u. Bülach.</title>27.05.1847<ident>StAZH MM 2.96 RRB 1847/0841</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">227–228</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Bericht und Antrag des Rathe des Innern d. d. 21t. d. M. beschloßen:
+die von den resp. Gemeindräthen der Bezirke Horgen und Bülach nachstehenden Cantons- und Landesfremden, nämlich:
+I. Bezirk Horgen.
+A. Gemeinde Adlischweil.
+1. Bachmann, Hrch. v. Matzingen, C. Thurgau verh. Maurer.
+B. Gemeinde Horgen.
+2. Dubs, Sam. v. Küttingen, C. Aarg. verh. Steinhauer.
+3. Staub, Cspr. Jost, v. Menzingen C. Zug, verh. Musiklehrer.
+C. Gemeinde Hütten.
+4. Bürchler, Joh. v. Wattweil C. St. Gallen, verh. Schweinhändlr.
+D. Gemeinde Langnau.
+5. Daniel, Jb. v. Como, Lombardei, verh. Maurer u. Straßenarb.
+E. Gemeinde Albisrieden.
+6. Amaker, Jb. v. Neßenthal, C. Bern, verh. Schiffknecht.
+7. Linder, Marg. v. Bienz, C. Aarg. unverh. [Beruf ist nicht angegeben]
+F. Gemeinde Richterschweil.
+9. Mändler, Georg, v. Pfarreich, K. Würt. verh. Landwirth.
+10. Appenzeller, Andr. v. Sennwald, C. St. Gallen, verh. Schiffmann
+G. Gemeinde Rüschlikon.
+11. Edmond, Laus, v. Neu-Brisach. K. Frkr. unverh. Gießer.
+H. Gemeinde Thalweil.  
+12. Suter, Hs. Jb. v. Stein, C. Aarg. verh. Mau[r]er.
+13. Weber, Jb. v. Mollis, C. Glarus, verh. Steinhauer.
+14. Vetter, Joh. v. Buch, C. Thurg. verh. Zimmermann.
+15. Kieser, Rud. v. Würenlos, C. Aarg. verh. Fabrikarbeiter.
+J. Gemeinde Wädenschweil.
+16. Wilhelm, Lorenz Flor. v. Schliers, C. Graub. unverh. Lehrer.
+17. Thür, Reg. geb. Oberholzer, v. Altstätten, C. St. Gallen, Wwe. Näherin.
+18. Fisch, Elis. geb. Kitt v. Aarau, Wittwe, ohne Beruf.
+19. Ladner, Frz. v. Kappel im Tyrol, verh. Maurer.
+II. Bezirk Bülach.
+Gemeinde Embrach.
+20. Schwander, Reg. geb. Ulrich v. Wattwyl, C. St. Gallen, Wwe. Näherinn.
+ertheilten Niederlaßungsbewilligungen zu bestätigen, in der Meinung jedoch, daß
+1. den Petenten unter No. 5. u. 19. untersagt wird, irgend ein Handwerk auf eigene Rechnung zu betreiben, mit der Androhung, daß die Uebertretung dieser Bedingung den sofortigen Entzug der Niederlaßungsbewilligung zur Folge hat.
+2. bei No. 11. der Gemeindrath Rüschlikon angewiesen wird, die Dauer der Niederlaßungsbewilligung zu ergänzen, dieselbe aber nicht über vier Jahre zu ertheilen.
+Hievon wird den Statthalterämtern Horgen und Bülach zu Handen der eingelegten Papiere für Letztere Kenntniß gegeben, sowie das Sekretariat des Rathes des Innern eingeladen, auf dem Register der Niedergelaßenen das Nöthige vorzumerken. <p/></body></text></TEI>

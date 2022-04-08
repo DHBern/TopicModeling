@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aßecuranzvergütung des Brandunglückes zu Weyach an die Haushaltungen
+                    Bersinger und Baumgartner.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-05-06"
+                            >06.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Aßecuranzvergütung des Brandunglückes zu Weyach an die Haushaltungen
+                        Bersinger und Baumgartner.</title><date when="1825-01-11"
+                        >11.01.1825</date><ident>StAZH MM 1.90 RRB
+                        1825/0028</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.90</biblScope><biblScope unit="page"
+                    >22−23</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Mit einer Weisung d. d. 10ten hujus
+                hinterbrachte die Lbl. Brandaßecuranz-Commißion der hohen Behörde des
+                    Kleinen Rathes ihren gutächtlichen Bericht und Antrag,
+                betreffend das am 31sten passati zu
+                    Weyach Statt gehabte Brandunglück, durch welches die zwey
+                Behausungen, No. 17. für fl 1000. aßecurirt, den Erben des
+                    Heinrich
+                Bersinger, und No. 18. für fl 500. eingeschrieben, dem
+                    Jacob
+                Baumgartner zugehörig, gänzlich eingeäschert wurden. 
+            
+Da die Ursache des Brandes, dieser in ihrer
+                Feuereinrichtung sehr übel bestellt gewesenen Gebäude, nicht ausgemittelt ist, die
+                erstbenannte Haushaltung aber, welche ein ungetheilt gutes Zeugniß genießt, alles
+                Verdachtes entschlagen ist, und gegen die zweyte, die sich zwar auch schon die
+                Ahndung für Fahrläßigkeit mit dem Feuer zugezogen hat, keinerley Indicien vorhanden
+                sind, auch beyde Parteyen alle ihre Fahrnuß verloren haben und sehr dürftig sind, so
+                haben UHHerren und Obern erkennt, denselben den ganzen Ersatz der obbemeldten
+                Aßecuranz-Summe, nebst der gewohnten Obrigkeitlichen Steuer an Frucht und Geld
+                verabfolgen zu laßen.
+            
+Hievon wird der Lbl. Brandaßecuranz-Commißion, der Lbl.
+                    Finanz-Commißion, und dem Lbl. Oberamte
+                    Regensperg Kenntniß gegeben.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,10 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Abweisung der Beschwerde der Gemeinden Bauma, Sternenberg u. Fischenthal, betreff. abgeänderte Richtung einer Stelle der Kempt-Tößthalstraße bei Saaland.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn11.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Abweisung der Beschwerde der Gemeinden Bauma, Sternenberg u. Fischenthal, betreff. abgeänderte Richtung einer Stelle der Kempt-Tößthalstraße bei Saaland.</title>15.05.1847<ident>StAZH MM 2.96 RRB 1847/0793</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">189–190</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat in Sachen der Gemeinden  Bauma, Sternenberg, Fischenthal und einer Anzahl einzelner Bürger in Saaland, Beschwerdesteller
+gegen
+das Straßendepartement 
+betreffend abgeänderte Richtung einer Stelle der Kempt-Tößthalstraße bei Saaland
+nach Einsicht und Prüfung der Akten
+beschloßen:
+I. Ist den Beschwerdestellern zu rescribiren der Regierungsrath finde sich nicht veranlaßt, die Verfügung des Straßendepartements abzuändern, um so weniger, als dieselbe untergeordnete, in die Competenz des Departements fallende Modifikationen beschlage.
+II. Hievon wird dem Straßendepartemente, sowie den Statthalterämtern Pfäffikon und Hinweil zu Handen der resp. Gemeinden und Privaten Kenntniß gegeben.<p/></body></text></TEI>

@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschluß betr. die Besoldungen der Kanzleibeamteten & Angestellten des Regierungsrathes.</title><respStmt><resp ref="#xyz" key="transcript">Transkript: xyz00.00.0000</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2014<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beschluß betr. die Besoldungen der Kanzleibeamteten & Angestellten des Regierungsrathes.</title>17.12.1859<ident>StAZH MM 2.146 RRB 1859/1602</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.146</biblScope><biblScope unit="page">495–500</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Der Regierungsrath
+in Vollziehung des Gesetzes betreffend die Kanzleien und die Bedingungen des Regierungsrathes  vom 24. Oktober 1859,
+nach Einsicht eines Antrages der Direktion der Finanzen,
+beschließt:
+I. Soweit die neu festgestellten fixen Besoldungen die bisherigen Ansätze übersteigen, ist der Mehrbetrag den betreffenden Kanzleibeamteten und Angestellten noch für das laufende Jahr nachzuvergüten wie folgt:
+Frk.
+Rp.
+Staatsarchivar (§ 1 litt: c)
+750.
+–
+Staatskanzlei, erster Kanzlist, inbegriffen die Frk. 400 bisher. Gratifikationen f. Amtsblatt (§ 1 l. d.)
+566.
+–
+Sekretär des Innern
+(§ 2)
+312.
+–
+Erster Kanzlist
+  “
+79.
+–
+Zweiter Kanzlist
+  “
+70.
+–
+Sekretär der Polizei
+(§ 3)
+633.
+–
+Erster Kanzlist
+  “
+270.
+–
+Demselben f. das Sekretariat der Aufsichtskommission üb. die Strafanstalt etc.
+400.
+–
+Zweiter Kanzlist (inbegriffen die Taggelder von Dezember)
+15.
+69
+(In diesen für die Kanzlei der Polizeidirektion aufgenommenen Erhöhungen sind alle u. jede bisher ertheilten Gratifikationen inbegriffen).
+Erster Sekretär der Finanzen (§ 4)
+666.
+–
+Rechnungsrevisor
+[(§ 4)]
+833.
+–
+
+Erster Kanzlist
+(§ 4)
+33.
+–
+Zweiter Kanzlist,
+  “
+25.
+–
+Zweiter Sekretär
+(Abgaben) (§ 4)
+150.
+–
+Erster Kanzlist
+“
+79.
+–
+Zweiter Kanzlist (Stempelwesen)
+152.
+–
+Sekretär der öffentlichen Arbeiten
+(§ 5.)
+458.
+–
+Erster Kanzlist, (Gratifikat. inbegriff[en]
+“
+533.
+–
+Zweiter Kanzlist (inbegriffen die Taggelder vom Dezember)
+202.
+80
+Dritter Kanzlist          do          do                    do
+231.
+25
+Sekretär der Militärs (§ 6) Gratifikat. inbegriff[en]
+896.
+–
+Erster Kanzlist             “          do            do
+279.
+–
+Zweiter Kanzlist           “   abzüglich Frk. 97 50 Rp.
+302.
+50
+Sekretär des Erziehungswesens (§ 8) Gratifik. inbegr.
+166.
+–
+Erster Kanzlist
+   do          do
+250.
+–
+Zweiter Kanzlist
+   do          do
+250.
+–
+Sekretär des Medizinalwesens (§ 10)
+333.
+–
+Kanzlist
+270.
+–
+Rathhausabwart (§ 23) Miethzinsentschäd. inbegr.
+320.
+10
+Abwart im Obmannamt (§ 23)
+279.
+13
+II. Dem Staatsarchivar wird für Bestreitung der nöthigen Aushülfe und Anschaffungen übereinstimmend mit dem Büdgetansatz für 1860 der Kredit für 1859 auf Frk. 1800 erhöht, in der Meinung, daß hievon Frk. 1400 dem Gehülfen Herrn Friedrich als Jahresbesoldung zukommen sollen.
+III. Die in § 1 litt: e bezeichneten Kanzlisten  erhalten mit dem Jahr 1860 beginnend folgende fixe Besoldungen:
+der
+zweite
+Kanzlist
+Frk.
+1100
+“
+dritte
+“
+“
+1000
+“
+vierte
+“
+“
+900
+“
+fünfte
+“
+“
+800
+“
+sechste
+“
+“
+700.
+Die Staatskanzlei wird jeweilen im Monat Dezember dem Regierungsrathe einen Antrag über die diesen Kanzlisten innerhalb des gesetzlichen Kredites allfällig noch zu verabreichenden Gratifikationen hinterbringen.
+Die für das laufende Jahr diesen Kanzlisten noch zu verabreichenden Gratifikationen wird der Regierungsrath nach Einsicht eines Antrages der Staatskanzlei durch besondern Beschluß bestimmen.
+IV. Die Direktion des Erziehungswesens wird alljährlich über die Art der Verwendung des in § 8 ausgesetzten Kredites von Frk. 1000 der Finanzdirektion Mittheilung machen.
+V. Die Waibel erhalten mit dem Jahr 1860 beginnend folgende fixen Besoldungen:
+Waibel
+Brändli
+Frk.
+1200
+nebst
+Frk. 200 f. Bedienung d. Großen Rathes
+“
+Wißmann
+“
+900
+“
+25% Sporteln d. Medizinalwesens.
+“
+Vogel
+“
+800
+“
+10% Sporteln d. Staatskanzlei
+“
+Suter
+“
+1100.
+
+Waibel
+Bünzli
+Frk.
+1100
+“
+Honegger
+“
+1000
+“
+Schenkel
+“
+900.
+Alljährlich im Monat Dezember hat die Finanzdirektion dem Regierungsrathe einen Antrag über die den Waibeln allfällig noch zu ertheilenden Gratifikationen zu hinterbringen.
+VI. Die für das laufende Jahr den Waibeln zu ertheilenden Gratifikationen werden folgendermaßen festgestellt:
+Für
+Waibel
+Brändli
+Frk.
+379
+nebst Frk. 200 f. Bedienung d. Großen Rathes.
+“
+“
+Wißmann
+“
+372,
+“
+“
+Vogel
+“
+62,
+“
+“
+Suter
+“
+425,
+“
+“
+Bünzli
+“
+425,
+“
+“
+Honegger
+“
+325,
+“
+“
+Schenkel
+“
+125
+VII. Mit Anfang nächstfolgenden Jahres sind die sämmtlichen in dem eingangserwähnten Gesetze bezeichneten Stellen (mit Ausnahme derjenigen der beiden Staatsschreiber, des Staatsarchivars und des Kanzleipersonals der Brandassekuranz und der Spitalpflege) behufs definitiver Besetzung durch die Staatskanzlei auszuschreiben.
+Die Anmeldungen sind für die Kanzlisten  der Staatskanzlei und für das Dienstpersonal (Waibel und Abwarten) beim Regierungspräsidenten, für Sekretäre und übrige Kanzlisten dagegen bei den betreffenden Direktionen einzugeben.
+VIII. Mittheilung an die Direktion der Finanzen zur Vollziehung.
+Nota betreffend die Waibelgratifikationen Disp. VI.
+Alte Ansätze.
+Gesammtbesoldung
+Fix.
+Sportelnertrag
+Gratifikation
+Gesamtgeldleistung
+Waibel
+Brändli (ohne die Frk. 200 f. 
+Bed. d. Gr. Rathes.)
+Fr.
+1400.
+Fr.
+1021.
+Fr.
+379.
+Fr.
+1400.
+“
+Weißmann
+“
+1400.
+“
+788.
+Frk.
+240. Medizinalwesen
+“
+372.
+“
+1160.
+“
+Vogel
+“
+1350.
+“
+788.
+“
+500.
+“
+62.
+“
+ 850.
+“
+Schenkel
+“
+1000.
+“
+875.
+“
+125.
+“
+1000.
+“
+Suter
+“
+1300.
+“
+875.
+“
+425.
+“
+1300.
+“
+Bünzli
+“
+1300.
+“
+875.
+“
+425.
+“
+1300.
+“
+Honegger
+“
+1200.
+“
+875.
+“
+325.
+“
+1200.
+Gesammtgeldleistung
+Fr.
+8210.
+Davon ab Beitrag der Brandassekuranz für die Bedienung dieser Kanzlei
+“
+ 100.
+Rest
+Fr.
+8110.
+Gesetzlicher Kredit laut § 22 Frk. 8500.</body></text></TEI>

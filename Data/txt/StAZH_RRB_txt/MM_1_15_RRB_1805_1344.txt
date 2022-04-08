@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Weigerung der hier verburgerten Schloßer Heinrich und Schuhmacher Ulrich
+                    Vogel gegen die Extradition der Hinterlaßenschaft des in Croatien verstorbenen
+                    Schloßer Heinrich Vogels.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-25"
+                            >25.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Weigerung der hier verburgerten Schloßer Heinrich und Schuhmacher
+                        Ulrich Vogel gegen die Extradition der Hinterlaßenschaft des in Croatien
+                        verstorbenen Schloßer Heinrich Vogels.</title><date when="1805-09-05"
+                        >05.09.1805</date><ident>StAZH MM 1.15 RRB
+                        1805/1344</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.15</biblScope><biblScope unit="page">7</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Das Schreiben des Stadtraths Zürich vom <date
+                when="1805-08-31">31sten pti.</date>, worin derselbe der Regierung anzeigt, daß
+                bey der, nach erfolgter Ankunft des in Darmstadt etablierten Schreiners
+                    Johannes
+                Vogel, versuchten endlichen Liquidation der Erbschaft des zu
+                Lepoglava in Croatien verstorbenen Schloßer
+                Heinrich Vogels, von Seite der hier verburgerten und wohnhaften
+                    Schloßer
+                Heinrich
+                Vogel und Schuhmacher
+                Ulrich
+                Vogel Bedenken gegen die Extradition der gedachten
+                Hinterlaßenschaft geäußert, und wegen Zweifeln gegen die Authenticität des, den in
+                Croatien verstorbenen Schloßer
+                Heinrich
+                Vogel betreffenden Todtenscheins eine förmliche Weigerung gegen
+                die Extradition erfolgt sey, wird der Commißion des Innern zur
+                Untersuchung und zu gefällig befürderlicher Hinterbringung ihres Berichts und
+                Befindens überwiesen.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,14 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Niederlaßungsbewilligung im Bezirke Andelfingen.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn25.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Niederlaßungsbewilligung im Bezirke Andelfingen.</title>10.06.1847<ident>StAZH MM 2.96 RRB 1847/0945</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">312–313</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Bericht und Antrag des Rathes des Innern, d. d. 9. hjs. beschloßen:
+die von den resp. Gemeindräthen des Bezirkes Andelfingen nachstehenden Cantons- und Landesfremden, nämlich
+1. Gemeinde Klein Andelfingen:
+1. Biefer, Jb. v. Salen-Reutenen, C. Thurgau unverh. Weber,
+2. Malzacher, Blas. v. Schluchsen, Grßh. Baden, verh. Glaswaarenhändler, schon seit 9. Jahren in der Gemeinde niedergel.
+2. Gemeinde Adlikon.
+3. Bachmann Jb. v. Nußbaumen, C. Thurg. verh. Schuster
+4. Bischof, Barb. geb. Müller, v. Stettfort, C. Thurg. Wwe. Landwirthinn.
+3. Gemeinde Uhwiesen 
+5. Peter, Ad. v. Oberneunforn, C. Thurg. verh. Schmied.
+ertheilten Niederlaßungsbewilligungen einfach zu bestätigen:
+Hievon wird dem Statthalteramte Andelfingen zu Handen der resp. Gemeindräthe und Petenten [unter Rükstel-  lung der eingelegten Akten für Letztere] Kenntniß gegeben, sowie das Sekretariat des Rathes des Innern eingeladen, auf dem Register der Niedergelaßenen das Nöthige vorzumerken.<p/></body></text></TEI>

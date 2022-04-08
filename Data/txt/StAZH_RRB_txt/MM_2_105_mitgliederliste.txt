@@ -1,0 +1,19 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn09.02.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2009<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>02.07.1849-29.09.1849<ident>w.staatsarchivzh.ch/query Signatur StAZH MM 2.105 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.105</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+MHHerr	Dr. Alfred Escher von Zürich Amtsbürgermeister.
+		“	Dr. Hs. Ulrich Zehnder von Ob: Engstringen Bürgermeister.
+		“	Eduard Sulzer von Winterthur.
+		“	Melch. Friedrich Sulzer von Winterthur.
+		“	Heinrich Hüni von Horgen.
+		“	Paul Karl Eduard Ziegler von Zürich.
+		“	Jacob Rüttimann von Regensberg.
+		“	Kaspar Nägeli von Kilchberg.
+		“	Rudolf Bollier von Horgen.
+		“	Rudolf Benz von Pfungen.
+		“	Joh. Jacob Streuli von Riesbach.
+		“	Eduard Billeter von Männedorf.
+		“	Vacat.
+Staatsschreiber.
+	“		Jacob Sulzer von Winterthur, erster Staatsschreiber.
+    “        	Franz Hagenbuch von Zürich zweiter Staatsschreiber.</body></text></TEI>

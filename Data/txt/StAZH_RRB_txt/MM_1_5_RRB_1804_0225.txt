@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von der Schwarzenbergischen Regierung zu Thiengen eingesendete Proceßakten
+                    wegen der Falschmünzer Spitznagel und Roth.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-10-24"
+                            >24.10.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Von der Schwarzenbergischen Regierung zu Thiengen eingesendete
+                        Proceßakten wegen der Falschmünzer Spitznagel und Roth.</title><date
+                        when="1804-02-04">04.02.1804</date><ident>StAZH MM 1.5 RRB
+                        1804/0225</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.5</biblScope><biblScope unit="page">289</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Das von der Hochfürstl. Schwarzenbergischen Regierung in Thiengen,
+                mittelst ihrer Zuschrift vom 31ten. Jenner, in
+                Originali eingesendete vollständige Untersuchungsprotocoll über den Proceß der dort
+                innhaftierten Falschmünzer Spiznagel und Roth, – wird der
+                Verhörcommißion des Obergerichts zu Handen gestellt, zumahlen
+                sich aus dem oberwähnten Begleitschreiben ergiebt, daß gedachte Commißion mittelst
+                eines unterm 19ten. pti. an das Obervogteyamt zu
+                Jestetten gerichteten Schreibens diese Mittheilung verlangt hatte, um daraus zu
+                entnehmen, in wie weit diese Proceßakten allfählig Intzichten gegen die hier
+                inhaftierten Falschmünzer Ehrensperger und
+                    Sigg von Dachsen enthalten. Nach davon
+                gemachtem Gebrauch wird die Verhörcommißion ersucht, gedachte Original-Acten
+                wiederum der Staatscanzley zu behändigen, damit sie der Hochfürstl.
+                Schwarzenbergischen Regierung in Thiengen verlangter Maaßen können zurükgesendet
+                werden. Inzwischen ist dieser lezteren der Empfang davon [lt. Mißiven] zu
+                bescheinen.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß betr. Einführung d. Gasbeleuchtung im Anatomiegebäude.</title>
+                <respStmt>
+                    <resp ref="#kvr" key="transcript">Transkript: <date when="2013-02-06"
+                            >/6.02.2013</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beschluß betr. Einführung d. Gasbeleuchtung im
+                        Anatomiegebäude.</title><date when="1874-01-10"
+                        >10.01.1874</date><ident>StAZH MM 2.203 RRB
+                        1874/0007</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.203</biblScope><biblScope unit="page"
+                    >10–11</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Direktion der öffentlichen Arbeiten berichtet:
+            
+Von Seite der Erziehungsdirektion wird die Einführung der Gasbeleuchtung im
+                Anatomiegebäude gewünscht und zuvor mit Rücksicht auf die bevorstehende Erweiterung
+                zunächst nur im Hausgang, Hör- u. Preparirsaal. Selbstverständlich hätte man bei der
+                Erstellung der Leitung, auf jene Erweiterung Rücksicht zu nehmen. Die Anzahl der
+                erforderlichen Flammen würde etwa zwanzig betragen und die Erstellungskosten dürften
+                sich nach dem Voranschlage der Bauinspektion auf ca Fr. 1000 belaufen.
+            
+Der Regierungsrath,
+            
+nach Einsicht eines Antrages der Direktion der öffentlichen Arbeiten,
+            
+beschließt:
+            
+Die Direktion der öffentlichen Arbeiten wird ermächtigt, im
+                Anatomiegebäude die Gasbeleuchtung im Sinne ihres Berichtes einzuführen.
+            
+Mittheilung an dieselbe.
+        </body>
+    </text>
+</TEI>

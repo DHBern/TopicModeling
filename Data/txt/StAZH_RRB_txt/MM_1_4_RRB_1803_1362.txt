@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Wegen einer unbekannten stummen Weibsperson im Spitthal wird an die Cantone Argau, Bern, Luzern und Zug geschrieben.
+Nach Anhörung der, von der Commißion des Innern unterm 1ten. dieß hinterbrachten sorgfältigen Weisung, wegen der am 7ten. Juni d. J. dem hießigen Spitthal zugeloffenen, stummen und thorächten, ganz unbekannten Weibsperson, wurde angemeßen befunden, an die Regierungen der Cantone Argau, Bern, Luzern und Zug, das in den Mißiven enthaltene Schreiben mit beygefügtem Signalement jener Person abzuerlaßen, mit dem Ersu-  chen um gefällige Veranstaltung, daß in dortigen respvé Cantonen dem Herkommen der stummen Weibsperson nachgeforscht, und dieselbe, wenn sie aus einer Gemeinde eines jener Cantone sich entfernt hätte, so bald als möglich hier abgeholt, und in ihre Heimath zurükgeführt werde.
+Inzwischen wird die Lobl. Spitthalpflege ersucht, die gedachte Person, da sie wegen ihres physisch anerbohrnen unheilbaren Zustandes nicht unter die Claße der Patienten aufgenommen werden kann, einstweilen in eines der Haus-Kindergemächer zu versorgen.

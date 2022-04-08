@@ -1,0 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Antwort der Reg. v. Aargau betr. die Ehe des Jak. Häusermann.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn15.11.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2012<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Antwort der Reg. v. Aargau betr. die Ehe des Jak. Häusermann.</title>04.11.1849<ident>StAZH MM 2.106 RRB 1849/2273</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.106</biblScope><biblScope unit="page">294–295</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Präsidial-Verfügungen.
+Actum, den 4 November 1849.]
+Dem Rathe des Innern wird zur Antragstellung überwiesen:
+Eine vom 2 dieß datirte Zuschrift der Regierung von Aargau, worin dieselbe mittheilt, was Jak. Häusermann von Eglisweis zu erfüllen habe, damit seine Ehe von den aargauischen Behörden  als gültig anerkannt werde.<p/></body></text></TEI>

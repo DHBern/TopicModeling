@@ -1,0 +1,9 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschluß, betreff. die Herabsetzung des an die Gemeinden zur Austheilung bestimmten Korns.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn16.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beschluß, betreff. die Herabsetzung des an die Gemeinden zur Austheilung bestimmten Korns.</title>22.05.1847<ident>StAZH MM 2.96 RRB 1847/0828</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">222–223</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Durch Circulation
+Actum den 22. May 1847.
+Der Regierungsrath hat in Betracht der noch weiter  gefundenen Preise der Lebensmittel [in Abänderung des Beschlußes vom 15t. d. M. Amtsblatt No. 40]
+beschloßen:
+I. Der Preis des zur Vertheilung an die Gemeinden bestimmten Korns ist auf 11. fl. für den Zentner festgesetzt, alle übrigen Bestimmungen des dießfälligen Beschlußes vom 8t. d. M. bleiben in Kraft.
+II. Der Finanzrath ist mit Vollziehung dieses Beschlußes beauftragt, welcher durch das Amtsblatt bekannt zu machen ist.<p/></body></text></TEI>

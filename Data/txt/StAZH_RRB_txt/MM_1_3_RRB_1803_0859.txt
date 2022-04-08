@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Regierung des Cantons Thurgau communiciert das Signalement des
+                    bannisierten Benedikt Reichenbachers von Rüthi in Rheinthal.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-04-25"
+                            >25.04.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Regierung des Cantons Thurgau communiciert das Signalement des
+                        bannisierten Benedikt Reichenbachers von Rüthi in Rheinthal.</title><date
+                        when="1803-09-01">01.09.1803</date><ident>StAZH MM 1.3 RRB
+                        1803/0859</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.3</biblScope><biblScope unit="page">1</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Das von der Regierung des Cantons Thurgau unterm <date when="1803-09-25"
+                    >25sten</date> passti eingesandte Signalement des Benedikt
+                Reichenbacher von Häusern, Distrikt Tobel, Canton Thurgau,
+                gebürtig von Rüthi im Rheinthal, welcher wegen begangener
+                Diebstäle für 20 Jahre außer die Grenzen der Eydgenoßenschaft bannisirt worden ist,
+                wird abschriftlich sowohl der Polizey-Commißion als den sämtlichen Herren Bezirks-
+                und Unterstatthalteren mitgetheilt, um darüber zu wachen, daß der Signalisierte sein
+                Bannißement nicht übertrette, und ihn betrettenden Falls über
+                die Gränzen zurückführen zu laßen. Der dortigen Regierung wird der Empfang ihres
+                Schreibens bescheint.
+        </body>
+    </text>
+</TEI>

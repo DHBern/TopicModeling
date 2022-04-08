@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Entlaßungen und Ernennungen von Majoren und Hauptleuten der Infanterie des
+                    ersten Bundesauszugs.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-05-05"
+                            >05.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Entlaßungen und Ernennungen von Majoren und Hauptleuten der Infanterie
+                        des ersten Bundesauszugs.</title><date when="1825-01-06"
+                        >06.01.1825</date><ident>StAZH MM 1.90 RRB
+                        1825/0013</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.90</biblScope><biblScope unit="page">9−11</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+MHochgeachten Herren und Obern haben, in gänzlicher Genehmigung des
+                Berichts und Antrags der Lbl. Militär-Commißion vom <date when="1824-12-07">7ten
+                    passati</date>, betreffend einige Veränderungen unter den Majoren und
+                Hauptleuten der Infanterie des ersten Bundesauszugs, dem Junker
+                Major Heinrich Edlebach von
+                    Zürich, und dem Herrn Hauptmann und
+                Quartiermeister Conrad Pestalutz von
+                    Zürich, die wegen Versetzung als Kriegscommißarii in den
+                Eydsgenößischen Generalstab (von welchen der erstere den Feldzug von 1815.
+                mitgemacht hat) sowie dem Herrn Hauptmann Hs.
+                    Ulrich
+                Weiß von Eßlingen, dem Herrn Hauptmann Hs.
+                    Jacob
+                Honegger von Wald,
+            
+dem Herrn Hauptmann Hs. Rudolf
+                Bindschädler von Männedorf, seßhaft in
+                    Zürich, und
+            
+dem Herrn Hauptmann
+                Hans
+                Schultheß von Zürich, seßhaft in
+                    Kloten, (welche 4. Herren Hauptleute den Feldzug von
+                1815. mitgemacht haben) die wegen zurückgelegter gesetzlicher Dienstzeit verlangte
+                Entlaßung von den bekleideten Militärstellen, unter Hochobrigkeitlicher Verdankung
+                ihrer dem Vaterland (den betreffenden besonders auch in dem Feldzug vom Jahr 1815.)
+                geleisteten sorgfältigen, treuen und geschickten Dienste, bewilligt, worüber
+                denselben gegenwärtiger Beschluß zugestellt wird.
+            
+An deren Stelle sind ernennt worden:
+            
+Zum Major:
+            
+Herr Melchior
+                Wüst von Zürich, bisheriger
+                    Hauptmann.
+            
+Zum Quartiermeister mit Hauptmannsrang, nach seiner Anciennetät:
+            
+Der bisherige Oberlieutenant, Herr Hans
+                Schinz von Zürich.
+            
+Zu Hauptleuten:
+            
+die vier ältesten Oberlieutenants:
+            
+Herr Johannes
+                Abegg von Küßnacht.
+            
+Herr Joh.
+                Conrad
+                Näf von Zürich.
+            
+Herr Jacob
+                Muggli von Münchaltorf, und
+            
+Herr Caspar von Orell von
+                    Zürich,
+            
+dato Aide-Major, welche gehörig zu brevetiren sind.
+            
+Gegenwärtiger Beschluß wird der Lbl. Militär-Commißion und dem Hochgeachten Herrn
+                Rathsherrn und Oberst Füßli, als Inspector der Infanterie des ersten Bundesauszugs,
+                zugestellt.
+        </body>
+    </text>
+</TEI>

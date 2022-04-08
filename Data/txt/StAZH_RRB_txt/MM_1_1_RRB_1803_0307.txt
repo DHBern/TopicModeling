@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gründe, warum Wirth Wyß und einige Müller von Niederweningen, Buchs und
+                    Oberglatt den Zoll wegen abgeführtem Gips aus dem Kanton Baden der Zollstätte zu
+                    Murzelen nicht entrichten wollen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-31"
+                            >31.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Gründe, warum Wirth Wyß und einige Müller von Niederweningen, Buchs und
+                        Oberglatt den Zoll wegen abgeführtem Gips aus dem Kanton Baden der
+                        Zollstätte zu Murzelen nicht entrichten wollen.</title><date
+                        when="1803-06-14">14.06.1803</date><ident>StAZH MM 1.1 RRB
+                        1803/0307</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.1</biblScope><biblScope unit="page"
+                    >342–343</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die von dem Herrn Bezirksstatthalter Angst zu
+                    Regensperg in Folge Auftrags vom <date when="1803-05-07"
+                        >7ten May</date>, unterm 31ten deßelben Monats
+                einberichteten, mit den dießfälligen Beylagen begleiteten Gründe, warum der Wirt
+                    Wyß von Niederweningen, der
+                    Obermüller
+                Wenziker von da, und die beyden Müller
+                Schlatter von Buchs und
+                    Oberglatt, von dem aus dem ehemaligen Kanton
+                    Baden in den hiesigen abgeführten Gips kein Geleit an die
+                Zollstätte zu Murzeln zu bezahlen schuldig zu seyn glauben, sind von dem
+                    Kleinen Rathe von der Natur befunden worden, daß derselbe,
+                auf die dießfällige Beschwerde der Verwaltungskammer von
+                    Baden vom 4ten May sich
+                bey der Regierung des Kantons Aargau dahin zu verwenden angemeßen
+                befunden hat, daß die gedachte Regierung die Sache bis zu erfolgter Hebung der, von
+                den genannten hiesigen Kantons-Einwohnern angeführten Schwierigkeiten, in Suspenso
+                zu laßen belieben, – und besonders zur Fahrbarmachung der Lägerbergstraße die
+                erforderlichen Befehle zu ertheilen belieben möchte, wovon nun der Erfolg zu
+                gewärtigen ist.
+        </body>
+    </text>
+</TEI>

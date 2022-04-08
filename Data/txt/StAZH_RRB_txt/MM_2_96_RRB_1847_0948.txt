@@ -1,0 +1,12 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Rükweisung des Antrages des Straßendepartements, betreff. rechtseitige Limmatthalstraße.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn25.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Rükweisung des Antrages des Straßendepartements, betreff. rechtseitige Limmatthalstraße.</title>10.06.1847<ident>StAZH MM 2.96 RRB 1847/0948</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">314–315</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat nach Einsicht der Weisung des Straßendepartements, d. d. 12t. v. M. betreffend die rechtseitige Limmatthalstraße sowie der seither eingegangenen auf dieselbe bezügliche Petitionen
+1. Der Gemeinde Ober-Engstringen 	d. d. 18. v. M.
+2. „		„	 Geroldschweil			„	 19. „
+3. einer Anzahl Bewohner von Oetweil		„	 27. „
+4. des Gemeindraths Unter Engstringen		„	 27. „
+5. der Gemeinde Höngg			„	 26. „
+6. Thalbewohner von Wipkingen bis Ober-
+Engstringen				„	  1. hjs.
+beschloßen:
+Werden die Akten dem Straßendepartemente mit Rük-  sicht auf diese nachträglich eingegangenen Petitionen zurükgestellt, um dieselben sowohl im Allgemeinen als insbesondere auch hinsichtlich der in der Petition der Gemeinde Höngg enthaltenen Anerbiethen und die Weise, in welcher man auf dieselben eintreten könnte, einer genauen Prüfung zu unterwerfen und umfaßenden Bericht und Antrag darüber vorzulegen.<p/></body></text></TEI>

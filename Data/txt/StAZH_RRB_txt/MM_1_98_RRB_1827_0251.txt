@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Regierung von Graubünden übersendet die mit Luci Caflisch von Ilanz
+                    neuerdings aufgenommenen Verhöre.</title>
+                <respStmt>
+                    <resp ref="#mal" key="transcript">Transkript: mal<date when="2010-06-21"
+                            >21.06.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Regierung von Graubünden übersendet die mit Luci Caflisch von Ilanz
+                        neuerdings aufgenommenen Verhöre.</title><date when="1827-04-03"
+                        >03.04.1827</date><ident>StAZH MM 1.98 RRB
+                        1827/0251</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.98</biblScope><biblScope unit="page">247</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Mit Zuschrift vom 31sten v. M. übermacht
+                die Regierung Lbl. Standes Graubünden der hiesigen, unter Zurücksendung der ihr
+                unterm 20. gl. M. übersandten Documente, ein mit dem Schloßer
+                Luci
+                Caflisch von Ilanz neuerdings
+                aufgenommenes umständliches Verhör, und fügt den Wunsch bey, daß, wofern hierseits
+                noch weitere Einvernehmungen desselben für nothwendig erachtet würden, man hierüber
+                sich beförderlichst aussprechen möchte, damit alsdann Caflisch
+                seiner Hochgerichtsobrigkeit zur Bestrafung übergeben werden könne.
+            
+Eine Abschrift dieses Schreibens mit sämmtlichen Beylagen desselben hat der
+                    Kleine Rath dem Lbl. Obergerichte mit der Einladung
+                übersandt, seine fernern Wünsche dieses Gegenstandes halber mit gefälliger
+                Beförderung zu eröffnen.
+        </body>
+    </text>
+</TEI>

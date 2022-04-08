@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wahl des Herrn Schanzenschreiber Johann Rudolf Wüst zum Gerichtsschreiber von
+                    Zürich.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-31"
+                            >31.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Wahl des Herrn Schanzenschreiber Johann Rudolf Wüst zum Gerichtsschreiber
+                        von Zürich.</title>
+                    22.06.1803
+                    <ident>StAZH MM 1.2 RRB 1803/0358</ident>
+                    <edition>Protokoll des Regierungsrats</edition>
+                    <biblScope unit="volume">1.2</biblScope>
+                    <biblScope unit="page">1</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Kleine Rath hat aus dem von dem neuen
+                    Bezirksgericht
+                Zürich unterm 18ten dieß,
+                gesezlich eingegebenen Dreyer-Vorschlag, zum Bezirksgerichtschreiber daselbst
+                erwählt den
+            
+Herrn Johann
+                Rudolf
+                Wüst, Schanzenschreiber, 
+            
+in der begründeten Erwartung, daß derselbe auch in diesem neuen wichtigen Beruf die
+                Geschäfte mit allem Eifer und sorgfältiger Benuzung der nach seinen bisherigen
+                Verhältnißen gesammelten mannigfachen Erfahrungen, zu besorgen sich beßtens
+                angelegen seyn laßen werde.
+            
+Dem Bezirksgericht
+                Zürich wird von dieser Ernennung rükantwortliche Kenntniß
+                gegeben.
+            
+Die beyden andern Dreyer waren: Herr Willhelm
+                Hofmeister, alt Obervogt und gewesener Spitalschreiber – und Herr
+                    Ludwig
+                Schweizer, gewesener Sekretär des bisherigen Districtsgerichts
+                    Zürich.
+            
+Die Wahl geschah durch geheimes und absolutes Stimmen-Mehr und wurde durch Mehrheit
+                entschieden. 
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wiederbesezte Vacanz in der L. Allmosenspflege.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-29"
+                            >29.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Wiederbesezte Vacanz in der L. Allmosenspflege.</title><date
+                        when="1805-02-07">07.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0204</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >42–43</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Aus dem sub 5ten Februarii von dem
+                allhießigen Stadtrath – in Folge der an denselben ergangenen Aufforderung vom <date
+                    when="1805-01-31">31sten Jenner</date> – hinterbrachten gedoppelten Vorschlag,
+                ist anstatt des Herrn Bezirksstatthalter Geßner zu einem neuen
+                Beysitzer der Allmosenspflege in der Eigenschaft eines Mitglieds des allhießigen
+                Stadtraths erwählt worden:
+            
+Herr Forstinspector Diethelm Wyß; welchem, so wie
+                der verordneten Allmosenspflege, und dem allhießigen Stadtrath, hiervon durch
+                Zustellung gegenwärtiger Erkanntnuß Notiz ertheilt wird.
+        </body>
+    </text>
+</TEI>

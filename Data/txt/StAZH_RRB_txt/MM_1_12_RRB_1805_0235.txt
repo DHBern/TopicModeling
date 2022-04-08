@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dem Churbadischen Oberamt Rötelen ertheilte Auskonft in Betreff eines
+                    angeblichen Johannes Nägeli von Oberrieden.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-02"
+                            >02.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Dem Churbadischen Oberamt Rötelen ertheilte Auskonft in Betreff eines
+                        angeblichen Johannes Nägeli von Oberrieden.</title><date when="1805-02-12"
+                        >12.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0235</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >78–79</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da es sich aus dem sub 11ten hujus von
+                Herrn Unterstatthalter Ulmer [in Folge erhaltenen Auftrags vom
+                31sten Jenner] erstatteten Bericht ergiebt, daß
+                in Oberrieden niemahlen kein Johannes
+                Nägeli vorhanden gewesen sey, auch würklich die Familie
+                    Nägeli niemahlen allda existiert habe, und daß
+                demnach in den benachbarten Gemeinden Kilchberg und
+                    Horgen nachgefragt worden, wo aber auch kein
+                    Johannes
+                Nägeli ausfündig gemacht worden, der sich in der Herrschaft
+                Rötelen aufgehalten, und allda wegen Hureyfällen abgestraft worden, – so ist hiervon
+                dem Churbadischen Oberamt Rötelen, in Beantwortung seiner Zuschrift vom <date
+                    when="1805-02-10">10ten</date> Jenner mit dem Bedeuten Kenntniß zu geben, daß
+                also allem Anschein nach ein Anderer sich fälschlich für einen hießigen Angehörigen
+                aus Oberrieden ausgegeben habe.
+        </body>
+    </text>
+</TEI>

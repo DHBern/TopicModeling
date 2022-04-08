@@ -1,0 +1,20 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Nachträgl. Ergänzungen zu dem Beschluße v. 27 Novbr. a. p. betr. die Niederlassungsgebühren der Gde Töß.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn07.10.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Nachträgl. Ergänzungen zu dem Beschluße v. 27 Novbr. a. p. betr. die Niederlassungsgebühren der Gde Töß.</title>27.01.1853<ident>StAZH MM 2.119 RRB 1853/0166</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.119</biblScope><biblScope unit="page">229–231</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Mit Zuschrift vom 17 dieß bemerkt der Gemeindrath von Töß bei der durch Beschluß des Regierungsrathes vom 27 November v. Js. erfolgten Abänderung des Einzugsbriefes dieser Gemeinde sei die Niederlaßungsgebühr, die bisher im Ganzen 4 Frk. a. W. betragen habe auf 5 Frk. n. W. gestellt worden während doch keinerlei Grund vorliege, diese Gebühr zu vermindern.
+Laut dem Einzugsbriefe betrugen die Niederlassungsgebühren dieser Gemeinde bis anhin:
+a, in das Kirchengut					Frk. – 4 Btz[en]. a. W.
+b, “	“	 Schulgut					“	– 6.	“
+c, “	“	 Gemeindsgut a von Töß					“	3. –	“
+			b von Dättnau					“	–  4.	“
+Er hatte nun bei der durch den eingangser-  wähnten Beschluß erfolgten Feststellung der Niederlassungsgebühr die Meinung, daß lediglich diejenige in das Gemeindgut Töß von 3 Frk. a. W. auf 5 Frk. n. W. zu erhöhen sei, daß dagegen rücksichtlich der Niederlaßungsgebühren in die übrigen Güter es bei den bisher bestandenen Ansätzen sein Verbleiben habe.
+Da jedoch auch rücksichtlich der dießfälligen Ansätze in die übrigen Güter eine Abrundung bei deren Feststellung in neuer Währung angemessen erscheint
+so hat der Regierungsrath
+nach Einsicht eines Antrages der Direktion des Innern,
+in Abänderung von disp. 2 des Beschlusses vom 27 November v. Js.
+beschlossen.
+I. Seien die sämmtlichen Niederlassungsgebühren der Gemeinde Töß folgendermaßen festgesetzt:
+a, in das Kirchengut			Frk. –	60. Rpp.
+b, in das Schulgut			“	 –	90. “
+c, in das Gemeindgut a von Töß		“	5.	–	“
+			b von Dättnau		“	–	60.	“
+II. Sei dieser Beschluß durch das Amtsblatt zur öffentlichen Kenntniß zu bringen, dem Bezirks-  rath Winterthur für sich und zu Handen des Gemeindrathes Töß mitzutheilen und in dem Einzugsbriefe dieser Gemeinde selbst vorzumerken.<p/></body></text></TEI>

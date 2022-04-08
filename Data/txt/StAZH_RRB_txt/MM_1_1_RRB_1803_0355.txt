@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einfrage der Finanz-Commißion über ihre Competenz und Vollmacht in
+                    Bausachen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-31"
+                            >31.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2011
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Einfrage der Finanz-Commißion über ihre Competenz und Vollmacht in
+                        Bausachen.</title>
+                    21.06.1803
+                    <ident>StAZH MM 1.1 RRB 1803/0355</ident>
+                    <edition>Protokoll des Regierungsrats</edition>
+                    <biblScope unit="volume">1.1</biblScope>
+                    <biblScope unit="page">401–402</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Aus Veranlaßung einer Einfrage der Finanzcommißion vom <date
+                    when="1803-05-24">24sten May</date>, betreffend ihre Competenz und Vollmacht in
+                Bausachen und insbesondere in Ansehung der einzeln meist unbe- <pb n="402"
+                />trächtlichen, aber hingegen im Ganzen genommen auf eine hohe Summe sich
+                belaufenden Reparationen des auf Staatskosten zu unterhaltenden Theils der Kirchen,
+                Schulgebäude und Pfarrhäuser, – ist der Finanz-Commißion, ohne
+                ihre dießfällige Competenz und Vollmacht auf eine gewiße Summe bestimmt
+                festzusetzen, die Anleitung ertheilt worden, hierinfalls nach Maaßgaabe der in
+                heutiger Sitzung angehörten Bemerkungen zu Werk zu gehen, und weniger bedeutende
+                Gegenstände lediglich aus sich zu besorgen, weiter ausstehende und in Rüksicht der
+                Kosten beträchtlicher werden könnende Gegenstände hingegen vor der Ausführung, unter
+                Beylaage erforderlichen Calculs dem Kleinen Rath zum Entscheid
+                und zur Ertheilung der nöthigen Vollmacht vorzulegen.
+        </body>
+    </text>
+</TEI>

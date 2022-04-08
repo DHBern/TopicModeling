@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aßecuranz-Vergütung einer zu Wädenschweil abgebrannten Scheune.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: <date when="2010-08-03"
+                        >03.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Aßecuranz-Vergütung einer zu Wädenschweil abgebrannten
+                        Scheune.</title>09.11.1822<ident>StAZH MM
+                        1.81 RRB 1822/0868</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.81</biblScope><biblScope
+                        unit="page">144</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Lbl. Brandaßecuranz-Commißion erstattet der hohen Behörde des
+                    Kleinen Rathes mit Weisung d. d. <date when="1822-11-04">4ten
+                    hujus</date> Bericht über einen am 30sten passati
+                zu Unter-Mosen, Pfarre Wädenschweil, Statt gehabten Brandschaden, wo nähmlich die
+                mit No. 266. und 267. c. bezeichnete, für fl. 400. aßecurirte, der Wittwe
+                    Brändli und Jacob
+                Hottinger zu gleichen Theilen gehörende Scheune eingeäschert
+                worden, ohne daß bey aller sorgfältigen Untersuchung die Ursache dieses
+                    Brandes entdeckt werden konnte. Da indeß auf den
+                Eigenthümern, welche in gutem Rufe stehen, und an Futter und
+                Früchten, womit dieses Gebäude angefüllt war, einen bedeutenden Verlust erlitten
+                haben, – kein Verdacht haftet, so haben UHHerren und Obern die Entdeckung der
+                Veranlaßung des Brandes Gott und der Zeit anheimstellend,
+                lediglich erkennt, der Wittwe Brändli und dem
+                    Hottinger die Aßecuranz-Summe ausbezahlen zu laßen, wovon der
+                Lbl. Brandaßecuranz-Commißion und dem Oberamte Wädenschweil zu Handen derselben
+                Kenntniß gegeben wird.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beantwortung der von der Schwarzenbergischen Regierung geführten Klage gegen
+                    das vom Ehegericht ausgefällte Urtheil in Betreff des Matheus Friederich von
+                    Gaißlingen und Anna Barbara Remi von Ellikon.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-30"
+                            >30.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beantwortung der von der Schwarzenbergischen Regierung geführten Klage
+                        gegen das vom Ehegericht ausgefällte Urtheil in Betreff des Matheus
+                        Friederich von Gaißlingen und Anna Barbara Remi von Ellikon.</title><date
+                        when="1805-09-27">27.09.1805</date><ident>StAZH MM 1.15 RRB
+                        1805/1450</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.15</biblScope><biblScope unit="page"
+                    >105–107</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf den, von dem hießigen Ehegericht, in Folge des
+                dießeitigen Erlaßes vom 31sten pti., erstatteten
+                umständlichen Bericht, in Betreff der von der Schwarzenbergischen Regierung an den
+                    Kleinen Rath gelangten Klage über den, von dem
+                    Ehegericht sub 11ten Julii
+                geschehenen Abspruch über den Paternitätsfall der Anna
+                Barbara Remi von Ellikon, Pfarrgemeinde
+                    Marthalen, mit dem als Mahlknecht in der
+                    Mühle im Eigenthal dienenden Matheus
+                Friederich von Gaißlingen, vermöge welchem das dem
+                    Friederich als unehlich zugekannte Kind
+                der Remin, demselben auch heimathshalber zugesprochen worden, – wurde beschloßen,
+                der Schwarzenbergischen Regierung rükantwortlich [lt. Mißiven] anzuzeigen: „Man habe
+                zwar die, in der Fürstlich Schwarzenbergischen Mißive vom <date when="1805-08-22"
+                    >22sten Augstmonat</date> enthaltene Anzeige, mit dem von dem hießigen
+                Matrimonial-Gericht ausgefällten Urtheil, laut dem dießfalls erhaltenen Amtsbericht,
+                gänzlich übereinstimmend gefunden, müße aber dabey bemerken, daß dieses Ur- <pb
+                    n="106"/>theil mit den dießeitigen Gesezen und Verordnungen conform seye, und
+                daß solches nicht sowohl auf dem neuen Matrimonial-Gesezbuch des hießigen Cantons,
+                als vielmehr auf der ehemahligen und bisherigen, nicht nur im hießigen, sondern auch
+                in dem meisten andern Cantonen der Schweiz, und in andern Staaten bestandenen
+                uralten Üebung, vermöge welcher ein unehliches Kind auch
+                Heimathshalber dem Vater zugesprochen wurde, beruhe. Was den
+                Abspruch selbst betreffe, so habe man um so weniger Bedenken getragen, im
+                gegenwärtigen Fall die Beurtheilung an die Hand zu nehmen, als der Beklagte
+                    Friederich anwesend war, die Paternität eingestunde, selbst
+                Caution stellte, und den hierörtigen Abspruch verlangte; auch habe man dabey den
+                schon im Anfang des vorigen Jahrs statt gehabte Fall, wo von Seite der
+                Schwarzenbergischen Regierung in der Paternitäts-Sache der hier seßhaften
+                    Magdalena
+                Rellstab von Rüschlikon, gegen
+                    Martin
+                Peter, Küferknecht von Birrwangen, Oberamts Jestetten, welchen
+                die Klägerin, weil er sich flüchtig gemacht hatte, würklich vor seinem
+                    Richter suchte, abgesprochen, und der Beklagte in die
+                Paternität einerkennt, und zu Entschädigung und Sustentations-Verpflichtung
+                verfällt, wo aber bisanhin, [ungeachtet mehrerer Reisen der Klägerin, und mehrerer
+                vom Ehegericht erlaßenen Promotorialien an das Oberamt Jestetten,
+                und an die sSchwarzenbergische Regierung zu Thiengen selbst] nicht einmahl
+                officielle Mittheilung des dießfälligen Abspruchs, noch viel weniger die mindeste
+                Entschädigung, noch Unterhaltungs-Unterstüzung für das sehr bedürftige
+                    Kind erhältlich gewesen seye, – hauptsächlich in’s Auge
+                gefaßt. Man hoffe durch diese Auskunft die Schwarzenbergische Regierung über diesen
+                Gegenstand hinlänglich beruhiget zu haben, um solche zu vermögen, den dießfälligen
+                Spruch des hierörtigen Matrimonial-Gerichts in Execution zu sezen, wo man übrigens
+                geneigt seye, die Reciprocität in allen vorkommenden Fällen eintretten
+                zu laßen; sowie man sich auch im entgegen gesezten Fall das Gegenrecht
+                vorbehalte“.
+        </body>
+    </text>
+</TEI>

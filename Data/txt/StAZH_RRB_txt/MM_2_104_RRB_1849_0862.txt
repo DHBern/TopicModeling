@@ -1,0 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Gesuch des Bez. Ger. Zürich um einen Vorschuß aus der Staatskassa.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn11.01.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2012<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Gesuch des Bez. Ger. Zürich um einen Vorschuß aus der Staatskassa.</title>10.05.1849<ident>StAZH MM 2.104 RRB 1849/0862</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.104</biblScope><biblScope unit="page">278</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Präsidial-Verfügungen.
+Actum den 10 Mai 1849.]
+Dem Finanzrathe wird zur Erledigung überwiesen:
+Ein vom Obergerichte im empfehlenden Sinne übermachtes Gesuch des Bezirksgerichtes Zürich um einen Vorschuß aus der Staatskassa im Betrage von Frkn. 2000. zur Deckung der laufenden Ausgaben.<p/></body></text></TEI>

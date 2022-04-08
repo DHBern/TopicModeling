@@ -1,0 +1,10 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Statutengenehmig. d. Immobiliengesellsch. Zürich.</title><respStmt><resp ref="#ssi" key="transcript">Transkript: ssi17.04.2015</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2015<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Statutengenehmig. d. Immobiliengesellsch. Zürich.</title>25.02.1882<ident>StAZH MM 2.235 RRB 1882/0355</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.235</biblScope><biblScope unit="page">479–480</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Mit Zuschrift vom 13. Januar d. Js. übermittelte der Verwaltungsrath der Immobiliengesellschaft Zürich die Statuten der letztern & sucht um Genehmigung derselben nach.
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion des Innern, 
+beschließt:
+1. Den vorliegenden Statuten der Immobiliengesellschaft Zürich wird im Sinne des § 22 des privatrechtlichen Gesetzbuches die Genehmigung ertheilt.
+2. Von den Statuten sollen zwei Exemplare auf Stempelpapier ausgefertigt und mit den Original-Unterschriften versehen werden; das eine Exemplar ist im Archiv der Direktion des Innern aufzubewah-  ren, das andere der Gesellschaft zuzustellen.
+3. Gegenwärtiger Beschluß soll sämmtlichen Abschriften oder Abdrücken der Statuten beigesetzt & nebst den letztern auf Kosten der Gesellschaft durch das Amtsblatt bekannt gemacht werden.
+4. Mitteilung an den Petenten.<p/></body></text></TEI>

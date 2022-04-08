@@ -1,0 +1,20 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschlüsse, betreff. das Leichenbegängniß des Herrn Oberst und Zeughausdirektor Hirzel.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn27.01.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beschlüsse, betreff. das Leichenbegängniß des Herrn Oberst und Zeughausdirektor Hirzel.</title>20.04.1844<ident>StAZH MM 2.83 RRB 1844/0616</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.83</biblScope><biblScope unit="page">231–233</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Auf die erfolgte Anzeige des Hinschiedes des Herrn Oberst und Zeughausdirektors Hirzel tritt nunmehr die in einer frühern Sitzung bereits auf diesen Fall considentiell angenommene „Ordnung“ für deßen Leichenbegängniß in Kraft mit dem Beifügen, daß damals ebenfalls angenommen wurde, es seien von dem Kriegsrathe die Kosten für das Leichenbegängniß zu tragen.
+Ordnung:
+für das Mittwoch den 24ten April 1844 stattfindende
+Leichenbegängniß
+des
+weiland Vicepräsidenten des Eidgenössischen Kriegsrathes, Eidgenössischen Obersten, Kommandanten und Obersten der Artillerie, Mitglied des Kriegsrathes u. s. w.
+des Standes Zürich
+Herrn Salomon Hirzel
+Hochwohlgeboren.
+Von 2. Uhr Nachmittags bis nach Beendigung des  Leichenbegängnisses wird jede Viertelstunde ein Kanonenschuß gelöst.
+Um 4. Uhr versammelt sich der h. Regierungsrath in Amtstracht im Postgebäude, ebendaselbst in schwarzer Kleidung diejenigen Tit. Mitglieder des Hochl. Kriegsrathes, die mit Mitglieder der Regierung sind oder nicht in Uniform bei dem Tit. Offizierkorps erscheinen, nebst dem Regierungssekretär des Kriegsrathes, ferner:
+in großer Uniform die Offiziere aller Waffengattungen, welche an dem Leichenbegängniß Theil nehmen.
+Die Offiziere der Artillerie tragen Leid.
+Nachdem das Publikum den leidtragenden Anverwandten, welche 1/4. nach 4. Uhr aus dem Feldhofe heraustreten, seine Theilnahme bezeugt hat beginnt der Leichenzug.
+Derselbe wird eröffnet durch einen Offizier der Artillerie. Hierauf folgt ein Trompeterkorps dieser Waffe, sodann die im Dienste sich befindende Artillerie.
+Vor dem Sarge geht der Tit. eidgenössische Oberstlieutenant, Adjutant des Verstorbenen. Auf dem Sarge befinden sich die militärischen Insignien desselben. Der Sarg wird getragen von acht Unteroffizieren der Artillerie. Die vier Schleifen des Leichentuches werden gehalten von den vier Tit. Waffenkommandanten  der Genies, der Infanterie, der Kavallerie und der Scharfschützen.
+Dem Sarge folgen die leidtragenden Anverwandten, der h. Regierungsrath, die allfällig nicht mit demselben oder dem Offizierkorps gehenden Mitglieder des Kriegsrathes nebst deßen Stabe und aus andern Cantonen, das Tit. Offizierkorps des Standes, bei welchem jedoch dasjenige der Artillerie als leidtragendes Korps den Vortritt vor den übrigen Waffen hat.
+Nachdem der Sarg nebst den Anverwandten, den Behörden und dem Offizierskorps auf dem Kirchhofe zu St. Anna angelangt ist, wird er neben dem Grabe abgestellt. Es folgt hierauf durch ein Detaschement Artillerie eine Gewehrsalve, dann durch den Herrn Geistlichen die Abdankungsrede, nach der eine zweite Salve in das Grab statt findet. Nachher begeben sich die Behörden wieder ins Postgebäude zurük.    <p/></body></text></TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anfang der Berathung des Gutachtens der Militär-Commißion über die Beschwerde
+                    der Wundgschau wegen der Entlaßungsscheine für Milizpflichtige.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-04-30"
+                            >30.04.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Anfang der Berathung des Gutachtens der Militär-Commißion über die
+                        Beschwerde der Wundgschau wegen der Entlaßungsscheine für
+                        Milizpflichtige.</title><date when="1823-02-08"
+                        >08.02.1823</date><ident>StAZH MM 1.82 RRB
+                        1823/0113</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.82</biblScope><biblScope unit="page"
+                    >110–112</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der ausführliche und sorgfältige Bericht und Gutachten der Lbl.
+                Militär-Commißion vom 30sten Jenner d. J., betreffend
+                das derselben unterm 3ten August 1822. überwiesene
+                Beschwerdschreiben der Lbl. Wundg’schau vom <date when="1823-07-30">30sten
+                    Heumonath</date>, wegen der Entlaßungsscheine für Milizpflichtige, wurde verlesen und in
+                Berathung genommen.
+            
+Derselbe stellt die in Ansehung solcher Entlaßungsbegehren nach und nach ein- <pb
+                    n="111"/>geschlichenen großen Mißbräuche und die dringende Nothwendigkeit dar,
+                denselben zu steuern, indem sich von allen Seiten her Klagen über den nachtheiligen
+                Einfluß erhoben haben, den das schlimme Beyspiel derjenigen, welche sich durch das
+                Vorgeben körperlicher Untauglichkeit dem Militärdienst zu entziehen gewußt, auf die
+                Bereitwilligkeit der dienstpflichtigen Mannschaft und auf die Stimmung des Volkes im
+                Allgemeinen ausübt, und enthält dann die Vorschläge, welche zu Erreichung des
+                vorgesetzten wichtigen Zweckes dienlich befunden und der hohen Regierung zu weiser
+                Prüfung und Verfügung unterlegt werden.
+            
+In gänzlicher Genehmigung des 1sten Antrages, haben
+                MHochgeachten Herren und Obern einmüthig beschloßen:
+            
+Da in dem Reglement vom 15ten Brachmonath 1813. über
+                die vom Militärdienst befreyenden körperlichen Gebrechen, einerseits mehrere
+                Gebrechen, die bloß zum Dienst in einer Waffe untüchtig machen, als Hinderniße, die
+                zu gänzlicher Entlaßung berechtigen, aufgezählt, und anderseits mehrere Krankheiten
+                zu allgemein angegeben sind, und deswegen einer nähern Bestimmung und Beschränkung
+                bedürfen, so soll das gedachte Reglement revidirt, und zu dem Ende die Lbl.
+                Militär-Commißion und die Lbl. Wundgschau eingeladen werden, einige
+                Mitglieder ihrer beydseitigen Behörden zu bezeichnen, welche diese Revision
+                beförderlich vornehmen, deren Ergebniß dem Kleinen Rathe zu
+                weiterer Hochobrigkeitlicher Verfügung zu hinterbringen ist.
+            
+Da die Berathung der übrigen, die Vollziehung des dießfälligen Administrationszweiges
+                betreffenden Anträge des vorliegenden Gutachtens, wegen verfloßener Zeit, nicht
+                beendiget werden konnte, so wurde sie bis zu einer nächsten Rathssitzung zum Behuf
+                eines über dieselben zu faßenden Beschlußes eingestellt.
+            
+[Fortsetzung RRB 1823/0123]
+        </body>
+    </text>
+</TEI>

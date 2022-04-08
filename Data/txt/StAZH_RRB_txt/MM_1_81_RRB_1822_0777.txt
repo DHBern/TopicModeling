@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genehmigte Entwürfe dießfälliger Schreiben an alle Lbl. Mitstände und den
+                    vorörtlichen Staatsrath.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Genehmigte Entwürfe dießfälliger Schreiben an alle Lbl. Mitstände und
+                        den vorörtlichen Staatsrath.</title><date when="1822-10-12"
+                        >12.10.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0777</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >40–43</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nebst diesem Beschluße des Großen Rathes wurden die,
+                unter leitender Mitwirkung MsHochgeachten Herrn Rathsherrn J. J.
+                    Hirzel, von der Kanzley abgefaßten Entwürfe eines, das
+                Wesentliche des Großen Rathsbeschlußes den sämtlichen Lbl.
+                Mitständen zur Kenntniß bringenden Kreisschreibens, und eines mit der Abschrift
+                dieses letztern begleiteten Schreibens an den hiesigen vorörtlichen Staatsrath,
+                verlesen, und beyde Entwürfe genehmiget, und sind nun unverzüglich
+                auszufertigen.
+            
+In dem Kreisschreiben wird den Lbl. Ständen gesagt: „Der am <date when="1822-10-07"
+                    >7ten</date>, 8ten und <date when="1822-10-09"
+                    >9ten dieß</date> außerordentlich versammelt gewesene <orgName>Große
+                    Rath</orgName> des hiesigen Standes habe sich ausschließlich mit der wichtigen
+                Angelegenheit der Handelsverhältniße und in der Tagsatzung am <date
+                    when="1822-10-27">27sten</date> und 28sten August
+                d. J. aufgestellten Uebereinkunft, welche von der hierörtigen Ehrengesandtschaft
+                instructionsmäßig ad referendum genommen wurde, beschäftigt.
+            
+Derselbe sey durch die ihm erstatteten Berichte und vollständig vorgelegten Acten
+                nicht allein von den dießfälligen Verhandlungen der hohen Tagsatzung, sondern von
+                dem ganzen Verlauf und der Lage dieses Geschäftes gebührend in Kenntniß gesetzt
+                worden, und habe, nach reiflicher Erdaurung gefunden, es sey die Erhaltung des
+                möglichst freyen und ungehinderten Verkehrs und Handels, unter allen Umständen den
+                vaterländischen Verhältnißen und Einrichtungen am angemeßensten und für die
+                Schweizerische Indüstrie am ersprießlichsten; dagegen erwecken die Maaßregeln der
+                Uebereinkunft, in Verfaßungsrücksichten, und in Hinsicht auf moralische,
+                commercielle und ökonomische Folgen, Bedenken, und seyen überdieß auch nicht
+                geeignet, den wahren Zweck zu erfüllen, – so daß der hiesige Stand dieselbe für die
+                Schweiz überhaupt, und für ihn insbesondere nicht zuträglich erachten, und deswegen
+                dieser Uebereinkunft nicht beytreten könne. 
+            
+Indeßen werde man sich nichts desto weniger angelegen seyn laßen, die dem
+                Vorort bis zu dem nahe bevorstehenden Wechsel obliegende Correspondenz, auch in
+                Bezug auf dieses Geschäft mit pflichtmäßiger Treue zu besorgen und den sämtlichen
+                hohen Kantonsregierungen das Resultat der eingehenden Standeserklärungen sobald
+                möglich zur Kenntniß zu bringen; wobey der hiesige Stand überhaupt nichts
+                angelegeneres wünsche, als daß, mit Beseitigung eines Mauthsystems und der
+                Centralisirung des Zollwesens, auch in dieser wichtigen Nationalangelegenheit ein
+                Vereinigungspunct für alle Kantone ausfindig gemacht werden könne, wozu alsdann
+                unsre höchste gesetzgebende Behörde, die auch gegen die benachbarten deutschen
+                Staaten alle mit der Verfaßung vereinbaren freundschaftlichen Verhältniße und
+                Rücksichten zu beobachten beschloßen habe, mit Freuden die Hand bieten würde.
+            
+Sowie übrigens der hiesige Stand es sich von jeher zur besondern Pflicht gemacht, den
+                verfaßungsmäßigen freyen Verkehr und Transit gegen alle seine lieben Miteydsgenoßen
+                aufs genaueste zu befolgen, und nie davon abwei- chen werde, so nähre er
+                auch die zuversichtliche Erwartung, daß alle hohen Stände ohne Ausnahme das gleiche
+                gegen ihn beobachten und dadurch jeder Klage über Verletzung verfaßungsmäßiger
+                Rechte gern vorbeugen werden.“
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tod des Jacob Furrers zu Ravenspühl Gemeinde Pfäffikon, nach einer von seinem
+                    Bruder Hans Furrer erhaltenen Kopfverwundung.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-02-04"
+                            >04.02.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Tod des Jacob Furrers zu Ravenspühl Gemeinde Pfäffikon, nach einer von
+                        seinem Bruder Hans Furrer erhaltenen Kopfverwundung.</title><date
+                        when="1804-11-01">01.11.1804</date><ident>StAZH MM 1.10 RRB
+                        1804/1782</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.10</biblScope><biblScope unit="page"
+                    >28–30</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf die bedauerliche Anzeige des Herrn Bezirksstatthalters
+                    Schwerzenbach vom <date when="1804-11-01">1sten
+                    dieß</date>, daß Hans
+                Furrer aus dem Ravenspühl, der Gemeinde
+                    Pfäffikon, seinen Bruder
+                Jacob
+                Furrer von da, bey entstandenem Wortwechsel mit einer Kette
+                dergestalt auf den Kopf geschlagen, daß der Haken bis auf das
+                Cranium gedrungen, und daß bemeldter Jacob
+                Furrer den <date when="1804-10-31">31ten des verfloßenen
+                    Monats</date>, nach erfolgter Verschlimmerung seiner Wunde, wirklich verstorben sey, hat
+                der Kleine Rath der Wichtigkeit der Sache angemeßen befunden,
+                diesen unglüklichen Fall, unter Zustellung des Schreibens von Herrn
+                Bezirksstatthalter Schwerzenbach, des demselben beygelegten
+                Präcognitions- Verhörs mit dem Johannes
+                Furrer und des ärztlichen Berichts des, mit der Besorgung der
+                Wunde des Jacob Furrers beschäftigt gewesenen Herrn
+                Bezirksarzts Joh.
+                Rudolf
+                Hochstraßer von Uster vom <date
+                    when="1804-10-31">31ten pti</date> dem Obergericht zu
+                weiterer Untersuchung und Beurtheilung zu überweisen; zugleich aber dem Herrn D. und
+                Oberstadtarzt Hirzel, als Archiater die Einladung zugehen zu
+                laßen, daß derselbe einen Arzt und einen Wundarzt mit möglichster Beschleunigung
+                nach Ravenspühl abzuordnen beliebe, mit der Weisung, die Section des Leichnams des
+                verstorbenen Furrers vorzunehmen, und ihr Visum und Repertum an Behörde einzugeben,
+                damit besonders über den Grad der Gefährlichkeit der Wunde das erforderliche Licht
+                verbreitet werde.
+            
+Dem Herrn Bezirksstatthalter Schwerzenbach wird seine bey
+                dieser Gelegenheit neuerprobte Sorgfalt und Thätigkeit verdankt, und derselbe
+                eingeladen, einerseits den Hans
+                Furrer unter sicherer Verwahrung dem
+                    Obergericht unsers Cantons zu überliefern, und dem Herrn
+                Bezirksarzt Hochstraßer aufzutragen, bey der Section des
+                Leichnams des Jacob Furrers gegenwärtig zu seyn, einen Beamten
+                ebenfalls zu diesem Actus abzuordnen, und den von hier zur Section bestellten Herren
+                Aerzten, welche zu diesem Ende hin sich allervorderst zu dem Herrn
+                Bezirksstatthalter Schwerzenbach verfügen werden, wegen der
+                Localität die nöthige Anweisung zu geben, – und anderseits mit dem Gemeindsammann
+                von Pfeffikon ein sorgfältiges Präcognitionsverhör
+                aufzunehmen und einzusenden, damit sich ergebe, was demselben von diesem
+                unglüklichen Vorfall bekannt worden sey, und warum er deshalben nicht
+                die pflichtmäßige Anzeige an Behörde gemacht habe, zumalen der Tod des
+                    Jacob Furrers erst nach Verfluß von 7 Wochen erfolgt ist,
+                und während dieses ganzen Zeitraums die Regierung von einem so wichtigen Vorfall
+                keine Kenntniß erhielt.
+        </body>
+    </text>
+</TEI>

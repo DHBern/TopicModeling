@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß, die Wahl eines Pfarrers nach Stammheim an die Hand zu
+                    nehmen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-29"
+                            >29.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beschluß, die Wahl eines Pfarrers nach Stammheim an die Hand zu
+                        nehmen.</title>09.02.1805<ident>StAZH MM 1.12
+                        RRB 1805/0218</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.12</biblScope><biblScope
+                        unit="page">58–60</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da der Kleine Rath nach der unterm <date
+                when="1805-01-31">31sten Jenner</date> in betreff des Herrn Pfarrer
+                    Denzler zu Stammheim getroffenen
+                Verfügung, unterm 2ten Februar angemeßen erachtet
+                hat, die diplomatische Commißion zu beauftragen, ihm wegen der
+                zweifelhaften Collatur-Verhältniße von Stammheim einen Bericht
+                und Gutachten zu hinterbringen, – so hat die <orgName>diplomatische
+                    Commißion</orgName> diesem Auftrag unterm <date when="1805-02-06">6ten
+                    hujus</date> ein Genügen geleistet, und dem Kleinen Rath den
+                dießfälligen schrift- und mündlichen Bericht in heutiger Sitzung erstattet. Wenn
+                sich nun daraus ergeben hat, daß die Collatur-Verhältniße zwischen dem hießigen
+                Stand und dem Fürstabten von St. Gallen ursprünglich auf einer
+                unbedingten und lediglichen Präsentation beruheten, daß aber, durch langwierige
+                Unterhandlungen mit dem Fürstabten, die vom Merz 1725. bis zum
+                October 1727. dauerten, die Sachen dahin gediehen, daß der hießige Stand dem Herrn
+                Fürstabten in sich ergebenden Vacanz- fällen einen Dreyervorschlag
+                einreichte, mithin die eigentliche Collatur zugestuhnd, [was in Bezug auf das
+                Diaconat zu Stammheim schon im Jahr 1681. auf zukünftige Fälle
+                hin festgesetzt, rüksichtlich auf die Pfarrpfrund hingegen zum ersten Mahl unterm
+                    28sten Decembris 1748, und letztlich Ao. 1783.
+                beobachtet wurde,] – so liegt freylich das dießfällige Collaturrecht des ehemahligen
+                Fürstabten von St. Gallen außert allem Zweifel.
+            
+Wenn aber auf der anderen Seite, auch mit gänzlicher Beyseitsetzung aller übrigen
+                Umstände und Fragen, welche hierbey mit mehrerer und minderer Begründniß in Anschlag
+                kommen dürften, – nur einzig der wesentliche und entscheidende Umstand in‘s Auge
+                gefaßt wird, daß im Sommer 1803, bey durch Absterben erfolgter
+                Vacanz der Pfründe Thal im Rheinthal von den
+                Ehrengesandtschaften der Lobl. Stände Zürich, Evangelisch
+                    Glarus, und Evangelisch Appenzell
+                auf der Ersten gemeineydsgenößischen Tagsatzung in Freyburg, der Ehrengesandtschaft
+                des Lobl. Standes St. Gallen die Anzeige gethan worden, man
+                werde abseiten benannter 3. Stände nach bisheriger Übung die gegen den jeweiligen
+                Herrn Landvogt im Rheinthal gewohnt gewesene Präsentation auf die Pfründe
+                    Thal an den Lobl. Stand St. Gallen
+                eingeben, – daß hierauf von der dortigen Ehrengesandtschaft die bestimmte Erklärung
+                gethan worden, daß man die ehemaligen Verhältniße in Ansehung solcher Präsentationen
+                als gänzlich aufgehoben ansehe, – und daß endlich die Ehrengesandtschaften der drey
+                reclamierenden Stände mit- telst einer sub <date when="1805-07-19">19ten
+                    Julii</date> an diejenige des Lobl. Standes St. Gallen
+                eingegebenen schriftlichen Note, die Rechte ihrer respectiven Stände verwahrt, und
+                denselben die allfählige Convenienz und Gegenrecht vorbehalten haben, – so findet
+                der Kleine Rath die Sache hierdurch in eine solche Lage versetzt,
+                daß er kein Bedenken trägt, in dem vorliegenden Fall von obigem bestimmten Vorbehalt
+                der Convenienz und des Gegenrechts würklichen Gebrauch zu machen, und, auf
+                eingeholten gesezlichen Vorschlag des Kirchenraths, die erledigte Pfrund
+                    Stammheim annoch in heutiger Sitzung definitiv zu besetzen,
+                und, daß solches geschehen werde, dem Lobl. Stand St. Gallen
+                lediglich erklärungsweise, und mit kurzer Aufstellung obiger Motive [lt. Mißiven]
+                anzuzeigen, jedoch zugleich gegen denselben den Wunsch einer baldigen gütlichen
+                Auseinandersetzung rüksichtlich der gegenseitigen Collatur-Verhältniße
+                beyzufügen.
+        </body>
+    </text>
+</TEI>

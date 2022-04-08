@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Neue Hauptleute der ersten und zweyten Reserve.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-04-23"
+                            >23.04.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Neue Hauptleute der ersten und zweyten Reserve.</title><date
+                        when="1807-04-11">11.04.1807</date><ident>StAZH MM 1.22 RRB
+                        1807/0462</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.22</biblScope><biblScope unit="page"
+                    >73–74</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Kleine Rath hat, auf den ihm von der
+                Militar-Commißion unterm 4ten d. M. gemachten
+                Vorschlag, zu Hauptleuten von folgenden Freycompagnien der <date when="1807-04-01"
+                    >1sten</date> Reserve, und Stammcompagnien der <date when="1807-04-02"
+                    >2ten</date> Reserve, erwählt:
+            
+1. Für die, durch Absterben des Herren Adjudant Bürgi erledigte
+                erste Freycompagnie der ersten Infanterie-Reserve des <date when="1807-04-03"
+                    >3ten</date> Quartiers des 3ten Kraises:
+            
+Herr Jacob
+                Boßhart von Oberhittnau.
+            
+2. Für die 1ste Stammcompagnie der 2ten Reserve des
+                    6ten Quartiers des <date when="1807-04-01"
+                    >1sten</date> Kraises: 
+            
+Herr Salomon
+                Schinz, im Eggbühl.
+            
+3. Für die 2te Stammcompagnie des gleichen Quartiers:
+            
+Herr Altstatthalter Caspar
+                Redinger von Höngg.
+            
+4. Für die 3te Stammcompagnie des nämmlichen Quartiers:
+            
+Herr Friedensrichter Conrad
+                Meyer von Regenstorf.
+            
+5. Für die 1ste Stammcompagnie des 4ten Quartiers des
+                    2ten Kraises:
+            
+Herr Heinrich
+                Sulzer zum Tiger von Winterthur.
+            
+6. Für die 2te Stammcompagnie des gleichen Quartiers:
+            
+Herr Johannes
+                Graf, von Winterthur.
+            
+7. Für die 3te Stammcompagnie des nämmlichen Quartiers:
+            
+Herr Salomon
+                Grübler von Veltheim.
+            
+8. Für die 1ste Stammcompagnie des 1sten Quartiers des
+                    3ten Kraises:
+            
+Herr Landschreiber Heinrich
+                Bindschädler von Ehrlenbach.
+            
+9. Für die 2te Stammcompagnie des gleichen Quartiers:
+            
+Herr Heinrich
+                Hausammann von Männedorf.
+            
+Von diesen Ernennungen wird der Militarcommißion und den betreffenden Herren
+                Quartierhauptleuten Kenntniß gegeben, die Staatscanzley aber beauftragt, die Brevets
+                für die ernannten Officiere auszufertigen.
+        </body>
+    </text>
+</TEI>

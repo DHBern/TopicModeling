@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aufstellung einer Kommißion zur Vorberathung der innern Organisation des
+                    kleinen Raths und der Kantons-Einrichtung.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-03"
+                            >03.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Aufstellung einer Kommißion zur Vorberathung der innern Organisation
+                        des kleinen Raths und der Kantons-Einrichtung.</title><date
+                        when="1803-04-25">25.04.1803</date><ident>StAZH MM 1.1 RRB
+                        1803/0004</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.1</biblScope><biblScope unit="page">2–3</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Herren Kleinen Räthe fanden vor allem dringend, eine besondere
+                Kommißion zu verordnen, welche sich ohne Verzug mit einem gedoppelten Gegenstand zu
+                beschäftigen, nämmlich einerseits über die innere Organisation des Kleinen und
+                    Großen
+                Raths, und über die aus der Mitte des Kleinen
+                    Raths, theils für einstweilen, theils permanent
+                festzusetzenden ver- schiedenen Geschäftsdepartements, nach den über
+                diesen Gegenstand in der heutigen Sitzung gefloßenen Bemerkungen und anderseits über
+                die Einrichtung der Verfaßung unseres Kantons und die dahin einschlagenden
+                Gegenstände sich zu berathen hat. – In diese Kommißion wurden folgende sieben Herren
+                    Kleine Räthe geordnet:
+            
+Herr Rathsherr Escher, Alt Sekelmeister.
+            
+ „ und Doctor Usterj.
+            
+ „ Pestaluzz.
+            
+ „ Steiner.
+            
+ „ Wyß.
+            
+ „ Bodmer.
+            
+ „ Rusterholz,
+            
+– von welchen nun diese Behörde mit möglichster Beschleunigung das Resultat ihrer
+                Arbeiten gewärtigen will.
+        </body>
+    </text>
+</TEI>

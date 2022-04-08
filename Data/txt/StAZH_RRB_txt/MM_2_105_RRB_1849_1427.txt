@@ -1,0 +1,15 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Wahl des Hrn. Wolfensperger zum Statthalter des Bezirkes Hinweil.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn06.03.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2012<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Wahl des Hrn. Wolfensperger zum Statthalter des Bezirkes Hinweil.</title>21.07.1849<ident>StAZH MM 2.105 RRB 1849/1427</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.105</biblScope><biblScope unit="page">248–250</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat nach Einsicht des von der Bezirkswahlversammlung Hinweil unterm 18 dß. getroffenen Dreiervorschlages für die durch Ablauf der Amtsdauer erledigte Stelle eines Statthalters des dortigen Bezirks,
+da sich ergeben: 
+Von der Bezirkswahlversammlung Hinweil sei dem Regierungsrathe folgender Dreiervorschlag für die Wahl eines Statthalters des dortigen Bezirkes hinterbracht worden:
+1.	Herr	Statthalter Weber in Ottikon mit 114. von 196. Stimmen.
+2.		“	Bezirksgerichtspräsident David Wolfensperger von Bärentschweil mit 107. von
+			196. Stimmen.
+3.		“	Bezirksrath Diggelmann von Fischenthal mit 104. von 196. Stimmen. 
+Zum Statthalter des Bezirkes Hinweil gewählt:
+Herrn Bezirksgerichtspräsident David Wolfensperger von Bärentschweil;
+und hierauf beschlossen:
+I. Sei von dieser Wahl Herrn Wolfensperger Kenntniß zu geben und derselbe einzuladen, dem Finanzrathe die laut Verordnung des Regierungsrathes vom 27ten Weinmonat 1832. [Bd. III. pag. 249] von den Statthaltern zu leistende Caution mit Beförderung einzusenden.
+II. Mittheilung an den Finanzrath unter Hinweisung auf den Beschluß des Regierungsrathes vom 13ten Januar dieses Jahr betreffend die Bürgschaften der Beamten.
+III. Sei [nach Regulirung der Caution] von der Wahl dem Statthalteramte Hinweil für sich und zu Handen des Bezirksrathes und des Bezirkswahl-  kollegiums, Kenntniß zu geben, dem Gewählten Urkunde zuzustellen und die Wahl durch das Amtsblatt bekannt zu machen. <p/></body></text></TEI>

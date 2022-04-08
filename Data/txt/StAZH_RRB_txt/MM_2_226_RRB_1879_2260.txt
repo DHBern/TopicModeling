@@ -1,0 +1,942 @@
+Vergebung v. Tößkorrektionsbauten.
+Die Direktion der öffentlichen Arbeiten berichtet:
+Die Ausschreibung verschiedener Bauten für die Tößkorrektion hat nachstehende Eingaben zur Folge gehabt:
+I. Section.
+No
+Name des Eingabestellers
+Wippenwuhre
+Aushebung der unt. Schächte der Wippen-wuhre.
+Senk-walzen
+Querwuhre
+Flechtwerke vom Dammfuß
+Erdarbeiten
+Humus-Andecken
+Loos
+2
+bödig
+3
+bödig
+1.
+J. Gnehm, Straßenwärter, Fischenthal
+2
+20
+20
+0
+65
+0
+65
+1
+2.
+Franz Clérici, in Bauma
+2
+50
+3
+70
+0
+65
+0
+65
+1.
+3.
+J. Frei, Jb. Kägi u. J. Kägi, Bauma
+2
+–
+3
+–
+0
+65
+0
+55
+1.2.3.
+4.
+R. Thalmann, Turbenthal
+1
+90
+2
+90
+0
+40
+0
+60
+3.
+5. 
+J. Isler, Straßenw. u. B. Bläsi, Wyla
+1
+90
+2
+90
+0
+40
+0
+60
+3.4.
+6.
+J. Weber u. J. Wunderli, Wyla
+1
+90
+2
+90
+0
+40
+0
+60
+0
+60
+0
+20
+3.4.
+[No]
+[Name des Eingabestellers]
+[Wippenwuhre]
+[Aushebung der unt. Schächte der Wippen-wuhre.]
+[Senk-walzen]
+[Querwuhre]
+[Flechtwerke vom Dammfuß]
+[Erdarbeiten]
+[Humus-Andecken]
+[Loos]
+[2 bödig]
+[3 bödig]
+7.
+Hasenfratz, Schwarz & Cie, Dietingen 
+2
+65
+3
+85
+0
+45
+1
+–
+0
+60
+3.4.
+8.
+J. Wunderli Hutzikon
+1
+90
+2
+80
+0
+60
+2 bödig
+0
+50
+0
+60
+0
+20
+4.
+3
+90
+9.
+J. Gujer, Gemdrath, Turbenthal
+1
+85
+2
+80
+60
+2 bödig
+0
+50
+0
+60
+0
+20
+4.
+3
+95
+10.
+Rob. Baumann, Hendschikon
+1
+80
+2
+70
+3
+–
+2 bödig
+0
+60
+0
+65
+0
+20
+4.5.6.
+3
+80
+11.
+Jb. Brüngger, Hutzikon
+1
+80
+2
+80
+0
+60
+2
+60
+2 bödig
+0
+50
+0
+60
+0
+15
+4.5.8.
+4
+–
+12.
+Sonvico, Giovanni, Bauma
+2
+10
+3
+10
+3
+10
+2 bödig
+0
+65
+0
+20
+4.5.8.
+4
+–
+13.
+J. Wunderli, Hutzikon
+1
+80
+2
+70
+( 
+incl.
+0
+50
+0
+60
+0
+20
+5.
+14.
+Joh. Wiesendanger, Stegen
+1
+85
+2
+75
+0
+40
+0
+55
+0
+60
+0
+20
+6.8.
+15.
+Gebr. Frei, Dietikon
+1
+90
+2
+90
+2
+80
+2 bödig
+0
+50
+40m Trspt.
+0
+20
+6.8.
+3
+90
+0
+60
+16.
+J. Wunderli, Hutzikon
+2
+80
+2 bödig
+0
+50
+30m Tr.
+0
+20
+6.
+4
+–
+0
+60
+17.
+Anton Dienger, Wipkingen
+0
+50
+2
+80
+2 bödig
+0
+30
+40m Tr.
+0
+20
+6.
+2
+–
+0
+80
+18.
+J. Müller, Rämismühle
+4
+–
+4
+–
+0
+60
+2
+90
+0
+65
+40m Tr.
+0
+20
+6.
+0
+60
+0
+60
+[No]
+[Name des Eingabestellers]
+[Wippenwuhre]
+[Aushebung der unt. Schächte der Wippen-wuhre.]
+[Senk-walzen]
+[Querwuhre]
+[Flechtwerke vom Dammfuß]
+[Erdarbeiten]
+[Humus-Andecken]
+[Loos]
+[2
+bödig]
+[3
+bödig]
+19.
+Ghielmetti, Rykon
+0
+55
+2
+75
+3
+80
+0
+55
+40m Tr.
+0
+15
+6.
+0
+60
+20.
+Felix Corradi, Rykon
+2
+70
+2.30–3.50
+0
+60
+40m Tr.
+6.7.  
+0
+60
+21.
+J. Ulrich Meili, Rykon
+2
+90
+2 bödig
+0
+60
+40m Tr.
+6.7.
+3
+90
+0
+60
+22.
+J. Wunderli, Hutzikon
+2
+50
+2.10–3.80
+0
+50
+30m Tr.
+6.7.
+0
+60
+23.
+Jb. Rimann, Rykon
+3
+25
+2.30–3.80
+0
+65
+30m Tr.
+6.7.
+65
+24.
+Alfred Kunz, Rappersweil
+0
+70
+3
+25
+2.30–3.80
+0
+65
+40m Tr.
+0
+20
+6.7.
+0
+70
+25.
+Ulrich Würgler Rykon
+2
+–
+3
+–
+3
+–
+2 böd.
+0
+60
+25m Tr.
+0
+20
+7.8.
+3
+60
+0
+60
+26.
+Heinrich Groß, Sennhof
+2
+90
+0
+60
+3
+–
+4.–5.50
+0
+60
+25m Tr.
+0
+20
+7.8
+0
+65
+27.
+Anton Dienger, Wipkingen
+2
+90
+1
+20
+2
+80
+2 bödig
+0
+35
+25m Tr.
+0
+20
+8.
+2
+–
+0
+65
+28.
+Ulrich Weilenmann, Rykon
+2
+10
+3
+10
+3
+–
+3.60–4.50
+0
+60
+40m Tr.
+0
+20
+8.9
+0
+65
+29.
+E. Wiesmann, Neunforn
+3
+–
+2.80–4.-
+0
+65
+40m Tr.
+0
+20
+9
+0
+70
+Normalbreite
+1
+90
+2
+90
+0
+65
+2
+90
+2 böd.
+3 böd.
+0
+55
+30m Tr.
+40m Tr.
+0
+20
+3.90
+5.–
+0.60
+0.65
+II. Section.
+III. Loos.
+No
+Name des Eingabestellers
+Erhöhen der bestehenden Wippenwuhren
+Wippenwuhren
+Flechtwerk von Dammfuß
+Senk-walzen.
+Querwuhren 3 bödig
+4 bödig
+3 bödig
+2 bödig
+1.
+Heinrich, Brüger, Weingarten
+1
+–
+I. Cat.
+I. Cat
+I. Cat
+0
+60
+3
+–
+6
+–
+4
+80
+3
+30
+2
+10
+II. Cat
+II. Cat
+2
+90
+1
+90
+2.
+Heinrich Bühler, Breite
+0
+80
+II. Cat.
+2
+50
+1
+60
+0
+80
+3
+–
+3
+50  
+3
+50
+Name des Eingabestellers
+Abheben u. Deponiren v. Humus
+Fundament Aushub für Steinwurf
+Grund-arbeit mit 60m Trspt.
+Grabarbeit in die Töß zu werfen
+Feld-sprengung incl. Transport.
+Humus andecken
+Senk-walzen
+Querwuhre
+Gesichts-fläche
+Ausgrabung für die Querwuhre.
+3.
+Jakob Furrer, Töß
+0
+70
+0
+80
+0
+65
+0
+65
+2
+–
+3
+10
+2
+–
+4.
+Keller & Cie, Gibsweil 
+0
+60
+0
+90
+1
+10
+0
+70
+2
+90
+0
+15
+3
+50
+3 böd.
+2
+80
+0
+90
+4
+–
+5.
+Hespeler d. Spring, W’terthur
+0
+55
+0
+55
+0
+75
+0
+75
+3
+10
+0
+20
+3
+–
+2.–3.50–4.50
+1
+90
+0
+55
+6.
+Werner e. Keller. Olten
+0
+60
+0
+75
+0
+75
+0
+75
+3
+80
+in 0.60 übergriffen
+3
+–
+7’–3–4.50
+0
+35
+7.
+J. Ehrensberger, W’terthur
+0
+80
+1
+50
+0
+90
+0
+60
+2
+75
+0
+25
+3
+10
+3 böd.
+3
+–
+1
+20
+4
+50
+8.
+Ghielmetti, Kollbrunn
+0
+50
+0
+90
+0
+70
+0
+60
+2
+75
+0
+15
+3
+–
+2 böd.
+2
+–
+0
+60
+4
+–
+9.
+Straßer Zurzach
+0
+15
+1
+50
+0
+75
+0
+53
+3
+60
+0
+15
+2
+20
+4
+60
+2
+–
+0
+80
+15.
+Ehrenberger & Burkhard
+0
+50
+0
+50
+0
+76
+0
+50
+2
+75
+0
+20
+2
+50
+2
+50
+1
+40
+0
+50
+IV. Loos.
+No
+Name des Eingabestellers
+Abheben u. deponiren v. Humus
+Abgrabungen
+Senkwalzen
+Querwuhre
+mit 20m Trspt
+mit 50m Trspt.
+mit 40m Trspt.
+für Querwuhre
+4.
+Keller & Cie Gibsweil
+0
+90
+1
+20
+1
+05
+0
+90
+3
+50
+4
+–
+7.
+J. Ehrenberger Winterthur
+(
+0
+75
+(
+1
+20
+3
+10
+3 böd.
+50
+8.
+Ghielmetti, Kollbrunn
+0
+60
+0
+75
+0
+60
+0
+60
+3
+–
+2 böd. II
+4
+–
+10.
+Joh. Leu, Krugler, Töß
+(
+0
+60
+(
+3
+–
+per Boden
+2
+–
+11.
+Hch, Brüngger, Weingarten, Töß
+2
+80
+2.–4–5.50
+12.
+Peter Candraja, Wülflingen
+(
+0
+60
+(
+0
+50
+2
+80
+2–4–.50
+13.
+Luis Spacelle beiaub. Weber, Töß
+(
+0
+65
+(
+3
+1.60. 3.30, 4.40.
+14.
+Ehrensberger & Burkhard
+0
+65
+0
+70
+0
+60
+0
+50
+2
+50
+2
+50
+Ueber die Eingaben ist folgendes zu bemerken:
+I. Section. 
+Es ist etwas schwer, sich aus dem Wirrwar der 29 Eingaben zurecht zu finden, da dieselben meistens undeutlich und unvollständig sind, mehrere Loose in einanderwerfen und oft Preise enthalten, welche mit den wirklichen Preisen in bedeutendem Widerspruch stehen. Unter den Eingabestellern finden sich im Fernern neben bekannten Namen gänzlich unbekannte, oder auch solche, welche nicht unbedingt Garantie für eine solide Geschäftsführung gewähren.
+Unter diesen Verhältnissen wurden von der Inspektion Normalpreise für die einzelnen Arbeitsgattungen aufgestellt, welche theils aus dem bisherigen Usus, theils aus den Eingaben selbst abgeleitet sind. Nach diesen Normalpreisen sind einzelne zu hohe Preise sonst passender Eingaben zu reguliren, und es wird hiedurch erzielt, daß in der ganzen Section nur analoge Preise zur Anwendung kommen, und jede Arbeit nach dem reellen Werth bezahlt wird. Wenn einzelne Preise unter den Normalpreisen stehen, so werden die niedrigern angenommen.
+Für die Vergebung der Arbeiten in dieser Section werden folgende Vorschläge gemacht:
+Betrag nach den Accordpreisen
+1. Loos
+Gemeinschaftlich an Straßenwärter Gnehm & Franz Clerici in Bauma
+ca
+Fr.
+15,294.
+2. Loos
+An Frei, Kägi & Cie, in Bauma
+“
+“
+14,474.
+3. Loos
+An Isler & Bläsi in Wyla
+“
+“
+12,315.  
+4. Loos
+An J. Wunderli, in Hutzikon
+ca
+Fr.
+  5870 60.
+5. Loos.
+An Sonvico Giovanni, in Bauma
+“
+“
+  5141 60.
+6. Loos.
+An Alfred Künzi, in Rappersweil
+“
+“
+12984 95.
+7. Loos.
+An J. Ulrich Meili in Rykon
+ “
+ “
+12984 95.
+8. Loos.
+An Gebr. Frei, von Dietikon
+ “
+ “
+11,392 20.
+9. Loos.
+Gemeinschaftlich an Weilenmann & Würgler in Rykon
+ “
+ “
+13,478 –
+Die Totalsumme beträgt ca Fr. 101,107 85 Rp. Bei diesen Vorschlägen sind sowol die Leistungsfähigkeit der Unternehmer, als auch die Eingaben derselben berücksichtigt, letztere mit den benöthigten Reduktionen auf die Normalpreise, wobei vorausgesetzt wird, das sich die Akkordanten dieselben gefallen lassen müssen.
+II. Section.
+Hier ist vorerst zu bemerken, das im ersten Loos keine Arbeiten vorkommen.
+Die für diese Section eingereichten Eingaben bieten ein deutliches Bild dar.
+Für das zweite Loos sind bloß 2 Eingaben vorhanden, von welchen die zweite in jeder Beziehung den Vorzug verdient.
+Im dritten Loos geben die Erd- & Felsarbeiten den überwiegenden Ausschlag, und es enthält die Eingabe No 3 das wolfeilste Angebot.
+Für das vierte Loos ist die Eingabe von Ehrensberger & Burkhard die wolfeilste. 
+Es resultirt aus dem Gesagten folgende Zutheilung:
+2. Loos
+An Heinr. Bühler, Breite, Töß
+ca
+Fr.
+  4889 –
+3. Loos
+An Gemeindrath Furrer in Töß
+“
+“
+13,176 75.
+4. Loos. 
+An Ehrensberger & Burkhard, Oberstraß
+“
+“
+  9943 44.
+Totalsumme
+ca
+Fr.
+28009 19
+Die Gesammtakkörde für die Tößkorrektion würden nun nach den gemachten Vorschlägen die Summe von ca Fr. 129,117 04 Rp. erreichen gegenüber einem Büdgetansatz von Fr. 141,001 09 Rp.
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion der öffentlichen Arbeiten,
+beschließt:
+I. Die Bauarbeiten für die Tößkorrektion werden folgendermaßen vergeben:
+I. Section.
+1. Loos
+Gemeinschaftlich an Straßenwärter Gnehm im Fischenthal & Franz Clerici in Bauma.
+2.    “
+An Jb. Frei, Kägi & Cie in Bauma
+3.    “
+ “  Straßenwärter Isler & Bläsi in Wyla
+4.    “
+ “  J. Wunderli, in Hutzikon.
+5.    “
+ “  Sonvico Giovanni, in Bauma
+6. [Loos]
+[An] Alfred Kunz, in Rappersweil.
+7.     “
+  “   J. Ulrich Meili, in Rykon.
+8.     “
+  “   Gebr. Frei, in Dietikon.  
+9. Loos
+Gemeinschaftlich an Ulrich Weilenmann und Ulrich Würgler, in Rykon.
+II. Section.
+2. Loos
+An Heinrich Bühler, Breite, Töß.
+3.    “
+ “  Gemeindrath Furrer in Töß.
+4.    “
+ “  J. Ehrensberger & J. Burkhart in Oberstraß.
+II. Mittheilung an die Direktion der öffentlichen Arbeiten zur Vollziehung unter Rückstellung der Akten.

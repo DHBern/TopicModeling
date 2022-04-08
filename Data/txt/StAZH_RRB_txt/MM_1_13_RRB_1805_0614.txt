@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gutachten der Diplomatischen Commission betreffend die eingekommenen
+                    Zuschriften der Erzherzoglichen Regierung u. Kammer im Briesgau und der Ortenau
+                    und des Stifts St. Blasien wegen der vorgenohmenen Pfarrerwahl nach
+                    Birmenstorf.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-06-20"
+                            >20.06.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Gutachten der Diplomatischen Commission betreffend die eingekommenen
+                        Zuschriften der Erzherzoglichen Regierung u. Kammer im Briesgau und der
+                        Ortenau und des Stifts St. Blasien wegen der vorgenohmenen Pfarrerwahl nach
+                        Birmenstorf.</title>18.04.1805<ident>StAZH MM
+                        1.13 RRB 1805/0614</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.13</biblScope><biblScope
+                        unit="page">76–78</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung und in gänzlicher Genehmigung des sub <date
+                    when="1805-04-06">6ten</date> Februarii [in Folge erhaltener Aufträge vom <date
+                    when="1805-01-22">22sten</date> und <date when="1805-01-31">31sten
+                        Januarii</date>] hinterbrachten Gutachtens der diplomatischen Commißion, betreffend die
+                eingekommenen Zuschriften der Erzherzoglichen Regierung und Kammer im Briesgau und
+                der Ortenau und des Stifts St. Blasien, wegen der hierorts vorgenohmenen Pfarrerwahl
+                nach Birmenstorf, – wurde befunden, daß das dießfällige
+                Schreiben des Stifts St. Blasien vom 5ten Jenner
+                keiner weiteren Rükantwort bedörfe, hingegen aber beschloßen, dasjenige der
+                Erzherzoglichen Regierung und Kammer im Briesgau u. s. f. vom <date
+                    when="1805-04-15">15ten</date> Jenner (laut Mißiven) im wesentlichen folgender
+                Maaßen zu erwiederen:
+            
+„Wenn der hiesige Stand den in der dortseitigen Zuschrift vom <date when="1805-04-15"
+                    >15ten</date> Januarii a. c. enthaltenen Bemerkungen und Einwendungen, bezüglich
+                auf die dießeitig vorgenom[m]ene Wiederbese- zung der Pfarrpfründe
+                    Birmenstorf, bey sorgfältiger Prüffung alle
+                freundnachbarliche Aufmerksammkeit gewiedmet habe, – so müße man dennoch gestehen,
+                dieselben nicht von der Beschaffenheit gefunden zu haben, daß sie vermögend seyn
+                könnten, die hießige Regierung von den dieses Gegenstandes halber bisdahin hierorts
+                gewalteten Begriffen abzubringen.
+            
+Nach hießiger Ansicht müße St. Blasien allerdings unter diejenigen Reichsstifter
+                gezählt werden, auf welche der 29. §. des Reichsdeputationsreceßes vom <date
+                    when="1805-02-25">25sten Februar</date> 1803. in seinem ganzen Umfang anwendbar
+                sey; sollte aber auch würklich dieses Stift in einer ganz andern Cathegorie
+                aufgestellt werden wollen, – so dürfte es nicht schwer halten, diplomatische Gründe
+                von nicht minderm Gewicht aufzustellen, auf welche die nämmlichen Behauptungen
+                gestüzt werden, und aus denen die nämmlichen Folgerungen herfließen müßten, die man
+                in vorliegendem Fall zu machen sich bemüßiget gesehen habe.
+            
+Daß aber Collaturen nicht in die Chathegorie der Ehrenberechtigungen gehören, könne
+                man um so weniger zugeben, als nicht nur viele Beyspiele von anderen Eydsgenößischen
+                Cantonen, welche die ehemals in ihrer Bottmäßigkeit von deutschen Collatoren
+                beseßenen Rechte, in Folge des oberwähnten 29sten §.
+                des Reichsdeputations-Receßes, unbestritten an die Hand genohmen und ausgeübt haben,
+                – sondern vornemmlich auch davon Beyspiele vorhanden seyen, daß das nämmliche in
+                Rüksicht aller derjenigen ähnlichen Rechte geschehen sey, welche ehemals
+                eydsgenößische Stellen und Particularen im Umfange des deutschen Reichs besaßen.
+            
+Wie sehr man übrigens in jeder Rük- sicht würkliche Rechte und Besizungen
+                zu respectieren sich hießigen Orts zur Pflicht mache, und wie angelegen man sich die
+                Beybehaltung des alten Wohlvernehmens mit dem benachbarten Briesgau und der Stift
+                St. Blasien seyn laße, – hoffe man unzweydeutig durch die Behandlung der St.
+                Blasischen Besizungen im hießigen Canton bewiesen zu haben.“
+        </body>
+    </text>
+</TEI>

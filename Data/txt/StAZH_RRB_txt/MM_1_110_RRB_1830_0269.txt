@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dem zu Horn bey Arbon seßhaften Jacob Christoph Kraut von Oberstraß kann das
+                    für die abzugsfreye Herausgabe des Vermögens seiner Ehefrau, Meta Addiks aus dem
+                    Oldenburgischen, nachgesuchte Reciprocitätszeugniß nicht bewilligt
+                    werden.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-07-26"
+                            >26.07.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Dem zu Horn bey Arbon seßhaften Jacob Christoph Kraut von Oberstraß
+                        kann das für die abzugsfreye Herausgabe des Vermögens seiner Ehefrau, Meta
+                        Addiks aus dem Oldenburgischen, nachgesuchte Reciprocitätszeugniß nicht
+                        bewilligt werden.</title><date when="1830-04-03"
+                        >03.04.1830</date><ident>StAZH MM 1.110 RRB
+                        1830/0269</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.110</biblScope><biblScope unit="page"
+                    >77–78</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nachdem der zu Horn bey
+                    Arbon seßhafte Jacob
+                Christoph
+                Kraut von Oberstraß dem Kleinen Rathe mit
+                Bittschreiben vom 20. v. M. eröffnet:
+            
+„Seine Ehefrau, Meta Addiks von Oberhammelwarden im
+                Großherzogthum Oldenburg, verwittwete Gräflein von Steckborn,
+                habe aus ihrem Geburtsort ein Erbe von beyläufig 900. Thalern zu beziehen, und werde
+                solches, laut einem von der Großherzoglichen Kammer durch das dortseitige Amt Brake
+                ertheilten Bescheide, abschoßfrey aushin erhalten, in so fern sie eine Bescheinigung
+                beybringe, daß das Abschoßrecht in der Schweiz gegen Oldenburgische Unterthanen
+                gleichfalls nicht ausgeübt werde; er bitte daher ehrerbiethigst um Ertheilung eines
+                solchen Reciprocitätszeugnißes“: – so hat der Kleine Rath, auf
+                den Antrag der L. Commißion des Innern vom <date
+                    when="1830-03-31">31sten v. M</date>, an den Bittsteller zu rescribiren
+                beschloßen: es befinde sich zwar die hiesige Regierung nach den diesseitigen
+                Gesetzen und in Ermang- lung eines zwischen dem Großherzogthum Oldenburg
+                und der Schweizerischen Eidgenoßenschaft bestehenden Freyzügigkeitsvertrages außer
+                Stand, ihm in seinem Begehren zu willfahren; wohl aber könne sich die Regierung
+                gegen ihn zu Handen der Großherzoglich-Oldenburgischen Behörden dahin aussprechen,
+                daß sie stets geneigt sey, mit auswärtigen Staaten Freyzügigkeitsverträge einzugehen
+                und daß sie, in so fern bey der Großherzoglichen Regierung die nähmliche Gesinnung
+                walten sollte, sich ganz bereitwillig fände, zu einer solchen Übereinkunft Hand zu
+                biethen und die dazu erforderlichen Einleitungen zu treffen.
+            
+Die Staatskanzley ist beauftragt, diesen Bescheid mit einem kurzen
+                Begleitschreiben (laut Mißiven) an den Bittsteller gelangen zu laßen.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bedingte Ratification des abgeschloßenen Tractats zwischen den Ständen Zürich
+                    und Argau, wegen Einrichtung und Administration des Postwesens.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-15"
+                            >15.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Bedingte Ratification des abgeschloßenen Tractats zwischen den Ständen
+                        Zürich und Argau, wegen Einrichtung und Administration des
+                        Postwesens.</title>23.02.1805<ident>StAZH MM
+                        1.12 RRB 1805/0319</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.12</biblScope><biblScope
+                        unit="page">169–170</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf den, von der Postdirection erstatteten ausführlichen Bericht vom
+                    12ten d. M. über die mit dem L. Canton Argau
+                wegen könftiger Einrichtung des Postwesens gepflogenen Unterhandlungen, und
+                dießfalls zu Stande gekommenen Übereinkunft, hat der Kleine Rath
+                beschloßen:
+            
+1o. Der bereits unterm 7ten September vorigen Jahrs in
+                Arau abgeschloßene, im Namen der hießigen Postdirection, von Herrn Rathsherr
+                    Hirzel und Herrn Director von Orell, –
+                und im Namen des Finanzraths des Cantons Argau von deßen Präsidenten Herrn
+                    Dolder unterzeichnete Tractat wegen Administration und
+                Einrichtung des Postwesens zwischen den Ständen Zürich und
+                Argau, ist hiemit obrigkeitlich ratificiert, mit der Ausnahme und der ausdrüklichen
+                Bedingung jedoch; daß in Folge der mündlich getroffenen Verabredung, und laut der in
+                dem Brief des Finanzraths des Can- tons Argau vom <date
+                    when="1805-01-29">29sten Jenner</date> enthaltenen bestimmten Erklärung: „die im
+                §. 7. des Tractats auf 8. Kreuzer per Unze stipulierte
+                Transit-Gebühr für die von Bern aus nach
+                    Zürich kommenden Briefe, auf 6. Kreutzer herabgesezt
+                werden solle“. welche Modification dem Tractat beyzusezen ist.
+            
+2o. Der Postdirection sowohl, als den, von diesem Gremio zu den gedachten
+                Unterhandlungen besonders verordneten Herrn Rathsherr Hirzel
+                und Herrn Director von Orell, werden ihre dießfälligen mit diesem
+                wichtigen Gegenstand gehabten Bemühungen, beßtens verdankt.
+            
+3o. Der Postdirection werden sowohl der mehrgedachte Tractat, als die Zuschrift des
+                Finanzraths vom Canton Argau vom 29sten Jenner in
+                Originali zurükgestellt.
+        </body>
+    </text>
+</TEI>

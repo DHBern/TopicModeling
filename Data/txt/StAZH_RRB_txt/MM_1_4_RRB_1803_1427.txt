@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetzes-Vorschlag über die indirekten Abgaaben.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-08-20"
+                            >20.08.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Gesetzes-Vorschlag über die indirekten Abgaaben.</title><date
+                        when="1803-12-14">14.12.1803</date><ident>StAZH MM 1.4 RRB
+                        1803/1427</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.4</biblScope><biblScope unit="page"
+                    >314–321</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Gesetzes-Vorschlag
+            
+über
+            
+die indirekten Abgaben.
+            
+Folgende indirekten Abgaben sollen einstweilen beybehalten werden:
+            
+1. Stempel-Abgabe.
+            
+2. Handels-Abgabe.
+            
+3. Wirthschafts-Abgabe.
+            
+§. 1.
+            
+Stempel-Abgabe.
+            
+1. Alle Zuschriften an irgend eine öffentliche Behörde, sowohl
+                als an einzelne öffentliche Beamte, ferner alle Akten, Zeugniße und Documente jeder
+                Art, wenn sie Gültigkeit vor den Gerichten haben, oder von den Behörden und
+                einzelnen Beamten anerkennt werden sollen, – müßen auf Stempelpapier geschrieben
+                seyn.
+            
+Zu diesem Gebrauch wird das gemeine Stempelpapier in folgendem Preise verkauft.
+            
+Das
+            
+einfache
+            
+Octavblatt
+            
+à
+            
+3. Rp[en]
+            
+“
+            
+“
+            
+Quartblatt
+            
+à
+            
+6. “
+            
+“
+            
+“
+            
+Folioblatt
+            
+à
+            
+1. Bz.
+            
+– “
+            
+“
+            
+große
+            
+doppelte Folio
+            
+à
+            
+3. “
+            
+– “
+            
+2. Von dieser Vorschrift sind einzig ausgenommen:
+            
+a. Empfangsscheine oder Quittungen für Conti oder andere Zahlung,
+                welche unter dem Werth von 80. Frk. sind.
+            
+b. Alle in amtlichen Angelegenheiten, von einer öffentlichen
+                Behörde an die andere gerichtete Akten, Correspondenzen und Empfangsscheine. Ferner
+                die Rechnungs-[,] Handels- und Hausbücher und die Original-Rechnungen
+                und Correspondenz-Scripturen der Partikularen und Handels-Leute, so wie auch
+                Vogt-Rechnungen unter 4000. Frk[en] und alle Rechnungen von Armen- und
+                Kirchengütern, alle Zuschriften an kirchliche, Erziehungs- und Armen-Behörden.
+            
+3. Von nachstehenden Gegenständen soll die Stempel-Gebühr auf folgende Weise bezogen
+                werden:
+            
+a. Von Zeitungen und Berichtsblättern,
+            
+Von
+            
+1. Quartblatt
+            
+1. Rp[en]
+            
+“
+            
+1. Folioblatt
+            
+2. “
+            
+b. Für alle Arten Publikationen, Anzeigen, Anschläge, und Berichzedel die nicht von
+                einer Behörde ausgehen, von jedem Stük 3. Rpen.
+            
+c. Für einen Viehschein oder Sanitäts-Paß, 6. Rp[en] –
+            
+in der Meinung, daß der daherige reine Ertrag dem Sanitäts-Collegium übergeben, und
+                von dem selben ausschließlich zur Errichtung und Unterhaltung einer
+                Vieh-Assecuranz-Cassa verwendet werden soll.
+            
+4. Alle diejenigen Schuldverschreibungen jeder Art, welche 80.
+                Frk. und darüber betragen, seyen es Capitalbriefe, welche Hypothek auf liegende
+                Gründe haben, oder General- und Special-Obligationen, so wie jede andere
+                Schuld-Verschreibung ohne Pfand auf bloße Handschrift, müßen, wenn sie 80. Frk. und
+                darüber betragen, auf Stuffen-Stempel-Papier geschrieben seyn; dafür wird besonders
+                Stempelpapier nach dem Werth der Schuldverschreibungen ausgefertigt, und in
+                folgenden Preisen verkauft.
+            
+Von
+            
+Frk. 80.
+            
+ad
+            
+ 160. Fr.
+            
+“ Bz.
+            
+2. Rp.
+            
+“
+            
+“ 160.
+            
+“
+            
+ 400. “
+            
+“ –
+            
+4. “ 
+            
+Von
+            
+“ 400.
+            
+ad
+            
+ 600. “
+            
+Frk. “
+            
+ –
+            
+6. Rp.
+            
+“
+            
+“ 600.
+            
+ad
+            
+1000. “
+            
+ “ 1.
+            
+1. Bz.
+            
+„ –
+            
+“
+            
+“ 1000.
+            
+“
+            
+1500. “
+            
+ “ 1.
+            
+1. “
+            
+5. –
+            
+“
+            
+“ 1500.
+            
+“
+            
+2500. “
+            
+ “ 2.
+            
+2. “
+            
+5. –
+            
+“
+            
+“ 2500.
+            
+“
+            
+4000. “
+            
+ “ 4.
+            
+4. “
+            
+– –
+            
+Für die nämlichen Summen werden auch Doppelfoliobogen verfertigt, für welche 2. Bz.
+                mehr bezalt werden.
+            
+Ein Stuffen-Stempelpapier, welches beym Überschreiben unbrauchbar würde, kann,
+                insofern keine Unterschrift dabey ist, oder kein Gebrauch davon gemacht worden,
+                gegen Erlegung von 3. Bz[en] an ein neues, von gleichem Werth eingetauscht werden. –
+                    Alle Schuldverschreibungen von mehr als Fr. 4000., sollen
+                für die Summe welche Fr. 4000. übersteigt, anstatt dem Stempel mit dem Visa des
+                Stempelaufsehers des Kantons versehen, und 1. Bz. für Fr. 100. oder die Bruch-Summe
+                bezalt werden. – Zu Schuldbriefen oder Obligationen, welche mehr als einen
+                Doppel-Folio-Bogen enthalten, wird außer dem ersten Bogen
+                Stuffen-Stempel-Papier für das mehrere erforderliche nur gemeines Stempelpapier
+                genommen.
+            
+5. Für Wechsel- und andere Geld-Anweisungen aller Art, welche in hiesigem Kanton
+                ausgestellt werden, und deren Werth Frk. 80. und darüber beträgt, soll das dafür
+                eigens nach Verhältniß der Summe verfertigte Papier in folgenden Abstuffungen
+                verkauft werden.
+            
+Von
+            
+Frk.
+            
+ 80.
+            
+bis
+            
+Frk.
+            
+ 160.
+            
+Fr.
+            
+“
+            
+Bz.
+            
+“
+            
+Rp.
+            
+4.
+            
+“
+            
+“
+            
+ 160.
+            
+“
+            
+“
+            
+ 250.
+            
+–
+            
+“
+            
+–
+            
+“
+            
+–
+            
+6.
+            
+“
+            
+“
+            
+ 250.
+            
+“
+            
+“
+            
+ 500.
+            
+–
+            
+“
+            
+–
+            
+1.
+            
+–
+            
+“
+            
+“
+            
+“
+            
+ 500.
+            
+“
+            
+“
+            
+ 1000.
+            
+–
+            
+“
+            
+–
+            
+1.
+            
+–
+            
+6.
+            
+“
+            
+“
+            
+ 1000.
+            
+“
+            
+“
+            
+ 2000.
+            
+–
+            
+“
+            
+–
+            
+3.
+            
+–
+            
+2.
+            
+“
+            
+“
+            
+ 2000.
+            
+“
+            
+“
+            
+ 4000.
+            
+–
+            
+“
+            
+–
+            
+6.
+            
+–
+            
+4.
+            
+“
+            
+“
+            
+ 4000.
+            
+“
+            
+“
+            
+ 6000.
+            
+–
+            
+“
+            
+–
+            
+9.
+            
+–
+            
+6.
+            
+“
+            
+“
+            
+ 6000.
+            
+“
+            
+“
+            
+10 000.
+            
+–
+            
+1.
+            
+–
+            
+6.
+            
+–
+            
+“
+            
+“
+            
+“
+            
+10 000.
+            
+“
+            
+“
+            
+15 000.
+            
+–
+            
+2.
+            
+–
+            
+4.
+            
+–
+            
+“
+            
+“
+            
+“
+            
+15 000.
+            
+“
+            
+“
+            
+20 000.
+            
+–
+            
+3.
+            
+–
+            
+2.
+            
+–
+            
+“
+            
+“
+            
+“
+            
+20 000.
+            
+“
+            
+“
+            
+25 000.
+            
+–
+            
+4.
+            
+–
+            
+“
+            
+–
+            
+“
+            <p/>
+            
+Wechsel oder Geldanweisungen dieser Art, die mehr als Frk. 25 000.
+                betragen, sollen für die Summe, welche die Frk. 25 000. übersteigt, vom
+                Stempel-Aufseher des Kantons das Visa erhalten, und dafür 1. Bz. 6. Rp. für jedes
+                tausend Franken und die Bruch[-]Summe bezalt werden.
+            
+Ein Wechsel-Stempelpapier, welches beym Überschreiben unbrauchbar würde, kann
+                ebenfalls gegen Bezalung von 4. Rp. gegen ein neues von gleichem Werth eingelöst
+                werden.
+            
+§. II.
+            
+Handels-Abgabe.
+            
+6. Von allen Handels-Leuten und Fabrikanten, jedoch mit nachbenannten Ausnahmen, soll
+                eine Handelsgebühr bezogen werden. Die Festsetzung dieser Gebühr wird bestimmt nach
+                Maaßgabe der Kapitalien, welche die Handelsleute und Fabrikanten in ihrem Verkehr
+                anzuwenden erachtet werden, mit Rüksicht auf die Wichtigkeit und Ausdehnung ihres
+                Gewerbes.
+            
+Tarif.
+            
+Diejenigen so erachtet werden, daß in ihrem Gewerb Frk. 500. Capital angewendet
+                werden, bezahlen 1/2. Frk.
+            
+Von
+            
+ 500.
+            
+bis
+            
+1000.
+            
+Frk.
+            
+–
+            
+1.
+            
+Frk.
+            
+“
+            
+1000.
+            
+“
+            
+2000.
+            
+“
+            
+–
+            
+2.
+            
+“
+            
+“
+            
+2000.
+            
+“
+            
+3000.
+            
+“
+            
+–
+            
+3.
+            
+“
+            
+“
+            
+3000.
+            
+“
+            
+4000.
+            
+“
+            
+–
+            
+4.
+            
+“
+            
+Und so in fortschreitendem Verhältniß je 1. Frk. pr. 1000.
+            
+Detail-Händler und Fabrikanten, die unter Frk. 500. Capital in ihrem Gewerb
+                anzuwenden erachtet werden, sind von der Abgaabe ausgenohmen.
+            
+Weinhändler, oder Particularen welche Wein im Großen verkauf[en],
+                    zahlen mit Ausnahme eignen Gewächses:
+            
+Von
+            
+jedem
+            
+Eimer
+            
+Wein
+            
+2. Bz.
+            
+“
+            
+“
+            
+“
+            
+“
+            
+1. “ 6. Rp.
+            
+“
+            
+einer
+            
+Tonne
+            
+Bier von
+            
+40 bis 50. Maaß
+            
+1. “ – “
+            
+§. III.
+            
+Wirthschafts-Abgabe.
+            
+1. Jeder, der ein Wirthshaus, Schenkhaus oder Cafféhaus bewirbt, u: Gesellschaften
+                mit Speise oder Getränk besorgt, solle gehalten seyn, nach Maaßgabe der Ausdehnung
+                seiner Wirthschaft eine fixirte Umgeld-Abgaabe zu bezahlen, und dieselbe alljährlich
+                zu erneuern.
+            
+2. Der Preis dieser Abgabe wird von 16 bis 250. Frk. bestimmt; sie
+                soll vor Ende Aprills jedes Jahrs bezogen werden.
+            
+3. Eigenes Gewächs von Most und Wein darf ohne Wirthschaftsbewilligung im Kleinen,
+                jedoch nur über die Gaße, oder vom Zapfen weg, ohne Leute im
+                    Haus zu setzen, verkauft werden.
+            
+§. IV.
+            
+Bestimmung der Strafen.
+            
+Alle gegen dieses Abgabengesetz handelnden sollen auf folgende Weise bestraft
+                werden.
+            
+A. Für Übertrettung des Stempels.
+            
+1. Jede Zuschrift an irgend eine öffentliche Behörde oder an einzelne Beamten so wie
+                auch Akten und Zeugniße, die nicht auf Stempelpapier eingegeben würden, wird
+                zurükgewiesen, und wenn in besonders dringenden Fällen der einzelne Beamtete die
+                Zuschrift oder Akten annehmen würde, so ist derselbe verpflichtet, die Unterlaßung
+                dem Aufseher des Stempels zu laiden, welcher folgende Buße bezie- hen
+                soll:
+            
+Frk.
+            
+2.
+            
+Bz.
+            
+“
+            
+pr.
+            
+ein Doppelfolioblatt
+            
+ Gemeinen Stempelpapiers
+            
+“
+            
+1.
+            
+“
+            
+5.
+            
+“
+            
+ein einfachfolioblatt [sic!]
+            
+ein Quartblatt
+            
+ein Octavblatt
+            
+“
+            
+1.
+            
+“
+            
+5.
+            
+“
+            
+“
+            
+1.
+            
+“
+            
+–
+            
+“
+            
+2. Jeder im Kanton ansäßige Aussteller eines Wechsels, seye es auf das Ausland oder
+                im Kanton, bezalt für die Unterlaßung des Stempelpapiers 5. p. C %. des Werths eines
+                solchen Wechsels, eben so viel bezalt jeder innländische Indoßent oder Acceptant,
+                der nicht Anzeige dieser Unterlaßung dem Stempelaufseher machen würde.
+            
+3. Eine Schuldverschreibung, welche nicht auf Stuffen[-]Stempelpapier geschrieben
+                ist, bezahlt die Buße von 5. p C %. des darinn enthaltenen Werths, welche von dem
+                Aussteller, und von dem Innhaber derselben, von jedem zur Hälfte erlegt wird.
+            
+4. Ein Zeitungsblatt das nicht gestempelt, bezalt für jedes gedrukte Quartblatt 5.
+                Bz. – und für jedes gedrukte Folioblatt 1. Frk.
+            
+5. Ein jedes Blatt Publicationen, Anschlag-, Berichts-Zeddel, welches nicht
+                gestempelt ist, bezalt die Buße von 1. Frk.
+            
+6. Alle richterlichen Behörden sollen bey Ansicht der
+                Unterlaßung des Stempels, die obbenannten Bußen beziehen, und zu Handen des Staats
+                darüber Rechnung halten. Alle diejenigen Bußen hingegen,
+                welche nicht in die Caßa einer richterlichen Behörde fallen, werden von dem Aufseher
+                des Stempels bezogen. Die Beamten sind für Unterlaßung der Anzeig der Fehlbaren, für
+                den Betrag der im IVten §. 1. festgesetzten Buße verantwortlich: die nämliche
+                Verantwortlichkeit haben die gerichtlichen Behörden, falls sie unterlaßen würden,
+                nach Anweisung des §. IV. Art. 6. die gesezlich bestimmte Buße zu
+                beziehen.
+            
+B. Handels-Abgabe.
+            
+Falls die Angabe der Gebühren für ein Handelspatent zu gering angegeben erachtet
+                wird, so sind die mit dem Bezug beauftragten Beamten befugt, denselben durch Experte
+                taxieren zu laßen, und falls er diese Taxation nicht annehmen würde, die genaueste
+                Untersuchung vorzunehmen.
+            
+Für jedes tausend Franken so er, nach Untersuchung, zu wenig
+                angegeben, bezalt der Fehlbare 20. Frk. an den mit dem Bezug beauftragten Beamten zu
+                Handen des Staats.
+            
+Ein Weinhändler ist der nämlichen Taxation und allfähligen Untersuchung unterworfen,
+                u: bezalt, so wie ein Particular der eine Portion Wein im Großen
+                verkauft, [mit Ausnahm seines eigenen Gewächses] für jeden Eimer
+                Wein, Most, oder Tonne Bier, 10. Frk. Buße.
+            
+C. Wirthschafts-Abgabe.
+            
+Jedem Gastwirt oder Schenkwirth, welcher seine Wirthschafts-Abgabe vor End Aprills
+                jeden Jahrs nicht bezahlt haben wird, soll von dem Vollziehungsbeamten die
+                Wirthschaft beschloßen, und derselbe im Weigerungsfall dem
+                    Bezirksgericht überwiesen werden, welches ihn für diese
+                Weigerung zur Bezalung der doppelten Wirthschafts-Abgabe, die ihme fixirt worden
+                ist, anhalten soll; erst nach Bezalung dieser Buße, und nach der Entrichtung der
+                Wirthschafts[-]Abgabe besonders, ist der Fehlbare befugt, seine Wirthschaft wieder
+                forzusetzen.
+            
+Die Beamten sind für Unter- laßung der Anzeige der Fehlbaren, für den
+                Betrag der im §. IV. Art. 1. festgesetzten Buße verantwortlich; die nämliche
+                Verantwortlichkeit haben die gerichtlichen Behörden, falls sie unterlaßen würden,
+                nach Anweisung des §. IV. Art. 6. die gesezlich bestimmte Buße zu beziehen.
+            
+§. V.
+            
+Anordnung zur Ausführung dieses Gesetzes.
+            
+Der Kleine Rath ist bevollmächtigt, alle nöthigen Maaßregeln,
+                vermittelst der Finanz-Commißion zur Vollziehung gegenwärtigen
+                Gesetzes zu treffen. – Sobald gegenwärtiges Gesetz in Kraft
+                erwachsen, ist das Auflagen[-]Gesetz vom 15. Decembris 1800, so wie alle spätern,
+                von der helvetischen Regierung ergangenen Gesetze und Beschlüße, in so weit sie die
+                indirekten Auflagen betreffen, aufgehoben.
+        </body>
+    </text>
+</TEI>

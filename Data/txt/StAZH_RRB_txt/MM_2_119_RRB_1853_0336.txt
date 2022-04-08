@@ -1,0 +1,17 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Landrechtsertheilung an Jkb. Haasis v. Oestmettingen, Kgr. Württemberg.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn23.11.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Landrechtsertheilung an Jkb. Haasis v. Oestmettingen, Kgr. Württemberg.</title>26.02.1853<ident>StAZH MM 2.119 RRB 1853/0336</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.119</biblScope><biblScope unit="page">487–489</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Mit Zuschrift vom 14 Februar stellt Herr Jakob Haasis von Oestmettingen in Württemberg, welchen die Gemeinde Luchsingen eventuell in ihr Bürgerrecht aufgenommen, das Gesuch um Ertheilung des Kantonsbürgerrechtes und legt behufs dessen folgende Ausweisschriften bei:
+1, einen vom 2 September 1852 datirten Heimathschein;
+2, einen vom 6 August 1852 datirten Taufschein;
+3, ein vom 12 November 1852 datirtes Zeugniß des Gemeindrathes Riesbach, aus welchem hervorgeht, daß sich Petent seit dem 20 November 1845 bis gegenwärtig, ohne zu irgendwelchen Klagen Veranlaßung gegeben zu haben, aufgehalten hat;
+4, einen vom 24 Februar d. Js. datirten Schein, laut welchem sich Petent vor dem Pfarramte  Neumünster mit einer hiesigen Kantonsbürgerinn verlobt hat;
+5. eine Bescheinigung des Statthalteramtes Bülach, laut welcher Petent als Vermögensausweis Frk. 2350 bei demselben deponirt hat;
+6, einen Auszug aus dem Gemeindsprotokoll der Gemeinde Luchsingen betreffend die eventuelle Einbürgerung des Petenten.
+7, Eine vom 2 September 1842 datirte eventuelle Entlassungsurkunde aus dem württembergischen Staats- u. Gemeindsverbande.
+Der Regierungsrath hat nun
+nach Einsicht eines Antrages der Direktion des
+Innern
+beschlossen:
+I. Sei dem Petenten das Kantonsbürgerrecht ertheilt und dessen Aufnahme in das Bürgerrecht der Gemeinde Lusingen bestätigt, unter der Bedingung, daß sich derselbe binnen 4 Wochen über definitive Entlassung aus dem württembergischen Staats- u. Gemeindsverbande, sowie über Entrichtung der Einkaufsgebühren in das Gemeinde- und das Kantonsbürgerrecht, letzterer im Betrag von Frk. 583. Rpp. 33 ausweise.
+II. Sei die Staatskanzlei beauftragt, insofern sich Petent bei ihr über die Erfüllung der in  Dispos. I. auferlegten Bedingungen ausgewiesen haben wird, demselben die Urkunde für die Erwerbung des Kantonsbürgerrechtes gegen Entrichtung der gesetzlichen Taxe zuzustellen.
+III. Sei von diesem Beschlusse der Direktion der Finanzen im Auszuge, dem Gemeindrathe Lusingen und dem Petenten, letztern beiden durch das Statthalteramt Bülach und dem Petenten unter Rückstellung der von ihm eingelegten Akten, soweit deren Aushingabe möglich ist, Kenntniß zu geben.<p/></body></text></TEI>

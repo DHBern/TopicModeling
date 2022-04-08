@@ -1,0 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Bewilligung für Hrn. J. Strikler-Hüni dahier, Anerbiethen für die Limmatthalstraße einzusehen.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn22.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Bewilligung für Hrn. J. Strikler-Hüni dahier, Anerbiethen für die Limmatthalstraße einzusehen.</title>29.05.1847<ident>StAZH MM 2.96 RRB 1847/0866</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">250</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Iussu Präsidii
+Actum den 29. May 1847] 
+Mit Eingabe vom 28t. d. M. wünscht Hr. J. Strikler Hüni Namens der Uferbewohner in Höngg Einsicht der letztern, Anerbiethen enthaltenden Eingabe der Gemeinde Höngg betreffend die Limmatthalstraße.
+Es wird ihm dieselbe auf der Staatskanzlei bewilligt.<p/></body></text></TEI>

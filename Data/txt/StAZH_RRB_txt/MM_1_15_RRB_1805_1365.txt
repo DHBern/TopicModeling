@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht der Commißion des Innern wegen des Todtenscheins des in Croatien
+                    verstorbenen Schloßer Heinrich Vogels von Zürich, in Bezug auf die Liquidation
+                    seiner Hinterlaßenschaft.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-25"
+                            >25.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Bericht der Commißion des Innern wegen des Todtenscheins des in
+                        Croatien verstorbenen Schloßer Heinrich Vogels von Zürich, in Bezug auf die
+                        Liquidation seiner Hinterlaßenschaft.</title><date when="1805-09-07"
+                        >07.09.1805</date><ident>StAZH MM 1.15 RRB
+                        1805/1365</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.15</biblScope><biblScope unit="page">19</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf den mündlichen Vortrag des Präsidio der <orgName>Commißion des
+                    Innern</orgName> in Betreff des derselben unterm <date when="1805-09-05">5ten
+                    dieß</date> zu einem Bericht überwiesenen Schreibens des hießigen Stadtraths vom
+                31sten pti., wegen Liquidation der
+                Hinterlaßenschaft des, in dem Spitthal zu Lepoglava in Croatien verstorbenen
+                Schloßers und Zeugschmieds Heinrich
+                Vogel von Zürich, wurde angemeßen
+                befunden, den, von der Commißion des Innern aus dem Staats-Archiv
+                erhobenen Todtenschein des genannten Schloßer Vogels, dem
+                Stadtrath von Zürich im Original zu communicieren, mit der
+                Anzeige, daß die Regierung keine Ursache finde, warum in die Authenticität dieses
+                Todtenscheins irgend ein Zweifel zu setzen wäre, weßwegen es dem Stadtrath gefällig
+                seyn werde, den Todtenschein den, bey dieser Erbschaft mitintereßirten hießigen
+                Mitgliedern der Familie Vogel vorzuweisen, und diese Liquidation
+                zu ihrer gehörigen Endschaft zu bringen.
+        </body>
+    </text>
+</TEI>

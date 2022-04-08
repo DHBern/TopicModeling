@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Den dem Canton Zürich einverleibten Gemeinden Schlieren, Dietikon, Hüttikon
+                    und Oetweil wird ein erstinstanzlicher Civil-Richter angewiesen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-03"
+                            >03.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Den dem Canton Zürich einverleibten Gemeinden Schlieren, Dietikon,
+                        Hüttikon und Oetweil wird ein erstinstanzlicher Civil-Richter
+                        angewiesen.</title>25.04.1803<ident>StAZH MM
+                        1.1 RRB 1803/0008</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.1</biblScope><biblScope
+                        unit="page">6–7</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da, ungeachtet die Gemeinden Schlieren,
+                    Dietikon, Hüttikon und
+                Unter-Oetweil durch die Mediations Akte von dem Canton Baden
+                abgetrennt und dem Canton Zürich zugetheilt worden sind, –
+                doch noch keine Einrichtungen für die Justizpflege in Bezug auf gedachte Gemeinden
+                existieren, – hingegen aber der Bericht fällt, daß mehrere Rechtsbedürftige aus eben
+                gedachten Gemeinden, bey dem vormaligen Justitz- und Polizey-Departement der
+                Regierungscommißion, die Anweisung eines erstinstanzlichen Civilrichters verlangt
+                haben, – so werden die Gemeinden Schlieren und
+                    Dietikon, als auf der linken Limmatseite gelegen, in sich
+                ergebenden Fällen an das provisorische Districtsgericht Zürich; die Gemeinden
+                    Hüttikon und Oetweil aber, als auf der rechten
+                Limmatseite liegend, an das provisorische Districtsgericht Regenstorf
+                erstinstanzlich gewiesen.
+            
+Von dieser Verfügung, die übrigens lediglich provisorisch ist, und nur bis
+                zu näherer Organisation des hiesigen Cantons in Kraft
+                verbleibt, – wird sowohl den Vorsteherschaften der betreffenden Gemeinden, als den
+                beyden Districtsgerichten Zürich und Regenstorf, und endlich
+                auch den Herren Districtscommißarien der Bezirke Horgen und
+                    Bülach die zu ihrem Verhalt erforderliche Notitz
+                ertheilt.
+        </body>
+    </text>
+</TEI>

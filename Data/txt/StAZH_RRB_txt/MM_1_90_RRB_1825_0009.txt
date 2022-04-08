@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kreisschreiben des abgetretenen hohen Vorortes Bern, wegen der
+                    Eydsgenößischen Amtsübergabe an den hohen Stand Luzern.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-05-05"
+                            >05.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Kreisschreiben des abgetretenen hohen Vorortes Bern, wegen der
+                        Eydsgenößischen Amtsübergabe an den hohen Stand Luzern.</title><date
+                        when="1825-01-06">06.01.1825</date><ident>StAZH MM 1.90 RRB
+                        1825/0009</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.90</biblScope><biblScope unit="page">6−7</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Von dem, nach Verfluß der verfaßungsmäßigen zwey Jahre, mit dem Ende von
+                1824. von dem Amte des Eydsgenößischen Vorstandes abgetretenen hohen Vororte
+                    Bern, ist durch Kreisschreiben der dortigen Regierung vom
+                    31. December v. J., die nach hergebrachter
+                einfacher Form eingeleitete Uebergabe der vorörtlichen Geschäftsführung an die hohe
+                Regierung der Stadt und Republik Luzern dem hiesigen Stand
+                unter abschriftlicher Mittheilung der dießfälligen, am <date when="1824-12-31"
+                    >31sten passati</date> in dreyfacher Ausfertigung ausgestellten Uebergabsacte
+                mit verbindlichen Äußerungen und beßten Wünschen alles göttlichen
+                    Segens für das gemeineydsgenößische Vaterland, und für
+                die stete Bewahrung seiner Freyheit, Selbstständigkeit und innern Eintracht,
+                angezeigt, und nun von MHochgeachten Herren und Obern beschloßen worden,
+                diese Mittheilung unter verbindlicher Erwiederung der Äußerungen und Wünsche des
+                abgetretenen hohen Vorortes Bern, (laut Mißiven) zu
+                verdanken.
+        </body>
+    </text>
+</TEI>

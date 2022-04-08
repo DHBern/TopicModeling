@@ -1,0 +1,1729 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Erledigung der Rekurse gegen das Abgabendepartement betr. die Taxationen der Vermögens- Erwerbs- u. Einkommenssteuer pro 1848.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn27.01.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2012<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Erledigung der Rekurse gegen das Abgabendepartement betr. die Taxationen der Vermögens- Erwerbs- u. Einkommenssteuer pro 1848.</title>16.06.1849<ident>StAZH MM 2.104 RRB 1849/1073</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.104</biblScope><biblScope unit="page">487–497</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Bericht und Antrag der verordneten Rekurskommission in Sachen der nachstehenden Rekurrenten gegen das Abgabendepartement beziehungsweise den Finanzrath betreffend Taxationen der Vermögens-[,] Erwerbs- und Einkommenssteuer für 1848.
+nach Einsicht und Prüfung der Akten verfügt wie folgt:
+Bez. Zürich 
+Nahme der Recurrenten
+Taxation des Finanzraths. 
+Beschluss
+Bemerkungen
+Frkn.
+Rpn.
+Frkn.
+Rpn.
+Zürich
+Ammann, Jak. a. Registrator
+Vermögen
+120
+–
+117
+“
+theilweise begründet
+Einkommen
+7
+“
+7
+“
+unbegründet
+“
+von Edlibach v. Meiß Heinrich
+Vermögen
+216
+“
+201
+“
+begründet.
+
+Bez. Zürich 
+Nahme der Recurrenten
+Tax. des Finanzraths. 
+Beschluss
+Bemerkungen
+Frkn.
+Rpn.
+Frkn.
+Rpn.
+Zürich
+Finsler, Georg Bankdirektor
+Vermögen
+240
+“
+237
+“
+zum Theil begründet.
+“
+Finsler, Friedr. Oberforstmeistr
+“
+189
+“
+186
+“
+id.
+“
+Holzhalb, Rud. i. Baumwollenhof
+“
+300
+“
+300
+“
+unbegründet.
+“
+Hug, Sal. alt Glaser
+“
+36
+“
+36
+“
+id. id.
+“
+Kerez Paravizini, Jakob
+“
+75
+“
+–
+–
+begründet daher zu streichen
+“
+Klauser, Caspar Fürsprech
+“
+135
+“
+129.
+“
+theilweise begründet.
+“
+Koch, Martin, Architekt
+“
+36
+“
+30
+“
+id. id.
+“
+Markwalder, Juditha geb. Beyel
+“
+22
+50
+15
+“
+begründet.
+“
+Müller, Hch. sel. Erben a. d. Sihl
+“
+390
+375
+60
+id.
+“
+Nüscheler, Mathias: Grünenhof
+“
+801
+“
+792
+“
+zum Theil begründet
+“
+Ochsner, Wittwe geb. Zimmermann
+“
+30
+“
+30
+“
+unbegründet.
+“
+Römer, Heinrich
+“
+18
+“
+14
+2.
+begründet.
+“
+Thommann, Iyfr. Küngolt
+“
+9
+“
+3
+“
+theilweise begründet.
+“
+Urner, Melchior i. Rennweg
+“
+37
+50
+30
+“
+id. id.
+“
+Vögeli, Elis. geb. Vogel Frau Dekan.
+“
+19
+50
+12
+“
+begründet.
+“
+Altorfer, Ferdinand
+“
+3
+“
+1
+50.
+theilweise begründet.
+“
+Attinger, Joh. a. d. Marktgaß
+Erwerb
+26
+“
+18
+“
+id. id.
+“
+Brändli, Hch. zur Sonne
+“
+26
+“
+18
+“
+id. id.
+“
+Burkhardt, H. H. Schneider im Rennweg
+Vermögen
+3
+39
+3
+“
+id. id.
+“
+Fatton, Carl Kaufmann
+“
+12
+–
+–
+–
+zu streichen.
+“
+NB. begründet, der Vater des Recurrenten lebt noch unversteuert sein sämmtliches Vermögen u. seien Heimatsorte, Colombien Kts. Neuenburg.
+“
+“
+“
+Hausheer, J. Conr. a. d. Glockengaß
+Erwerb
+1.
+60
+1
+60
+unbegründet
+“
+Helbling, G. Spengler
+Vermögen
+–
+90
+–
+–
+begründet zu streichen
+“
+Hol, geb. Ramüz Louise Wittwe
+“
+102
+“
+90
+–
+theilweise begründet
+
+Bez. Zürich 
+Name der Recurrenten
+Tax. des Finanzrathes. 
+Beschluss
+Bemerkungen.
+“
+“
+Frkn.
+Rp.
+Frkn.
+Rpn.
+“Zürich
+Keser, Ferd. alt Glaser
+Vermögen
+42
+“
+36
+–
+theilweise begründet
+“
+Kuffekan, Jakob
+“
+42
+“
+27
+“
+begründet.
+“
+Lang, Fried. Polizeilieutenant
+“
+2
+55
+1
+20
+id.
+“
+Pfenninger Joh. z. gold. Stern
+Erwerb
+12
+“
+7
+“
+id.
+“
+Rathgeb, J. Prokurator
+Vermögen
+36
+“
+18
+“
+zum Theil begründet
+“
+Ruegg, Jak. I. No. 589.
+Erwerb
+“
+40
+“
+20
+begründet
+“
+Sautier J. Baptiste
+Vermögen
+30
+“
+30
+“
+unbegründet
+“
+Sautier, Moritz
+“
+30
+“
+30
+“
+id.
+“
+Schütz Joh. Flachmaler
+Erwerb
+60
+40.
+theilweise begründet.
+“
+NB. Da nur für den Mobilienhandel eine Classensteuer entrichtet wird so erscheint eine Erwerbssteuer von 4 Btzn. für den Flachmalerberuf den Verhältnissen angemessen.
+“
+“
+“
+“
+Staub, Rud. a. d. Augustinergasse.
+Vermögen
+1
+80
+40
+theilweise begründet.
+“
+Alder, Joh, Geschirrfasser
+Erwerb
+20
+–
+–
+begründet zu streichen.
+“
+Spillmann, Hch. Messerschmid
+Vermögen
+90
+90
+unbegründet.
+“
+Spörri, Ulr. Lohnbedienter in Enge
+“
+1
+50
+–
+–
+begründet zu streichen.
+Schlieren
+Manz, Wittwe geb. Peyer
+“
+18
+“
+12
+“
+theilweise begründet.
+Höngg
+Appenzeller, Casp. Gmdrath
+“
+5
+70
+4.
+20
+begründet.
+“
+Aeschmann, J. Jb. im Tobel
+“
+18
+“
+18
+“
+unbegründet.
+“
+der Gemeindrath für d. Gmdgut
+“
+180
+“
+165
+“
+zum Theil begründet.
+Ober-Engstringen
+Bebie, Caspar
+“
+420
+“
+396
+“
+id. id. 
+Altstätten
+Huber, Ulrich.
+Erwerb
+1
+60
+–
+60
+id. id. 
+“
+Wehrli, Jakob Major
+Vermögen
+231
+75
+231.
+75
+unbegründet.
+Enge
+Nötzli, Casp. dato Weinschenk im Niederdorf.
+“
+Erwerb
+1
+50
+40
+1.
+20
+40
+theilweise begründet
+unbegründet
+Wollishofen
+Hausheer, Wilh. Dr
+Vermögen
+60
+55
+50
+begründet.
+Albisrieden
+Haller, Jak. Sohn
+“
+12
+12
+“
+unbegründet.
+
+“
+“
+“
+Bez. Zürich 
+Nahme der Recurrenten
+Tax. des Finanzraths. 
+Beschluss
+Bemerkungen
+“
+Frkn.
+Rp.
+Frkn.
+Rpn.
+Albisrieden
+Mülli, Casp. Vater
+Vermögen
+Erwerb
+8.
+70.
+20.
+8.
+70.
+20
+in beiden Beziehungen unbegründet
+“
+Widler, Jakob.
+Vermögen
+Erwerb
+15
+“
+60.
+15
+“
+60
+[?“]
+Hottingen
+Siegfried J. J. v. D. M. im Zeltweg
+Vermögen
+60.
+“
+60
+“
+unbegründet
+Fluntern
+Ruegg, Conr. Bäcker
+“
+12
+“
+12
+“
+id.
+“
+Löwig, G. Professor
+“
+36
+“
+27
+“
+begründet.
+Hirslanden
+Ochsner, J. Zunftgerichtschrbr
+“
+4
+50
+3.
+30
+id.
+“
+Egli, Diethelm
+“
+60
+30
+id.
+Riesbach
+Bär, Jak. Vater a. d. Flühgasse
+“
+39
+“
+36
+“
+id.
+“
+Hirzel, Frau L. geschied. Schinz
+“
+142
+50.
+139.
+50
+id.
+“
+Isler, Joh. Handelsmann
+Erwerb
+1
+60
+60
+id.
+“
+Keller, David
+Vermögen
+111.
+“
+111.
+“
+unbegründet.
+“
+Kienast, J. Rud. 
+“
+Erwerb
+15.
+“
+60.
+15
+“
+60.
+in beiden Beziehungen unbegründet.
+“
+Kienast-Fenner z. Feldegg
+Vermögen
+166.
+50.
+166.
+50.
+unbegründet.
+“
+NB. Da der Rekurs in einem höchst unanständigen u. gegenüber Behörden unpassenden Ton abgefaßt ist, so kann hierauf nicht eingetreten werden.
+“
+“
+“
+“
+Kienast, Hch. am See
+“
+Erwerb
+18.
+“
+60
+18
+“
+60.
+in beiden Beziehungen unbegründet.
+“
+Staub, Daniel im Seefeld
+Vermögen
+39.
+64.
+37.
+50.
+begründet.
+“
+Wegmann, J. J: Färber
+“
+60
+“
+48
+“
+id.
+“
+Zwycki, J. Jb. Kaufmann
+“
+36.
+“
+30
+“
+theilweise begründet.
+Wytikon
+Bär, Hs. Rud.
+Erwerb
+1.
+60
+60
+id. id.
+“
+Weber, Heinrich
+Vermögen
+Erwerb
+10.
+1
+50.
+60.
+10.
+1.
+50.
+60
+in beiden Beziehungen unbegründet.
+Zollikon
+Ernst, Heinr. Hauptmann.
+Vermögen
+90
+“
+87
+“
+theilweise begründet.
+“
+Ernst, Jakob, Präsident
+“
+114
+“
+108.
+“
+id. id. 
+“
+Thomann, Hs. Jb. Eßighändler
+“
+Erwerb
+96
+“
+60
+90
+“
+60.
+id. id.
+unbegründet.
+“
+Berchthold, Heinrich
+Vermögen
+96.
+“
+90
+“
+zum Theil begründet.
+
+Bez. Zürich 
+Name der Recurrenten
+Tax. des Finanzraths. 
+Beschluss
+Bemerkungen
+“
+Frkn.
+Rp.
+Frkn.
+Rpn.
+Zollikon
+Himmler Felix
+Erwerb
+–
+40.
+–
+20.
+begründet.
+“
+Weber, Hs. Schmied untern Hub
+Vermögen
+12.
+“
+10.
+50.
+theilweise begründet.
+“
+Brunner, Hch. in d. obern Hub
+“
+60
+–
+45
+id. id.
+“
+Bleuler-Bachmann, K. dato in Riesbach
+“
+1.
+50.
+–
+60.
+id. id.
+Oberstraß
+Rinderknecht Hch. z. Mühlehalden
+“
+36.
+“
+33
+“
+id. id.
+Wipkingen
+Schutzle, Martin
+“
+48
+“
+41.
+70.
+begründet.
+Seebach
+Bänninger, Johannes
+“
+3
+“
+id. ist zu streichen.
+Unterstraß
+Huber, Johannes
+“
+46.
+80
+46.
+80
+unbegründet.
+“
+Gehring, Jb. Glasermeister
+“
+2.
+25
+1.
+50
+begründet.
+“
+NB. die abgeschriebenen 75. Rpn. um welche Rekurrent vom Finanzrathe in Folge eines im Veränderungsberichte v. Wipkingen enthaltenen Irrthums erhöht wurde, sind fernerhin von dessen Vater zu bezahlen, wovon dem Gemeindrathe von Wipkingen Kenntniß zu geben ist.
+“
+“
+“
+“
+Kuhn, Hs. Heinrich im Rösli
+“
+18.
+“
+12
+“
+begründet.
+“
+Bänninger, Jb. dato in Außersihl
+“
+2.
+10
+begründet ist zu streichen.
+Bezirk Affoltern.
+“
+“
+“
+Wettschweil
+Pestalozzi-Schmid G.
+“
+82.
+50
+82.
+50
+unbegründet.
+“
+NB. Rekurrent versteurte bisher in Wettschweil für dort besitzende Liegenschaften Frkn. 5 000. u. zugleich in Zürich Frkn. 50 000 da derselbe nun aber im Steuerregister v. Zürich nicht mehr comparirt so hat er sein sämmtliches Vermögen an seinem Wohnorte [Wettschweil] u. zwar mit 55 000. Frkn. zu 1p% resp. mit Frkn. 82. 50. Rpn zu 11/2p% zu versteuern.
+“
+“
+“
+Bezirk Horgen
+“
+“
+“
+Horgen
+Wieland, Jb. a. d. Hanegg
+Vermögen
+Erwerb
+–
+–
+60
+20
+–
+20
+begründet zu streichen
+dagegen für sein Erwerb unbegründet.
+Hütten
+Sigg, Hch. alt Landjäger
+Vermögen
+3.
+“
+3.
+“
+unbegründet.
+Thalweil
+Ullmer, Hch. Gemeindammann
+“
+28.
+50.
+28.
+50
+id. 
+
+Bez. Horgen 
+Name der Recurrenten
+Tax. des Finanzraths. 
+Beschluss.
+Bemerkungen
+“
+Frkn.
+Rp.
+Frkn.
+Rpn.
+Wädenschweil
+Schaufelberger, Marx
+Vermögen
+–
+60
+begründet.
+“
+NB. Der Rekurs ist begründet u. der Steueransatz zu streichen, dagegen müssen diese 60. Rppn. einem andern erst kürzlich in die Gemeinde gezogenen Marx Schaufelberger nachträglich zugeschrieben u. pro 1848. in Rechnung gebracht werden wovon d. Gmdrth. Wädenschweil Mittheilung zumachen ist.
+“
+“
+“
+Bezirk Meilen
+“
+“
+“
+Meilen
+Stift Einsiedeln 
+für dasselbe Heinr. Hasler im Roßbach
+“
+36.
+“
+30.
+“
+begründet.
+“
+Reichling, Hch. in Schwabach
+“
+18
+“
+18.
+“
+unbegründet.
+“
+Wunderli, Hauptm. a. Horn
+“
+120.
+“
+115.
+50.
+theilweise begründet.
+“
+Wunderli, Hch. im Hrcht
+“
+31.
+20.
+31.
+20.
+unbegründet.
+“
+Wunderli, H. nom. d. Dorfcorporation
+“
+105.
+“
+105.
+“
+id.
+“
+Hüni, Jak.
+“
+16.
+20.
+9
+“
+begründet.
+“
+Wunderli, Johs. z. Freihof
+“
+5.
+40.
+begründet ist zu streichen.
+Küßnacht
+Keller, Frau Reg.
+bei Hrn. Landschreiber Brunner.
+“
+15.
+“
+4.
+80
+begründet.
+“
+Bleuler, Jgf. Barbara
+“
+156.
+“
+150.
+“
+theilweise begründet.
+“
+Walder, Heinrich
+“
+4
+35
+–
+15.
+begründet.
+Erlenbach
+Stauber, Caspar
+“
+46.
+50.
+46.
+50.
+unbegründet.
+Zumikon
+Hardmeier, Johs. Wirth
+“
+19.
+50.
+18
+“
+theilweise begründet.
+“
+Ruegg Hch. Weinschenk
+“
+10.
+50.
+10.
+50.
+unbegründet.
+Männedorf
+Schultheß, Rud. Müller
+“
+33.
+“
+33
+“
+id.
+“
+Billeter, J. J. im Oberdorf
+“
+103.
+50.
+99.
+“
+begründet.
+“
+Bindschädler, Joh. z. Weinberg
+“
+31.
+50.
+30.
+“
+theilweise begründet.
+“
+Brändli, Jb. se[ligen] Erben in Tamenstein
+“
+60
+“
+57
+“
+id. id.
+“
+Bindschädler, Jb. in d. Bühlen
+derselbe für den zu Gunsten seiner Kinder gestifteten Familienfond
+“
+60
+19
+“
+20.
+ 
+  70.
+“
+mit Inbegriff des Familienfonds erscheint die Taxe von 70 Frkn. den Verhältnissen angemessen.
+“
+Bär, Hchs. se[ligen] Kinder für dieselben Hr. Reg. Rath Billeter
+“
+2.
+25
+begründet ist zu streichen
+
+Bez. Horgen 
+Name der Recurrenten
+Tax. des Finanzraths. 
+Beschluss.
+Bemerkungen
+“
+Frkn.
+Rp.
+Frkn.
+Rpn.
+Uetikon
+Wäckerling, Johannes
+Vermögen
+60.
+“
+60.
+“
+unbegründet.
+“
+Reichling, Johs. u. Rudolf
+“
+30.
+75.
+30.
+75
+id.
+“
+Reichling, Salomon
+“
+16.
+50.
+16.
+50.
+id.
+Stäfa
+Kölla, Johs. in der Brewies
+“
+76.
+50.
+76.
+50.
+id.
+“
+Kölla, Casp. im Baumgarten
+“
+64
+50.
+63
+“
+ist bereits durch Beschluß des Abg. Dep. v. 8. Mai erledigt
+“
+Kunz, Jgfr. Elisabetha
+“
+4.
+20
+2.
+10.
+theilweise begründet
+“
+Kölla, J. C. Dr
+“
+160.
+50.
+151.
+50.
+begründet.
+“
+Püntner, Jb. Gerber in Uirikon
+“
+39.
+“
+36.
+30
+id.
+Hombrechtikon
+Büeler, Jbs se[ligen] Erben in Feldbach
+“
+42.
+“
+42.
+“
+unbegründet.
+“
+Weber, Jaks in der Eichwies
+“
+18.
+“
+12.
+“
+theilweise begründet.
+“
+Hürlimann, Hch. Gmdrth im Tobel
+“
+123.
+“
+123
+“
+unbegründet.
+“
+Heußer, Hch. Ktrth. im Tobel
+“
+120
+“
+120.
+“
+id.
+Oetweil
+Stauber, Hch. Gemeindammann
+“
+24.
+“
+19.
+50
+begründet.
+Bezirk Hinweil.
+“
+“
+“
+Bärentschweil
+Spörri, Johannes
+“
+3.
+“
+3.
+“
+unbegründet.
+“
+NB. Rekurrent anerkannt selbst bisanhin Frk. 2 200. versteuert zu haben er befindet sich daher im Irrthum wenn er glaubt höher taxirt worden zu sein, zumal die Taxe v. Frkn. 3. zu 11/2 p 0/00 nur ein Vermögen v. Frkn. 2 000. also nicht einmal den bisher v. dem Rekurrenten versteuerte Vermögen repräsendirt.
+“
+“
+“
+Fischenthal
+Zuppinger, Gmdrthschreiber
+“
+–
+52.
+–
+52
+id
+Grüningen
+Guggenbühl, Johs. v. Itzikon 
+“
+1.
+35
+–
+60.
+theilweise begründet.
+“
+NB. der Rekurs ist insoweit begründet als das v. Stäfa erhalte Frk. 500 betragende Weibergut nicht den Rekurrenten selbst, sondern dessen Sohn H. H. Guggenbühl folglich dem letztern pro 1848. Rpn 75. zu 11/2 p 0/00 zuzuschreiben sind, zu welchem Ende hin dem Gmdrthe Grüningen hievon Kenntniß zu geben ist. 
+“
+“
+“
+Goßau
+Weber, Johs. Schreiner
+“
+3.
+60.
+3.
+60.
+unbegründet.
+
+“
+Bez. Hinweil 
+Name der Recurrenten
+Tax. des Finanzraths. 
+Beschluss.
+Bemerkungen.
+“
+Frkn.
+Rpn.
+Frkn.
+Rpn.
+Goßau
+Isler, Christoph
+Vermögen
+3.
+30.
+3.
+30.
+unbegründet.
+“
+Homberger, Hs. Caspar
+“
+–
+30.
+sei verarmt u. daher zu streichen.
+“
+Wäckerling, Gebrüder
+“
+16.
+50.
+16.
+50.
+unbegründet.
+“
+Wäckerling, Elis. Wittwe
+“
+7.
+50.
+7.
+50.
+id.
+Wetzikon
+Zimmermann, J. C. Proc
+Erwerb
+7
+“
+3
+begründet 
+Müller, Jakob.
+Vermögen
+3
+begründet zu streichen.
+Bezirk Uster
+“
+“
+“
+Uster
+Berchthold. Joh. Rud: Oberuster
+“
+210.
+“
+210.
+“
+unbegründet.
+“
+Weiß, J. Ulr. in Oberuster
+“
+12
+“
+12
+“
+id.
+“
+Spillmann, Hs, Rud. i. Winikon
+“
+42.
+25.
+42.
+25.
+id.
+“
+Geering, Jakob 
+id.
+“
+19
+63.
+18.
+“
+theilweise begründet
+“
+Guyer, Hs. Rud. älter Freudweil
+“
+18
+“
+18
+“
+unbegründet.
+“
+Manz, Hch. in Nänikon
+“
+Erwerb
+9
+–
+“
+40.
+1
+50.
+begründet
+id
+“
+Winkler, Wittwe, Barb geb. Aeppli
+Vermögen
+1.
+80
+1. 
+80.
+unbegründet
+Greifensee
+Meier, Hch. Vater, Müller
+“
+70.
+50.
+67.
+50.
+begründet.
+Egg
+Weber, Jb. in Hinteregg
+“
+11.
+25.
+11.
+25 
+unbegründet.
+“
+Boller, Hch. in Sonnenberg
+“
+1.
+80.
+1.
+80
+id.
+Mönchaltorf
+Schlumpf, Johs.
+“
+4.
+50.
+4.
+50.
+id.
+Maur
+Weber, Rud. Müller
+“
+9
+“
+9.
+“
+id.
+“
+Trüb, Hch. Bezirksrichter
+“
+9
+“
+9.
+“
+id.
+“
+Kunz, Johs. Schuster
+“
+9
+“
+5
+25
+theilweise begründet
+“
+Maurer, Hch. in Ebmatingen
+“
+Erwerb
+1.
+–
+80.
+20.
+1.
+–
+80.
+20.
+in beiden Beziehungen unbegründet.
+“
+Trüb, Jb. in Ebmatingen
+Vermögen
+10.
+50.
+9.
+–
+theilweise begründet.
+“
+Wunderli, Kilian in Aesch
+“
+7.
+50.
+5.
+40
+id. id 
+“
+Brunner Jb, in Aesch
+“
+36.
+“
+36
+“
+unbegründet.
+
+“
+“
+“
+Bez. Uster 
+Name der Recurrenten
+Tax. des Finanzraths. 
+Beschluss.
+Bemerkungen.
+“
+Frkn.
+Rpn.
+Frkn.
+Rpn.
+Maur
+Wunderli, Hch. in Aesch
+Vermögen
+12.
+“
+6.
+60.
+begründet.
+“
+Bachofen, Hs. Hch. alt Gmdrth
+“
+7.
+20.
+6.
+“
+id.
+“
+Hotz, Conrad, Friedensrichter
+“
+15
+“
+15
+“
+unbegründet.
+“
+Hotz, J. Rud. Präsident
+“
+Erwerb
+7.
+50
+40
+7.
+50
+40.
+in beiden Beziehungen unbegründet.
+Dübendorf
+Meier, Jakob
+Vermögen
+2.
+35
+1.
+60
+begründet.
+“
+Wegmann, Hch. im Gfenn.
+“
+9.
+“
+9.
+“
+unbegründet.
+“
+Wegmann, Rud. “
+“
+9.
+“
+9.
+“
+id.
+Volkentschweil
+Altorfer Hs. Jb. u. Geschwister
+“
+9.
+“
+7.
+50.
+begründet.
+“
+Wegmann Jb. a. Gemdrth in Hegnau
+“
+18
+“
+17.
+40
+theilweise begründet
+Wanzen
+Schmid, Hs. Rud.
+“
+18.
+“
+18.
+“
+unbegründet.
+Fällanden
+Meier Jb. Lieutn u. Gebrdr
+“
+51
+“
+51
+“
+id.
+“
+Hotz, H. H. älter
+“
+33
+“
+33
+“
+id.
+“
+Zollinger, Rud.
+“
+13.
+50.
+13.
+50.
+id.
+“
+Hauser, Johs
+“
+3.
+“
+3.
+“
+id.
+“
+Bodmer Felix [dato u. Hotting[er]]
+“
+4
+50
+4
+50.
+id.
+“
+Bachofen, Jakob
+“
+7.
+50.
+7.
+50.
+id.
+Bezirk Pfäffikon.
+“
+“
+“
+Pfäffikon
+Schellenberg Casp. Sohn
+“
+90
+45.
+theilweise begründet.
+“
+Zimmermann, J. C. se[ligen] Erben in Bußenhausen.
+“
+165
+“
+150
+“
+id. id.
+“
+Vollenweider, Sus. geb. Muggli
+“
+3
+60
+betrifft nicht die Rekurrenten dahier zu streichen
+Illnau
+Denzler Hs. Jb. in First
+“
+3
+“
+3.
+“
+unbegründet.
+Weißlingen
+Bachofner, Hs. Jb. Sohn in Rheinlingen
+“
+2
+40
+1.
+80
+theilweise begründet
+Russikon
+Bräm, Rud. in Rumlikon
+“
+5.
+55.
+1.
+50
+begründet
+“
+Bräm, Regula in d.
+“
+–
+75
+ist ganz arm –
+daher zu streichen. 
+
+“
+“
+“
+Bez. Winterthur 
+Name der Recurrenten
+Tax. des Finanzrath 
+Beschluss.
+Bemerkungen.
+“
+Frkn.
+Rpn.
+Frkn.
+Rpn.
+Winterthur
+Ernst, Carl Johann
+Vermögen
+13.
+05
+10.
+32.
+begründet.
+“
+Ernst, Jgfr. Elisabetha
+“
+13.
+05
+10.
+32
+id. 
+Turbenthal
+Stahel, Hs. Jakob Maler
+“
+1.
+95
+besitzt noch kein Vermögen
+“
+Winkler, Joh. Casp. Vater in Friedthal.
+“
+77.
+25.
+75
+“
+begrünget. [sic!] 
+“
+Pfister, Barb. geb. Bueler
+“
+24
+“
+18
+“
+theilweise begründet.
+Zell
+Müller, Wittwe in der Au
+“
+60.
+60.
+unbegründet
+Elgg
+Furrer, Anna gesch.. Stahel 
+“
+15
+“
+15
+“
+id.
+“
+NB. Das Vermögen wird .v ihrem geschied. Ehemann Jb. Stahel in Turbenthal gegenwärtig nicht mehr versteuert.
+“
+“
+“
+Bertschikon
+Hafner, Johs. Lehrer
+“
+14.
+40
+7.
+50.
+begründet.
+Wülflingen
+Haab, J. C. Papierfabrikt.
+“
+16.
+“
+7.
+50.
+id.
+“
+Weidmann, Johannes
+“
+19.
+95.
+15
+“
+theilweise begründet.
+Veltheim 
+Hirzel, Hch. Pfarrer
+“
+77.
+85
+75.
+“
+begründet.
+Neftenbach
+Peter Heinrich
+“
+1.
+70
+90
+id.
+Bez. Bülach
+“
+“
+“
+Bülach
+Heiz, Jb. Philipp, Pfarrer
+“
+5.
+55.
+4.
+50.
+id.
+“
+Ernst, Sal. Hch. Arzt
+“
+12
+60
+1
+50
+id.
+Lufingen
+Bryner, Jakob
+“
+2.
+55
+1.
+20
+id.
+Rieden
+Meyer, Jb. Lehrer
+“
+30
+id.
+Nürenstorf
+Wegmann, Hs. Jb. i. Baltenschweil
+“
+4.
+50.
+2.
+25.
+id.
+Glattfelden
+Tanner, Jak. Gerber
+“
+15
+“
+10.
+50.
+theilweise begründet.
+Bez. Regensberg.
+“
+“
+“
+Otelfingen
+Schlatter, Jakob
+“
+1.
+95
+1.
+15.
+id. id.
+Niederglatt
+Moor, Johannes
+“
+9.
+15
+7.
+50.
+begründet.
+Hievon wird den Rekurrenten durch die üblichen Formulare fer-  ner den Statthalterämtern zu Handen der Bezirksrathskanzleien und der Gemeindräthe behufs Vormerkung aller Veränderungen in den Steuerregistern und endlich dem Abgabendepartement [unter Rückstellung der Akten] zur Vormerkung im Steuerregister und behufs der nöthigen Verfügungen über den Bezug der betreffenden Steuerquoten und Anordnung der erforderlichen Rückzahlungen Kenntniß gegeben.<p/></body></text></TEI>

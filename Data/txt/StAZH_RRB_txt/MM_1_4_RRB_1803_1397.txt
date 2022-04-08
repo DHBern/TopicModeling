@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Obergericht, wegen einem erforderlichen Commißionszimmer und anderer Einrichtung.
+Das Schreiben des Obergerichts vom 7t dieß, worinn es die Nothwendigkeit eines ihm einzuräumenden, oder einzurichtenden Commißionszimmers, und einer schiklichen Einrichtung zu Abhaltung der auf den Eingang des Sitzungszimmers allzu stark eindringenden Kälte vorstellt, wird der Finanz-Commißion zutrauensvoll überwiesen, um diejenige Einleitung zu treffen, durch welche die nöthigen Zwecke des Obergerichts auf eine angemeßene Weise erreicht werden können.

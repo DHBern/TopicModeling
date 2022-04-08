@@ -1,0 +1,11 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Ernennung des HHerrn Hauptm. Suter in U. Wetzikon u. Bezirksrichter Toggenburger in Marthalen zu Chefs der Bürgerwachen der Bezirke Hinweil und Andelfingen.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn08.07.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Ernennung des HHerrn Hauptm. Suter in U. Wetzikon u. Bezirksrichter Toggenburger in Marthalen zu Chefs der Bürgerwachen der Bezirke Hinweil und Andelfingen.</title>15.11.1847<ident>StAZH MM 2.98 RRB 1847/1901</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.98</biblScope><biblScope unit="page">361–362</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Præsidialverfügung
+Actum den 15. November 1847.
+Der Regierungsrath hat
+auf den mit Schreiben vom 15t. l. M. hinterbrachten Vorschlag des Herrn Oberkommandanten der Bürgerwachen des Kantons Zürich
+ernannt
+Zum Bezirkschef der Bürgerwachen des Bezirkes Hinweil: Herrn Hauptmann Suter in Unterwetzikon, und zum Bezirkschef der Bürgerwachen des Bezirkes Andelfingen: Herrn Toggenburger in Marthalen,  Vicepräsidenten des Bezirksgerichtes Andelfingen, des gr. Rathes,
+und beschlossen:
+Es sei von diesen Ernennungen dem Oberkommando der Bürgerwache Kenntniß zu geben und für dieselben den Gewählten Urkunde zuzustellen.<p/></body></text></TEI>

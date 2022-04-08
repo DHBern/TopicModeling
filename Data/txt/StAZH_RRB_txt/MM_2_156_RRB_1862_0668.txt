@@ -1,0 +1,22 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Civilgemeinde Tägerst. Abgew. Rekurs betreffend Straßenunterhaltung.</title><respStmt><resp ref="#csn" key="transcript">Transkript: csn14.12.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2012<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Civilgemeinde Tägerst. Abgew. Rekurs betreffend Straßenunterhaltung.</title>03.05.1862<ident>StAZH MM 2.156 RRB 1862/0668</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.156</biblScope><biblScope unit="page">210–212</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+In Sachen der Civilgemeinde Tägerst, Rekurrentin gegen einen Beschluß des Bezirksrathes Affoltern,
+betreffend Straßenuntersuchung
+hat sich ergeben:
+A–C. des erstinstanzlichen Beschlusses.
+D. Unterm 1. Februar 1862 beschloß der Bezirksrath Affoltern, in Berücksichtigung
+1) daß dießseitige Stelle durch den Beschluß vom 17. August vor. Js. gestützt auf § 20 des Straßengesetzes bestimmte, es habe die damalige Rekurrentin, die Civilgemeinde Tägerst, den streitigen Fußweg, soweit er durch den Bann ihrer Civilgemeinde führe, zu unterhalten u. nun aber allerdings die in [P?]arenthese beigesetzte, mehr untergeordnete Bemerkung „bis zu Hofstetters Acker“ einen Widerspruch enthält, der jedoch lediglich die Folge der irrthümlichen Ansicht ist, es liege der ganze Hofstettersche Acker außerhalb des Bannes der Gemeinde Stallikon, resp. der Civilgemeinde Tägerst;
+2) daß daher von einer eigentlichen Revision unsers Beschlusses nicht die Rede sein kann, indem derselbe in der Hauptsache bestätigt werden muß u. nur der auf Irrthum beruhende Zusatz wegzulassen ist, 
+I. Sei der Beschluß vom 17. August v. Js. in der Meinung bestätigt, daß die Civilgemeinde Tägerst  den Wolfenfußweg, soweit er in ihrem Gemeindsbann liegt, zu unterhalten habe.
+II. Mittheilung an dieselbe u. den Gemeindrath Stallikon.
+E. Ueber diese Schlußnahme beschwert sich die Civilgemeinde Tägerst u. stellt das Gesuch um Aufhebung desselben u. um nochmalige Bestätigung des bezirksräthlichen Beschlusses vom 17. August vor. Js. 
+F. Der Gemeindrath Stallikon trägt auf Abweisung des Rekurses an; ebenso der Bezirksrath Affoltern.
+Hiebei kommt in Betracht:
+1) Gemäß rechtskräftigen Beschlüssen des Regierungsrathes vom 26. Mai 1860 u. 19. April 1861 ist die Civilgemeinde resp. Civilgemeindsabtheilung Tägerst allerdings nicht verpflichtet, den streitigen Weg durch des Hofstetters Acker, soweit derselbe im Banne der Gemeinde Aeugst liegt, zu unterhalten; vielmehr liegt dessen Unterhaltung der gesammten politischen Gemeinde Stallikon ob.
+2. Dagegen wollten jene Beschlüsse die Civilgemeindsabtheilung Tägerst keineswegs von der Unterhaltung desjenigen Theils des streitigen Weges befreien, der innerhalb ihres Gemeindebannes liegt u. ebensowenig war dieß die Absicht des Bezirksrathes bei Fassung seiner Beschlüsse vom 2. März 1857 u. 17. August 1861. Wenn nun jene Be-  schlüsse wenigstens theilweise von der irrigen Voraussetzung ausgingen, es liege der Hofstetter’sche Acker ganz in der Gemeinde Aeugst, so kann die Gemeinde Tägerst hieraus keinerlei Rechte für sich ableiten u. es erscheint daher auch die Beschwerde derselben gegen die Berichtigung dieses faktischen Irrthums durch den Bezirksrath als durchaus ungegründet.
+Demnach hat der Regierungsrath,
+nach Einsicht eines Antrages der Direktion der Justiz
+beschlossen:
+I. Sei der Rekurs abgewiesen.
+II. Trage Rekurrentin die Kosten, bestehend in 3 Fr. Staats-[,] 2 Fr. Canzlei-[,] den Stempel- u. Ausfertigungsgebühren.
+III. Mittheilung a) an die Rekurrentin, b) an den Gemeindrath Stallikon, c) an den Bezirksrath Affoltern, d) an die Direktion der Justiz.<p/></body></text></TEI>

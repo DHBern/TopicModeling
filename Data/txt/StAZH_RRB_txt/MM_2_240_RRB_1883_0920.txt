@@ -1,0 +1,8 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Bewillig. d. Rathhaussaales f. das Jubiläum d. Hochschule.</title><respStmt><resp ref="#rke" key="transcript">Transkript: rke29.04.2016</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2016<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Bewillig. d. Rathhaussaales f. das Jubiläum d. Hochschule.</title>19.05.1883<ident>StAZH MM 2.240 RRB 1883/0920</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.240</biblScope><biblScope unit="page">438</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion der öffentlichen Arbeiten,
+beschließt:
+I. Dem Gesuche des akademischen Senates der Hochschule um Benutzung des Kantonsrathssaales im Rathhaus für den am 2. August d. Js. Nachmittags [1/2 3 bis 1/2 5 Uhr] stattfindenden Begrüßungsakt des Jubiläums der zürch. Hochschule wird, mit Vorbehalt der allfälligen Inanspruchnahme des Saales durch den Kantonsrath, entsprochen.
+II. Mittheilung an das Rektorat der Hochschule zu Handen des akademischen Senates.<p/></body></text></TEI>

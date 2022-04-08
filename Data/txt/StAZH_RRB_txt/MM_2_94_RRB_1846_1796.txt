@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben der eidg. Canzlei, betreff. 1. Beitrag an die topographische
+                    Vermessung d. Cantons 2. Bericht über dieselbe.</title>
+                <respStmt>
+                    <resp ref="#dsa" key="transcript">Transkript: dsa<date when="2012-02-10"
+                            >10.02.2012</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2012
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Schreiben der eidg. Canzlei, betreff. 1. Beitrag an die topographische
+                        Vermessung d. Cantons 2. Bericht über dieselbe.</title><date
+                        when="1846-11-28">28.11.1846</date><ident>StAZH MM 2.94 RRB
+                        1846/1796</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.94</biblScope><biblScope unit="page">223</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Mit Schreiben vom 20t. d. M. theilt der Eidgenößische Kriegsrath
+                mit:
+            
+1. Er habe sein Kriegssekretariat beauftragt, den vierten Beitrag für die Aufnahme
+                des Standesgebietes mit 2000. Frkn. zu übernehmen
+            
+2. Es [sic!] ersuche dafür besorgt zu sein, daß, da der Eidgenößische
+                Oberstquartiermeister dem Eidgenößischen Kriegsrathe behufs seines Berichtes an die
+                Tagsatzung über die Resultate der Vermessung in denjenigen Cantonen, welchen für
+                Aufnahme ihres Standesgebietes Beiträge bewilligt worden seien, einen ausführlichen
+                Bericht zu erstatten habe, derjenige über die während des Jahres 1846. im Canton
+                    Zürich angeordneten trigonometrisch-topographisch [sic!]
+                Arbeiten und das Resultat der stattgehabten Campagne bis <date when="1846-12-31"
+                    >31ten. Dezember</date> an den Eidgenößischen Herrn Oberstquartiermeister
+                überliefert werde.
+            
+Hievon wird der resp. Commission Kenntniß gegeben mit der Einladung, bis Ende dieses
+                Jahres den fraglichen Bericht dem Eidgenös. Herrn Oberstquartiermeister direkt
+                zukommen zu lassen oder zu seinen Handen einzureichen.
+        </body>
+    </text>
+</TEI>

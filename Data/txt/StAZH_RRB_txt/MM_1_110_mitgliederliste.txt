@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Kleinen Rathes:</title><respStmt><resp ref="#rgr" key="transcript">Transkript: rgr22.07.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Kleinen Rathes:</title>11.03.1830-15.06.1830<ident>StAZH MM 1.110 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.110</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+MHochgeachter Junker Hans Reinhard, Amtsbürgermeister.
+MHochgeachter Junker David Wyß, Bürgermeister.
+MHochgeachter Junker Hs[.] Conrad Escher, Rathsherr und Alt-Bürgermeister.
+MHHerr Paulus Usteri, M. D. und Rathsherr.
+MHHerr Hs. Jacob Pestalutz, Rathsherr.
+MHHerr Rudolf Rebmann, Rathsherr.
+MHHerr Hs. Caspar Schinz, Rathsherr.
+MHHerr David Vogel, Rathsherr.
+MHHerr Hs. Caspar Pfenninger, Rathsherr.
+MHHerr Salomon Rahn, Rathsherr.
+MHJunker Hs. Conrad Meiß, Rathsherr und Oberst.
+MHJunker Joh. Heinrich Grebel, Rathsherr.
+MHJunker Ludwig Meyer von Knonau, Rathsherr.
+MHHerr Joh. Heinrich Landolt, Rathsherr.
+MHHerr Hs. Jacob Füßli, Rathsherr und Oberst.
+MHHerr Heinrich Hirzel, Rathsherr.
+MHHerr Heinrich Hotz, Rathsherr.
+MHHerr Hs. Conrad von Muralt, Rathsherr u. Oberst.
+MHHerr Christoph Kaufmann, Rathsherr.
+MHHerr Joh. Rudolf Landolt, Rathsherr.
+MHHerr Joh. Caspar Weiß, Rathsherr.
+MHHerr Sigmund Spöndli, Rathsherr.
+MHHerr Heinrich von Orell, Rathsherr.
+MHHerr Hs. Jacob Kern, Rathsherr.
+MHHerr Joh. Caspar Horner, Rathsherr.
+Staatsschreiber.
+MHherr Heinrich Hottinger, des Großen Raths, Erster Staatsschreiber.
+MHherr Georg Finsler, des Großen Raths, zweyter Staatsschreiber.
+MHherr Ferdinand Meyer, des Großen Raths, dritter Staatsschreiber.</body></text></TEI>

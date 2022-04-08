@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorörtliche Mittheilung der von dem jetzigen König von Frankreich erneuerten
+                    Wünsche wegen Errichtung einiger Schweizer-Regimenter im K. Neapolitanischen
+                    Dienste. Wiederholte Ablehnung des hiesigen Standes.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-05-05"
+                            >05.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Vorörtliche Mittheilung der von dem jetzigen König von Frankreich
+                        erneuerten Wünsche wegen Errichtung einiger Schweizer-Regimenter im K.
+                        Neapolitanischen Dienste. Wiederholte Ablehnung des hiesigen
+                        Standes.</title>06.01.1825<ident>StAZH MM
+                        1.90 RRB 1825/0010</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.90</biblScope><biblScope
+                        unit="page">7−8</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da der hohe Vorort Bern der hiesigen hohen
+                Regierung durch Kreisschreiben vom 15ten passati, die
+                aus dem Schloße der Tüilerien unterm 6ten ejusdem an
+                die Eydsgenoßenschaft gerichtete Zuschrift abschriftlich mittheilt, worin Se.
+                Majestät, der jetzt regierende König von Frankreich, diejenigen
+                Wünsche und Empfehlungen, welche in Hinsicht auf die Errichtung einiger
+                Schweizer-Regimenter für den Dienst der Krone von Neapel seiner Zeit schon von dem
+                Höchstseligen König
+                Ludwig dem XVIII. eröffnet worden waren, erneuert, − wobey die
+                hohen Stände von der vorörtlichen Behörde in Bern eingeladen
+                werden, ihre daherigen Gesinnungen und Entschließungen dem Nachfolger derselben im
+                Eydsgenößischen Amte zu erkennen zu geben: so wurde von der hiesigen hohen
+                Regierung, nach sorgfältiger Berathung, einmüthig beschloßen, dem Staatsrath des
+                nunmehrigen hohen Vorortes Luzern (laut Mißiven) zu
+                schreiben: „Ungeachtet dieselbe das, was die Königliche Zuschrift für die
+                Schweiz und deren capitulirte Truppen ehrenvolles und wohlwollendes ausdrücke, in
+                vollem Maaße erkenne, und würdige, finde sie sich dennoch bey der unverändert sich
+                gleich gebliebenen Lage hiesigen Kantons, in Absicht auf das Verhältniß seiner
+                Bevölkerung und den Zustand der Werbung für die capitulirten Regimenter in Königl.
+                Französischem und Königl. Niederländischem Dienste, fortwährend in der
+                Unmöglichkeit, neben den schon bestehenden Capitulationsverhältnißen, noch andre
+                einzugehen, welche zu erfüllen, sie ganz außer Stand wäre, womit man demzufolge die
+                hierorts schon früher gegebenen Erklärungen, zu wiederholen genöthigt sey.“
+            
+Von dieser Schlußnahme wird die L. Militär-Commißion derjenigen von Waadt, auf die an
+                jene gerichtete Anfrage vom 30. pass., Kenntniß geben.
+        </body>
+    </text>
+</TEI>

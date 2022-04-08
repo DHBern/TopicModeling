@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Instructions-Articul und Correspondenz mit dem Herrn Landammann und den
+                    L. Ständen St. Gallen und Zug, betreffend den Tractat mit Österreich wegen
+                    gegenseitiger Auslieferung der Verbrecher.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-02"
+                            >02.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Instructions-Articul und Correspondenz mit dem Herrn Landammann und den
+                        L. Ständen St. Gallen und Zug, betreffend den Tractat mit Österreich wegen
+                        gegenseitiger Auslieferung der Verbrecher.</title><date when="1805-02-14"
+                        >14.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0250</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >91–96</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung und in gänzlicher Genehmigung des von der diplomatischen
+                Commißion unterm 15ten Jenner [in Folge erhaltener
+                Aufträge vom 28sten und <date when="1804-12-31"
+                    >31sten Decembris a. p.</date> und 12t[en] Januarii a. c.] hinterbrachten
+                umständlichen und sorgfältigen Gutachtens, betreffend den modificierten Project
+                einer Convention zwischen Österreich und der Eydsgenoßschaft wegen gegenseitiger
+                Auslieferung der Verbrecher, und die dießfälligen, in Absicht auf Form und Sache
+                eröffneten Bedenken der L. Stände St. Gallen und
+                    Zug, – wurde beschloßen dem Herrn Landammann der Schweiz
+                den Antrag zu machen, daß die weitere Behandlung und der definitive
+                Abspruch über diese Angelegenheit auf die nächste Gemeineydsgenößische Tagsatzung
+                verschoben werden, und es deßnahen Seiner Excellenz belieben möchte, die Lobl.
+                Stände zeitig genug zu dießfälliger Instruirung ihrer resp.ve Ehrengesandtschaften
+                einzuladen. In dieser Voraussezung soll dießfalls in dem Instructions-Project für
+                die hießige Ehrengesandtschaft der nachstehende Articul aufgenohmen werden, welcher
+                einerseits dem Herren Landammann der Schweiz, in Erwiderung des Circularschreibens
+                vom 23sten Christmonat, und anderseits den L. Ständen
+                St. Gallen und Zug, in vertraulicher
+                Beantwortung ihrer dießfälligen Zuschriften vom <date when="1805-12-29">29sten
+                    December</date> und 5ten Jenner, copialiter und
+                unter den in den Mißiven nachzulesenden Eröffnungen und Bemerkungen mitzutheilen
+                ist.
+            
+Instructions-Articul.
+            
+Modificierter Antrag einer Convention zwischen dem Haus Österreich
+                und der Eydsgenoßenschaft wegen gegenseitiger Auslieferung der Verbrecher.
+            
+Wenn der bereits unterm 23sten Decembris 1804. durch
+                ein Circularschreiben Sr. Excellenz des Landammanns der Schweiz den L. Ständen der
+                Eydsgenoßenschaft überwiesene Gegenstand des unterm <date when="1805-02-15"
+                    >15ten</date> Ejusdem dem Herrn Landammann von des K. K. bevollmächtigten
+                Ministers, Herren Freyherren von Crumpipen Excellenz übermachten, in mehreren und
+                wesentlichen Rüksichten modificierten Entwurfs zu einem Staats-Vertrag wegen
+                wechselseitiger Auslieferung der Ver- brecher zwischen Österreich und
+                der Schweiz, – auf der dießjährigen Tagsatzung zur Sprache kömmt, – so wird die
+                hießige Ehrengesandtschaft, in dienlicher Unterstützung derjenigen des L. Standes
+                St. Gallen und der anderen L. Stände, welche ihre dießfälligen
+                Bedenken bereits eröffnet haben, oder noch eröffnen werden, – möglichst dahin
+                einwürken, daß in den verschiedenen Articuln des quästionierlichen Projects die
+                hienächst auseinander gesetzten Modificationen und Redactions-Veränderungen
+                angebracht werden.
+            
+ad §. 1.
+            
+Unter die in demselben enthaltene Enumeration der gegenseitig auszuliefernden
+                Verbrecher, sind annoch aufzunehmen: a. Die Falschmüntzer. b. Diejenigen, denen
+                Angriffe auf die öffentlichen Bleichen zur Last fallen. c.
+                Die Entführer von Pferden und Vieh ab den öffentlichen Weiden. – Hingegen findet der
+                hießige Stand nicht zuläßig, eine Erläuterung über den Sinn der
+                Ausdrüke von Hochverrath und Aufstand [wie sie von St. Gallen
+                verlangt wird] zu forderen; sondern erachtet zwekmäßiger, darüber nicht näher
+                einzutretten; es wäre denn Sache, daß das zur Zeit allhier noch unbekannte neue
+                Österreichische Criminal-Gesetzbuch auch die Desertion und Desertions-Complotte
+                unter die Cathegorie von Hochverrath aufnehmen würde; in welchem Fall allerdings
+                eine bestimmte Verwahrung gegen die Ausdähnung des vorliegenden Tractats auf
+                Deserteurs und Theilhaber von Desertions-Comploten angemeßen und nöthig wäre.
+            
+ad §. 3.
+            
+Der Anhang dieses §, dahin lautend: „nur in sofern die Auslieferung
+                [Scil. Österreichischer Unterthanen an die Eydsgenoßschaft, und Eydsgenößischer
+                Angehöriger an Österreich] auf eine kurze Zeit zur Confrontation und Befürderung der
+                Untersuchung der Mitschuldigen nothwendig seyn dürfte, wird sie nicht verweigeret
+                werden“ –, dürfte, als zu Verflechtungen Anlaas gebend, und der bisherigen Übung
+                entgegenstehend, am dienlichsten weggelaßen werden; worauf jedoch, wenn von
+                Österreichischer Seite ein Werth auf die Beybehaltung dieses Anhangs gesezt wird,
+                nicht zu beharren ist.
+            
+ad §. 4.
+            
+Nach der bereits in dem Circularschreiben Sr. Excellenz, des Herren Landammanns
+                gemachten, und von dem L. Stand St. Gallen unterstüzten
+                Bemerkung, – ist auch hießigen Orts zu verlangen, daß die vollommene Reciprocität zu
+                Gunsten der Schweiz, worvon in den §. §. 4 und 7 die Rede ist, ganz ausführlich und
+                gleichlautend mit den zu Gunsten Österreichs gestellten §. §. 2, 3 und 6, ausgedrukt
+                werden möchte. Auch ist das Begehren zu unterstüzen, daß an allen Orten, wo von
+                Eydsgenößischen Bürgeren die Rede ist, der Ausdruk Unterthanen in die Qualification
+                von Angehörigen verwandelt werden möchte.
+            
+ad §. 5.
+            
+Da die darinn enthaltene Bestimmung: „daß, wenn ein Unterthan innert dem Gebiet dem
+                Staats, welchem er angehört, wegen eines, in dem Gebiet des anderen contrahierenden
+                Staats be- gangenen schweren Verbrechens untersucht werde, es diesem
+                lezteren Staat frey stehe, einen Commißair zu bestellen, welcher der Untersuchung
+                beyzuwohnen habe“ – nicht nur zu beträchtlichen Kosten, sondern auch zu unangenehmen
+                Verflechtungen und Mißverhältnißen führen müßte, – so ist darauf zu dringen, daß in
+                dem benannten Fall, nach dem Antrag des Lobl. Standes St.
+                    Gallen, ein weit kürzerer und einfacherer
+                    Weg eingeschlagen, und nämmlich bestimmt werde: „daß bey
+                der untersuchenden Obrigkeit die Communication der Acten vor dem abschließlichen
+                Urtheil verlangt werden könne, und auch unschwürig gestattet werden müße“.
+            
+ad §. 6. und 7.
+            
+In Betreff dieser beyden Articul, welche die Auslieferung von fremden Verbrecheren,
+                die nämmlich weder Österreichische, noch Schweitzerische Angehörige sind, –
+                anbelangen, – sind die in dem Schreiben des Lobl. Standes St.
+                    Gallen an den Herren Landammann der Schweitz vom <date
+                        when="1804-12-29">29sten Decembris a. p.</date> gemachten wichtigen Bemerkungen
+                zu unterstüzen; und demnach der Bedacht dahin zu richten, daß diese unbestimmten, zu
+                mancherley Verwiklungen veranlaßenden, und unsere Verhältniße mit anderen Mächten,
+                zumahlen mit Frankreich, benachtheiligenden beyden Articul, gänzlich weggelaßen
+                werden.
+            
+ad §. 13.
+            
+Da die in diesem §. enthaltene Determination: „Sollten in der Folge einige Articul
+                des gegenwärtigen Vertrags einer Erläuterung bedörfen, oder besondere Umstände eine
+                Ausnahme nöthig machen, so wird durch diplomatische Unterhandlungen hierüber ein
+                gütliches Übereinkommen getroffen werden“ – geeignet scheint, in jedem
+                Fall, wo es die Convenienz des mächtigeren Contrahenten mit sich bringt, den ganzen
+                Tractat zu eludieren, – so ist zu trachten, daß dieser ganze Articul oder wenigstens
+                der Passus wegfalle: „wenn besondere Umstände eine Ausnahme nöthig machen“.
+        </body>
+    </text>
+</TEI>

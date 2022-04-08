@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nach Prüfung eines Memorials des Herrn Oberamtmann Weiß, wird beschloßen, daß
+                    die Leitung des Policeywesens im Amtsbezirk Zürich, wie bis anhin der
+                    Kantons-Policey-Commißion übertragen seyn solle.</title>
+                <respStmt>
+                    <resp ref="#ufn" key="transcript">Transkript: ufn<date when="2010-05-10"
+                            >10.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Nach Prüfung eines Memorials des Herrn Oberamtmann Weiß, wird
+                        beschloßen, daß die Leitung des Policeywesens im Amtsbezirk Zürich, wie bis
+                        anhin der Kantons-Policey-Commißion übertragen seyn solle.</title><date
+                        when="1825-01-18">18.01.1825</date><ident>StAZH MM 1.90 RRB
+                        1825/0051</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.90</biblScope><biblScope unit="page"
+                    >49–50</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Mit einem ausführlichen Referate d. d. <date when="1824-12-31">31sten
+                    passati</date>, hinterbrachte die Lbl. Justiz-Commißion dem <orgName>Kleinen
+                    Rathe</orgName> als Resultat der angestellten sorgfältigen Berathungen, ihr
+                Gutachten, betreffend den von MHHerrn Oberamtmann Weiß mit
+                Memorial d. d. 10ten July a. p. der hohen Regierung
+                vorgelegten Antrag: Daß durch die neu einzuführende Strafgerichtsordnung die
+                Generaluntersuchung der in die Claße der Vergehen gehörenden, von den Amtsgerichten
+                zu beurtheilenden Fälle in hiesigem Amtsbezirke, nicht wie es bisher geschehen, und
+                auch laut des vorhandenen Entwurfes ferner gehalten werden sollte, der
+                Kantons-Policey-Commißion, sondern dem Oberamte übertragen werden möchte. 
+            
+In diesem Berichte wurden sowohl die verfaßungsmäßigen Verhältniße, und die
+                Rücksichten, dießfäll- iger Organisation befürchtet, als die Ergebniße
+                einer mehrjährigen Erprobung des bisherigen Verfahrens dargestellt, und endlich die
+                Vorzüge und Nachtheile der einen oder andern Procedurart sorgfältig erwogen, und
+                haben demnach UHHerren und Obern, auf Anhörung dieses Berichtes, in reifer Berathung
+                erkennt: Es seye das Uebergewicht von Gründen vorhanden, die bisherige, zweckmäßig
+                erfundene Einrichtung, nach welcher der Kantons-Policey-Comißion in hiesiger Stadt
+                die Generaluntersuchung aller die Stadtpoliceyliche Strafbefugniß übersteigenden
+                Vergehen 
+            
+a-und in den Landgemeinden des hiesigen Amtsbezirks die General-Untersuchung aller
+                Vergehen-a überhaupt zusteht, auch ferner beyzubehalten, und der
+                Kantons-Policey-Commißion die Leitung des gesammten Policeywesens in besagtem
+                Amtsbezirke, welche sie bisanhin mit so ausgezeichneter Einsicht und Thätigkeit
+                besorgt hat, auch für die Zukunft anzuvertrauen. 
+            
+Gegenwärtiger Beschluß wird der Lbl. Kantons-Policey-Commißion und dem HHerrn
+                Oberamtmann Weiß zugestellt. 
+        </body>
+    </text>
+</TEI>

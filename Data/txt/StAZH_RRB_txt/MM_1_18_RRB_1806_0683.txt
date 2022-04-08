@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Recepiße von St. Gallen betreffend das modificierte hießige Niederlaßungs-
+                    und Handwerkspolizey-Gesetz.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-01-07"
+                            >07.01.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Recepiße von St. Gallen betreffend das modificierte hießige
+                        Niederlaßungs- und Handwerkspolizey-Gesetz.</title><date when="1806-06-03"
+                        >03.06.1806</date><ident>StAZH MM 1.18 RRB
+                        1806/0683</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.18</biblScope><biblScope unit="page">4</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Ein gleichmäßiges ledigliches Bewenden hat es bey der unterm 31.sten
+                    May eingekommenen Zuschrift des L. Standes St.
+                    Gallen, worinn derselbe die unterm <date when="1806-05-24"
+                    >24sten passati</date> gegen die L. Stände vorgenohmene Communication der unterm
+                    22sten May lezthin von dem <orgName>Großen
+                    Rath</orgName> emanierten Modificationen der hießigen Niederlaßungs- und
+                Handwerkspolizey-Geseze vom 31sten und <date
+                    when="1806-05-28">28sten May</date> 1804, – verdankt.
+        </body>
+    </text>
+</TEI>

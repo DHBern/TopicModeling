@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß über die Petition der Gemeinden Wyl, Rafz und Eglisau, um Aufhebung
+                    des Jagdbanns auf dem Rafzerfeld.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-28"
+                            >28.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beschluß über die Petition der Gemeinden Wyl, Rafz und Eglisau, um
+                        Aufhebung des Jagdbanns auf dem Rafzerfeld.</title><date when="1805-09-24"
+                        >24.09.1805</date><ident>StAZH MM 1.15 RRB
+                        1805/1431</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.15</biblScope><biblScope unit="page"
+                    >87–88</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da über die von den Gemeinden Rafz,
+                    Wyl und Eglisau sub <date
+                    when="1805-08-13">13ten passati</date> eingelegte Bittschrift, daß der auf das
+                Rafzerfeld gelegte Jagdbann aufgehoben werden möchte, die Jägercommißion [in Folge
+                Auftrags vom 31sten Augstmonat] unterm <date
+                    when="1805-09-16">16ten September</date> einen sorgfältigen Bericht
+                hinterbracht, und sich daraus ergeben hat, daß einerseits die Angaabe, auf welche
+                sich jene Gemeinden stüzen, daß nemmlich durch das Gewild auf den
+                Güteren mehr oder weniger Schaden verursacht werde –, unbegründet, – und anderseits
+                die Eröffnung dieses Banns wegen den mit der Schwarzenbergischen Regierung über die
+                Jagd geschloßenen Verkommnißen, wesentliche Schwierigkeiten haben müßte, – so hat
+                der Kleine Rath beschloßen, über das Petitum der Gemeinden
+                    Wyl, Rafz und
+                    Eglisau nicht einzutretten, wovon denselben durch den
+                Herrn Unterstatthalter Ganz von Rorbas
+                Kenntniß zu geben ist. Der Jägercommißion wird übrigens unter Verdankung ihres
+                sorgfältigen Berichts, dieser Beschluß mitgetheilt, und dieselbe ersucht, dem
+                    Kleinen Rath seiner Zeit einen Bericht über eine allfählige
+                Beschränkung des auf verschiedene Gegenden des Cantons gelegten Jagdbanns zu
+                hinterbringen.
+        </body>
+    </text>
+</TEI>

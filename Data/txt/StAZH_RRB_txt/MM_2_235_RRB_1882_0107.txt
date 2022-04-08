@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Offiziersernennungen.</title><respStmt><resp ref="#ssi" key="transcript">Transkript: ssi09.03.2015</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2015<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Offiziersernennungen.</title>21.01.1882<ident>StAZH MM 2.235 RRB 1882/0107</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.235</biblScope><biblScope unit="page">147–148</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Der Regierungsrath,
+nach Einsicht der betreffenden Fähigkeitszeugnisse und auf den der Direktion des Militärs ernennt zu Hauptleuten der Infanterie 
+die bisherigen Oberleutenants,
+Hrn. Dändliker, Ernst
+1851, von Hombrechtikon,
+ “     Steinemann, Wilh. Aug. 
+1850,   “    St. Gallen, in Riesbach,
+                 Adjut.t Reg. 24 
+ “     Großmann, Sch.
+1851,   “    Höngg  
+ “     Rellstab, J. Jakob
+1851,   “    Enge in Riesbach,
+ “     Zürcher, Emil
+1850,   “    Grüb  “  Hottingen,
+ “     Lindermann, Emanuel
+1847,   “    Veltheim,
+ “     Huber, Karl August
+1845,   “    Mettmenstetten,
+ “     Stadtler, Emil
+1853,   “    Uster, Adjut. Reg. 22
+und beschließt im Weiteren:
+I. Den Betreffenden sind Brevets zuzustellen.
+II. Mittheilung an die Militärdirektion.<p/></body></text></TEI>

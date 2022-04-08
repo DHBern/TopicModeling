@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antwort und wiederholte Ablehnung an die St. Gallische Regierung wegen
+                    Anerkennung der Elisabetha Zuber, Ehefrau des Heinrich Landis aus dem Hirzel als
+                    Gemeindsbürgerin daselbst.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-03-08"
+                            >08.03.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Antwort und wiederholte Ablehnung an die St. Gallische Regierung wegen
+                        Anerkennung der Elisabetha Zuber, Ehefrau des Heinrich Landis aus dem Hirzel
+                        als Gemeindsbürgerin daselbst.</title><date when="1804-12-06"
+                        >06.12.1804</date><ident>StAZH MM 1.10 RRB
+                        1804/2002</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.10</biblScope><biblScope unit="page"
+                    >238–239</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+In Genehmigung des, von der Commißion des Innern mit
+                ihrem dießfälligen Berichte vom <date when="1804-12-01">1sten
+                    dieß</date>, in Folge Auftrags vom <date when="1804-11-24">24sten
+                    passati</date> hinterbrachten sorgfältigen Gutachtens in Betreff des
+                    Heinrich
+                Landis aus dem Hirzel, und des
+                seinethalben von der Regierung des Lobl. Cantons St. Gallen
+                unterm 20sten pass. eingekommenen Schreibens, wurde
+                beschloßen, der gedachten Regierung zu rescribieren, daß sie in irrigen Begriffen
+                stehe, wenn sie sich äußere, daß der Heinrich
+                Landis mit der Elisabetha Zuber von einem
+                Schweizergeistlichen copuliert worden sey, indem das Dorf
+                Buderach, wo die Copulation durch den Herren Pfarrer Schneider
+                geschehen, – nicht im Canton Leemann liege, sondern einen
+                Bestandtheil des ehemaligen Erguets ausmache, welches seit der Vereinigung der
+                vormahligen Bischöflich Baslischen Landen mit Frankreich, nunmehr in die Præfectur
+                von Delsberg oder Delemont gehöre, wie solches aus der
+                mitkommenden vidimierten Copie des Kopulations-Scheins selbst sich ergebe. Da nun
+                also klar am Tag liege, daß die Ehe des
+                    Heinrich
+                Landis nicht nach den gesetzlichen Formalitäten vollzogen worden
+                sey, so könne die Elisabetha Zuber nicht als Gemeindsbürgerin im
+                    Hirzel anerkennt werden. – Des in dieser
+                    Ehe erzeugten Kindes ist in dem Schreiben an die St.
+                Gallische Regierung einstweilen keine Erwähnung zu thun.
+        </body>
+    </text>
+</TEI>

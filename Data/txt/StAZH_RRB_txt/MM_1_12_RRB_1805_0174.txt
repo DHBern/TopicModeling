@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antwort und Geldabsendung an die Churfürstlich Badische Polizeydeputation zu
+                    Carlsruh für den Schreinergesell Conrad Hug von Weiningen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-26"
+                            >26.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Antwort und Geldabsendung an die Churfürstlich Badische
+                        Polizeydeputation zu Carlsruh für den Schreinergesell Conrad Hug von
+                        Weiningen.</title>02.02.1805<ident>StAZH MM
+                        1.12 RRB 1805/0174</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.12</biblScope><biblScope
+                        unit="page">18–19</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da der Herr Bezirksstatthalter Angst unterm <date
+                when="1805-01-31">31sten pti</date>. dem Kleinen Rath, auf
+                den von lezterm unterm 24sten ejusd. erhaltenen
+                Auftrag, ein offenes an den, in Carlsruh im Hospital krank
+                liegenden Conrad
+                Hug, Schreinergesell von Weiningen
+                gerichtetes Schreiben seiner dasigen Anverwandten nebst dreißig Gulden von diesen
+                letztern zur Unterstützung für den Conrad
+                Hug einsendet, so wird nunmehr sowohl jenes Schreiben als die
+                dreißig Gulden der Churfürstlich Badischen Polizeydeputation zu
+                Carlsruh, in Antwort auf ihren Erlaß vom 17ten Jenner
+                übermacht, mit dem Ersuchen, den Brief und das Geld dem Conrad
+                Hug behändigen zu laßen, und zu veranstalten, daß derselbe in
+                dortigem Hospital sorgfältig verpflegt werde, zumalen er, wie
+                es sich aus dem Schreiben seiner Verwandten ergebe, im Fall des eintrettenden
+                nothwendigen Bedürfnißes sich einer ferneren Unterstüzung in Zukunft zu getrösten
+                hatte. Von dieser getroffenen Verfügung wird dem Herrn Bezirksstatthalter
+                    Angst, zu Handen der Anverwandten des
+                    Conrad
+                Hug zu Weiningen hiermit Kenntniß
+                gegeben.
+        </body>
+    </text>
+</TEI>

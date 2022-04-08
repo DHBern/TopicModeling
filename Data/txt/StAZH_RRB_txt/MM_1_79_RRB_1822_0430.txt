@@ -1,0 +1,28 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Fortgesetzte Berathung der Instructions-Anträge des Staatsraths.</title><respStmt><resp ref="#ufn" key="transcript">Transkript: ufn09.06.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Fortgesetzte Berathung der Instructions-Anträge des Staatsraths.</title>04.06.1822<ident>StAZH MM 1.79 RRB 1822/0430</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.79</biblScope><biblScope unit="page">266–268</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Die Instructionsberathung wurde fortgesetzt und erstreckte sich über folgende, theils von dem Staatsrath vorberathene, theils durch heute verlesene Schreiben neu hinzugekommene Gegenstände: 
+Circ. §. 32. (Absch. §. 39. S. 55–70.) Zölle und Weggelder. 
+A. Wallis. 
+B. Teßin.
+C. Freyburg. 
+D. Vorbehaltene Ratificationen über die bereits in Kraft erwachsenen vorjährigen Zölle und Weggeldsbewilligungen. 
+Neue Begehren: 
+A. Schaffhausen. 
+(B. Ueber Obwaldens Begehren konnte der Antrag wegen eines noch nicht vorgelegten Schreibens Nidwaldens noch nicht abgefaßt werden.) 
+C. Thurgau. 1.) Laut Kreisschreiben dieses Standes vom 10ten May, begehrt derselbe die Genehmigung des Tarifs eines Weggelds auf der Landstraße von Constanz bis an die Grenze des Kantons St. Gallen, über Neukirch und über Roggwyl nach St. Gallen, und über Horn nach Roschach. 
+Es ist zu instruiren: „Die zunächst intereßirten Kantone im voraus anzuhören und die möglichste Er-  mäßigung des Tarifs zu bewirken zu trachten.“
+2.) Laut Kreisschreiben des nähmlichen Standes vom 28sten May, ersucht derselbe, daß, bey abgelaufener Dauer der in den Jahren 1807. 1810. und 1816. von der hohen Tagsatzung bewilligten Brückengelder für die Brücken über die Thur bey Ueßlingen, über die Sitter bey Bischofzell, und über den Rhein zu Dießenhofen, die betreffenden Tarife für alle drey benannten Brücken auf weitere 10. Jahre bestätigt werden möchten. 
+Hierüber ist zur Bewilligung zu instruiren. 
+D. St. Gallen ersucht in einen Kreisschreiben vom 21sten May, daß das schon im Jahr 1807. bewilligte, aber erst seit dem Spätjahr 1811. zum wirklichen Bezug gediehene, vereinte Weg- und Brückengeld bey der neuen Brücke an der Krätzern, nach dem bisherigen Tarif auf neue 10. Jahre bestätigt werden möchte. 
+An die Lbl. Stände Thurgau und St. Gallen sind Recepiße laut Mißiven auszufertigen. 
+Auch hierüber ist genehmigend zu instruiren. 
+Ueber diese Begehren von Thurgau und St. Gallen wurde auch ein Kreisschreiben des vorörtlichen Staatsraths vom 31sten May verlesen, über welches  somit bereits verfügt ist. 
+§. 41. (Absch. §. 49. S. 88–99.) Concurs-Verkommniß mit Würtemberg. 
+§. 42. (Absch. §. 50. S. 90–93.) Unterhandlungen mit dem Großherzogthum Baden wegen Heimathlosen und Vaganten. 
+Gegen Ende des Artikels, wo angetragen wird, zu dem Redactions-Vorschlag Badens zu stimmen, in so fern die meisten Grenzstände sich zur Annahme erklären, ist das Wort „meisten“ wegzulaßen. 
+§. 44. (Absch. §. 53. S. 95.[)] Graubündens Verwahrung seiner Rechte auf Veltlin, Cleven und Worms.
+§. 46. (Absch. §. 55. S. 95–98.) Klage von Oestreich wegen Duldung der Ausreißer und Anwerbung von K. K. Oestreichischen Unterthanen. 
+§. 50. (Absch. §. 58. S. 103. und 104.) Freyburgs Antrag wegen Auslieferung der Verbrecher zwischen Deutschen Staaten und der Eydsgenoßenschaft. 
+§. 51. (Absch. §. 59. S. 104–106.) Val des Dappes. 
+§. 52. (Absch. §. 60. S. 106–113. und Beyl: M. und N.) Unterhandlungen mit Frankreich. 
+Alle diese Instructions-Anträge wurden genehmiget. <p/></body></text></TEI>

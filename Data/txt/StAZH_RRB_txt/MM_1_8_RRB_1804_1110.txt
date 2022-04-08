@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anliegen des Herrn Präsident Müllers zu Zell wegen Bewilligung des Gebrauchs
+                    seines errichteten Mahlhaufens und der Relle.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-12-29"
+                            >29.12.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Anliegen des Herrn Präsident Müllers zu Zell wegen Bewilligung des
+                        Gebrauchs seines errichteten Mahlhaufens und der Relle.</title><date
+                        when="1804-06-21">21.06.1804</date><ident>StAZH MM 1.8 RRB
+                        1804/1110</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.8</biblScope><biblScope unit="page"
+                    >130–131</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Herr Bezirksstatthalter Steiner bringt dem
+                    Kleinen Rate unterm 19ten dieß
+                den von demselben unterm 31ten Jenner dieß Jahrs,
+                über den, zwischen Herrn Präsident Müller zu
+                    Zell und mehreren benachbarten Mülleren obgewalteten
+                Wuhr- und Mühle-Streit gefaßten Beschluß in Erinnerung, dahin gehend, „daß der Herr
+                Präsident einstweilen und bis zu einer könftigen gesezlichen Bestimmung über die
+                Ehehaften, bey Verantwortung und Strafe sich des Gebrauchs des bey seiner Sage
+                angebrachten Mahlhaufens und Relle enthalten soll, hingegen ihm gestattet sey, seine
+                Waßerleitung ferner zu nutzen, und die Töß, wo sie durch seine Güter lauft, in einen
+                geraden und unschädlichen Lauff einzuengen“.
+            
+Da nun der Herr Bezirksstatthalter dem Kleinen Rathe die dringende
+                Bitte des Herrn Präsident Müllers, daß ihm, mit Hinsicht auf dem 16. §. des neuesten
+                Gesezes über die Handwerks-Polizey vom 28ten May d.
+                J., jezt der untersagte Gebrauch des erwähnten Mahlhauffens und der Relle gestattet
+                werden möchte, bekannt macht, und zur Gewährung empfiehlt, – so wird dieses Anliegen
+                des Herrn Präsident Müllers unter Mittheilung des Fürwortschreibens des Herrn
+                Bezirksstatthalter Steiners, der Commißion des Innern mit dem
+                Ersuchen überwiesen, ersteres in Vergleichung mit den Gegen- gründen
+                der benachbarten Müller sorgfältig zu prüffen, und dieser Behörde
+                ihr Gutachten zu hinterbringen, ob und in wie weit dem Ansuchen des Herrn Präsident
+                Müllers entsprochen werden könne.
+        </body>
+    </text>
+</TEI>

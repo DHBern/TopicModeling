@@ -1,0 +1,9 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Gesuch der Reg. v. St. Gallen um Rückerstattung verschiedener im Toggenburgerkriege hieher gebrachten Archivalien.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn23.01.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2012<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Gesuch der Reg. v. St. Gallen um Rückerstattung verschiedener im Toggenburgerkriege hieher gebrachten Archivalien.</title>04.06.1849<ident>StAZH MM 2.104 RRB 1849/1026</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.104</biblScope><biblScope unit="page">449–450</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Praesidial-Verfügungen.
+Actum den 4. Juni 1849.]
+Mit Schreiben vom 30ten v. Mts. stellt die Regierung von St. Gallen das Gesuch, es möchten die im Toggenburgerkriege nach Zürich gebrachten und gegenwärtig noch in hier befindlichen Archivalien aus dem St. Gallischen Stift an das dortige Archiv zurückgestellt werden.
+Es wird verfügt:
+I. Sei Herr Staatsarchivar Meier eingeladen über die Zahl und Art derjenigen Archivalien, um deren Herausgabe es sich handeln könnte Bericht zu erstatten, sowie ein Gutachten über die Zulässigkeit der Herausgabe ab-  zu geben.
+II. Mittheilung an Herrn Staatsarchivar Meier.<p/></body></text></TEI>

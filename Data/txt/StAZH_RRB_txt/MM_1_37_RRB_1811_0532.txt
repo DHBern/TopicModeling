@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Betrag der gesammelten Steuern für die vom Sturmwind beschädigten Gemeinden
+                    Fischenthal und Sternenberg.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2006-09-08"
+                            >08.09.2006</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Betrag der gesammelten Steuern für die vom Sturmwind beschädigten
+                        Gemeinden Fischenthal und Sternenberg.</title><date when="1811-04-20"
+                        >20.04.1811</date><ident>StAZH MM 1.37 RRB
+                        1811/0532</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.37</biblScope><biblScope unit="page">1</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Bericht des Herrn Unterstatthalter Hirzel vom
+                    17ten dieß, laut welchem die, in Folge der
+                Rathsbeschlüße vom 31sten Jenner und <date
+                    when="1811-04-26">26sten</date>
+                Hornung eingesammelte Liebessteuer für die durch Sturmwind
+                beschädigten Eigenthümmer in den Gemeinden Sternenberg und
+                    Fischenthal sich auf 335. fl. 6. ß 3. Hlr. beläuft, –
+                wird der Steuer-Section zu erforderlicher Verfügung oder Hinterbringung ihres
+                Gutachtens überwiesen, und der Herr Statthalter eingeladen, derselben zu diesem Ende
+                die Liste der gesammelten Steuern, welche dem Berichte des Herrn Statthalters nicht
+                beyligt, einzusenden.
+        </body>
+    </text>
+</TEI>

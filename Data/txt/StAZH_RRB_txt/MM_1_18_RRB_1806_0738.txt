@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Recepiße verschiedener L. Stände für die Modificationen der hießigen
+                    Niederlaßungs- und Handwerks-Polizey-Gesetze.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-01-09"
+                            >09.01.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Recepiße verschiedener L. Stände für die Modificationen der hießigen
+                        Niederlaßungs- und Handwerks-Polizey-Gesetze.</title><date when="1806-06-12"
+                        >12.06.1806</date><ident>StAZH MM 1.18 RRB
+                        1806/0738</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.18</biblScope><biblScope unit="page">60</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auch die von den L. Ständen Luzern unterm <date
+                    when="1806-06-04">4ten</date>, Uri unterm 7ten,
+                Unterwalden nid dem Wald unterm <date when="1806-06-09"
+                    >9ten</date>, Unterwalden ob dem Wald unterm <date
+                    when="1806-06-07">7ten</date>, Glarus unterm <date
+                    when="1806-06-10">10ten</date>, und Thurgau unterm <date when="1806-06-04">4ten
+                    Junii</date> eingekommenen Recepiße für die unterm <date when="1806-05-21"
+                    >21sten May</date> von dem hießigen Großen Rath emanierten
+                und unterm 24sten May den sämmtlichen L. Ständen der
+                Eydsgenoßschaft communicirten Modificationen der hießigen Niederlaßungs- und
+                Handwerkspolizey-Geseze vom 31sten und <date
+                    when="1806-05-28">28sten May</date> 1804, – sind lediglich ad acta zu legen.
+        </body>
+    </text>
+</TEI>

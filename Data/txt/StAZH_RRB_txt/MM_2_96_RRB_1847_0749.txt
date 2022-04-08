@@ -1,0 +1,18 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Abgewiesener Rekurs des J. Bühler v. Moosburg Pfarre Illnau, betreffend verw. Aufenthaltsbewilligung in Zürich.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn07.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Abgewiesener Rekurs des J. Bühler v. Moosburg Pfarre Illnau, betreffend verw. Aufenthaltsbewilligung in Zürich.</title>08.05.1847<ident>StAZH MM 2.96 RRB 1847/0749</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">153–154</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Antrag des Rathes des Innern [vom 5t. d. M.] in Sachen des Jacob Bühler von Moosburg, Pfarre Illnau, Rekurrenten.
+gegen
+einen Beschluß des Bezirksrathes, resp. Stadtrathes Zürich betreffend verweigerte Aufenthaltsbewilligung;
+auf Grundlage der faktischen Ergebniße des rekurrirten Beschlußes und nach dem sich ferner ergeben:
+D. Unter’m 8ten. April habe der Bezirksrath Zürich den Jakob Bühler mit seinem Rekurs gegen einen Beschluß des Stadtrathes, durch welchen demselben die Bewilligung zum Aufenthalt in der Stadt Zürich verweigert wird, abgewiesen:
+E. Dagegen rekurrire Bühler unter’m  27t. April, und behaupte alle gesetzlichen Requisite für Niederlaßung oder Aufenthalt zu besitzen, das mangelnde Leumdenzeugniß sei der Stadtrath selbst verpflichtet, ihm auszustellen, da er sich seit Anfang der Zwanzigerjahre meistens in der Stadt Zürich aufgehalten habe. Durch Bestreitung der vom Stadtrath gemachten ungünstigen Angaben über seinen Leumden suche er dann auch nachzuweisen, daß der Stadtrath sogar verpflichtet sei, ihm ein gutes Leumdenszeugniß auszustellen. Schließlich behaupte er, daß er seiner Aufenthaltsgemeinde noch nie zur Last  gefallen sei, und stets alle Gebühren und Steuern bezahlt habe;
+in Berüksichtigung:
+1. Daß Rekurrent, weder ein Leumdenszeugniß noch einen Beweis dafür, daß er im Stande sei, sich auf rechtliche Weise zu ernähren, zu den Akten gebracht hat;
+2. Daß ihm also die durch §. 13. des Gesetzes vom 11t. April 1840. für den Aufenthalt in einer Gemeinde vorgeschriebenen Erforderniße abgehen.
+3. Daß seine Behauptung, der Stadtrath Zürich selbst sei schuldig ihm ein günstiges Leumdenszeugniß zu ertheilen, abgesehen davon, ob ihm das Prädikat eines guten Leumdens wirklich gebühre, nicht Stich hält, weil er in den letzten Jahren weder mit Aufenthalts- noch mit Niederlaßungsbewilligung in der Stadt gewohnt hat;
+gefunden:
+Es sei der Rekurs ungegründet und
+beschloßen:
+I. Sei derselbe abgewiesen und habe es bei dem rekurrirten Beschluße sein Verbleiben:
+II. Trage Rekurrent die Kosten gegenwärtigen Beschlußes, bestehend in 2. Frkn. Staats- 1. Frkn. Canzlei- nebst den Ausfertigungs- und Stempelgebühren.
+III. Sei hievon dem Bezirksrathe Zürich für sich und zu Handen des Stadtrathes, sowie dem Rekurrenten [durch das Mittel des Statthalteramtes] unter Rükstellung des eingelegten Beschlußes Kenntniß zu geben. <p/></body></text></TEI>

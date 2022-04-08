@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Anna Barbara le Maire in Paris ertheilte Auskonft über ihre Herkonft und
+                    Familie.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-27"
+                            >27.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Der Anna Barbara le Maire in Paris ertheilte Auskonft über ihre
+                        Herkonft und Familie.</title><date when="1805-02-05"
+                        >05.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0190</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >32–33</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung der unterm 7ten. Jenner an
+                den Hherren Amtsburgermeister Reinhard eingelangten Zuschrift
+                einer gewissen Mlle. le Maire in Paris [Rue
+                Poissonniere Nº 95. Maison de Mr. Vernier au troisième sur le
+                devant] welche über verschiedene, ihre eigene Herkonft, und Leben oder Tod und
+                Verlaßenschaft ihrer Eltern und übrigen Familie betreffende Punkte Auskonft
+                verlangt, – und in Folge der über diesen Gegenstand bereits durch gefällige Bemühung
+                des Herrn Rathsherr Meis bey dem Herrn Pfarrer Wirz in
+                    Kilchberg eingezogenen Erkundigungen, deren Resultat in
+                einen schriftlichen Bericht vom 29sten Jenner
+                zusammengefaßt ist, – wurde die Canzley beauftragt, der gedachten Mlle. le
+                    Maire den sie betreffenden Original-Taufschein, woraus sich
+                ergiebt, daß mehrerwähnte Anna
+                Barbara le Maire in der Kirche zu
+                    Kilchberg im hießigen Canton den <date when="1805-02-08"
+                    >8ten</date>. Junii 1764. getauft worden, daß ihr
+                    Vater
+                Johannes le Maire [oder Meyer] gebürtig von
+                Elsaß-Zabern, Arbeiter in der Porcellan-Fabrik im Schooren bey
+                    Kilchberg, und ihre Mutter deßen
+                Ehefrau, Mariane Fournier gewesen, und daß Herr Allmosenschreiber
+                Joh: Felix
+                Corrodi und Frau Anna
+                Barbara
+                Vögeli, gebohrne Keller, ihre Taufzeugen
+                gewesen, – zu übermachen, und die weitere Anzeige beyzufügen, daß ungeachtet aller
+                angewandten Bemühungen, nichts von den weiteren Schiksalen ihres Vaters habe in
+                Erfahrung gebracht werden können, und daß ein Mann, der seiner
+                Zeit Buchhalter in der Ao. 1764. errichteten Porcellan-Fabrik im Schooren gewesen,
+                sich des Johannes le Maire durchaus nicht zu
+                erinneren wiße, woraus sich schließen läßt, daß dieser leztere weder lange in der
+                Fabrike gearbeitet habe, noch viel weniger eine bedeutende, oder gar eine
+                Aufseherstelle bey derselben bekleidet habe.
+        </body>
+    </text>
+</TEI>

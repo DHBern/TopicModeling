@@ -1,0 +1,769 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Weisung und Gesetzesvorschlag an den Großen Rath, betreffend die künftige
+                    Besoldung der Landgeistlichkeit.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: <date when="2010-08-03"
+                            >/03.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Weisung und Gesetzesvorschlag an den Großen Rath, betreffend die
+                        künftige Besoldung der Landgeistlichkeit.</title><date when="1822-11-07"
+                        >07.11.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0863</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >119–142</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Es wurden, in Folge des unterm <date when="1822-10-19">19ten
+                    passati</date> dem Staatsrathe zugefertigten Kleinen Rathsbeschlußes, betreffend
+                die künftige Besoldung der Landgeistlichkeit, von MHochgeachten Herrn Staatsrath
+                Pestalutz mit einsichtsvoller Sachkenntniß und Sorgfalt die Entwürfe einer
+                dießfälligen Weisung an den Großen Rath und eines dießfälligen
+                Gesetzesvorschlags abgefaßt, in der heutigen Sitzung verlesen, und, nach gepflogener
+                Berathung, mit einigen wenigen Modificationen, wie solches in dem ad acta gelegten
+                Entwurfe bemerkt ist, genehmigt. Die Weisung und Gesetzesvorschlag, welche dem
+                    Großen Rathe mit den dazu gehörigen Berech- <pb n="120"
+                />nungstabellen in der nächsten Wintersitzung werden vorgelegt werden, lauten wie
+                folgt:
+            
+Weisung.
+            
+Es sind bereits zwey Jahre verfloßen, sint dem der Kleine Rath bey
+                Uebergabe der Staatsrechnung vom Jahr 1819. sich im Falle befunden, die Höchste
+                Behörde von einem neu eintretenden, die Besoldung der Landpfründe betreffenden
+                Staatsbedürfniß in vorläufige schuldige Kenntniß zu setzen.
+            
+Damals schon war der Kleine Rath mit der Einleitung dieses
+                Geschäfts befaßt, nähmlich mit der Untersuchung und Prüfung derjenigen Vorstellungen
+                und Gründe, die den E. Kirchenrath seiner Stellung gemäß bewogen,
+                die – wie derselbe sich ausdrückt – längst rege gewordenen, aber bis auf ruhigere
+                Zeiten zurückgehaltenen Wünsche der Landgeistlichkeit, um eine Verbeßerung ihrer
+                Lage, der landesväterlichen Beherzigung zu empfehlen, und mit ausführlichen Belegen
+                zu unterstützen. Allein der Umfang und die Wichtigkeit des Gegenstandes erlaubten
+                nicht, mit irgend einer dießfälligen Schlußnahme vorzueilen.
+            
+Es handelt sich um eine neue, theils reglirende, theils verbeßernde Bestim- <pb
+                    n="121"/>mung von 108. Landpfründen und 5. Filialen, alle von unmittelbarer
+                Staatscollatur, derenthalben der E. Kirchenrath sich vorderst
+                dahin geäußert:
+            
+„Daß es der Regierung gefallen möchte, die Eintheilung dieser Pfründe in drey
+                    Claßen, je nach der Seelenzahl der Gemeinden und dem
+                Geschäftsumfang, laut beyliegendem Tableau A., zu genehmigen, und zufolge derselben
+                die fixe Besoldung
+            
+von 20. Pfründen der 1sten Claße auf Fr.
+            
+1320.
+            
+“
+            
+39. Pfründen der 2ten Claße
+            
+“
+            
+“
+            
+1160.
+            
+“
+            
+54. Pfründen der 3ten Claße
+            
+“
+            
+“
+            
+1000.
+            
+festzusetzen, was im Ganzen die Summe von Frk[en]. 125,640. beträgt; jedoch in der
+                weitern Anhoffung und Erwartung, es werden
+            
+a.) Die Naturalien an trocknen und naßen Früchten in der gegenwärtig gewohnten Maße
+                ferner und ungeschweinert bey dem Gesammteinkommen belaßen.
+            
+b.) Die Naturalien selbst den Pfründen künftig nicht höher als zu den ehemaligen
+                Cameralpreisen in dem Verhältniß nähmlich von Fr. 8. das Stuck nach Zürchermäß
+                angerechnet.
+            
+c.) Denjenigen Pfründen, die mit einer Nebenfilial beschwert sind, eine
+                Extrabesoldungszulage von Fr. 160. oder Fr. 80. – je nach der wöchentlichen oder
+                vierzehntägigen Besorgung, verordnet; 
+            
+d) Endlich aber und hauptsächlich die nach dem Ermeßen des
+                    Kirchenraths mäßig angeschlagenen fixen Besoldungen durch
+                Personal-Zulagen verbessert werden, die nach den ersten zehn Dienstjahren auf Fr.
+                200. bestimmt, und in den darauf folgenden Decennien in steigendem Maaß bis auf Fr.
+                400. Fr. 500. und Fr. 600. erhöht werden dürften.“
+            
+Es war allerdings erforderlich, vorerst die Angaben, auf welche die Vorschläge und
+                Erwartungen der kirchlichen Behörde sich gründen, der möglichsten Prüfung –
+                überhaupt aber die, durch Loskäufe von Grundzinsen und andern Gefällen, sowie durch
+                verschiedene, dem Patronatsrecht des Staates zugefallene fremde Collaturpfründe –
+                sint mehrern Jahren veränderten Quellen und Bestandtheile des
+                Gesammtpfrundeinkommens, einer neuen und genauen Untersuchung zu unterwerfen; und
+                endlich über den Werth und Ertrag der nicht unbeträchtlichen Prundgüter durch
+                wirkliche Vermeßung derselben, die nöthigen Kenntniße zu sammeln, ehe in diesem
+                Geschäft, deßen Vorberathung nach allen dabey eintretenden Beziehungen dem
+                Staatsrath übertragen worden, vorgeschritten werden konnte.
+            
+Durch die von daher erhaltenen, und nur durch jene Vorarbeiten verzögerten, eben so
+                ausführlichen als gründlichen Berichte und Anträge, sieht sich nun der
+                    Kleine Rath nach eigener sorgfältiger Erwägung derselben in
+                den Stand gesetzt, dem Großen Rath seine unmaaßgeblichen
+                Ansichten über den befraglichen Gegenstand zu eröffnen, und solche mit einem
+                Gesetzesvorschlag zu begleiten.
+            
+Es hat sich Wohlderselbe einmüthig überzeugt, daß ungeachtet der im Jahr 1808. Statt
+                gehabten sogeheißenen Peräquation der Pfründe, die mit so vielem Nachdruck von dem
+                    Kirchenrath unterstützten Wünsche der Landgeistlichkeit nicht
+                unbeachtet bleiben können, daß aber höchst wichtige Rücksichten der vollständigen
+                Erfüllung derselben entgegenstehen.
+            
+Die soeben gedachte Peräquation hatte zum Zweck, und bestand lediglich darin,
+                mittelst einer Zulage von Frk[en]. 9000. an Geld und Naturalien 54. Pfründe in
+                verschiedenem Maaß zu verbeßern, in der Meynung, daß durch die allmählige – bis
+                dahin ungefähr zur Hälfte erfolgte – Erledigung von 32. reducirten Pfründen das
+                Gleichgewicht in der Staatsausgabe nach und nach wieder hergestellt werden
+                solle.
+            
+Allein da bey dieser Ausmittlung – wobey das Minimum des Pfrundeinkommens ebenfalls
+                zu Frk[en]. 1000. ange- nommen war – der Mütt Kernen Zürichermäß, nach
+                damals richtig geglaubter Ansicht, gegen die Pfründe zu Frk[en]. 11. Bz[en]. 2.
+                angerechnet worden, ein Preis der, mit Ausnahme der unglücklichen
+                Theurungsjahre sich als ganz unverhältnißmäßig erprobt, und zu öftern Beschwerden
+                der Geistlichkeit Anlaß gegeben, so achtet der Kleine Rath, es
+                sey allerdings der Fall, den dießfälligen Wünschen des
+                    Kirchenraths zu entsprechen, und bey einer neuen Bestimmung
+                der Pfrundbesoldungen, den in den frühern Zeiten gebräuchlichen oder sogenannten
+                alten Cameralpreis von Fr. 8. das Stück als dem Mittelschlag der Früchte weit
+                angemeßener und billiger wieder in Anwendung zu bringen.
+            
+In diesem Sinn ist das beyliegende Tableau B. entworfen, welches
+                in alphabetischer Ordnung das gegenwärtige Einkommen jeder der betreffenden 108.
+                Pfründe und 5. Filialen enthält, woraus sich summarisch ergibt, daß dieselben vom
+                Staat beziehen:
+            
+An Früchten.
+            
+4212.
+            
+Mtt.
+            
+Kernen.
+            
+598.
+            
+Mtt.
+            
+Hafer.
+            
+105.
+            
+Mtt.
+            
+Roggen.
+            
+35.
+            
+“
+            
+Gersten.
+            
+15.
+            
+“
+            
+Bohnen.
+            
+2573.
+            
+Eimer
+            
+Wein
+            
+5563.
+            
+Wellen
+            
+Stroh,
+            
+deren Werth zu besagten alten Came- ralpreisen, mit Beachtung der 
+            
+verschiedenen Fruchtmäße, sich belauft auf
+            
+Frk[en].
+            
+64,675. 1. –.
+            
+an baarem Geld auf
+            
+“
+            
+17,428. 9. 6.
+            
+Frk[en]:
+            
+82,104. – 6.
+            
+Daß ferner diese Pfründe an sogeheißenen Nebengefällen, das ist an Geld- und
+                Fruchtzinsen, theils unmittelbar, theils von Kirchen- und Gemeinden, von der Stift
+                oder andern Stellen, nach den nähmlichen Preisen gewerthet, beziehen
+            
+“
+            
+20,226. 6. 4.
+            
+und daß endlich der Ertrag der nun genau vermeßenen Pfrundgüter nach einem sehr
+                mäßigen Anschlag (Wohnung und Garten nebst einigem Pflanzland
+                ungerechnet) mit Zuversicht gewerthet werden kann, auf
+            
+“
+            
+7,985. –. –.
+            
+Summa des Gesammteinkommens
+            
+Fr:
+            
+110,315[.] 7 –.
+            
+Aus dieser mit möglichster Sorgfalt und Vollständigkeit entworfenen Uebersicht
+                erhellet, daß – mit Ausnahme der im Jahr 1808. reducirten, aber noch nicht
+                erledigten Pfründe – die Besoldung der meisten übrigen, nach den angegebenen drey
+                Bestandtheilen zwischen Frk[en]. 800. und Frk[en]. 1000. fällt, bey einigen noch
+                geringer, bey wenigen etwas höher ist, und daß mithin der Wunsch nach einer
+                Besoldungsverbeßerung keineswegs befremden darf. 
+            
+Es ist freylich an dem, daß es unter der Geistlichkeit solche gibt, die
+                im Besitz eigenen Vermögens auch bey geringer Besoldung ihr Auskommen finden, und
+                daß hinwieder, in diesem so wenig als in andern Ständen allen Bedürfnißen des
+                unbegüterten abgeholfen werden kann. Allein der Staat hat sich mit dergleichen
+                persönlichen und abänderlichen Verhältnißen nicht zu befaßen, sondern sein Augenmerk
+                lediglich auf den Bedarf einer nach der heutigen Sitte möglichst
+                eingeschränkten, jedoch anständigen Lebensart zu richten; wobey nicht zu übersehen,
+                daß die Geistlichkeit größtentheils dem Mittelstand enthoben ist; daß die Erziehung
+                der Söhne, zu welchem Beruf es immer sey, durch die Entfernung aus dem väterlichen
+                Hause, je länger je kostbarer wird, und daß der geistliche Stand in der Regel keinen
+                anderweitigen Erwerb gestattet.
+            
+Aus allen diesen Betrachtungen hat sich der Kleine Rath von der
+                Zuläßigkeit und Annehmbarkeit der von dem E. Kirchenrath
+                vorgeschlagenen Besoldungs-Scala nach der von ebendemselben mit eigener näherer
+                Sachkenntniß projectirten Claßeneintheilung überzeugen und finden müßen, daß selbst
+                das Maximum derselben oder Frk[en]. 1320. [fl. 825] für den auf einer der mühsamern
+                Pfründe angestellten Pfarrer, vielleicht mit einer zahlreichen Familie
+                – was bey jeder Pfründe der Fall seyn kann – keineswegs als unverhältnißmäßig taxirt
+                werden könne, und ebensowenig die beyden andern Besoldungen von 1160. Frk[en]. [725.
+                fl.] und Frk[en]. 1000. [fl. 625] wo bey einem zwar geringen Geschäftsumfang die
+                Last der Erziehung, die nähmliche oder noch schwerer seyn kann.
+            
+Die Accidentien oder sogenannten Jura Stola, dürfen nicht in Berechnung fallen, da
+                dieselben bey uns als bloß freywillige Geschenke betrachtet, höchst zufällig sind,
+                und von Zeit, Ort und Umständen, zumal auch von dem Verhältniß abhangen, in dem ein
+                Pfarrer und seine Gemeinde zu einander stehen; und wenn auch dieselben in einigen
+                Gegenden nicht ganz unbeträchtlich seyn sollten, dennoch ihr Bestand nicht
+                gewährleistet, mithin bey der gegenwärtigen Berathung keine Rücksicht darauf zu
+                nehmen ist.
+            
+Was endlich die Extrabesoldungszulage für diejenigen Pfründe betrifft, die mit
+                Nebenfilialen beschwert sind, so walten hiefür so viele Billigkeitsgründe, daß der
+                    Kleine Rath kein Bedenken getragen hat, auch diese Gestattung
+                in den Gesetzesvorschlag aufzunehmen, und um so eher, als die Zahl der
+                wochentlichen Nebenfilialen sich auf 3., und derjenigen, die nur zu vierzehn Tagen
+                besorgt werden, auf 6. beschränkt.
+            
+Wenn nun aber der Kleine Rath dem von dem E.
+                    Kirchenrath vorgeschlagenen künftigen Besoldungsfuß dieser
+                Pfründe und der Extrazulage für Nebenfilialen, sowie der Anwendung der ehevorigen
+                Cameralpreise bey bey Berechnung der Naturalien seine Zustimmung nicht versagen
+                konnte, so fand derselbe hingegen das größte Bedenken, in die übrigen Forderungen
+                und Erwartungen der kirchlichen Behörde, nach dem Sinne derselben einzutreten.
+            
+Die eine betrifft die Maße der Naturalien, die der Geistlichkeit in den gleichen
+                Bestandtheilen, wie gegenwärtig, auch für die Zukunft unverändert überlaßen werden
+                sollte.
+            
+Die zweyte bezieht sich auf ein neues, allzutief eingreifendes System von
+                Personalzulagen.
+            
+Ueber den ersten Punct muß bemerkt werden, daß bey aller pflichtmäßigen Sorge für ein
+                angemeßenes Einkommen der Geistlichkeit, die Regierung zu allen Zeiten das
+                    Recht sich vorbehalten und ausgeübt hat, in der Art und Weise
+                desselben diejenigen Modificationen eintreten zu laßen, die durch höhere Rücksichten
+                geboten werden. So sind, früherer Beyspiele nicht zu gedenken, im Jahr
+                1808. die Verhältniße der Naturalien wesentlich verändert, und schon vorher bey
+                Entstehung der Loskaufgesetze, die Zehentpfründe, zu anerkanntem Vortheil der
+                Geistlichkeit, in sogeheißene Kastenpfründe abgeändert worden.
+            
+Nun aber, da in Folge eben dieser Gesetze, die Naturaleinkünfte des Staats so
+                beträchtlich abgenommen, daß der Weinertrag auch bey guten Jahrgängen nur
+                käumerlich, und bey Fehljahren lange nicht mehr hinreicht, die Competenzen zu
+                bestreiten, und der volle Geldersatz des Mangelnden die größten Mißverhältniße im
+                Besoldungswesen herbeyführt, so hätte auch, unabhängig von dem vorliegenden
+                Berathungsgegenstand, die ungesäumte Einleitung zu einer zweckmäßigen Beschränkung
+                der Weincompetenz geschritten werden müßen.
+            
+Ist dieß zwar einstweilen noch nicht in gleichem Maaß der Fall mit den trockenen
+                Früchten, so scheint es dennoch, zumal in der Ungewißheit der Zukunft, rathsam, auch
+                hierin eine Ermäßigung und zwar mit Rücksicht auf die Pfründe selbst, nicht länger
+                zu verschieben, da nach vielfältigen Erfahrungen mancher Pfarrer bey wohlfeilen <pb
+                    n="130"/>Zeiten sich durch das Uebermaaß von Früchten beschwert findet, und bey
+                theuern Zeiten der einte und andere leicht verleitet werden kann, die Würde des Amts
+                dem mehrern Privatvortheil unterzuordnen.
+            
+Dieß sind die Motive, die den Kleinen Rath dahin geleitet, den
+                schon oft zur Sprache gekommenen Vorschlag der pars congrua, das ist, einer
+                gleichmäßig bestimmten, bescheidenen, jedoch angemeßenen Dotation an Früchten und
+                Wein, als Basis der neuen gesetzlichen Verfügung über die künftige Besoldungsart der
+                betreffenden Geistlichkeit aufzustellen.
+            
+Nach demselben ist für jede Pfründe die von dem Kirchenrath je
+                nach der Claße angetragene Besoldung von Frk[en]. 1320., Frk[en]. 1160. und Frk[en].
+                1000. angenommen, mit Ausnahm jedoch einiger gutbefundenen Reductionen, die zusammen
+                Frk[en]. 1400. betragen, so daß die oben angezeigte Totalsumme von Frk[en]. 125,640.
+                auf Frk[en]. 124,240. zu stehen kommt.
+            
+An diese Besoldung bezieht jede Pfründe in der Regel:
+            
+30. Mütt Kernen.
+            
+15. Eimer Wein,
+            
+als muthmaaßlicher Hausbedarf, die übrigen Fruchtarten von geringerm Belang sind
+                soviel möglich bey dem bisherigen Quantum belaßen, alle aber nach der
+                Verschiedenheit der Mäße zu den alten Cameralpreisen angerechnet.
+            
+Wenn eine Pfründe unter diesem Normale erscheint, so liegt der Grund in dem stärkern
+                Fruchtquantum, das dieselbe an Nebengefällen bezieht.
+            
+Wofern das bestimmte Einkommen (die pars congrua) an Naturalien nicht geliefert
+                werden kann, wird das Mangelnde zu den laufenden Preisen in Geld ersetzt.
+            
+Sodann ist jeder Pfründe die sie betreffende Rata der Nebengefälle, eben so wie der
+                Ertrag der allfälligen Pfrundgüter, in Rechnung gebracht.
+            
+Was dann noch erforderlich ist, um das einer jeden Pfründe geeignete Einkommen zu
+                vervollständigen, wird von dem Staat baar zugelegt.
+            
+Hierauf gründet sich das beyliegende Tableau C., das ebenfalls in alphabetischer
+                Ordnung das künftige Einkommen der betreffenden Pfründe enthält, in summarischer
+                Uebersicht, nähmlich
+            
+Vom Staat.
+            
+An Früchten.
+            
+2995.
+            
+Mtt.
+            
+Kernen.
+            
+534.
+            
+Mltr.
+            
+Hafer.
+            
+105.
+            
+Mtt.
+            
+Roggen.
+            
+35.
+            
+“
+            
+Gersten.
+            
+15.
+            
+“
+            
+Bohnen.
+            
+1633.
+            
+Eimer
+            
+Wein.
+            
+5563.
+            
+Wellen
+            
+Stroh;
+            
+die zu den nähmlichen Preisen wie oben berechnet betragen
+            
+Fr.
+            
+44 866. –. –.
+            
+an baarem Geld
+            
+“
+            
+51 186. –. –.
+            
+Fr.
+            
+96 052. –. –.
+            
+An Nebengefällen
+            
+“
+            
+20 226. 6. 4.
+            
+An Güterertrag
+            
+“
+            
+7985. –. –.
+            
+Summa
+            
+Fr.
+            
+124,263. 6. 4.
+            
+Vergleicht man diesen Vorschlag mit der im Tableau B. enthaltenen Uebersicht des
+                gegenwärtigen Pfrundbestands, so ergibt sich, daß das Gesammteinkommen dieser
+                Pfründe sich vermindern wird, um
+            
+1217.
+            
+Mtt. Kernen.
+            
+64.
+            
+Mltr. Hafer.
+            
+940.
+            
+Eimer Wein.
+            
+An Werth berechnet
+            
+Fr.
+            
+19 809. –. –.
+            
+Dagegen an baarem Geld einen Zusatz erhält von 
+            
+“
+            
+33 757. –. –.
+            
+Mithin der Unterschied, dasjenige nähmlich, was der Staat als Verbeßerung der fixen
+                Pfrundbesoldungen anzuwenden erachtet ist, beträgt
+            
+“
+            
+13 948. –. –.
+            
+Hiezu kommt noch als Extra-Zulage für 3., wochentliche Nebenfilialen bey
+                    Altikon, Herrliberg und
+                Niederfhaßli à Frk[en]. 160.
+            
+“
+            
+480. –. –.
+            
+Für 6. vierzehntägige Filialen; Bey Baßerstorf, Ellikon,
+                Stammheim, Trüllikon,
+                    Wetzikon und Wyl bey
+                    Rafz à Fr. 80.
+            
+“
+            
+480. –. –.
+            
+Summa
+            
+Fr.
+            
+14 908. –. –.
+            
+Wenn nun aber dieser neue Besoldungsfuß die gesetzliche Sanction erhalten <pb n="133"
+                />sollte, so kann gleichwohl derselbe nicht in volle Anwendung gebracht werden, so
+                lange noch einige der im Jahr 1808. reducirten Pfründe unerledigt bleiben, indem den
+                betreffenden Competenziaren der lebenslängliche Genuß ihrer damaligen Einkünfte
+                zugesichert worden, welche Einkünfte in verschiedenen, einige in sehr bedeutendem
+                Grad die von dem E. Kirchenrath diesen Pfründen zugeschiedene
+                Besoldungen übersteigen. Der Mehrwerth mag nahe an Frk[en]. 3000. betragen, und
+                müßte einstweilen vom Staat geleistet werden, bis derselbe durch allmälig
+                eintretende Vakanzen theilweise, und endlich vollends erloschen seyn wird.
+            
+Der zweyte Punct, worüber der Kleine Rath sich abweichend zu
+                erklären im Fall ist, betrifft die den Pfarrherren anzuweisenden
+                Personal-Zulagen.
+            
+Die Erwartung des Kirchenraths geht dahin, daß dem, wie derselbe
+                dafür hält, mäßigen Besoldungsfuß durch dieses nach den ersten zehn Dienstjahren
+                eintretende und in den Anfangs bemerkten Verhältnißen steigend fortschreitende
+                Mittel nachgeholfen werde. Allein der Kleine Rath hat diese nach
+                dem Personale der Landgeistlichkeit circa Frk[en]. 25 000. erheischende jährliche
+                Staatsausgabe weder mit den Kräften des Ærarium ver- einbar, noch dem
+                Besoldungswesen im hiesigen Kanton angemeßen, überhaupt nicht von allgemein
+                dringlicher Natur befunden.
+            
+Wenn zu den neu ausgemittelten Besoldungen annoch die Wohnung nebst
+                    Garten und einigem Pflanzland und der äußerst mäßige Anschlag
+                der übrigen Güternutzung in Betracht gezogen wird – der zufälligen Einkünfte nicht
+                zu gedenken – so sollte ein Pfarrer auch bey mäßigem eigenem Vermögen und zumal in
+                den frühern Amtsjahren, sich zwar bescheidenlich aber wohl eben so gut wie mancher
+                ehrlicher Hausvater aus andern Ständen durchbringen mögen.
+            
+Diese Bemerkung hat keineswegs zur Absicht, die ganze Rubrik der Personalzulagen als
+                unzuläßig von der Hand zu weisen, wohl aber ihren zu weit ausgedehnten Umfang zu
+                beschränken, denselben die angemeßene Richtung nicht von unten herauf, sondern von
+                oben herab zu geben, und was bis dahin mit dem beßten Erfolg gegen Einzelne
+                geschehen, für eine bestimmte Zahl der ältern Herren Pfarrer gesetzlich eintreten zu
+                laßen.
+            
+Der Kleine Rath schlägt vor, diese Zahl auf XXX. festzusetzen, in
+                dem Maaße nähmlich, daß die XV. ältesten eine lebenslängliche Zulage
+                von Frk[en]. 320., und die XV. im Alter nächstfolgenden eine
+                solche von Frk[en]. 240. zu genießen haben sollen, und in der fernern Meynung, daß,
+                wenn einer der XXX. Beneficiaten wegen Leibesschwachheit sich genöthigt sähe, einen
+                beständigen Vicar zu halten, demselben, wie jedem andern Landgeistlichen unbenommen
+                sey, um das übliche Vicariats-Additament bey der Regierung einzukommen.
+            
+Hiebey aber fordert die Billigkeit, daß nicht nur die von der Staatscollatur
+                abhängende und vom Kirchenrath empfohlene Landgeistlichkeit,
+                sondern auch die unter fremder Collatur stehenden Landpfarrer, die Kantonsbürger und
+                nicht bereits hinlänglich dotirt sind, in’s Auge gefaßt, und selbst einiger
+                auswärtigen Pfründe von hiesiger Collatur Rechnung getragen werde.
+            
+Diese Bestimmung von Personal-Zulagen, deren jährlicher Betrag auf Fr. 8400.
+                ansteigen wird, beabsichtet den heilsamen Zweck, der Landgeistlichkeit die
+                ermunternde Aussicht auf Erleichterung im Alter zu eröffnen – und
+                sollte nach dem Ermeßen des Kleinen Raths, in Verbindung mit
+                allem bisdahin Angetragenen, den vollen Beweis leisten, wie geneigt die
+                Regierung ist, diesem ehrwürdigen Stand ihre landesväterliche Fürsorge nach
+                Möglichkeit der Staatskräfte angedeihen zu laßen.
+            
+Werden nämlich die verschiedenen Verbeßerungsvorschläge zusammen gefaßt, Frk[en]. 13
+                948. Besoldungszulage, Frk[en]. 960. Extrabesoldung für Nebenfilialen, und die so
+                eben erwähnten Personalzulagen, so resultirt die Totalsumme von Frk[en]. 23 308.,
+                die zwar nur an die Hälfte der ursprünglichen Forderungen des
+                    Kirchenraths reicht, indeß als neu eintretende Staatlast von
+                nicht zu verkennendem bedeutendem Belang ist.
+            
+Es steht allerdings zu erwarten, daß diejenigen Mitglieder der Landgeistlichkeit,
+                denen im Jahr 1808. ihr beßeres Einkommen auf Lebenszeit zugesichert worden –
+                vielleicht auch einige andere nach persönlichen und örtlichen Verhältnißen dem neuen
+                Besoldungsfuß nicht beytreten werden. Der Kleine Rath steht in
+                der Ansicht, daß hierin einem jeden die volle Freyheit gelaßen werden müße, zumal
+                mit dem Nichtbeytritt auch die Verzichtleistung auf die gesetzliche Personalzulage
+                erklärt sey; daß aber im Erledigungsfall einer solchen unveränderten Pfründe, die
+                neue Besoldung nach allen ihren Bestimmun- gen ohne weiters Statt
+                finden soll.
+            
+Da übrigens die gegenwärtige ganze Berathung und der nun vorzulegende Gesetzesentwurf
+                sich ausschließend auf die Landgeistlichkeit beziehen, – so wird zu gewärtigen seyn,
+                ob, neben dem günstigen Entscheid über diesen Hauptgegenstand, es der höchsten
+                Behörde gefällig seyn werde, nach Inhalt des XV.ten und letzten Artikels des
+                Entwurfs, den Kleinen Rath zu begwältigen, die so dringend
+                gewordene Beschränkung der Natural-Competenzen gleichmäßig auf die wenigen eigenen
+                Collatur-Pfründe in der Stadt anzuwenden und ebenso im Fall neu erwerbender
+                Patronatsrechte das nöthig erachtete im Sinn des gegenwärtigen
+                Gesetzes zu veranstalten.
+            
+Zürich, Donnerstags den 7. November 1822.
+            
+Im Nahmen des Kleinen Raths unterzeichnet:
+            
+Der Amtsburgermeister.
+            
+Reinhard.
+            
+Der Erste Staatsschreiber.
+            
+Landolt.
+            
+Gesetzesvorschlag
+            
+an den Großen Rath, betreffend die künftige Besoldung der
+                Landgeistlichkeit.
+            
+I.
+            
+Die sämtlichen 108. Pfarrpfründe, die unmittelbar von der Regierung
+                besetzt werden, sind nach einer auf die Bevölkerung der Gemeinden und den
+                Geschäftsumfang sich gründenden Eintheilung in drey Claßen
+                geordnet, wovon die erste 20. Pfründe; die zweyte 38; die dritte 50. Pfründe
+                enthält. Hiezu kommen 5. Filialen, die ebenfalls unter der Staatscollatur
+                stehen.
+            
+II.
+            
+Die Besoldung dieser Pfründe ist vom ersten Jenner 1823. an
+            
+für die 1ste Claße auf Frk[en].
+            
+1320.
+            
+“
+            
+“
+            
+2te Claße
+            
+“
+            
+“
+            
+1160.
+            
+“
+            
+“
+            
+3te Claße
+            
+“
+            
+“
+            
+1000.
+            
+und für die Filialen in angemeßenem Verhältniß festgesetzt; alles nach Inhalt des
+                specificirten Verzeichnißes, wovon ein Exemplar in dem Staatsarchiv niedergelegt und
+                ein zweytes dem E. Kirchenrath zu Handen gestellt ist.
+            
+III.
+            
+Die Pfrundbesitzer sind für ihr jährliches Einkommen angewiesen:
+            
+1.) Auf die von ihnen selbst an Frucht und Geldzinsen zu beziehenden sogeheißenen
+                Nebengefälle.
+            
+2.) Auf den Ertrag der Pfrundgüter, nach dem in gedachtem Verzeichniß für diese
+                beyden Titel 1. und 2. ausgemittelten Betrag.
+            
+3.) Auf die Besoldung vom Staat an Geld und Früchten. 
+            
+IV.
+            
+Da die durch den Loskauf von Zehnten und Grundzinsen verminderte Naturaleinnahm des
+                Staats, nicht weiter gestattet, die Competenzen an trocknen und naßen Früchten in
+                dem bisherigen Maaß abzuliefern, so ist das dießfällige Naturaleinkommen oder die
+                pars congrua auf 30. Mütt Kernen und 15. Eimer Wein bestimmt,
+                welche jede Pfründe in der Regel alljählrich vom Staat zu beziehen haben wird.
+            
+V.
+            
+Die Naturalien, die der Staat liefert, sowohl als diejenigen, die von Nebengefällen
+                herrühren, werden den Pfründen zu Frk[en]. 8. das Stück Zürchermäß angerechnet, und
+                ebenso der nach Stücken gewerthete Ertrag der Pfrundgüter.
+            
+VI.
+            
+Was über den Gesammtwerth der Nebengefälle, des Güterertrags und der
+                Natural-Competenz, zur vollständigen Besoldung jeder Pfründe nach der ihr
+                angewiesenen Claße annoch erforderlich ist, wird vom Staat baar entrichtet.
+            
+VII.
+            
+Sollte je der Staat bey ungünstigen Jahrgängen die übernommene Naturallieferung nicht
+                leisten können, so wird das Mangelnde zu den laufenden Mittelpreisen in Geld
+                ersetzt. 
+            
+VIII.
+            
+Jede Pfründe, die mit einer Nebenfilial verbunden ist, genießt eine
+                Extrabesoldungszulage, und zwar von Frk[en]. 160. wenn die Nebenfilial wöchentlich,
+                und von 80. Frk[en]. wenn dieselbe nur zu vierzehn Tagen besorgt wird.
+            
+IX.
+            
+Zu Erleichterung des Alters bey treu geleistetem Lehrberuf, und zwar mit Hinsicht auf
+                die gesammte Landgeistlichkeit, ist verordnet, daß XXX. Mitglieder derselben, welche
+                Kantonsbürger sind, eine jährliche Personalzulage zu genießen haben sollen, welche
+                in zwey Serien, für die XV. Ältesten auf Frk[en]. 320. und für die im
+                    Alter nächst darauf folgenden XV., auf Frk[en]. 240.
+                festgesetzt ist.
+            
+X.
+            
+An diesem Beneficium nehmen gleichen Antheil alle unter der Staats-Collatur sowohl
+                als unter fremder Collatur stehenden Landpfarrer, mit Ausnahme derjenigen von
+                Bärentschweil, Berg, Stäfa, Weißlingen
+                und Wyla, so lange ihre Besoldung in den gegenwärtigen Verhältnißen fortbesteht, und
+                endlich die im Kanton Thurgau von hieraus stationirten Pfarrer zu
+                    Aadorf, Hüttlingen, Felwen,
+                Neukirch, Neunforn, und Schönholzerschweilen.
+            
+XI.
+            
+Der Nachgenuß der Personal-Zulage bey Sterbefällen, ist für die Hin- <pb n="141"
+                />terlaßenen der nähmliche, wie bey dem Pfrundeinkommen.
+            
+XII.
+            
+Der E. Kirchenrath wird für ein genaues und fortgesetztes
+                Verzeichniß des Personale der betreffenden Geistlichkeit, nach den Altersjahren, zu
+                Handen der Regierung besorgt seyn, mittelst deßen auf den Fall der Erledigung irgend
+                einer dieser Zulagen die Nachfolge in jeder Serie zum voraus
+                richtig bestimmt sey.
+            
+XIII.
+            
+Sollte einer der Beneficiaten wegen Leibesschwachheit sich genöthigt finden, einen
+                beständigen Vicar zu halten, so ist demselben, wie jedem andern Landgeistlichen,
+                unbenommen, für Erlangung des üblichen Vikariats-Additaments sich an die Regierung
+                zu wenden.
+            
+XIV.
+            
+Es ist jedem Pfarrer, deßen Pfründe nach dem neuen Besoldungsfuß reglirt ist,
+                freygestellt, demselben beyzutreten, oder aber im lebenslänglichem Besitz und Genuß
+                seines gegenwärtigen Einkommens zu verbleiben. Mit der Erklärung des Nichtbeytritts
+                wird auf die Personal-Zulage, sowie auf ein allfälliges Filial-Additament
+                verzichtet. Wird aber eine der jetzt unverändert bleibenden Pfründe in der Folge
+                erledigt, so tritt für dieselbe ohne weiters der neue Besoldungsfuß ein. <pb n="142"
+                />
+            
+XV.
+            
+Der Kleine Rath ist beauftragt, und bevollmächtigt, die bey
+                fortschreiteder Abnahm der Naturaleinkünfte des Staats dringend gewordene
+                Beschränkung der Natural-Competenzen auch auf die Collaturpfründe in der Stadt
+                anzuwenden, und ebenso in Fällen, wo durch Uebereinkunft mit fremden Collatoren das
+                Patronatsrecht der Regierung mehrere Ausdehnung erhalten sollte, der dießfälligen
+                Pfründe halben das nöthig erachtete im Sinn des gegenwärtigen
+                Gesetzes zu veranstalten.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dem Churbaadischen Oberamt Emmendingen ertheilte Auskonft über die Kundschaft
+                    des Schneidergesellen Joh: Georg Kayser von Saxau.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-29"
+                            >29.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Dem Churbaadischen Oberamt Emmendingen ertheilte Auskonft über die
+                        Kundschaft des Schneidergesellen Joh: Georg Kayser von Saxau.</title><date
+                        when="1805-02-07">07.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0208</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page">47</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da es sich aus dem gestrigen Berichtschreiben des Herrn
+                Bezirksstatthalter Geßner ergiebt, daß derselbe [nach erhaltenem
+                Auftrag vom 5ten hujus] den Herrn Hs:
+                    Jacob
+                Vogel, Obmann der hießigen Schneidermeister, vorgefordert und
+                über die Ächtheit der von hier sub <date when="1803-10-31">31sten Octobris
+                    1803</date>. datierten Kundschaft des Schneidergesellen Joh: Georg
+                Kayser von Saxau vernohmen habe, worauf gedachter Herr Obmann
+                    Vogel die Kundschaft als ächt, und von ihm selbst eigenhändig
+                unterzeichnet anerkannt, auch eingestanden habe, den Namen des
+                    Meister
+                Bindschädler von Männedorf selbst hinein
+                geschrieben zu haben, weil er von diesem Meister ein
+                handschriftliches Einladungsschreiben erhalten habe, dem Gesellen
+                    Kayser eine Kundschaft auszufertigen, und er mithin bey der
+                Unterzeichnung nichts gefahret, wohl aber dem Gesellen den Rükweg von ein Paar
+                Stunden zu seinem Meister, erspart habe, – so wird Herr
+                Bezirksstatthalter Geßner dem Herrn Obmann
+                    Vogel seine dem Kleinen Rath mißfällig
+                gewesene, hierinfalls bezeigte Unvorsichtigkeit verweisen. Inzwischen ist das
+                Resultat der dießfälligen Untersuchung dem Churbaadischen Oberamt Emmendingen in
+                Beantwortung seiner Einfrage vom 30sten Jenner, und
+                unter Zurükstellung der für verdächtig gehaltenen Kundschaft, lt. Mißiven zu
+                überschreiben.
+        </body>
+    </text>
+</TEI>

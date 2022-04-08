@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Neue Reclamationen des Großherzoglich-Baadischen Donau-Kreis-Directorii zu
+                    Villingen, wegen des Bürgerrechts des Sebastian Kopp zu Langwiesen.</title>
+                <respStmt>
+                    <resp ref="#dsa" key="transcript">Transkript: dsa<date when="2010-04-16"
+                            >16.04.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Neue Reclamationen des Großherzoglich-Baadischen Donau-Kreis-Directorii
+                        zu Villingen, wegen des Bürgerrechts des Sebastian Kopp zu
+                        Langwiesen.</title>17.02.1816<ident>StAZH MM
+                        1.57 RRB 1816/0132</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.57</biblScope><biblScope
+                        unit="page">212–213</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Verlesung der Recharge des Großherzoglich-Baadischen Directoriums
+                des Donaukreises d. d. Villingen den 27sten Jenner,
+                worinn daßelbe auf sein früheres Schreiben vom <date when="1816-12-20">20sten
+                    December</date> v. J. sich beziehend, neuerdings das dießeitige Bürgerrecht zu
+                Langwiesen für den Sebastian
+                Kopp von Klengen anspricht, mit der Bemerkung, daß es dem
+                Bezirksamte Villingen den wiederholten Auftrag ertheilt habe, denselben bey seinem
+                jeweiligen Wiedererscheinen in seine neue Heymath nach Langwiesen zu verweisen, und
+                erforderlichen Falls selbst bis an die Schweizergränzen
+                transportieren zu laßen; – und nach Anhörung des von der <orgName>Commißion des
+                    Inneren</orgName> unterm 31sten Jenner
+                auftragsmäßig hinterbrachten Gutachtens, wurde das demselben beygelegte, von der
+                Einzugs-Section sehr sorgfältig ausgearbeitete Project einer Antwort an das genannte
+                Kreisdirectorium, wie dieselbe in den heutigen Mißiven enthalten und
+                ausgefertiget worden ist, nämmlich mit Weglaßung des auf die katholischen
+                Religionsverhältniße sich beziehenden Paßus, genehmiget. Es werden darinn alle
+                Gründe nochmahls bündig entwickelt, warum Kopp nicht als hießiger
+                Cantonsangehöriger und Bürger von Langwiesen betrachtet, und jemahls anerkennt
+                werden könne; und beygefügt, daß die hießige Cantonal-Polizeybehörde auch neuerdings
+                den Auftrag erhalten habe, den Kopp, wenn er früher oder später
+                in den hießigen Canton zurückkämme, mit seiner ganzen Haushaltung über die Grenzen
+                führen zu laßen.
+        </body>
+    </text>
+</TEI>

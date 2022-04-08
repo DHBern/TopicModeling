@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Einfrage der Verhör-Commißion des Kantons Schwyz, wegen inhaftirten Jaunern.
+Das Schreiben der Kriminal-Verhör-Commißion des Kantons Schwytz vom 8ten dieß, worinn sie mehrere daselbst inhaftirte Jauner namhaft macht, und, weil auch hier die Gefangenschaften von Inquisiten vollgepfropft seyen, und Auskunft ersucht, ob von den Mitschuldigen welche jene angegeben haben, sich in hiesigem Verhaft befinden, u: was sich allenfalls aus den, mit selbigen aufgenohmenen Verhören ergeben habe?, – ist dem Obergericht [laut Mißiven] zu Handen seiner Verhörkommißion mizutheilen, und daßelbe um Beantwortung der obigen Fragen zu Handen  der Regierung des Kantons Schwytz zu ersuchen.

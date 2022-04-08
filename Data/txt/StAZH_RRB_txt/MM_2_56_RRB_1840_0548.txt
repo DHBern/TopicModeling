@@ -1,0 +1,6 @@
+Ueberweisung mehrerer Eingaben an das Straßendepartement.
+Dem Straßendepartement werden nachfolgende von Gemeinden gemachte Eingaben überwiesen:
+1.) Von der Gemeinde Dorf betreffend eine Straße zweyter Classe aus dem Flachthale.
+2.) Von der Gemeinde Riedikon, betreffend die Anlage einer Straße zweyter Claße von Zürich über Mauer nach Wald.
+3.) Von der Gemeinde Rellikon betreffend die Anlage einer Straße zweyter Claße von Zürich über Pfaffhausen, Maur, Ueßikon, Rellikon nach Münchaltorf u. s. w.
+4.) Von Jacob Suter, Sager in Käpfnach, betreffend die dem dortigen Straßenzug zu gebende Richtung.

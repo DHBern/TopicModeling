@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antworten von Thurgau und Neuenburg, wegen des Unterstützungsgesuchs für
+                    junge studierende Geistliche aus den Waldensischen Gemeinden in Piemont.</title>
+                <respStmt>
+                    <resp ref="#gnä" key="transcript">Transkript: gnä<date when="2010-07-28"
+                            >28.07.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Antworten von Thurgau und Neuenburg, wegen des Unterstützungsgesuchs
+                        für junge studierende Geistliche aus den Waldensischen Gemeinden in
+                        Piemont.</title>09.12.1815<ident>StAZH MM
+                        1.56 RRB 1815/1151</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.56</biblScope><biblScope
+                        unit="page">193–194</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die L. Stände Thurgau und Neuenburg ersuchen in ihren Antworten
+                (ersterer ohne Datum, lezterer sub 4ten hujus) ehe
+                sie in Betreff des ihnen unterm 23sten passati
+                mitgetheilten Unterstützungsgesuchs der Waldensischen Gemeinden in Piemont für
+                einige studierende junge Geistliche daselbst, eine endliche Entschließung faßen, um
+                Auskunft über die ehemahligen Verhältniße und das Maaß der ehevorigen Beyträge der
+                Evangelischen Stände zu dem angezeigten Zwecke, und der L. Stand Neuenburg wünscht
+                unterrichtet zu werden, in welchem Verhältniß jeder dieser Stände ehemahls hiezu
+                beygetragen habe.
+            
+Diese Antworten sind, so wie die unterm 5ten dieß
+                verlesene des L. Standes St. Gallen, einstweilen aufzubewahren,
+                und sammt den noch zu gewärtigenden Ant- worten der übrigen
+                betreffenden L. Stände von der Canzley ad notam zu nehmen, um dann das Angemeßene zu
+                antworten und zu verfügen.
+        </body>
+    </text>
+</TEI>

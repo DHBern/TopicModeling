@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Obergerichtliche Strafsentenz über Gemeindammann Staub von Thalweil, und
+                    Schiffmann Staub von Tischenloo, als Vervollständigung des Strafurtheils über
+                    Johannes Schäppi von Oberrieden.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-03-07"
+                            >07.03.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Obergerichtliche Strafsentenz über Gemeindammann Staub von Thalweil,
+                        und Schiffmann Staub von Tischenloo, als Vervollständigung des Strafurtheils
+                        über Johannes Schäppi von Oberrieden.</title><date when="1806-11-01"
+                        >01.11.1806</date><ident>StAZH MM 1.20 RRB
+                        1806/1250</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.20</biblScope><biblScope unit="page">1–2</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die von dem Obergericht unterm <date when="1806-10-29"
+                    >29sten passati</date> (zur Vervollständigung des am <date when="1806-11-22"
+                    >22sten</date> ejusd. über den Johannes
+                Schäppi von Oberrieden ausgefällten
+                Strafurtheils), über den Gemeindammann Staub von Thalweil und den
+                    Schiffmann
+                Staub von Tischenloo ausgefällte Strafsentenz, wegen den
+                übereilten, leidenschaftlichen und unprocedurlichen Schritten, welche ihnen bey
+                Einleitung des Schäppischen Prozeßes, und besonders wegen ihres Benehmens
+                gegen die ganz unschuldig erklärten Rudolf
+                Scheller, Schiffmann von Thalweil und
+                    Marx
+                Widmer von Horgen, seßhaft in
+                    Oberrieden, zur Last fallen, – wird der <orgName>Justiz-
+                    und Polizey-Commißion</orgName> zu fernerer Execution zugestellt, und hievon dem
+                    Obergericht in Rükantwort Kenntniß gegeben.
+        </body>
+    </text>
+</TEI>

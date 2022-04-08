@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitgliederliste des Kleinen Raths.</title><respStmt><resp ref="#msu" key="transcript">Transkript: msu25.04.2003</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitgliederliste des Kleinen Raths.</title>01.09.1803-22.11.1803<ident>StAZH MM 1.3 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.3</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Herr Hans Reinhard, Bürgermeister.
+Herr Hs. Conrad Escher, Bürgermeister.
+Herr Hs. Conrad Escher, Rathsherr.
+Herr Paulus Usteri, Rathsherr.
+Herr Heinrich Steiner, Rathsherr.
+Herr Hs. Jakob Pestaluzz, Rathsherr.
+Herr Rudolf Rebmann, Rathsherr.
+Herr Hs. Jakob Walder, Rathsherr.
+Herr David Wyß, Rathsherr.
+Herr Hs. Conrad Finsler, Rathsherr.
+Herr Hs. Caspar Egg, Rathsherr.
+Herr Felix Escher, Rathsherr.
+Herr Diethelm Lavater, Rathsherr.
+Herr Hs. Caspar Frick, Rathsherr.
+Herr Hs. Jakob Hirzel, Rathsherr.
+Herr Salomon Bodmer, Rathsherr.
+Herr Hs. Caspar Schinz, Rathsherr.
+Herr Hs. Ulrich Kaufmann, Rathsherr.
+Herr Hs. Caspar Ott, Rathsherr.
+Herr Caspar Pfenninger, Rathsherr.
+Herr Heinrich Nievergelt, Rathsherr.
+Herr Heinrich Schärer, Rathsherr.
+Herr Salomon Rahn, Rathsherr.
+Herr Johann Heinrich Küfferholz, Rathsherr. </body></text></TEI>

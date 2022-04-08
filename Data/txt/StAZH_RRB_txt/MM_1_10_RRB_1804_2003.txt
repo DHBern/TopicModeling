@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antwort an das Churfürstl. Baadische Staabsamt Rötelen, wegen der Gemeinden,
+                    welche dorthin Restanzen zu entrichten haben.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-03-08"
+                            >08.03.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Antwort an das Churfürstl. Baadische Staabsamt Rötelen, wegen der
+                        Gemeinden, welche dorthin Restanzen zu entrichten haben.</title><date
+                        when="1804-12-06">06.12.1804</date><ident>StAZH MM 1.10 RRB
+                        1804/2003</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.10</biblScope><biblScope unit="page"
+                    >239–240</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach angehörtem Bericht der Finanz-Commißion vom
+                    3ten dieß, wurde gut befunden, an das
+                Churfüstlich Badische Staabsamt zu Rötelen auf deßelben beyde Zuschriften vom <date
+                    when="1804-08-31">31ten August</date> und <date when="1804-11-23">23sten
+                    passati</date>, in Betreff der von demselben gewünschten Insinuation gegen
+                diejenigen Gemeinden unsers Cantons, welche alte Zehenten-, Grundzins- und andere
+                Restanzen, die von den vormals Konstanzischen Besizungen herrühren, an
+                die Einnehmerey zu Rötelen zu entrichten schuldig sind, zu Gunsten dieser
+                betreffenden Gemeinden, das in den Mißiven enthaltene Schreiben zu erlaßen, und das
+                gedachte Staabamts über den Weg der rechtlichen Betreibung
+                erforderlichermaßen zu verständigen.
+        </body>
+    </text>
+</TEI>

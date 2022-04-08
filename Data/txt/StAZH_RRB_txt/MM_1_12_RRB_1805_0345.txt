@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verb‘scheidung des Herrn Pfarrer Veit zu Andelfingen wegen des Tauf- und
+                    Heimatscheinbegehrens des Johannes Isliker von Alten, Soldat in Holland.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-16"
+                            >16.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Verb‘scheidung des Herrn Pfarrer Veit zu Andelfingen wegen des Tauf-
+                        und Heimatscheinbegehrens des Johannes Isliker von Alten, Soldat in
+                        Holland.</title>26.02.1805<ident>StAZH MM
+                        1.12 RRB 1805/0345</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.12</biblScope><biblScope
+                        unit="page">200–201</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da es sich aus dem, von der Commißion des Innern
+                unterm 20sten dieß, in Folge Auftrags vom <date
+                    when="1805-02-09">9ten dieß</date>, hinterbrachten Bericht in betref des,
+                gegenwärtig in holländischen Diensten stehenden Soldats,
+                    Johannes
+                Isliker von Alten, welcher, um bey seinem Regiment bleiben zu
+                können, einen Tauf- und Heimatschein begehrt, von den Gemeinden Alten und
+                    Kleinandelfingen aber nicht als Gemeindsbürger anerkannt
+                werden will, ergiebt, daß außer der Ehgrichtlichen Erkanntnuß vom <date
+                    when="1805-08-13">13ten August</date> 1778. weder in den <pb n="201"
+                />Ehegerichtsprotocollen, noch in den Raths-Manualen irgend etwas enthalten sey, das
+                über den bürgerlichen Stand des Islikers mehreres Licht verbreitete, so wird der
+                Herr Pfarrer Veit zu Andelfingen, in
+                Antwort auf sein Schreiben vom 30sten Jenner
+                begwältigt, dem Isliker einen Taufschein, sowie er sich im
+                Taufbuch befindet, zugehen zu laßen, ihm aber dabey zu verdeuten, daß ihm kein
+                Heimatschein verabfolgt werden könne, indem weder die Gemeind Alten, noch die
+                Gemeind Kleinandelfingen ihn als ihren Gemeindsbürger
+                anerkennen wollen.
+        </body>
+    </text>
+</TEI>

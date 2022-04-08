@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>[Reglement für die Schulkapitel und die Schulsynode.]</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn17.03.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>[Reglement für die Schulkapitel und die Schulsynode.]</title>29.06.1847<ident>StAZH MM 2.96 RRB 1847/1075</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">438–455</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Reglement
+für die
+Schulkapitel und die Schulsynode
+[Gesetz vom 21. Christmonat 1846.[]]
+Die Schulkapitel.
+I. von den Schulkapiteln im Allgemeinen.
+§. 1. Die in einem Bezirke wohnenden Lehrer und Kandidaten der Primar- und Sekundarschule bilden das Kapitel des Bezirks.  
+Der Seminardirektor und die Lehrer des Seminars gehören zu dem Kapitel desjenigen Bezirks, in welchem sich das Seminar befindet. [§. 1. des Gesetzes]
+§. 2. Die Zahl und Reihenfolge der Kapitel ist folgende.
+das Kapitel des Bezirks Zürich.
+„	„	„	„	Affoltern.
+„	„	„	„	Horgen.
+„	„	„	„	Meilen.
+„	„	„	„	Hinweil.
+„	„	„	„	Uster.
+„	„	„	„	Pfäffikon.
+„	„	„	„	Winterthur.
+„	„	„	„	Andelfingen.
+„	„	„	„	Bülach
+„	„	„	„	Regensberg.
+§. 3. Von den vier ordentlichen Versammlungen der Kapitel [§. 3. des Gesetzes] findet eine im Frühlinge, zwei im Sommer und eine im Herbst Statt.
+§. 4. Zum Behufe der Kapitelsversammlungen sind sämmtliche in §. 1. bezeichneten Lehrer und Kandidaten verpflichtet. Außerdem haben auch Seminaristen, welchen die provisorische oder vikariatsweise Besorgung einer Schule übertragen ist, als Zuhörer den Kapitelsversammlungen beizuwohnen.
+Dem Direktor und den Lehrern am Seminar ist gestattet, im Besuche des Kapitels unter sich abzuwechseln. Ueberdieß steht dem erstern frei, die Versammlungen  auch anderer Kapitel zu besuchen.
+§. 5. Die Kapitelsversammlungen sollen in der Regel an Ferientagen abgehalten werden. Ist dieß nicht möglich und müßen die Schulen für einen Tag eingestellt werden, so haben die Lehrer den Präsidenten der Gemeindsschulpflege zu rechter Zeit davon Kenntniß zu geben.
+§. 6. Die Kapitel suchen die Fortbildung ihrer Mitglieder zu erzweken:
+durch praktische, nach Methode und Inhalt musterhafte Lehrübungen.
+durch schriftliche Aufsätze über Gegenstände des Schulwesens oder durch Mittheilungen aus vorzüglichen pädagogischen Schriften.
+durch Eröffnung und Besprechung von Ansichten und Erfahrungen im Schulfache und Berathung dießfälliger Wünsche und Anträge an die Synode oder an Staatsbehörden.
+durch Verbreitung guter Schulschriften.
+§. 7. Behufs der von den Kapiteln dem Erziehungsrathe über Einführung neuer oder wesentlichere Abänderung bestehender Lehrmittel für die Primarschule abzugebenden Gutachten [§. 2. des Gesetzes] werden die erziehungsräthlichen Vorarbeiten oder Entwürfe den Kapiteln in geeigneter Form zu einer Berathung mitgetheilt, nach welcher jedes derselben einen Abgeordneten zu einer Konferenz bezeichnet, durch welche das definitive Gutachten abzulaßen ist. Von der Wahl seiner Abgeordneten hat das Kapitel sofort dem  Erziehungsrathe Kenntniß zu geben, welcher die Einladung zu der Konferenz, sowie die Leitung derselben, bis sie den Präsidenten aus ihrer Mitte gewählt hat, dem ältesten Mitgliede überträgt. Der Seminardirektor wohnt der Verhandlung mit berathender Stimme bei.
+§. 8. Die Kapitel treffen die Wahlen ihrer Vorsteher, zweier Mitglieder in die Bezirksschulpflege und der Abgeordneten an die Prosynode [§. 2. und 14. des Gesetzes], sie berathen allfällige Wünsche, Anträge und Gutachten an die Synode oder an irgendeiner Oberbehörde [§. 10. des Gesetzes] und nehmen die auf die Kapitelsbibliotheken und die Lesezirkel, auf das Rechnungswesen u. s. f. bezüglichen Geschäfte vor [§. 2. des Gesetzes]
+§. 9. Alle Wahlen der Kapitelsversammlungen geschehen durch geheimes absolutes Stimmenmehr [§. 5. des Gesetzes] mit Ausnahmen von Wahlen in vorübergehenden Commißionen.
+§. 10. Aus den Berichten, welche die Kapitel alljährlich zu erstatten haben [§. 6. des Gesetzes], faßt der Seminardirektor einen allgemeinen Berichten der Kapitel und den Beilagen bis Anfang Mai dem Erziehungsrathe. Eine Abschrift dieses Jahresberichtes wird der Synode sammt den Spazialberichten durch den Erziehungsrath mitgetheilt.
+II. Vorsteher der Kapitel.
+§. 11. Das Kapitel wählt je das zweite Jahr in der auf die Synode zunächst folgenden ordentlichen Versammlung einen Präsidenten, einen Vicepräsidenten und einen Aktuar [§. 4. des Gesetzes]. Jeder definitiv angestellter  Lehrer ist verpflichtet, die Wahl für eine Amtsdauer anzunehmen. Von den getroffenen Wahlen ist dem Erziehungsrathe der Bezirksschulpflege, und der Vorsteherschaft der Schulsynode sofort Kenntniß zu geben.
+§. 12. Die Vorsteherschaft bestimmt die Zeit und den Ort der Versammlung, letztern mit Rüksicht auf geeignete Abwechslung.
+§. 13. Die Vorsteherschaft, und insbesondere der Präsident, hat über den gesetzesmäßigen und reglementarischen Gang der Kapitelsversammlungen, sowie über genaue Pflichterfüllung von Seite der einzelnen Mitglieder zu wachen, und Zuwiderhandelnde, wenn ihre Einwirkung fruchtlos bleiben sollte, der Bezirksschulpflege anzueignen. Ueber Abwesenheit, Verspätung u. s. f. wird von dem Aktuar ein besonderes Verzeichniß geführt, welches dem Jahresberichte beizulegen ist.
+§. 14. Die Vorsteherschaft bestimmt die in jeder Versammlung zu behandelnden Geschäfte und der Präsident setzt die Reihenfolge derselben fest. Die Versammlung kann jedoch in beiden Beziehungen die ihr nöthig scheinenden Abänderungen beschließen.
+§. 15. Die praktischen Lehrübungen übernimmt entweder einer der Vorsteher, oder der Präsident beauftragt damit einen der erfahrern und geübtern Lehrer, was jedoch wenigstens 3. Wochen vor der Versammlung geschehen muß.
+§. 16. Der Präsident theilt dem Kapitel zur Abfaßung schriftlicher Aufsätze die von dem beim zusammentritte der Kapitelspräsidenten aufgestellten Thematen zur Auswahl mit. Die Lehrer sind nicht an die letztern gebunden.
+§. 17. Nach Durchsicht der eingegangenen Aufsätze wählt  der Präsident einen der beßern und einen der geringern aus, stellt jeden wenigsten 3. Wochen vor der Versammlung einem Mitgliede zur schriftlichen oder mündlichen Beurtheilung zu.
+Die übrigen eingegangenen Aufsätze hat er der Kapitelsversammlung anzuzeigen und vorzulegen. Aus sämmtlichen Aufsätzen hebt er mehrere vom verschiedenem Werthe heraus, um dieselben mit dem Jahresbericht an den Erziehungsrathe zu senden.
+Von diesem werden die Aufsätze dem Seminardirektor zugestellt, der davon Einsicht zu nehmen und sie bei der nächsten Konferenz der Kapitelspräsidenten diesen zu Handen der Verfaßer zurükzustellen hat.
+§. 18. Die Vorsteherschaft faßt alljährlich über den Gang und die Verrichtungen des Kapitels einen umfaßenden Bericht ab, welcher spätestens bis Ende Dezember dem Erziehungsrathe einzuhändigen ist und sich auf folgende Punkte beziehen soll:
+Zeit, Ort und Gang der einzelnen Versammlungen.
+die in den schriftlichen Aufsätzen, praktischen Lehrübungen und mündlichen Besprechungen behandelten Gegenstände;
+Besuch der Versammlungen von Seite der Mitglieder, die Theilnahme und Leistungen derselben;
+das Ergebniß der Einberufung der Schulkandidaten [§. 30]
+Gang und Benutzung des Lesezirkels und der Bibliothek mit namentlicher Anführung der neu angeschaften Werke.  
+Der Erziehungsrath übersendet die sämmtlichen Jahresberichte zur Abfaßung des allgemeinen Berichtes an den Seminardirektor [§. 10.]
+§. 19. Der Kapitelspräsident ist verpflichtet, der Versammlung sämmtlicher Kapitelspräsidenten, welche jährlich ein Mal unter dem Vorsitze des Seminardirektors stattfindet, beizuwohnen.
+§. 20. Der Aktuar führt ein Verzeichniß der sämmtlichen Lehrer und Schulkandidaten des Kapitels, zu welchem Zweke dem Präsidenten durch die Kanzlei des Erziehungsrathes von jeder neuen Anstellung oder Versetzung Kenntniß gegeben wird.
+III. Zusammentritt der Kapitelspräsidenten.
+§. 21. Jedes Jahr im Februar versammeln sich auf den Ruf und unter dem Vorsitze der Seminardirektoren die Kapitelspräsidenten zu einer Konferenz, bei welcher in Behandlung kommen sollte:
+allfällige Eröffnungen des Erziehungsrathes, die Leistung der Kapitel betreffend;
+gegenseitige Mittheilungen über den Gang und die Resultate der Kapitelsverhandlungen im verfloßenen Schuljahre, und Berathung über Gang und Inhalt derjenigen des nächstfolgenden Jahres, namentlich mit Bezug auf die verschiedenen Aufgaben für die praktischen Lehrübungen, Aufsätze und Besprechungen, Hinweisung auf Anschaffung wünschbarer Bücher für die Bezirksbibliotheken;
+gutächtlicher Antrag an den Erziehungsrath rüksichtlich  der Stellung der Preisaufgabe für das betreffende Jahr;
+allfällige Wünsche und Anträge an den Erziehungsrath;
+§. 22. Ueber diese Konferenz der Kapitelspräsidenten hat der Seminardirektor beförderlich Bericht an den Erziehungsrath zu erstatten. Nach Behandlung der ausgesprochenen Wünsche, Vorschläge und Anträge macht der Erziehungsrath vor Beginn des neuen Schuljahres den Kapiteln die nöthigen Mittheilungen.
+IV. Pflichten der Kapitelsmitglieder.
+§. 23. Die Mitglieder des Kapitels sind verpflichtet.
+regelmäßig zur rechten Zeit in den Versammlungen sich einzufinden und dieselben ohne Erlaubniß des Präsidenten vor Beendigung der Geschäfte nicht zu verlaßen;
+Die erhaltenen Aufträge zur Vornahme praktischer Lehrübungen und Abfaßung der schriftlichen Aufsätze u. s. w. zu übernehmen und nach beßten Kräften auszuführen.
+Der Abfaßung von schriftlichen Aufsätzen sind diejenigen Mitglieder enthoben, welche bereits seit 15. Jahren im Zürcherischen Lehrbestande sich befinden; alle übrigen Mitglieder sind verpflichtet, innerhalb Jahresfrist wenigstens eine schriftliche Arbeit einzuliefern.
+§. 24. Gültige Entschuldigungsgründe für Absenzen sind:
+eigene Krankheit oder schwere Krankheit oder Tod eines nächsten Verwandten oder andere bedeutende Unglüksfälle in der Familie des betreffenden Mitgliedes; sie müßen wo möglich vor der Versammlung oder doch jeden-  falls innerhalb einer Woche nach derselben, dem Präsidenten des Kapitels schriftlich mitgetheilt werden.
+In allen andern Fällen von Abhaltung hat der Lehrer vor der Versammlung die Bewilligung des Kapitelspräsidenten für das Ausbleiben einzuholen.
+V. Gang der Kapitelsverhandlungen.
+§. 25. Jede Versammlung wird mit Gesang eröffnet und beschloßen. Auf den Eröffnungsgesang folgt die Verlesung des Protokolls und der Namensaufruf, sodann werden die Geschäfte in der festgesetzten Reihenfolge vorgenommen [§. 14]
+Die Behandlung der schriftlichen Aufsätze nebst den darauf bezüglichen Rezensionen, sowie die Besprechung anderer Gegenstände aus dem Gebiete des Volksschulwesens findet erst nach den praktischen Lehrübungen Statt. Die durchgesehenen Aufsätze werden mit Ausnahme derjenigen, welche als Beilagen zum Jahresberichte bestimmt sind, ihren Verfaßern sofort wieder zugestellt. In einer der vier Versammlungen ist die Rechnung und der Bericht über die Bibliothek zur Behandlung vorzulegen.
+§. 26. Die praktischen Lehrübungen werden womöglich mit Kindern vorgenommen. In vorzügliche Berüksichtigung kommt dabei die richtige Anwendung obligatorischer Lehrmittel. Nach Beendigung dieser Uebung findet unter den Mitgliedern im Kapitel eine Besprechung darüber Statt.
+§. 27. In derjenigen Versammlung, welche der Synode zunächst vorangeht, wird die Wahl eines Abgeordneten  an die Prosynode [§. 14. des Gesetzes] und die Beratung allfälliger Wünsche und Anträge an die Synode vorgenommen.
+VI. Fortbildung der Schulkandidaten.
+§. 28. Alljährlich erstattet der Seminardirektor unmittelbar nach der Konkursprüfung dem Erziehungsrathe einen kurzen schriftlichen Bericht über den Bildungsstand jedes einzelnen neu geprüften Schulkandidaten, und begleitet denselben mit allfälligen Andeutungen und Wünschen über die weitere Fortbildung des Betreffenden.
+Dieser Bericht ist ganz oder im Auszuge demjenigen Kapitelspräsidenten, in deßen Bezirk sich der Kandidat aufhält, durch die Kanzlei des Erziehungsrathes zuzustellen.
+§. 29. Jeder Schulkandidat ist verpflichtet, sich bei dem Kapitelspräsidenten desjenigen Bezirks, in welchem er wohnt, persönlich zu melden, um allfällige Ausweisungen von demselben zu empfangen.
+§. 30. Jedes Jahr beruft der Kapitelspräsident die Schulkandidaten ein Mal zusammen und läßt sie über ihre Leistungen Rechenschaft ablegen, namentlich mit Rüksicht auf gelesene Schulschriften, Besuche der Musterschulen und schriftliche Ausarbeitungen.
+Wo es der Präsident für nöthig hält, nimmt er mündliche und schriftliche Prüfungen vor, und ertheilt die nöthigen Belehrungen und Räthe.
+VII. Bibliotheken und Lesezirkel.
+§. 31. Jedes Kapitel hat eine stehende Bibliothek und erhält  zur Anschaffung von Schulschriften in dieselbe jährlich einen Staatsbeitrag von 30. Frkn. [§. 7. des Gesetzes]
+§. 32. Sämmtliche Mitglieder eines Kapitels sind berechtigt, Bücher aus der Bibliothek zu beziehen.
+§. 33. Zur Besorgung der Bibliothek wählt jedes Kapitel auf die Dauer von 2. Jahren einen Bibliothekar. Jeder definitiv angestellte Lehrer ist verpflichtet, die Stelle für eine Amtsdauer zu übernehmen.
+§. 34. Dem Bibliothekar liegt ob, einen vollständigen Katalog und genau schriftliche Kontrolle über Ein- und Ausgang der Bücher zu führen, und den Ersatz für verloren gegangene oder unbrauchbar gemachte Schriften von den betreffenden Mitgliedern einzuziehen, die Bibliothekskaßa zu verwalten, und alljährlich darüber der Vorsteherschaft zu Handen des Kapitels Rechnung abzulegen; endlich alljährlich eine Bereinigung der Bibliothek vorzunehmen und bis Ende Novembers der Vorsteherschaft einen schriftlichen Bericht darüber einzureichen, welche denselben sammt der Rechnung dem Jahresberichte beizulegen hat.
+§. 35. Die Mitglieder sind verpflichtet, die aus der Bibliothek bezogenen Schriften ohne vorhergegangene Aufforderung behufs der in §. 34. bezeichneten Bereinigung jedes Jahr mit Anfang November dem Bibliothekar einzusenden.
+§. 36. Ueber die Anschaffung sämmtlicher Bücher und Schriften hat die Vorsteherschaft unter Zuzug des Bibliothekars zu entscheiden. Jedoch ist das Kapitel befugt,  auch von sich aus über solche Anschaffungen Beschlüße zu faßen.
+Die Schulsynode.
+I. Von der Synode im Allgemeinen.
+§. 37. Zu der Schulsynode gehören die Mitglieder sämmtlicher Schulkapitel und die an den Kantonallehranstalten und den höhern Schulen Winterthurs angestellten Lehrer. Ueberdieß haben derselben drei Mitglieder des Erziehungsrathes mit berathender Stimme beizuwohnen. Die Mitglieder der Bezirskschulpflegen, der Aufsichtskommißionen der Kantonsschule und des Seminars [§.§. 8. und 9. des Gesetzes] können an den Versammlungen ebenfalls mit berathender Stimme Theil nehmen.
+§. 38. Die Synode versammelt sich jährlich im Monat August [§. 11. des Gesetzes] an einem von ihr selbst bezeichneten Orte. Der Ort für eine außerordentliche Versammlung wird von der Vorsteherschaft bestimmt.
+§. 39. Die Prosynode besteht [§. 14. des Gesetzes] aus den Vorstehern der Synode, je einem Abgeordneten jedes Kapitels, einem Abgeordneten der Hochschule, einem Abgeordneten der übrigen Kantonallehranstalten und einem Abgeordneten der höhern Schulen von Winterthur.
+Die Drei an die Synode abgeordneten Mitglieder des Erziehungsrathes und der Seminardirektor wohnen der Prosynode mit berathender Stimme bei.
+Zur Berathung von Anträgen, welche von einzelnen Mitgliedern ausgehen, sind die Antragsteller in die  Prosynode einzuladen.
+Die Prosynode tritt am Tage vor der Versammlung Synode zur Vorberathung sämmtlicher Geschäfte und zur Bestimmung der Reihenfolge, in welcher dieselben von der Schulsynode zu behandeln sind, zusammen.
+§. 40. Die Mitglieder der Schulsynode erscheinen in den Versammlungen in schwarzer Kleidung.
+§. 41. Alle Wahlen geschehen durch offenes absolutes Stimmenmehr. Müßen Nachmehre vorgenommen werden, so geht das erste derselben über diejenigen drei Vorgeschlagenen, welche die meisten Stimmen auf sich vereinigt haben.
+Bei gleichgetheilten Stimmen entscheidet das Loos.
+§. 42. Die beiden von Seite der Kantonallehranstalten an die Prosynode abzuordnenden Mitglieder [§. 14. des Gesetzes] werden das eine von sämmtlichen Profeßoren und Privatdozenten an der Hochschule unter Leitung ihres Rektors, das andere von den Lehrern des Gymnasiums, der Industrieschule und der Thierarztneischule unter Leitung des Rektors am Gymnasium durch geheimes absolutes Stimmenmehr gewählt.
+II. Geschäfte der Synode.
+§. 43. In jeder ordentlichen Versammlung findet die Aufnahme der neuen Mitglieder statt. Zu dem Ende hin haben diejenigen Lehrer, welche seit der letzten Versammlung in die Klaße der Primar oder Sekundarlehrer aufgenommen worden, insofern sie sich im Kanton befinden, sowie diejenigen, welche an den Kantonallehranstalten,  und an höhern Schulen zu Winterthur angestellt sind, die Verpflichtung, der nächsten ordentlichen Versammlung der Synode beizuwohnen. Die Kanzlei des Erziehungsrathes hat dieselben einzuladen und dem Präsidenten der Synode ein Namensverzeichniß zuzustellen.
+§. 44. Die Synode nim[m]t die Mittel zur Beförderung des Schulwesens und die darauf bezüglichen Wünsche und Anträge in Beratung. Solche Wünsche und Anträge von Seite der Kapitel oder einzelner Mitglieder sind dem Präsidenten der Synode spätestens 14. Tage vor der Versammlung einzureichen.
+§. 45. Die Synode hört in jeder ordentlichen Versammlung einen schriftlichen ausgearbeiteten Vortrag über irgend einen Gegenstand aus dem Gebiete des Schulwesens und ein beurtheilendes Referat über denselben an [§.]10 des Gesetzes]
+Dasjenige Mitglied, welches den Vortrag zu halten hat, wird von dem Kapitale nach ihrer Reihenfogle bezeichnet, und ist verpflichtet, die vollendete Arbeit bis Anfang Juli der Vorsteherschaft einzureichen, welche dieselbe einem ihr beliebigen Synodalen zur schriftlichen Beurtheilung zustellt. Nach Verlesung dieser Abhandlung wird die allgemeine Einfrage gestellt, und der Synode überlaßen, darüber in eine Diskußion einzutreten.
+Außerordentlicher Weise kann die Synode den Gegenstand der Abhandlung für die nächstfolgende Versammlung selbst festsetzen, und einen Bearbeiter dafür be-  zeichnen, oder dieses Geschäft der Vorsteherschaft der Synode übertragen.
+§. 46. In Bezug auf die in der Synode mitgetheilten Berichte [§. 10. des Gesetzes] entscheidet dieselbe, ob und welche sie ganz oder theilweise anhören und darüber eintreten wolle; den Bericht, betreffend Veränderungen in den Lehrmitteln, hat dasjenige Mitglied zu erstatten, welches von der betreffenden Versammlung der Kapitalsabgeordneten [§. 8. des Reglements] dafür bezeichnet wird.
+III. Vorsteher.
+§. 47. Die Synode wählt aus ihrer Mitte auf die Dauer von zwei Jahren eine Vorsteherschaft, bestehend aus einem Präsidenten, einem Vicepräsidenten und einem Aktuar. Jedes Mitglied ist verpflichtet, die Wahl für eine Amtsdauer anzunehmen.
+§. 48. Die Vorsteherschaft hat die Geschäfte der Synode vorzubereiten [an dem Versammlungsorte für ein geeignetes Lokal zu sorgen], die Beschlüße zu vollziehen, und nach jeder Versammlung dem Erziehungsrathe Bericht über ihren Gang und die Verhandlungen zu erstatten.
+§. 49. Dem Präsidenten liegt ob, die Einladungsschreiben zu den Versammlungen an die Mitglieder der Prosynode und der Synode durch das Mittel der Kapitelspräsidenten, der Rektoren an den Kantonallehranstalten und den Schulen Winterthur’s an den Semi-  nardirektor und die in §. 9. des Gesetzes bezeichneten Behörden zu erlaßen, die Versammlung zu leiten und die Beobachtung des Reglements zu wachen.
+§. 50. Der Aktuar hat zwei Wochen vor jeder Versammlung Tag und Ort derselben durch das Amtsblatt und einige öffentliche Blätter bekannt zu machen, die Protokolle und das Archiv, sowie den Druck und die Versendung der Verhandlungen [§. 16. des Gesetzes] zu besorgen und ein vollständiges Verzeichniß der Mitglieder der Synode zu führen.
+IV. Gang der Verhandlungen.
+§. 51. Die Schulsynode wird mit Gesang begonnen und beschloßen. Den Verhandlungen geht das Gebet und die Eröffnungsrede des Präsidenten voran, hierauf folgt der Namensaufruf der neu eintretenden Mitglieder, welche der Präsident mit einer kurzen Anrede der Synode vorstellt; sodann werden die Geschäfte in der von der Prosynode bezeichneten Reihenfolge vorgenommen.
+§. 52. Nach Erledigung der Geschäfte können Anträge von Kapiteln, welche von der Prosynode abgewiesen worden, von irgend einem Mitgliede vor die Versammlung gebracht werden.
+§. 53. Ueber jeden Berathungsgegenstand wird von dem Präsidenten ein beliebiges Mitglied, welchem vorher wo möglich davon Anzeige gemacht worden ist, in Anfrage gesetzt. Anträge sind zuerst vom betreffenden Antragsteller zu entwikeln.  
+§. 54. Bei der Berathung findet freies Wortbegehren statt; geschieht dieß von mehreren gleichzeitig, so hat der Präsident zu entscheiden, wem das Wort gestattet sei. Kein Mitglied darf zu sprechen beginnen, bis ihm von dem Präsidenten das Wort ertheilt worden ist. Der Schluß des Rathschlages tritt ein, wenn kein Mitglied mehr zu sprechen begehrt, oder wenn auf Antrag eines Mitgliedes von der Versammlung der Schluß erkannt wird.
+§. 55. Nach vollendeter Berathung fordert der Präsident das zuerst in Anfrage gesetzte Mitglied auf, seinen Antrag zu stellen. Hierauf folgen allfällige Gegen- oder Abänderungsanträge. Die Anträge sind jedesmal dem Präsidenten schriftlich einzugeben. Es kann hierauf zur Erläuterung derselben noch das Wort begehrt werden; doch hat sich der Redner hierbei der Kürze zu befleißen.
+§. 56. Der Präsident stellt die Fragen, über welche abzustimmen ist. Die Abstimmung geschieht durch Aufstehen und Schätzung, oder, wenn es verlangt wird, durch Zählung des Mehres und Gegenmehrs. Zu diesem Geschäfte bezeichnet der Präsident für jede Versammlung der Synode vier Stimmenzähler.
+§. 57. Jeder Verhandlungsgegenstand kann zu weiterer Vorberathung entweder an die Prosynode oder eine besondere Kommißion gewiesen werden. Im letztern Falle wird der Antrag der Kommißion von der Synode begutachtet.
+§. 58. Zur Handhabung des Reglements, so wie über die  Behandlungsweise eines Berathungsgegenstandes, kann jeder Zeit von einem Mitgliede eine Ordnungsfrage aufgeworfen werden, welche sogleich zu erörtern und zu entscheiden ist.
+Beschloßen Zürich den 3. Juni 1847.
+Vor dem Regierungsrathe.
+Der erste Staatsschreiber.
+Hottinger.<p/></body></text></TEI>

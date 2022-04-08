@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wangerischer Auffahl zu Stadel – Zügerin deßelben.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-03"
+                            >03.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Wangerischer Auffahl zu Stadel – Zügerin deßelben.</title><date
+                        when="1803-04-25">25.04.1803</date><ident>StAZH MM 1.1 RRB
+                        1803/0010</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.1</biblScope><biblScope unit="page">8–9</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die sub 5ten und <date when="1803-04-22"
+                    >22ten hujus</date> an das Justiz- und Polizeydepartement der nun aufgelöseten
+                Regierungscommißion gelangten Klagschriften des Districtsgerichts
+                    Bülach, in Betreff einer von dem Herren
+                Districts-Commißarius Angst von
+                Regensperg, zu Gunsten der Ehefrau des Falliten
+                    Wirth
+                Wanger von Stadel, die, als Zügerin des
+                Auffahls ihres Manns, von dem Districtsgericht Bülach um 55.
+                fl. 37. ß. 6. Hlr. Gerichts- und Kanzlei-Gebühren rechtlich getrieben wurde, – sub
+                31sten Martii letzthin verfügten
+                Rechtsstellung, – veranlaaßen den kleinen Rath, auch dem Herren
+                Districts-Commißarius Angst einen befürderlichen Amtsbericht über
+                sein dießfälliges Verfahren und die Beweggründe deßelben, abzufordern, damit alsdann
+                das Weitere verfügt werden könne. Von diesem Beschluß des <orgName>Kleinen
+                    Raths</orgName> ist auch dem Districtsgericht Bülach
+                durch Zustellung gegenwärtiger Erkanntnuß Notiz zu ertheilen, damit selbiges
+                einstweilen dießfalls keinen weitern Schritt thue, welches umso eher ohne deßen
+                Präjudiz geschehen kann, als der Herr Districts-Commißarius Angst
+                die Munizipalität Stadel persönlich für die Nichtveräußerung
+                der auf seinen Befehl der Wangerin wiederum eingetragenen Pfanden verantwortlich
+                gemacht hat.
+        </body>
+    </text>
+</TEI>

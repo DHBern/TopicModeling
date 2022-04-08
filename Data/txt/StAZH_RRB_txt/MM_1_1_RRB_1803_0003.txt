@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Herr Rathsherr Steiner setzt die Justiz- und Polizey-Geschäfte fort und wird
+                    ihm beigeordnet Herr Rathsherr Rahn.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-03"
+                            >03.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Herr Rathsherr Steiner setzt die Justiz- und Polizey-Geschäfte fort und
+                        wird ihm beigeordnet Herr Rathsherr Rahn.</title><date when="1803-04-25"
+                        >25.04.1803</date><ident>StAZH MM 1.1 RRB
+                        1803/0003</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.1</biblScope><biblScope unit="page">2</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Herr Rathsherr Steiner wird ersucht, die von der
+                gewesenen Regierungs-Commißion ihm übertragenen Justiz- und Polizey-Geschäfte bis zu
+                vollendeter Organisation dieses Regierungs-Zweiges ferner zu besorgen, und wurde
+                demselben bey der Mannigfaltigkeit der dießfälligen Geschäfte, Herr Rathsherr
+                    Rahn zur Unterstützung beygeordnet.
+        </body>
+    </text>
+</TEI>

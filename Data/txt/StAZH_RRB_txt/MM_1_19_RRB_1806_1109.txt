@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Centralhilfsgesellschaft in Bern übersendet von ihren vertheilten
+                    Unterstützungs-Geldern 500. Frk[en]. für Verbeßerung der Schulen in dürftigen
+                    Krieg mitgenohmenen Gemeinden unsers Cantons.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-02-01"
+                            >01.02.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Centralhilfsgesellschaft in Bern übersendet von ihren vertheilten
+                        Unterstützungs-Geldern 500. Frk[en]. für Verbeßerung der Schulen in
+                        dürftigen Krieg mitgenohmenen Gemeinden unsers Cantons.</title><date
+                        when="1806-09-13">13.09.1806</date><ident>StAZH MM 1.19 RRB
+                        1806/1109</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.19</biblScope><biblScope unit="page"
+                    >44–45</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da die Centralhilfsgesellschaft in Bern mit ihrem
+                Schreiben vom 31sten pass: anzeigt, daß sie die
+                Unterstützungsgelder, die sie jezt, bey wieder eingetrettenen beßern Umstände für
+                das Vaterland, noch besitze, unter die betreffenden Cantone zu repartieren
+                beschloßen, und da ihre Austheilung an die sämmtlichen Armen nicht zwekmäßig wäre,
+                dieselben für die Verbeßerung der Schulanstalten in dürftigen, durch den
+                    Krieg mitgenohmenen Gemeinden bestimmt habe, zu welchem Zweke
+                sie der hießigen Regierung eine Anweisung auf Herrn Salomon
+                Petaluz zum Steinbok, von dem Betrag von fünfhundert [500] Schweitzerfranken
+                übersendet, so wurde von dem Kleinen Rathe erkennt, dem Hochw:
+                Herren Decan Ith, als Präsidenten der Centralhilfsgesellschaft zu
+                    Bern, zu Handen derselben, diese edle und wohlthätige
+                Unterstützung in verbindlichen Ausdrüken, laut Mißiven, zu verdanken, mit der
+                Versicherung, daß diese Summe von dem hießigen Erziehungsrath,
+                ihrer Bestimmung gemäß werde verwendet werden; diesem Dankschreiben einen
+                Empfangschein zu Handen des Herren Altlandvogts Benoit, als Quästor der Cen- <pb
+                    n="45"/>tralhilfsgesellschaft in Bern für die empfangene
+                Anweisung von 500. Franken beizulegen, und dem
+                    Erziehungsrath die Anweisung selbst zu Handen zu stellen, mit
+                dem Ersuchen, den Betrag derselben bey Herren Pestalutz zum Steinbok zu erheben, und
+                alsdann zu Verbeßerung der Schulanstalten, in dürftigen, durch den
+                    Krieg mitgenohmenen Gemeinden unsers Cantons zu
+                verwenden.
+        </body>
+    </text>
+</TEI>

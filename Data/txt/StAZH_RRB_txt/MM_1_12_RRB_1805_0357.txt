@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Niederlaßungsbewilligung für den Perükenmacher Berillion.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-18"
+                            >18.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Niederlaßungsbewilligung für den Perükenmacher Berillion.</title><date
+                        when="1805-02-28">28.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0357</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >229–230</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf das Schreiben des Herrn Bezirksstatthalter Geßners in hier vom
+                heutigen Datum, wurde der Bittschrift des verheyratheten, und in hier wohnhaften
+                Perukenmachers August
+                Friedrich Berillion von Frankfurt an der Oder, entsprochen, und
+                demselben, da er von dem hießigen Stadtrath unterm <date when="1804-12-31"
+                    >31sten Decembris a. p.</date> die Bewilligung erhalten hat, sich ferner, und
+                zwar vier Jahre lang mit seiner Haushaltung in hießiger Stadt aufzuhalten, insofern
+                er während dieser Zeit als Gesell bey seinem gegenwärtigen, oder einem andern
+                    Meister, und nicht für eigne Rechnung arbeite, auch von Seite
+                der Cantons-Regierung die Niederlaßung für vier Jahre, und unter der vorerwähnten
+                Bedingung gestattet. Hievon wird sowohl dem Herrn Bezirksstatthalter
+                    Geßner, und dem hießigen Stadtrath, als dem Perukenmacher
+                Berillion, vermittelst gegenwärtiger Erkanntnuß Anzeige gegeben.
+        </body>
+    </text>
+</TEI>

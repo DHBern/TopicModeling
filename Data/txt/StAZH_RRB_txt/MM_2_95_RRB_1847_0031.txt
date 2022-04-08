@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß, betreff. Nachlaßvertrag zwischen der Civilgem. u. der
+                    Corporationsgenoßenschaft Wernhardhausen, Kirchgem. Hinweil, über die
+                    Auskaufssumme letzterer an erstere.</title>
+                <respStmt>
+                    <resp ref="#rsn" key="transcript">Transkript: rsn<date when="2010-11-22"
+                            >22.11.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beschluß, betreff. Nachlaßvertrag zwischen der Civilgem. u. der
+                        Corporationsgenoßenschaft Wernhardhausen, Kirchgem. Hinweil, über die
+                        Auskaufssumme letzterer an erstere.</title><date when="1847-01-07"
+                        >07.01.1847</date><ident>StAZH MM 2.95 RRB
+                        1847/0031</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.95</biblScope><biblScope unit="page"
+                    >29–352</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Regierungsrath hat auf den Antrag des Rathes des Innern [vom 16t. v.
+                M.] in Sachen der Civilgemeinde Wernhardhausen, [resp. der dortigen
+                Korporationsgenoßenschaft] Kirchgemeinde Hinweil, Rekurrentin:
+            
+gegen einen Beschluß des Bezirksrathes Hinweil, betreffend Ratifikation eines
+                Nachlaßvertrages:
+            
+Da sich ergeben:
+            
+A. Das Obergericht habe laut Urtheil vom <date when="1847-06-14"
+                    >14ten Juni</date> 1842. der Klägerin [Civilgemeinde Wernhardshausen] Eigenthum
+                an folgenden Liegenschaften zugesprochen, vorbehältlich der Nutzungsrechte der
+                Beklagten [Korporationsgenoßenschaft]
+            
+a. an der Waldung, Bachtel genannt, 145. Jucharten 2. Vrlg. 330.
+                    Fuß haltend,
+            
+b. an dem Hafelholz ein Feld ca. 10. Jucharten haltend:
+            
+c. an dem Wasenplatz:
+            
+d. an der Kiesgrube:
+            
+und die Beklagte verfällt der Klägerin den Rechnungssaldo von fl. 320. ß 20. Hlr. 6.
+                herauszugeben.
+            
+B. Abweichend von diesen Bestimmungen des obergerichtl. Urtheils sei dem gemäß einer
+                privatrechtlichen Uebereinkunft vom 3ten resp. <date
+                    when="1847-12-08">8ten Dezember</date> 1842. zwischen den frühern Litiganten die
+                Corporation ins Eigenthum an Holz und Boden im Bachthal und
+                Liegenschaften in Hafenholz eingesetzt und dagegen der Civilgemeinde die Kiesgrube,
+                der Wasenplatz, einige Löschgeräthschaften und eine Capitalsumme von fl.
+                925, zinstragend zu 4 % vom 1sten Januar 1843 an
+                zugetheilt worden, in dem Sinne, daß damit Bürgergut und Corporationsgut mit Rechten
+                und Lasten in jeder Beziehung und jederzeit gänzlich ausgeschieden sein sollen.
+            
+C. Nachdem dieser vom Bezirksrathe Hinweil unterm 5t. Januar 1843. genehmigte Vertrag
+                dem Rathe des Innern resp. Regierungsrath zur Ratifikation vorgelegen, habe am <date
+                    when="1847-04-20">20ten April</date> gl. Js. Rükweisung an den Bezirksrath mit
+                dem Auftrage Statt gefunden, den Werth der oben Fact. a. bezeichneten der
+                Civilgemeinde zugefallenen Grundstüke und den Umfang und Werth der Nutzungen, welche
+                die Korporation von denselben bezogen, ausmitteln zu laßen und überdieß noch zu
+                prüfen, ob nicht die Abtretung eines weitern Theiles jener Grundstück an die
+                Gemeinde den Intereßen und Bedürfnißen derselben beßer zusagen, als der getroffene
+                Auskauf mit fl. 925. an Geld, worauf der Bezirksrath auf gleicher Grundlage des von
+                den Contrahenten gegenseitig ausgeschiedenen Vermögensobjekte das Auskaufskapital zu
+                Gunsten der Civilgemeinde gestützt auf das Resultat der Abschätzung fraglicher
+                Liegenschaften und ihrer Nutzungen durch einen Experten von fl. 925. auf fl. 2712.
+                ß. 35. erhöht und den Ausscheidungsvertrag mit dieser Abänderung durch Beschluß vom
+                24t. April 1844 den Partheien zum Entscheide mitgetheilt
+                habe.
+            
+D. Mittelst Rekursnahme v. 30t. August 1844. sei von <pb n="31"
+                />der Korporationsgenoßenschaft Wernhardshausen gegen die von dem Bezirksrathe
+                beschloßene Erhöhung des Auskaufskapitals in jenem Betrage Beschwerde geführt
+                worden, weil die Schätzung des Experten, Herrn Hertenstein, auf
+                irrigen Voraussetzungen beruhe, da Rekurrentin mit ihren Berechtigungen [Nutzungen]
+                alle Eigenthumsrechte der Gemeinde am Bachtelwald (und Hafelholz absorbire, resp.
+                das Eigenthum der Letztern werthlos mache, und da andere Benutzungen der Rekurrentin
+                am Wasenplatze zu gering – an der Kiesgrube und ferner der Werth der
+                Löschgeräthschaften, die sie angekauft habe, in der Schätzung nicht angerechnet
+                worden seien, so daß, selbst ungerechnet den dießfälligen Werth, sie höchstens nur
+                fl. 523. ß. 19. Hlr. 6. Auskauf zu leisten hätte, nämlich fl. 203. ß. 17. laut Fact
+                b. des bezirksräthlichen Beschlußes und fl. 320. ß. 19. Hlr. 6. Rechnungssaldo laut
+                obergerichtlichem Urtheil, während sie fl. 925. anerboten habe.
+            
+Rekurrentin suche daher um Anerkennung des ursprünglichen Ausscheidungsvertrages
+                an.
+            
+E. Der Rath des Innern habe dem mit Rüksicht auf den Bericht des Bezirksrathes
+                Hinweil vom 26. Februar 1845. wonach derselbe bei dem
+                fraglichen Ausscheidungsbeschluß die beidseitigen Intereßen [der Civilgemeinde wie
+                der Corporationsgenoßenschaft] billig gewürdigt und namentlich die Rekurrentin mit
+                Schonung und Nachsicht behandelt, indem er zu Gunsten derselben in Betracht ihrer
+                ökonomischen Lage den Rechnungssaldo von fl. 320. ß 2. Hlr. 6. aus der
+                Berechnung gelaßen und entgegen der Ansicht des Experten die niedrigere Schatzung
+                für die Waldung angenommen, im Uebrigen einen Auskauf der Waldung vorzüglicher als
+                eine Theilung derselben weil in forstwirthschaftlicher Beziehung unzwekmäßig
+                gehalten habe, die Rekurrentin unter Bestätigung des bezirksräthlichen Beschlußes
+                abgewiesen und auf den Fall, daß die Rekurrentin die fragliche Auskaufssumme nicht
+                freiwillig bezahlen sollte, bestimmt, dieselbe nebst dem Rechnungssaldo auf dem
+                    Wege des Prozeßes einzufordern [Beschluß vom 16t. Juli
+                1845]
+            
+F. In Folge eines dringenden Nachlaßgesuches der Corporationsgenoßenschaft an die
+                Civilgemeinde wegen der sehr ungünstigen Zeitverhältniße und des voraussichtlichen
+                ökonomischen Ruins beinahe der Hälfte der Corporationsgenoßen, wenn an der
+                strenggerichtlichen Erfüllung des Auskaufes festgehalten werde, sei ein
+                Nachlaßvertrag von einer aus beiden Theilen gemischten Commißion errichtet, und von
+                der Civilgemeinde am 26t. Mai 1846. einmüthig angenommen worden,
+                demzufolge der Corporationsgenoßenschaft die Auskaufssumme von fl. 2712. ß. 35. auf
+                fl. 2000. herabgesetzt und ihr die drei verfallenen Zinse vom 1t. Januar 1843. bis
+                inclus. 31. Dezbr. 1845. im Betrage von fl. 325. ß. 21 ½ . nebst der
+                Prozeßentschädigung nachgelaßen sein sollen.
+            
+G. Unterm 8. Juli 1846. habe der Bezirksrath Hinweil
+                das Gesuch um Ratifikation dieses Nachlaßvertrages wegen Inkompetenz von
+                der Hand gewiesen, welches Gesuch von der Civilgemeinde bei dem Rathe des Innern mit
+                Schreiben vom 5t. September gl. Js. erneuert worden sei, mit dem Bemerken, daß sie
+                das Recht zu besitzen glauben, Jemandem eine Forderung ganz oder
+                theilweise zu erlaßen, und eine solche Handlungsweise um im Rechnungswesen sicher zu
+                gehen, durch die kontrollirende Behörde rechtfertigen zu laßen. Der Bezirksrath –
+                zur Berichterstattung aufgefordert – berufe sich vorerst auf seinen Berichte vom
+                26t. Februar 1845., füge dem aber hinzu, daß bloß vom Gesichtspunkt der
+                Vermögensverhältniße der Petenten betrachtet, sich gegen einen Nachlaß nicht viel
+                einwenden laße, obgleich für den Einzelnen der vielen Antheilhaber der Betrag von
+                keiner großen Bedeutung sei, daß dagegen mit Rüksicht auf das
+                    Wesen der Sache selbst ein Nachlaß in keiner Hinsicht
+                gerechtfertigt erscheine, zumal auch das Intereße von fl. 2000. Gemeindgut kaum den
+                Anforderungen für bevorstehende Straßenbauten etc. in der Gemeinde Hinweil, wovon
+                Petentin einen Bestandtheil bilde, gewachsen sein werde, obwohl dieselbe das
+                Gegentheil – aber wohl nicht im Ernst ausspreche. [Bericht vom
+                4t. Novbr. 1846]
+            
+H. Aus den eingegangenen Civilguts-Rechnungen, von Wernhardshausen von 1842.–45.
+                zeige sich eine gewöhnliche Ausgabe durchschnittlich pr. Jahr von fl. 45. und mit
+                Inbegriff der außerordentlichen Ausgaben im Jahr 1843. im Betrag von ca. fl. 195.
+                komme der Durchschnitt auf fl. 93. 
+            
+in Berücksichtigung:
+            
+1. Daß vorerst die Behauptung der Rekurrentin unrichtig ist, als ob die Gemeinde als
+                Kreditorinn zu einem Nachlaß berechtigt sei, indem dieser Nachlaß nichts anders ist,
+                als ein Eingriff in das Stammkapital der ohne Bewilligung der Aufsichtsbehörde nicht
+                stattfinden kann.
+            
+2. Daß eine etwelche Reduktion der ins Gemeindgut zu werfenden Summe sich
+                rechtfertigt, wenn man die schwierigen Zeitverhältniße die Verschuldung der
+                Gerechtigkeitstheile, den ökonomischen Zustand der Gemeinde überhaupt, den
+                bisherigen Betrag der Gemeindsausgaben in Vergleichung mit dem jetzigen Gute, so wie
+                den Umstand ins Auge faßt, daß, wo die ordentlichen Einnahmen nicht hinreichen, die
+                Eigenthümer des Waldes als Bürger oder Ansäßen wieder zur
+                Dekung der Ausgaben beizutragen haben.
+            
+3. Daß indeß dieser Nachlaß nicht so weit gehen kann, wie die Petenten verlangen,
+                indem der Standpunkt der Billigkeit in den frühern Beschlüßen schon in bedeutender
+                Maße berüksichtigt wurde; 
+            
+beschloßen:
+            
+I. Es sei das Auskaufskapital der Corporationsgenoßenschaft an die Gemeinde auf
+                zweitausend siebenhundert Gulden, zinstragend vom 1t. Januar 1846. an festgesetzt,
+                    II. Verbleibe es im Uebrigen bei dem Beschluße des Bezirksrathes
+                Hinweil vom 24t. Juni 1844.
+            
+III. Sei der Bezirksrath eingeladen, dafür zu sorgen, daß obige Summe in den
+                Einnahmen der Gemeinderechnung des Jahres 1847. erscheine;
+            
+IV. Trage die Korporationsgenoßenschaft die Kosten dieses Beschlußes bestehend in 2.
+                Frkn. Staats- 1. Frkn. Canzlei nebst den Ausfertigungs- und Stempelgebühren.
+            
+V. Sei hievon dem Bezirksrathe Hinweil, sowie der Rekurrentin und der
+                Corporationsgenoßenschaft Wernhardshausen [unter Rükstellung der eingelegten Akten]
+                durch das Mittel das Statthalteramtes Kenntniß zu geben.
+        </body>
+    </text>
+</TEI>

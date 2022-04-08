@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mehrere Officiere aus Goßau bitten, daß Herr Oberst Ziegler zum
+                    Waffencommandanten gewählt werde.</title>
+                <respStmt>
+                    <resp ref="#lmr" key="transcript">Transkript: lmr<date when="2010-11-19"
+                            >19.11.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Mehrere Officiere aus Goßau bitten, daß Herr Oberst Ziegler zum
+                        Waffencommandanten gewählt werde.</title><date when="1840-04-06"
+                        >06.04.1840</date><ident>StAZH MM 2.56 RRB
+                        1840/0609</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.56</biblScope><biblScope unit="page">109</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Ein aus Goßau vom 31sten v. M. datirtes
+                Schreiben, durch welches eilf Officiere dortiger Gegend den Wunsch aussprechen, daß
+                Herr Oberstlieutenant Ziegler zum Waffen-Commandanten der
+                Infanterie gewählt werden möchte, ist, da die Wahl bereits Statt gefunden, lediglich
+                ad acta zu legen.
+        </body>
+    </text>
+</TEI>

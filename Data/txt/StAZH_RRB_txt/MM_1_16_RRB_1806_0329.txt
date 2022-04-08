@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Herr Landammann der Schweiz notificiert die officielle Anzeige von der Übergabe des Fürstenthumms Neuchatel und Vallengin von dem König von Preußen an den Französischen Kayser.
+Dem Herren Landammann der Schweitz ist die Mittheilung der Hochdemselben, von dem Herren Freyherrn von Chambrier, außerordentlichem Bottschafter Sr. Majestät des Königs von Preußen in der Schweiz,  in verbindlichen, und die fortgesezte Zuneigung Sr. Majestät gegen die Eydgenoßenschaft zusichernden Ausdrüken, gemachte officielle Anzeige, daß, in Folge der, von Sr. Königlichen Majestät mit dem Kayser von Frankreich eingegangenen Verkommniße, das Fürstenthumm Neuchatel und Vallengin, Allerhöchst diesem Leztern übergeben worden sey, – laut Mißiven, verbindlich zu verdanken.

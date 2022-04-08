@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Regierung von St. Gallen wird die Paternitätsklage der Anna Stucki von
+                    Obermoos, Pfarre Rüti, gegen Hs. Jacob Hilpertshauser von Wildhaus zu Handen des
+                    dortigen Gerichts überwiesen.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-04-29"
+                            >29.04.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Der Regierung von St. Gallen wird die Paternitätsklage der Anna Stucki
+                        von Obermoos, Pfarre Rüti, gegen Hs. Jacob Hilpertshauser von Wildhaus zu
+                        Handen des dortigen Gerichts überwiesen.</title><date when="1823-02-04"
+                        >04.02.1823</date><ident>StAZH MM 1.82 RRB
+                        1823/0101</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.82</biblScope><biblScope unit="page"
+                    >97–98</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf einen Bericht und Antrag des Lbl. Ehegerichts d.
+                d. 30sten pass., wird der Regierung des Lbl. Standes
+                St. Gallen von der Eheverspruchs- und Paternitätsklage der
+                    Anna
+                Stucki, Heinrichs Tochter von Obermoos,
+                Pfarre Rüti, gegen den Wittwer
+                Hs. Jacob
+                Hilpertshauser von Wildhaus Kenntniß
+                gegeben und das Ersuchen beygefügt, daß die Verehelichung dieser Personen wo möglich
+                gestattet, nicht zuläßlichen Falles aber die Klage zu gerichtlicher Beurtheilung
+                verwiesen, und die Sentenz seiner Zeit wieder hieher einbegleitet werden möchte.
+        </body>
+    </text>
+</TEI>

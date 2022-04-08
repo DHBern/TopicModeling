@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Pflege des Krankenhauses am Oetenbach empfiehlt den Herrn Balber, Arzt
+                    daselbst, wieder zu einer Erhöhung des wöchentlichen Kostgeldes für die
+                    Kranken.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: rbp<date when="2010-03-24"
+                            >24.03.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2009
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Pflege des Krankenhauses am Oetenbach empfiehlt den Herrn Balber,
+                        Arzt daselbst, wieder zu einer Erhöhung des wöchentlichen Kostgeldes für die
+                        Kranken.</title>06.01.1818<ident>StAZH MM
+                        1.65 RRB 1818/0006</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.65</biblScope><biblScope
+                        unit="page">303–304</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Aus der Zuschrift der Pflege des Krankenhauses am Oetenbach vom <date
+                    when="1817-12-31">31sten passati</date> ergiebt sich, daß Herr Balber, Arzt am
+                Oetenbach, versichert, er sey durch die ihm durch Rathserkanntnuß vom <date
+                    when="1818-05-31">31sten May</date> 1817. auf sein damaliges Ansuchen wegen der
+                außerordentlichen Theure der Lebensmittel ertheilten 600. Frk[en]. von
+                    Martini 1816. bis dahin 1817. bey dem hohen Preise des
+                Brodes kaum zur Hälfte entschädigt worden, und deswegen genöthigt, neuerdings dafür
+                anzusuchen, daß ihm von Martini 1817. an, eine den <pb n="304"
+                />Zeitumständen angenmeßene Erhöhung des bisherigen wöchentlichen Kostgeldes von 2.
+                fl. für die Person bewilligt werden möchte, wozu ihn die Pflege sehr angelegen
+                empfiehlt. 
+            
+Diese Zuschrift wird der L. Finanz-Commißion zu Hinterbringung
+                ihres Gutachtens überwiesen. 
+        </body>
+    </text>
+</TEI>

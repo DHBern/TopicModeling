@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Enltaßung des Herrn Grenadierhauptmann Schmid von Tagelschwangen, und Wahl
+                    des Junker Emil Meis an seine Stelle.</title>
+                <respStmt>
+                    <resp ref="#: d" key="transcript">Transkript: : 30.03.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Enltaßung des Herrn Grenadierhauptmann Schmid von Tagelschwangen, und
+                        Wahl des Junker Emil Meis an seine Stelle.</title><date when="1816-01-25"
+                        >25.01.1816</date><ident>StAZH MM 1.57 RRB
+                        1816/0072</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.57</biblScope><biblScope unit="page"
+                    >117–118–</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf angehörte Weisung der L. Militar-Commißion vom <date
+                    when="1816-01-20">20sten d. M.</date>, ist dem Herrn
+                    Hauptmann
+                Wilhelm
+                Schmid von Tagelschwangen, die wegen erreichtem gesetzlichen <pb
+                    n="118"/>Dienstentlaßungs-Alter anverlangte Dimmißion von der rühmlich
+                bekleideten Hauptmannsstelle der Grenadier- oder ersten Freycompagnie im <date
+                    when="1816-01-03">3ten</date> Quartier des zweyten Militarkreises, unter
+                kräftigster Hochobrigkeitlicher Verdankung der in diesem Verhältniß vieljährig und
+                auch noch während des lezten Feldzugs geleisteten vorzüglich geschickten und
+                getreuen Dienste ertheilt, und hierauf zum Hauptmann der vacanten
+                Grenadier-Compagnie einmüthig gewählt worden:
+            
+Junker Emil Meis von Zürich, bisheriger
+                    Hauptmann der Füsilier-Compagnie No. VI. im dritten Quartier
+                des 1sten Militar-Kraises.
+            
+Demselben ist ein Brevet auf das aus der Contrôle zu ersehende Datum des früheren;
+                dem entlaßenen Herrn Hauptmann
+                Schmid aber, so wie der L. Militar-Commißion und den beyden
+                Herren Quartierhauptleuten Wehrli und Honnegger; die gegenwärtige
+                Erkanntnuß zugestellt worden; worbey übrigens die Meynung waltet, daß die vacante
+                Compagnie No. VI. im 3ten Quartier des <date
+                    when="1816-01-01">1sten</date> Kreises einstweilen unbesetzt bleiben möge. 
+        </body>
+    </text>
+</TEI>

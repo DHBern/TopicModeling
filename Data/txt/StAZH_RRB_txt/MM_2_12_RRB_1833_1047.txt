@@ -1,0 +1,15 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Bestimmung der Verhandlungsgegenstände des Großen Raths in der Sommersitzung.</title><respStmt><resp ref="#sbh" key="transcript">Transkript: sbh07.12.2009</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority><pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Bestimmung der Verhandlungsgegenstände des Großen Raths in der Sommersitzung.</title>14.06.1833<ident>StAZH MM 2.12 RRB 1833/1047</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.12</biblScope><biblScope unit="page">58(59</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Es hat der Regierungsrath heute nachfolgende Geschäfte als Verhandlungsgegenstände für die auf den 24. d. M. einzuberufende Versammlung des Großen Rathes bezeichnet und den HHerren Präsidenten des Großen Rathes eingeladen, solche in das Einladungsschreiben aufzunehmen. 
+Dem Straßen-Departement wurde der Auftrag gegeben, seinen Antrag wegen der Straße von Winterthur auf Schaffhausen beförderlichst einzubringen.
+1.) Bericht der Ehrengesandtschaft über die ordentliche Tagsatzung vom Jahre 1832.
+2.) Instructionsanträge des Regierungsrathes für die Ehrengesandtschaft auf die ordentliche Tagsatzung des Jahres 1833.
+3.) Antrag zu einem Beschluße des Großen Rathes in Bezug auf die Einholung der Sanction der Bundesverfaßung.
+4.) Bericht und Antrag des Regierungsrathes in Bezug auf eine Uebereinkunft über den Directorialfond.
+5.) Gesetzesvorschlag in Betreff der Organisation einer Handelskammer.
+6.) Bericht und Antrag in Bezug auf die kleinen Zölle der Stadt Zürich.
+7.) Bericht und Antrag des Regierungsrathes in Bezug auf eine Uebergangsbestimmung zur neuen Besoldung einiger Geistlichen des Cantons.
+8.) Gesetzesvorschlag der Revisions-Commißion in Bezug auf die Gebühren der Zunftgerichte bey Straffällen.
+9.) Bericht des Regierungsrathes über den Anzug wegen der Straße von Winterthur nach Schaffhausen.
+10.) Wahl eines Mitgliedes des Großen Rathes und zweyer Ersatzmänner des Ober- und Criminalgerichtes.
+11.) Petitionen.<p/></body></text></TEI>

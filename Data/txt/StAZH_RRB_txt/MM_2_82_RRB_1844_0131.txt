@@ -1,0 +1,25 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Abweisung des Rekurses des Sekundarlehrer Martin in Wald, betreff. Verweisertheilung, Einschränkung in den Visitationen u. s. w.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn10.11.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Abweisung des Rekurses des Sekundarlehrer Martin in Wald, betreff. Verweisertheilung, Einschränkung in den Visitationen u. s. w.</title>27.01.1844<ident>StAZH MM 2.82 RRB 1844/0131</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.82</biblScope><biblScope unit="page">30–33</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Antrag der verordneten Comission in Sachen des Sekundarlehrer Martin in Wald, Rekurrenten
+gegen
+einen Beschluß des Erziehungsrathes, betreffend Verweisertheilung, Einschränkung in den Visitationen u. s. w.
+Da sich ergeben:
+Der Erziehungsrath habe unter dem 23t. August v. J.
+in Erwägung:
+in einer wesentlichen  Beziehung unerfüllt ließ.
+b. Daß Hr. Martin in seinem Jahresberichte in Betreff der Stellung der Religionslehrer an dieser Schule als eigene Wahrnehmungen und Thatsachen hingestellt habe, wofür er in seinen nachherigen Depositionen und Erklärungen vor dem Präsidenten der Bezirksschulpflege keine andern Inzichten anzuführen wußte – als eine beiläufige klagende Äußerung des Herrn Pfarrer Hug selbst, somit seine erstern Angaben als leichtfertig erscheinen.
+beschloßen:
+I. Es sei dem Herrn Sekundarlehrer Martin vom Präsidenten der Bezirksschulpflege in allfälliger Zuziehung einiger Mitglieder dieser Behörde im Namen des Erziehungsrathes ein ernster Verweis zu ertheilen.
+II. Der Erziehungsrath gewärtige, daß die Bezirksschulpflege in Vertheilung der Schulen behufs der Visitation mit Hinsicht auf §. 13. l. 2. des Gesetzes betreffend die Organisation der Bezirksschulpflegen die Thätigkeit des Herrn Martin namentlich in Bezug auf die Sekundarschulen möglichst beschränke und stetsfort von sich aus genügend übermachen werde, mit der Einladung über seine Leistungen im nächsten Jahresberichte speciellen Bericht zu erstatten.
+– nach Einsicht und Prüfung der Rekursschrift, sowie der sehr ausführlichen Berichterstattung des Erziehungsrathes 
+in Berücksichtigung.
+1. Daß die Bemerkung des Visitators in seinem Jahresberichte über dem Religionsunterricht nicht die Grenzen einer freimüthigen Äußerung seiner Ansichten zu überschreiten scheine.  
+2. Daß der Rekurrent den gesetzlich vorgeschriebenen Pflichten [Gesetz betreffend die Organisat. der Bezirksschulpflege[]][§. 14.] als Visitator der Sekundarschule Wetzikon nicht entsprochen hat, indem es ihm nebst andern oblag, die Pflichterfüllung des Lehrers zu überwachen, was aber nicht geschehen ist, davon dem Visitator die verderbliche Geistesrichtung, welche den Schülern von dem Lehrer eingepflanzt worden und welche für beide so traurige Folgen haben mußte, entweder auf eine höchst fahrlässige Weise nicht wahrgenommen und bekämpft, oder aber wißentlich verschwiegen wurde und erst zu spät in seinem Jahresberichte vom 3t. Juli 1843. auf ein nachtheiliges Verhältniß hingewiesen hat.
+3. Daß demselben durch die Beantwortung der ihm von dem Präsidenten der Bezirksschulpflege Hinweil vorgelegten Fragen Gelegenheit zur Verantwortung gegeben worden ist;
+4. Daß der erziehungsräthliche Beschluß in Art. 2. die Beschränkung der Thätigkeit des Hrn. Martin auf seine Stellung als Visitator bezieht, deßen Wirkungskreis zu bestimmen laut §. 13. des erwähnten Gesetzes der Bezirksschulpflege zusteht.
+5. Daß daher jedenfalls der Erziehungsrath innerhalb der Schranken seiner Competenz gehandelt hat und es nicht in der Stellung des Regierungsrathes liegen kann, ohne erhebliche Gründe hierauf noch näher einzutreten;
+gefunden:
+Es ist der Rekurs im Sinne obiger Berücksichtigungen im Wesentlichen unbegründet und demnach    
+I. Ist der Beschluß des Erziehungsrathes vom 23t. August v. J. bestätigt; 
+II. Trägt Rekurrent die Canzlei- und Ausfertigungsgebühren;
+III. Wird hievon dem Erziehungsrathe für sich und zu Handen der untergeordneten Behörden, sowie dem Rekurrenten durch das Mittel des Statthalteramtes Hinweil, Kenntniß gegeben.<p/></body></text></TEI>

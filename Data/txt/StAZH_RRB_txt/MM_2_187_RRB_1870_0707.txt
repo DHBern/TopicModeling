@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>[Fortsetzung der Berathung des Reglements für die kantonale Irrenanstalt im Burghölzli.]</title><respStmt><resp ref="#lla" key="transcript">Transkript: lla15.05.2014</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2014<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>[Fortsetzung der Berathung des Reglements für die kantonale Irrenanstalt im Burghölzli.]</title>25.03.1870<ident>StAZH MM 2.187 RRB 1870/0707</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.187</biblScope><biblScope unit="page">707–709a</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+§ 38.
+In Zeile 1. soll es statt: „Angestellten“ heißen: „Beamten“.
+§ 39.
+In der zweitletzten Zeile soll es statt „der Regierung“ heißen: „dem Regierungsrathe“.
+§ 40.
+erhält, vorbehältlich der Redaktion bezüglich der Begutachtung des Direktors u. Verwalters, folgende Fassung:
+„Der Direktor, der Sekundararzt, die Assistenzärzte u. der Verwalter werden auf den unverbindlichen Vorschlag der Direktion der kantonalen Kranken[-] u. Versorgungsanstalten nach eingeholtem Gutachten des Direktors, beziehungsweise Verwalters, gewählt u. entlassen.“
+§§ 41.–43.
+werden angenommen; nur soll es in § 41., Zeile 6. und in § 42, Absatz 3, Zeile 2 u. 3. statt: „die Regierung“ heißen: „der Regierungsrath“. Die Redaktion der Uebergangsbestimmungen wird suspendirt.
+In der hierauf folgenden Wiedererwägung des § 35. wird der Satz: 
+„Im übrigen … verantwortlich“ gestrichen. 
+Der suspendirte § 2. erhält nunmehr folgende Fassung:
+„Zur Aufnahme ist erforderlich:
+für alle Kranken:
+1. ein Heimatszeugniß;
+2. die Sicherstellung der Zahlung der Verpflegungsgelder.
+Außerdem:
+a. für Kranke, die nicht auf ihr eigenes Ansuchen, sondern auf Veranlaßung ihrer nächsten Angehörigen, beziehungsweise Vormünder, Vormundschafts- oder Armenbehörden aufgenommen werden sollen,
+1. die schriftliche Zustimmung der Angehörigen oder Vormünder, Vormundschafts- oder Armenbehörden, unter Bezeichnung der Verpflegunsklasse, in welcher der Kranke verpflegt werden soll;
+2. eine die Geistesstörung constatirende ärztliche Krankengeschichte. (Beil. 1.)
+b. für Kranke, welche ohne ihren eigenen Willen u. denjenigen ihrer Angehörigen auf Veranlassung einer Polizeibehörde aufgenommen werden sollen:
+1. ein Protokoll des Statthalteramtes, durch welches dargethan wird, daß der Kranke u. s. f. wie im Entwurf.
+2. wie im Entwurf.
+Der erste Absatz des § 5. erhält folgende Fassung:
+„Die Direktion ist ermächtigt, einen Kranken, auch wenn die vorgeschriebenen Beilagen nicht erfüllt sind,  provisorisch aufzunehmen, sobald Gefahr auf dem Verzuge steht. Immer aber wird für solche Ausnahmsfälle die Vorlegung wenigstens eines ärztlichen Zeugnisses u. die nachträgliche Beibringung der fehlenden Ausweise verlangt.
+Die suspendirten §§ 8 u. 22. werden nach dem Entwurf angenommen, dagegen wird § 33. nochmals suspendirt.
+Hierauf werden die Beilagen I u. II. unverandert [sic!] angenommen.
+In Beilage III. wird die Kostenvergütung für Kantonsfremde der zweiten Klasse auf täglich 3–4. Fr: u. diejenige für die erste Klasse mit Streichung der Worte: „Kantonsbürger oder Kantonsfremde“ auf täglich mindestens 5 Fr: festgesetzt.
+In Zeile 3. von unten wird nach den Worten: „eintreten zu lassen“ eingeschoben: „sowie bei längerer Dauer des Aufenthaltes die Taxe auf diejenige Höhe zu setzen, welche bei gleichen Vermögensverhältnissen für die Versorgung in der Pflegeanstalt Rheinau gilt.“
+In Beilage IV. wird der erste Satz in folgender Weise gefaßt: „Der von den Kranken der dritten Verpflegungsklasse zu leistende Jahresbeitrag an die Kleidung ist vom Regierungsrathe auf 60 Fr: festgesetzt.“
+Es wird am Protokoll vorgemerkt, daß die Beilage [sic!] V. bis u. mit VII. als Bestandtheile des Reglements in dem Sinne zurückgezogen werden, daß deren Inhalt bei vorkommenden Bedürfnisse einem eigens auszufertigenden Prospekte einverleibt werden sollen. <p/></body></text></TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß, betreffend die Genehmigung des vorgelegten neuen Planes für den
+                    Zuchthausbau.</title>
+                <respStmt>
+                    <resp ref="#dsa" key="transcript">Transkript: dsa<date when="2010-09-30"
+                            >30.09.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beschluß, betreffend die Genehmigung des vorgelegten neuen Planes für
+                        den Zuchthausbau.</title><date when="1829-11-12"
+                        >12.11.1829</date><ident>StAZH MM 1.108 RRB
+                        1829/0946</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.108</biblScope><biblScope unit="page"
+                    >166–169</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+In Gemäßheit Rathsbeschlußes vom <date when="1829-01-13">13ten
+                    Januar</date> d. J. legte die L. Zuchthausbau-Commißion mit einem vom <date
+                        when="1829-10-31">31sten v. M.</date> datirten umständlichen Berichte einen von
+                Herrn Spitalpfleger Escher im Felsenhof im Laufe dieses Jahrs
+                neuerdings ausgearbeiteten, auf sieben Blättern enthaltenen Plan eines neuen
+                Zuchthauses nebst einer denselben erläuternden Beschreibung, einigen von Herrn
+                    Escher beygefügten schriftlichen Bemerkungen und einer von
+                Herrn Staatswerkmeister Stadler verfertigten, bis ins Einzelnste
+                gehenden Kostenberechnung zur Prüfung vor. 
+            
+Dieser Plan, welcher, in Vergleichung mit den frühern, vom <orgName>Großen
+                    Rathe</orgName> unterm 21sten Juny 1827.
+                gutgeheißenen, den einzigen unerheblichen Nachtheil zeigt, daß die Zahl der
+                Schlafzellen von 190. auf 187. vermindert ist, zeichnet sich hingegen vor demselben
+                    hauptsächlich durch seine geringere Kostspieligkeit vortheilhaft
+                aus, indem nach der verfertigten Berechnung die Gesammtkosten des Baues auf fl
+                124,916. 16. ß. ansteigen würden, während jener frühere Bauplan eine Summe von fl
+                150,000. erfordert hätte. Auch stehen der Ausführung des Baues nach dem nunmehrigen
+                    Plane von Seite der benachbarten Hauseigenthümer keine
+                Schwierigkeiten mehr entgegen, zumahl der einzige, welcher gegen das errichtete neue
+                Baugespann Schwierigkeiten erhoben, Herr Bodmer in der Werdmühle,
+                seither gegen Entrichtung des Betrags von fl 600. und gegen Abnahme von beyläufig
+                500. Sägebäumen und 1000. Stück Bretern von seiner Einsprache abzustehen sich
+                verpflichtet hat. 
+            
+Nachdem der Kleine Rath sowohl den vorgelegten Plan als die zu
+                deßen Empfehlung aufgestellten Gründe in sorgfältige Überlegung gezogen, und sich
+                dabey neuerdings von der diesem Gegenstand gewidmeten Sorgfalt der L.
+                Zuchthausbau-Commißion, so wie ins Besondere von der sachkundigen und
+                uneigennützigen, höchst verdankenswerthen Thätigkeit des Herrn Spitalpfleger
+                    Escher zu seinem großen Wohlgefallen überzeugt, hat er über
+                diesen Gegenstand einmüthig folgenden Schluß gefaßt:
+            
+1.) Da der vorgelegte Bauplan einerseits alle bey dem beschloßenen
+                Zuchthausbau beabsichtigten Zwecke erfüllt, anderseits genugsame Gewährleistung
+                enthält, daß die von dem Großen Rath dafür bewilligte Summe von
+                240,000. Frk[en]. bey Ausführung des Baues unter keinen Umständen werde überstiegen
+                werden: so ist derselbe von dem Kleinen Rathe genehmigt und soll
+                dem Großen Rathe in seiner nächsten ordentlichen Versammlung mit
+                dem Antrag auf unveränderte Genehmigung vorgelegt werden.
+            
+2.) Der L. Finanz-Commißion wird der Auftrag ertheilt,
+                allervorderst auszumitteln, was für ein Beytrag von Seite andrer öffentlicher
+                Anstalten zum Behuf der Ausführung des beschloßenen Baues geleistet werden möchte,
+                und als dann mit möglichster Beförderung über die Art und Weise, wie die Kosten des
+                Baues auf die ordentlichen Staatseinnahmen während einer längern Reihe von Jahren zu
+                verlegen seyn dürften, einen Antrag zu berathen und zu hinterbringen.
+            
+3.) Das von der L. Zuchthausbau-Commißion mit Herrn Bodmer in der
+                Werdmühle geschloßene Verkommniß wird von dem Kleinen Rathe
+                gutgeheißen, und es soll deßnahen, sobald der Große Rath den
+                vorliegenden Bauplan genehmigt und seine Ausführung wird beschloßen haben, dem <pb
+                    n="169"/>Herrn Bodmer die Summe von fl 600. als Entschädigung
+                für die Nachtheile, so er von der Baute erleidet, ausbezahlt, dagegen aber von
+                demselben ein Revers verlangt werden, des Inhalts, daß weder er noch die Seinigen
+                jemahls, es möge die Baute nach dem gutgeheißenen Plane
+                früher oder später zur Ausführung kommen, irgend eine Einsprache dagegen erhoben
+                werden.
+            
+Von diesem Beschluße wird der Lbl. Finanz-Commißion Mittheilung
+                gemacht.
+        </body>
+    </text>
+</TEI>

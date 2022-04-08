@@ -1,0 +1,12 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Ernennung von Hauptleuten der Infanterie.</title><respStmt><resp ref="#sbh" key="transcript">Transkript: sbh06.01.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority><pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Ernennung von Hauptleuten der Infanterie.</title>01.08.1833<ident>StAZH MM 2.12 RRB 1833/1323</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.12</biblScope><biblScope unit="page">267</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Es hat der Regierungsrath auf die Anträge des Kriegsrathes vom 22. 29. und 30. v. M. zu Hauptleuten der Infanterie beym ersten Auszuge ernannt:
+a.) Herrn Joh. Conrad Schmid von Eglisau.
+b.) Herrn Jacob Tobler von Robank, Pfarre Wetzikon.
+c.) Herrn Hs. Caspar Keller im Oberhof, Pfarre Fischenthal.
+d.) Herrn Jacob Staub von Zürich.
+Ferner zu Hauptleuten der Infanterie beym zweyten Auszuge.
+a.) Herrn Rudolf Zangger von Unterstraß, auf dem Riedli.
+b.) Herrn Josua Wettstein von Baltenschweil, Pfarre Baßerstorf, Aide-Major.
+Ferner zu einem Hauptmann bey der Cavallerie des ersten Auszuges, der Herr Oberlieutenant Carl Vögeli von Zürich; und endlich zu einem Major beym vierten Bataillon des zweyten Auszuges, Herrn Georg Heinrich Forrer von Winterthur.
+Von diesen Ernennungen wird dem Kriegsrath, den betreffenden Herren Waffen-Commandanten, und den Ernannten, Letztern mittelst Zustellung von Brevets Kenntniß gegeben.<p/></body></text></TEI>

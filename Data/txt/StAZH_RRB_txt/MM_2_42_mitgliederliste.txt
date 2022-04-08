@@ -1,0 +1,24 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#csn" key="transcript">Transkript: csn12.02.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>14.04.1838-02.06.1838<ident>StAZH MM 2.42 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.42</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+MHHerrn Joh. Conrad Melchior Hirzel von Zürich, Amtsbürgermeister.
+MHHerrn Joh. Jacob Heß von Zürich, Bürgermeister.
+MHHerrn Johannes Hegetschweiler, M. D. von Rifferschweil.
+MHHerrn Joh. Ludwig Meyer von Knonau von Zürich.
+MHHerrn Eduard Sulzer von Winterthur.
+MHHerrn Heinrich Hüni von Horgen.
+MHHerrn Melchior Friedrich Sulzer von Winterthur.
+MHHerrn Hartmann Keller von Glattfelden.
+MHHerrn Ulrich Hauser von Wädenschweil.
+MHHerren Hs. Jacob Huber von Dielsdorf.
+MHHerrn Joh. Jacob Fierz von Küßnacht.
+MHHerrn David Bürgi von Adentschweil.
+MHHerrn Heinrich Hotz im Balgrist.
+MHHerrn Heinrich Escher von Zürich.
+MHHerrn Heinrich Schäppi von Wipkingen.
+MHHerrn Hs. Ulrich Zehnder M. D. von Engstringen.
+MHHerrn Hs. Caspar Hirzel von Zürich.
+MHHerrn Heinrich Weiß von Fehraltorf.
+MHHerrn Hartmann Krauer von Zürich.
+Staatsschreiber:
+MHHerrn Joh. Heinrich Hottinger von Zürich, 1er Staatsschreiber.
+MHHerrn Joh. Conrad Meyer von Knonau, 2er Staatsschreiber.</body></text></TEI>

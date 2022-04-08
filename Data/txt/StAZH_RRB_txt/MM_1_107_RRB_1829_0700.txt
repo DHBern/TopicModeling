@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Legationsberichte von der Tagsatzung.</title><respStmt><resp ref="#jvs" key="transcript">Transkript: jvs20.10.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Legationsberichte von der Tagsatzung.</title>13.08.1829<ident>StAZH MM 1.107 RRB 1829/0700</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.107</biblScope><biblScope unit="page">223–235</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+In heutiger Sitzung wurde der 14te, 15te und 16te Legationsbericht von der Tagsatzung verlesen.
+18. Sitzung am 3ten August.
+§. 9. Die Rechnung der Militär-Aufsichtsbehörde wird an den Verwaltungsrath zur Prüfung verwiesen.
+§. 6. Eidgenößische Militär-Inspectionen.
+Der Militär-Aufsichtsbehörde wurde ihr dießfälliger Bericht verdankt, und soll derselbe in den Abschied aufgenommen werden.
+19. Sitzung vom 4. August.
+Eine Note des Herrn von Rayneval, die Anzeige enthaltend, daß Sn. Majestät, der König von Frankreich, die Vollziehung des neuen Strafcodex verweigert habe, wird der betreffenden Commißion überwiesen.
+§. 13. Eidgenößischer Generalstab.
+Dem Herrn Oberst Caspar Heß von Zürich wird die begehrte Entlaßung, unter Anerkennung seiner geleisteten  Dienste bewilligt.
+Auch das Ansuchen des Herrn Oberstlieutenant Alexander Freudenreich um Entlaßung wird genehmigt.
+Von dem Hinschied des Herrn Oberst Niklaus von Reinhold von Freyburg wird Anzeige gemacht.
+Die Wiederbesetzung der Stelle eines Oberstquartiermeisters und andrer Vacanzen im Generalstabe, wurde auf künftiges Jahr verschoben.
+Zum Oberstkriegs-Commißär ward einmüthig gewählt, Herr Heinrich Hirzel, Regierungsrath und Miliz-Inspector des Kantons Thurgau.
+Zu Majoren wurden befördert, die beyden Stabshauptleute Herr David Nüscheler von Zürich und Herr Octav Wielandi von Genf.
+§. 14. Reglement für die Gesundheitspflege der Eidgenößischen Armee.
+Nach angehörten Bemerkungen und Desiderien mehrerer Stände, wurde selbiges nochmahls an die Aufsichtsbehörde zur Revision zurückgewiesen.
+§. 16. Besetzung der Eidgenößischen Militär-Aufsichtsbehörde.
+Die wegen Austritt des Herrn General Finsler auf 3. Jahre zu besetzende Stelle, wurde dem HHerrn Burgermeister und Oberst Herzog übertragen. Die zwey einjährigen hingegen, den Herren May von Büren und Ledergerw von Wyl.  
+§. 37. Antrag der Römischen Regierung zu Abschließung eines Vertrags über Auslieferung der Verbrecher.
+Mit 14. Stimmen wurde beschloßen, es bey den bisherigen Verhältnißen bewenden zu laßen.
+§. 27. Rechnung der Central-Caßa.
+Rechnungsjahr vom 1. July 1828. bis 30sten Juny 1829.
+Einnahme		Frk[en]. 79750. 8. B. ½. R.
+Ausgabe		  “          64072. 2.  “ 5½. “
+			                                            Saldo Frk[en].15,678. 5.  “  5.  “ 
+Diese Rechnung wurde mit Dank gegen die Herren Rechnungssteller abgenommen und beschloßen, zur Bestreitung der Bedürfniße des mit 1stem July 1829. beginnenden Rechungsjahres, einen Achttheil des verfaßungsmäßigen Geldcontingents mit Frk[en]. 67409. 3. B. 7. R. auszuschreiben, davon die eine Hälfte im Laufe des nächstkommenden Herbstmonaths, die andere aber im Lauf des Monaths Jenner 1830. an die Central-Caßa entrichtet werden solle.
+§. 42. Invalidenfond.
+Die darüber abgelegte Rechnung wurde mit dank gegen den Herrn Rechnungssteller, MHHerrn Rathsherrn von Muralt, abgenommen.
+Dieser Fond besteht gegenwärtig noch aus Frk[en]. 15145. 8. B. 6. R.
+Die Erklärungen der Hohen St[ä]nde Waadt, Freyburg, Bünden und Zug, über vorhabende Vermehrung des Fonds, wurden mit Vergnügen aufgenommen.  
+
+20ste Sitzung vom 6ten August.
+15ter Legationsbericht.
+Die, wegen Anwerbung von Landesfremden in die mit dem Auslande capitulirten Schweizertruppen, niedergesetzte Commißion rapportirte und machte den Antrag zu folgendem Beschluße: „Wenn ein Landesfremder, welcher in einem Schweizerregimente angeworben worden, heimathlos wird, so soll ihn derjenige Kanton als Bürger annehmen, in deßen Compagnie er angeworben worden ist.“
+Zu diesem Vorschlage stimmten mit Zürich 14. Stände.
+§. 28. Linthunternehmen.
+I. Zu dem von 17. Stimmen angenommenen letztjährigen Beschluß, betreffend die Auflösung der Schatzungscommißion, die Aufstellung der Linthcaßa-Commißion und die Fortsetzung der Liquidationsarbeiten, stimmten nunmehr auch Unterwalden, Zug und Freyburg. Uri und Wallis nehmen keinen Antheil.
+II. Gleichfalls gaben für die bereits mit reglementarischer Mehrheit dem gewesenen Präsidenten der Schatzungs-Commißion, Herrn Oberst Stehlin, zuerkannte Entschädigung, die Stände Zug, Freyburg, Appenzell, Bünden und Teßin ihre Zustimmung.
+III. Auch dem letztjährigen, auf 13. Stimmen beruhenden Schluß, daß „nach dem Linth-Policey-Reglement von 1812. und nach der Instruction für die Linth-  Policey-Commißion von 1822, auf die Verwahrung und den Vorbehalt der Mollisergenoßame, eben so wenig als auf diejenige irgend einer andern Genoßame Rücksicht genommen werden könne“, pflichteten nunmehr sämmtliche Stände bey. Glarus erwartet gründliche Abhülfe, um nicht in Fall zu kommen, von seinem gemachten Vorbehalt Gebrauch machen zu müßen.
+IV. Dem bereits vor einem Jahr von 16. Ständen genehmigten Beschluß, welcher sorgfältige Untersuchungen und Berichtserstattungen über die Verhältniße des Molliser-Canals und die zu weiterer Fortsetzung desselben bis an die Tiefe des Wallensees noch erforderlichen wichtigen Arbeiten anordnet, ertheilten nunmehr auch die Stände Zug und Freyburg die Ratification. Unterwalden, Appenzell und St. Gallen behielten das Referendum vor. Uri nahm an der Verhandlung keinen Antheil.
+V. Einem von den vereinigten Linth-Commißionen der H. Tagsatzung letztes Jahr in fünf Artikeln hinterbrachten Antrag, „daß gewiße Theile von alten Linthbetten und Canal-Durchschnitten zum Behuf der Lintharbeiten von Wesen bis Grynau und am obern Theil des Molliser-Canals, und ebenso für den untern Theil dieses letztern, ein Streifboden längs dem Canal von der allgemeinen Liquidation ausgenommen und zurückbehalten werden möchte“, stimmten nunmehr 19. Stände  in der Meinung bey, daß dieser Vorschlag sorgfältig erwogen und von der Linth-Policey- und Linthcaßa-Commißion gutächtliche Anträge über die Art und Weise dieser Ausscheidung künftiges Jahr der Tagsatzung vorgelegt werden sollen.
+Hierauf ward der Bericht über die Ergebniße der von der Linthcaßa-Commißion controlirten jährlichen Liquidationsrechnungen vorgelegt.
+Nachdem dann noch die Linthangelegenheit durch MHHerrn Staatsrath Hirzel schriftlich und mundlich näher beleuchtet wurde, beschloß die H. Tagsatzung, die verlesene Rechnung in den Abschied zu legen und die Experten-Commißion zu beauftragen, in ihrer dießfälligen Arbeit fortzuschreiten, um künftiges Jahr diesen Gegenstand in definitive Berathung nehmen zu können.
+Noch ward von dem H. Präsidium angezeigt, daß an die Stelle des verstorbenen Herrn Rathsherrn Martin Usteri, Herr Oberstlieutenant Hegner von Winterthur zum zweyten Experten für die Ausführung des beschloßenen Denkmals des sel[igen] Herrn Staatsrath Escher von der Linth, ernannt worden sey, und daß demnach zu erwarten stehe, daß diese längst gewünschte Arbeit bald ihrer Vollendung entgegen gehen werde.
+Das H. Vorort wurde zu dieser Beförderung neuerdings von sämmtlichen Ständen angelegentlich eingeladen.  
+Revision der Innern Zölle.
+Die zur Prüfung der Revision des allgemeinen Zollwesens niedergesetzte Commißion erstattete einen ausführlichen schriftlichen Bericht mit drey gesönderten Anträgen, wobey jedem Kanton volle Freyheit gelaßen ist, dem eint- oder andern derselben beyzustimmen.
+1.) Es möchten sich die Stände concordatweise zu Anwendung des Grundsatzes verstehen, alle Weg-[,] Brücken-[,] Thor- oder Pflastergelder, zu deren Bezug sie berechtigt sind, einzig nach dem Gespann oder nach der Zahl des durchpaßirenden Viehes berechnet, und die bestehenden Tarife, in so fern sie anders eingerichtet sind, umgearbeitet werden, nach folgenden Unterabtheilungen:
+a.) Auf Zugvieh vor Fuhrwerken aller Art und vor beladenen Wagen.
+b.) Auf Reit- und andern Pferden.
+c.) Hornvieh.
+d.) Auf Schmalvieh, worunter Kälber, Schaafe, Ziegen und Schweine verstanden seyn sollen.
+2.) Es möchten sich die H. Stände concordatsweise dahin verständigen, alle ihre Tarife von Waaghaus-, Sust- oder Hallgebühren, Waag- oder Krahngeldern, Auf- und Abladungsgebühren so zu bestimmen, daß diese Gebühren in der Regel nur vom Gewicht, oder von einem dem Gewicht entsprechenden Maße bezogen würden, und zwar nur denn, wenn wirklich eine Leistung Statt fände.  
+3.) Daß alle concordirenden Stände den Grundsatz anerkennen möchten, daß bey Aufstellung neuer Zolltarife die Zölle in möglichst wenige Cathegorien eingetheilt und diejenigen Zölle, die vom Gewicht bezogen werden, höchstens in drey Abtheilungen eingetheilt werden, davon die erste diejenigen Waaren, deren Werth Frk[en]. 40. pr. Zentner Markgewicht nicht übersteigt; die zweyte diejenigen Waaren, deren Werth Frk[en]. 140. pr. Zentner nicht übersteigt; die dritte und letzte alle übrigen Waaren umfaßen würde.
+Mit Ratificationsvorbehalt stimmten zu dem Antrag: Zürich, Schaffhausen, St. Gallen, Aargau, Genf, Basel, Glarus, Luzern, Bern, Zug, Neuenburg. 
+Solothurn behielt sich das Protokoll offen.
+Unterwalden, Wallis, Waadt, Thurgau, Appenzell, Freyburg, Schwyz, haben sich auf das Referendum beschränkt.
+Uri, Teßin, Bünden, enthielten sich der Abstimmung.
+21ste Sitzung, vom 7. August.
+Es legten die Hohen Stände Bern, Bünden, Uri Schwyz, Unterwalden und Appenzell I. R. ihre mit der Krone beyder Sicilien abgeschloßenen Capitulationen zur Einsicht auf den Kanzleytisch.
+Der neu revidirte und verbeßerte Entwurf des vierten Heftes des Exerzier-Reglements für die Eidsgenößische  Infanterie, enthaltend den Unterricht über die Bewegungen mehrerer Bataillons, wurde von allen Gesandtschaften ad referendum genommen und soll in den Abschied aufgenommen werden.
+§. 29. Eidgenößische Gesundheits-Policeyanstalten.
+Der von den HHerren Staatsrath Usteri, Appellationsrichter Zollikofer und Profeßor Ith revidirte Entwurf einer Verordnung, betreffend die gemeineidgenößischen Gesundheitspoliceyanstalten zur Sicherung vor ansteckenden Seuchen von Außen, und vorzunehmender Maßregeln im Innern der Schweiz, nebst einem denselben begleitenden Bericht über die getroffenen Modificationen, wurde mit allgemeinem Dank gegen die verdienten Verfaßer deßelben angehört, und von 19. Ständen, darunter Zürich, angenommen.
+§. 43. Ansprachen der ehemahligen Schweizerregimenter in Königlich-Spanischen Diensten.
+Da laut Bericht des H. Vorortes der Zustand dieser Angelegenheit vollkommen der nähmlichen wie in frühern Jahren geblieben, und sich keine schickliche Gelegenheit zu ersprießlicher Verwendung dargebothen hat, so hat es bey den vorjährigen Aufträgen lediglich sein Bewenden.  
+§. 45. Anforderung der Hauptleute aus den ehemahligen Schweizerregimentern in K. Sardinischen Diensten.
+Dem schon voriges Jahr durch die Mehrheit der Tagsatzung angenommenen Beschluße, „daß alle und jede Ansprache, welche aus der vorliegenden Reclamationsangelegenheit gegen die Eidgenoßenschaft etwa hergeleitet werden wollte, als unstatthaft und grundlos abgewiesen seyn solle“, pflichteten nunmehr 19. Stände bey. Eilf Stände, darunter Zürich, fanden eine fernere Verwendung der Tagsatzung aus dem Grunde unzuläßig, weil, nachdem die Reclamanten es ihrem Intereße angemeßen erachtet haben, ihre Forderungen zu derjenigen Zeit (1816) wo allen und jeden Liquidationsansprachen von Frankreich gerufen worden sey, nicht anzubringen und die vielen seitherigen Verwendungen immer einen unbedingten Abschlag zur Folge gehabt haben, es durchaus unangemeßen wäre, im Nahmen der Eidgenoßenschaft mit einer abermahligen Empfehlung einzukommen und einen wiederholten Abschlag zu veranlaßen.
+Am Ende wurde auf den Antrag St. Gallens mit 12. Stimmen der Beschluß gefaßt, das Vorort zu beauftragen, im Fall die Reclamanten sich directe oder durch einen Bevollmächtigten  an die Großmuth des Königs wenden wollten, demselben, vermittelst eines Empfehlungsschreibens, den erforderlichen Zutritt zu verschaffen.
+Nach beendigter Sitzung wurde eine Conferenz zwischen den 16. betheiligten Ständen über den künftigen Bezug von Pensionen und halben Tractamenten der in die Schweiz heimkehrenden Niederländischen Regimenter abgehalten und der Vorort ersucht, eine gemeinschaftliche Note auf Fundament der von den Herren Obersten Ziegler, Göldlin und Jenner mitgetheilten Gutachten an den Niederländischen Herrn Gesandten abfaßen und den Ständen mittheilen zu lasen.
+16ter Legationsbericht.
+22ste Sitzung vom 10. August.
+§. 38. Val des Dappes.
+Nach Anhörung der Berichte des Vorortes und des Herrn Landammann Muret über die deßhalb eröffnete, allein wieder in Stocken gerathene Negociation, überzeugte sich die Hohe Tagsatzung, daß einstweilen nichts anders übrig bleibe, als die frühern Aufträge und Vollmachten an den Vorort mit dringender Empfehlung zu erneuern.
+§. 39. A. Incamerationen im Oesterreichischen.  
+B. Collegium Helveticum Borromæum.
+Auch über diese beyden unerledigten Geschäfte wurden dem Hohen Vororte die frühern Aufträge erneuert.
+§. 40. Confiscation Bündnerischen Eigenthums in Veltlin, Cleven und Worms.
+Die Tagsatzung erneuerte die früher dem H. Vororte ertheilten Vollmachten für Mitwirkung zur Unterstützung der geschädigten Reclamanten, jedoch in der Meinung, daß dabey die nähmliche Stellung, welche die Eidgenoßenschaft bisher in dieser Beziehung beobachtet, nicht verändert werde.
+Nach Anhörung des Commißionalberichtes über die Handelsverhältniße mit Brasilien wurde mit 20. Stimmen beschloßen, den in Anregung gekommenen commerciellen Verhältnißen für einmahl keine weitere Folge zu geben, und auf den Zeitpunkt eines vorhandenen Bedürfnißes zu verschieben.
+Es ward demnach die Aufnahme der vorgelegten Capitulationen mehrerer Stände mit der Krone beyder Sicilien in das Eidgenößische Archiv beschloßen.
+In einer Conferenz der evangelischen Stände wurde die Rechnung über die Einnahme und Ausgabe der  Unterstützungsbeyträge für die reformirte Kirche zu Luzern von den Jahren 1827. und 1828. abgenommen, und der Stand Zürich, unter Verdankung der bisherigen Bemühungen, ersucht, fernerhin den Bezug dieser Beyträge, die Besoldung des Pfarrers, und die Zinsanlegung des Saldo, zu besorgen.
+Eine von den Protestanten in Neapel um Unterstützung für ihre kirchlichen Bedürfniße eingegangene Petition, soll den respect. Ständen mitgetheilt werden.
+Diese Legationsberichte sind der Ehrengesandtschaft zu verdanken, und in Folge des Beschlußes, daß für die Central-Caßa ⅛. des Eidgenößischen Geld-Contingentes die eine Hälfte im nächstkommenden Herbstmonath, die andere Hälfte aber im Laufe des Monaths Jenner 1830. bezogen werden solle, wird der L. Finanz-Commißion der Auftrag ertheilt, die dießfällige Raten des hiesigen Standes an die Centralbehörde verabfolgen zu laßen.<p/></body></text></TEI>

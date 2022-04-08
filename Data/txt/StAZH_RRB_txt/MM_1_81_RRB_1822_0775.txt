@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Begonnene Berathung des neuen Gesetzesentwurfs in Betreff der
+                    Stempelabgabe.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Begonnene Berathung des neuen Gesetzesentwurfs in Betreff der
+                        Stempelabgabe.</title>12.10.1822<ident>StAZH
+                        MM 1.81 RRB 1822/0775</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.81</biblScope><biblScope
+                        unit="page">38</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Ablesung der unterm 1sten d. M. auf
+                den Kanzleytisch gelegten Weisung der Finanz-Commißion und des
+                damit verbundenen Gesetzesentwurfs, betreffend die Abänderung des bisherigen
+                Stempelgabgabengesetzes, wurde mit der artikelweisen Berathung dieses
+                Gesetzesentwurfs der Anfang gemacht, und die Bestimmungen des <date
+                    when="1822-10-01">1sten</date>, 2ten und <date
+                    when="1822-10-03">3ten</date> §. deßelben theils einmüthig, theils mit Mehrheit
+                angenommen.
+            
+Zugleich wurde die Finanz-Commißion beauftragt, in Berathung zu
+                nehmen, ob nicht auch die Spielkarten dem Stempel unterworfen werden sollten, und
+                dem Kleine Rath bis zu einer der nächsten Rathssitzungen ihr
+                Befinden darüber zu hinterbringen. 
+        </body>
+    </text>
+</TEI>

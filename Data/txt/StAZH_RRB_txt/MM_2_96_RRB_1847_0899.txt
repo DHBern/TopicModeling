@@ -1,0 +1,19 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Schreiben der Reg. v. Schaffhausen u. der Reg. v. Bern betreff. Wahlen v. Standeshäuptern.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn23.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Schreiben der Reg. v. Schaffhausen u. der Reg. v. Bern betreff. Wahlen v. Standeshäuptern.</title>03.06.1847<ident>StAZH MM 2.96 RRB 1847/0899</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">274–275</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Mit Schreiben vom 26t. v. M. theilt die Regierung von Schaffhausen mit, daß der neugewählte Große Rath ihres Cantons gewählt habe
+zum Amtsbürgermeister  
+Den Herrn Ferdinand von Waldkirch, bish. Bürgermeister.
+zum Bürgermeister
+den Herrn Conrad Peyer, bish. Bürgermeister:
+zum Staatsschreiber.
+Den Herrn David Peyer im Hof, bish. Staatsschreiber.
+zum Rathsschreiber.
+Den Herrn Christ. Schenkel, J. U. O. bish. Rathsschreiber.
+Im Fernern theilt mit Schreiben vom 31. v. M. die Regierung von Bern mit, daß ihr Großer Rath ernannt habe.
+zum Präsidenten des Großen Rathes 
+Herrn Niklaus Niggeler, dermaligen Vicepräsidenten
+und zum Präsidenten des Regierungsrathes
+Herrn Regierungsrath Ulr. Ochsenbein, dermahl. Vicepräsidenten.
+sowie daß sie selbst zum Vicepräsidenten gewählt habe.
+Den Herrn Alexander Funk, bisherigen Präsidenten.
+Es werden diese Anzeigen [l. M. h. T.] in gewohnter Weise verdankt.<p/></body></text></TEI>

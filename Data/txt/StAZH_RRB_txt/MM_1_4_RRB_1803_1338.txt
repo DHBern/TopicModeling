@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Verlesung des Gesezesvorschlags wegen des Rechtstriebs.
+Das Gutachten und der Gesezesvorschlag der Organisations-Commißion vom 23ten. pti über die Formen und Kösten des Rechtstriebs wurden verlesen, der allgemeine mündliche Bericht darüber, den die Organisations-Commißion dem Kleinen Rath auch mündlich er-  stattete, angehört, und die Berathung über die einzelnen Artikel dieses Gesezes-Vorschlags, in einer nächsten Sizung anzuheben, inzwischen aber denselben auf den Canzleytisch zu legen beschloßen.

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Die Angelegenheit der Gemeinde Glattfelden wegen ihrer Grundzinsbereinigung wird der Finanzcommißion überwiesen.
+Das Schreiben des Herrn Bezirksstatthalters Angst vom 1sten. December, enthaltend den Wunsch der Gemeinde Glattfelden, daß eine Bereinigung ihres samtlichen schuldigen Grundzinses vorgenommen werden möchte, wird samt den dießfälligen zwey Memorialien der dasigen Gemeindsbürger, welche in Ansehung der, bey denselben obwaltenden Wünsche über die Art der Grundzinsbereinigung, ganz verschieden sind, und einander entgegen stehen, der Finanzcommißion überwiesen, damit dieselbe sich bemühe, die Leitung der gewünschten Bereinigung des samtlichen Grundzinses zu Glattfelden an Hand zu nehmen, und das Resultat ihrer dießfälligen Bemühungen dem Kleinen Rath zur Ratification zu hinterbringen.

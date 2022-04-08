@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verlangter Aufschub zu Bezahlung der von Catoire Duquesnoy et Compe.
+                    ausgestellten Wechsel, zu Liquidation der Helvetischen Nationalschuld.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-09-10"
+                            >10.09.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Verlangter Aufschub zu Bezahlung der von Catoire Duquesnoy et Compe.
+                        ausgestellten Wechsel, zu Liquidation der Helvetischen
+                        Nationalschuld.</title>09.11.1805<ident>StAZH
+                        MM 1.15 RRB 1805/1637</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.15</biblScope><biblScope
+                        unit="page">258–259</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Zuschrift des Herrn Landammanns der Schweiz vom <date
+                    when="1805-11-04">4ten d. M.</date> enthält die Anzeige, daß die Herren Catoire
+                Duquesnoy & Compe. von Paris, als Käufer der, von dem
+                ehemahligen Stand Bern herrührenden, und mit andern zur
+                Helvetischen Schulden-Liquidation bestimmten Schuldforderung auf Sr. Churfürstlichen
+                Durchlaucht von Pfalzbayern, wovon ein Theil des Preises bereits
+                vermittelst acceptierten auf den 31sten July 1805.
+                und auf den 1sten Jenner 1806. verfallenen Wechseln,
+                den betreffenden und so auch den dießeitigen Abgeordneten auf der dießjährigen
+                ordentlichen Tagsatzung übergeben worden, bey Hochdemselben dieser zweyten Zahlung
+                halber um einen Aufschub angesucht haben, indem durch die eingetrettenen
+                Kriegs-Umstände, theils die Anerkennung der Schuld verspätet, theils sie selbst in
+                ihrer Eigenschaft als Regisseurs der französischen Salzwerker, durch
+                außerordentliche Zahlungen, von allen Geldmitteln entblößt, schwerlich jene
+                Zahlungen auf den bestimmten Zeitpunkt werden leisten können, daß aber die von ihnen
+                deshalb zu machenden und bald näher zu entwikelnden Anträge die Cantone vollkommen
+                beruhigen und befriedigen sollen.
+            
+Diese Erklärung wurde von Sr. Excellenz dem Herren Landammann der Schweiz vorläufig
+                dahin beantwortet, daß da die Besagten jedoch erst 6. Wochen vor der Verfallzeit in
+                Umlauf zusetzenden Wechsel, sich seit mehreren Monaten in Handen der betreffenden
+                Cantone befinden, sich die Herren Catoire Duquesnoy et Compe. mit ihren dießfälligen
+                Wünschen und Anerbietungen lediglich an die L. Stände zu wenden hätten, welches
+                übrigens unfehlbar bey der baldigen Ankunft des Herrn Duquesnoy in der Schweiz
+                geschehen werde.
+            
+Dieser Anzeige fügt endlich der Herr Landammann die Bemerkung bey, daß ohne dem
+                dießeitigen Entschluß auf die entfernteste Weise vorgreiffen zu wollen,
+                Hochderselbe für schiklich und zwekmäßig erachten würde, wann die auf den <date
+                    when="1805-11-01">1sten</date> Jenner 1806. fällige Wechselbriefe einstweilen
+                nicht in Umlauf gesetzt, sondern noch zugewartet würde, ob in Folge der neuen
+                Vorschläge des Herren Duquesnoy hierüber etwas anderes verfügt werden könne.
+            
+Dem Herren Landammann soll auf seine Zuschrift rükantwortlich angezeigt werden, daß
+                es äußerst bedauerlich seyn müßte, wenn durch einen solchen Aufschub, das ganze
+                Liquidationsgeschäft, und besonders die Berichtigung der auf den <date
+                    when="1805-11-01">1sten</date> Jenner 1806. fälligen Zahlung an die
+                Staatsgläubiger neuerdings verzögert werden sollte, daß man jedoch nach dem
+                erhaltenen Wink, mit der Negociation der in unsern Handen liegenden Wechsel, noch
+                einige Zeit zu warten, und gewärtigen wolle, was deshalb für weitere Anträge
+                erfolgen werden.
+            
+Inzwischen wird die Finanzcommißion, unter abschriftlicher Mittheilung obiger
+                Zuschrift, eingeladen, sich zu erkundigen, ob einerseits im Fall der
+                    Noth der Betrag jener Wechsel nicht von dem hießigen Salzamt
+                gegen das Haus Catoire Duquesnoy et Compe. ganz oder zum
+                    Theil verrechnet werden könnte, und anderseits, was auch
+                deßhalb von andern Cantonen ihrerseits gethan werden möchte, und dem
+                    Kleinen Rath dannzumahl ihren Bericht und Antrag zu
+                hinterbringen.
+        </body>
+    </text>
+</TEI>

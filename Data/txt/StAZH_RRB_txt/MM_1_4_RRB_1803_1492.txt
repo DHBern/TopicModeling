@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Ansuchen um Entlaßung des Heinrich Trichtingers von Pfeffikon aus dem Zuchthaus.
+Das Schreiben des Gemeindraths von Pfeffikon vom 26ten dieß, worinn zu Gunsten der Regula Gubler und ihrer Kinder von daselbst dafür angesucht wird, daß dem Ehemann der Regula Gubler, Heinrich Trichtinger, der wegen eines im Frühjahr 1802. begangenen Diebstahls seit anderthalb Jahren im Zuchthaus inhaftirt ist, der Rest der Gefangenschaft geschenkt werden möchte, wird im Original der Justitz- und Polizey-Commißion mitgetheilt, mit der Einladung, dieser Behörde ihren Bericht und Befinden zu hinterbringen, ob diesem Ansuchen des Gemeindraths von Pfeffikon zu entsprechen sey, oder ob dagegen überwiegende Bedenken obwalten.

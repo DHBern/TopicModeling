@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschwerde Schaffhausens, über Widersetzlichkeit der Kehrschiffleute zu
+                    Eglisau gegen den verminderten Rheinschifflohn. Auftrag an Hherrn Oberamtmann
+                    Wehrli.</title>
+                <respStmt>
+                    <resp ref="#utn" key="transcript">Transkript: utn<date when="2010-07-16"
+                            >16.07.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beschwerde Schaffhausens, über Widersetzlichkeit der Kehrschiffleute zu
+                        Eglisau gegen den verminderten Rheinschifflohn. Auftrag an Hherrn
+                        Oberamtmann Wehrli.</title><date when="1820-09-13"
+                        >13.09.1820</date><ident>StAZH MM 1.74 RRB
+                        1820/0754</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.74</biblScope><biblScope unit="page">162</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+
+            
+Actum Mittwochs den 13. September 1820.
+            
+Auf Befehl MsHochgeachter Junker Amtsburgermeister
+                    Reinhard.
+            
+Da die hohe Regierung L. Standes Schaffhausen sich unterm
+                    11ten dieß beschwert, daß die Kehrschiffleute in
+                    Eglisau, zufolge einer am <date when="1820-09-10">10ten
+                    dieß</date> eingegangenen zuverläßigen Nachricht, sich der neuen, dießorts
+                unterm 31sten v. M. Hochobrigkeitlich genehmigten
+                Preisbestimmung des, auf den Ansatz vom Jahr 1814. verminderten Schifflohns
+                widersetzt, und nach derselben zu fahren sich geweigert haben, so soll auf Befehl
+                des Hohen Rathspräsidii, Hherr Oberamtmann Wehrli beauftragt
+                werden, den dießfälligen Rathsbeschluß vom <date when="1820-08-31">31sten v.
+                    M.</date> gegen die Schiffleute zu Eglisau zu handhaben. 
+        </body>
+    </text>
+</TEI>

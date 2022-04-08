@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Gesetzes Vorschlag betreffend die Competenz-Ausscheidung zwischen dem Großen und dem Kleinen Rath in Bezug auf die Wahlen öffentlicher Stellen und Beamteten.
+Gesezes-Vorschlag
+betreffend
+die Competenz-Ausscheidung zwischen dem Großen und dem Kleinen Rath in Bezug auf die Wahlen öffentlicher Stellen und Beamteten.
+1. Dem Großen Rath kommt sowohl in Kraft der Verfaßung, als der bereits darauf gegründeten gesetzlichen Bestimmungen zu: Die Ernennung des Kleinen Raths, der HHerren Burgermeister, des Obergerichts, des Ehegerichts, des Kirchen[-]Raths, des Erziehungsraths, der Kanzley des Großen Raaths [sic!], und des Obersten Waibels; und bleiben demselben alle fernern Ernennungen vorbehalten, welche auf den ganzen Kanton sich beziehen, und nicht unter dem folgenden §. als ausschließliches Attribut des Kleinen Raths begriffen und verstanden sind.
+2. Dem Kleinen Rath steht das Recht zu, nebst denjenigen Stellen, welche die Verfaßung demselben ausdrüklich zueignet, zu allen denjenigen Beamtungen und Bedienstungen zu ernennen, welche sich auf das Administrationswesen des Kantons oder einzelne Gegenstände deßelben beziehen.

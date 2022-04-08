@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>J. Ruppert in Winterthur, Generalagent der Union in Berlin; Anzeige v.
+                    Lokalagenten.</title>
+                <respStmt>
+                    <resp ref="#mls" key="transcript">Transkript: <date when="2014-08-09"
+                            >09.08.2014</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2014
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>J. Ruppert in Winterthur, Generalagent der Union in Berlin; Anzeige v.
+                        Lokalagenten.</title>29.06.1875<ident>StAZH
+                        MM 2.208 RRB 1875/1583</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">2.208</biblScope><biblScope
+                        unit="page">946–947</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+
+            
+[Präsidial-Verfügungen
+            
+29. Juni 1875.]
+            
+Herr J. Ruppert in Winterthur, Generalagent
+                der Union allgemeine Versicherungs-Aktiengesellschaft in
+                    Berlin, zeigt mit Zuschrift vom g.
+                    T. an, daß er zu Lokalagenten ernannt habe: <pb n="947"
+                />
+            
+Herr
+            
+J. Bruppacher, Gemeindrathsweibel in
+                Meilen,
+            
+“
+            
+Gottlieb Streuli, in Horgen &
+            
+“
+            
+Heinrich Weinmann in Altstetten.
+            
+Diese Eingabe wird der Direktion der Finanzen zur Erledigung überwiesen.
+        </body>
+    </text>
+</TEI>

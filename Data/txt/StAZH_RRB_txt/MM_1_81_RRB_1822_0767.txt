@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Gemeinde Wädenschweil wird zu bedenken gegeben, ob sie die
+                    Einheurathungstaxe für die von Johannes Hänsiberger in Wattwyl geschwängerte
+                    Ester Aeschmann bezahlen wolle.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Der Gemeinde Wädenschweil wird zu bedenken gegeben, ob sie die
+                        Einheurathungstaxe für die von Johannes Hänsiberger in Wattwyl geschwängerte
+                        Ester Aeschmann bezahlen wolle.</title><date when="1822-10-01"
+                        >01.10.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0767</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >25–27</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Das Lbl. Ehegericht, welchem zu Handen der Ester
+                Äschmann in Wädenschweil, in Betreff ihrer Eheverspruchs- und Paternitätsklage gegen
+                    Johannes Hänsiberger von Wattwyl, die Anzeige
+                der Regierung des Lbl. Standes St. Gallen, daß eine
+                Verehelichung dieser Leute dortseits zugegeben werden wolle, wenn
+                die Verlobte die gesetzliche Einheurathungstaxe von 92. Frk[en]. bezahlen könne,
+                mitgetheilt worden war, erstattet nunmehr der hohen Behörde des <orgName>Kleinen
+                    Raths</orgName> mit Weisung d. d. 26sten passati
+                den Bericht, es seye die Aeschmann wegen Unvermögenheit außer
+                Stand, jene Gebühr zu entrichten, und auch der dortige Stillstand sey nicht geneigt,
+                für dieselbe in die Lücke zu treten, weshalb nun die Beurtheilung dieser Klage
+                lediglich dem competirlichen Gerichte überlaßen werden müße.
+            
+Da nun aber das ehemalige Concordat mit St. Gallen nicht mehr
+                besteht, sondern nach den gegenwärtigen Reciprocitätsverhältnißen das außereheliche
+                Kinde ohne anders seiner Mutter der Ester
+                    Aeschmann und ihrer Gemeinde Unterhalts- und Bürgerrechts
+                halber zufallen würde, so haben UHHerren und Obern erkennt, hievon dem Lbl. Oberamte
+                Wädenschweil zu Handen der betreffenden Gemeinds- und Stillstandsbehörde Kenntniß zu
+                geben, damit dieselbe nochmals in Ueberlegung ziehe, ob ihr Vortheil beßer bey einem
+                    allfälligen Opfer oder lediglicher Abweisung der Sache bestehe, und
+                darüber einen Entschluß faße, welchen das Lbl. Oberamt wieder zu angemeßener
+                Verfügung einberichten wird.
+        </body>
+    </text>
+</TEI>

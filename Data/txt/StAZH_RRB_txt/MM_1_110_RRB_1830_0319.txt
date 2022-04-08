@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dem Herrn Kantonsrath Joh. Jacob Ziegler von Winterthur wird die Errichtung
+                    eines Glasofens für den Bedarf seiner chemischen Fabrik bewilligt.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-07-29"
+                            >29.07.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Dem Herrn Kantonsrath Joh. Jacob Ziegler von Winterthur wird die
+                        Errichtung eines Glasofens für den Bedarf seiner chemischen Fabrik
+                        bewilligt.</title>22.04.1830<ident>StAZH MM
+                        1.110 RRB 1830/0319</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.110</biblScope><biblScope
+                        unit="page">132–134</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Mit Weisung vom 31sten v. M. berichtete
+                die L. Commißion des Innern:
+            
+Herr Kantonsrath Ziegler von Winterthur,
+                welcher davon in Kenntniß gesetzt worden, daß der dortige Stadtrath mit einer
+                Vorstellung gegen die von ihm (Herrn Ziegler) beabsichtigte Errichtung eines
+                Glasofens an den Kleinen Rath gelangt sey (S. Rathsprotokoll vom
+                    30sten Januar d. J.) habe sich nun wirklich an
+                die Commißion mit dem Ansuchen gewendet, daß ihm die Errichtung eines solchen
+                Glasofens bewilligt werden möchte. Er habe vorgestellt, daß es ihm dabey
+                hauptsächlich nur um die eigene Verfertigung der für seine chemische Fabrik
+                erforderlichen Glaswaare zu thun sey, und daß er zugleich die Absicht habe, die bey
+                einem Glasofen sich entwickelnde außerordentliche Menge von Wärmestoff, welche
+                gewöhnlich unbenutzt verlo- ren gehe, für weitere chemische Prozeße zu
+                benutzen, die bisdahin in mehrern kleinern Öfen betrieben worden seyen. Der
+                Brennstoff, welchen die Erwärmung dieser Öfen erfordert habe, werde künftig erspart
+                werden, und um dieser Ersparniß willen auch bey Anwendung des
+                beabsichtigten Glasofens der Holzverbrauch seines Etablißements künftig im Ganzen
+                nicht größer seyn, als bisdahin.
+            
+Diesem, mit verschiedenen andern Gründen unterstützten, Gesuche des Herrn Kantonsrath
+                    Ziegler stehe jedoch immer noch die beharrliche Einsprache
+                des Stadtrathes von Winterthur entgegen, welcher sich durch
+                die von Herrn Ziegler gegebene nähere Erläuterung noch keineswegs
+                beruhigt findet, und von dem beabsichtigten Glasofen eine bedeutende Erhöhung der
+                Preise des Brennstoffs besorgt, welche insonderheit für die ärmere Claße in der
+                ganzen Umgegend überaus nachtheilig seyn würde.
+            
+Nachdem nun der Kleine Rath diese Darstellung der beyderseitigen
+                Ansichten und das darauf gegründete getheilte Gutachten der L. <orgName>Commißion
+                    des Innern</orgName> angehört, hat er (mit Mehrheit) dem Befinden des größern
+                Theils der Commißion sich anschließend, erkannt: es solle dem Herrn Kantons- <pb
+                    n="134"/>rath Ziegler die Errichtung eines Glasofens
+                bewilligt seyn, jedoch mit der Beschränkung, daß Herr Ziegler
+                diesen Glasofen einzig zur Betreibung seiner anderweitigen Fabricationszweige und
+                überhaupt für seinen eigenen Bedarf gebrauche, hingegen keine Glaswaaren zum Verkauf
+                an das Publicum, oder um damit eine Art von Handel zu treiben,
+                verfertige; weßnahen ihm auch für diese Bewilligung keine Recognition an den Staat
+                auferlegt werden solle.
+            
+Zugleich soll dem Herrn Kantonsrath Ziegler bemerkt werden, daß
+                sich der Stadtrath von Winterthur, in seiner Eigenschaft als
+                Eigenthümer einer bey dem zu errichtenden Glasofen befindlichen Naturbleiche,
+                vorbehalten habe, wegen allfälliger Nachtheile, die aus dem Unternehmen des Herrn
+                    Ziegler für besagte Bleiche entstehen könnten, den
+                    Weg Rechtens einzuschlagen.
+            
+Gegenwärtiger Beschluß wird dem Oberamt Winterthur zu Handen
+                des dortigen Stadtrathes und des Herrn Kantonsrath Ziegler, unter
+                Beylegung einer besondern Ausfertigung als Bewilligungsurkunde für Letztern,
+                zugefertigt.
+        </body>
+    </text>
+</TEI>

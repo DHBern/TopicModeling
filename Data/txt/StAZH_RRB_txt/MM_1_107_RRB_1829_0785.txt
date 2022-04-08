@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Waßerrechtsbewilligung für Salomon Bürgi zu Wädenschweil zum Behuf einer
+                    Tobakstampfe.</title>
+                <respStmt>
+                    <resp ref="#jvs" key="transcript">Transkript: jvs<date when="2010-10-28"
+                            >28.10.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Waßerrechtsbewilligung für Salomon Bürgi zu Wädenschweil zum Behuf
+                        einer Tobakstampfe.</title><date when="1829-09-19"
+                        >19.09.1829</date><ident>StAZH MM 1.107 RRB
+                        1829/0785</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.107</biblScope><biblScope unit="page"
+                    >314–315</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Es hat der Kleine Rath, auf ein mit Bericht vom <date
+                when="1829-08-31">31sten v. M.</date> hinterbrachtes, auf Localbesichtigung
+                gegründetes Befinden der L. Commißion für Administrative Streitigkeiten, dem
+                    Salomon
+                Bürgi, Vater, im Mäusli
+                zu Wädenschweil unter nachstehenden Bedingungen die Bewilligung ertheilt, das
+                    Waßer des Gulmenbaches durch ein Wuhr aufzufaßen, in Teucheln
+                nach seinem Waschhause zu leiten, daselbst ein Waßerrad und Waßerwerk zu errichten,
+                und das Waßer unterhalb des Rades in den Gulmenbach
+                zurückzuführen:
+            
+1.) Übernimmt Bürgi die Verpflichtung, das linkseitige Bachufer
+                bey der Wuhrstelle gegen allfällige Unterwaschung zu schützen und somit das
+                rückwärts hieher gelegene Land von Jacob
+                Brändli zu sichern.
+            
+2.) Soll das Waßer des Gulmenbaches ungehindert und unaufgehalten
+                durch die Teuchelleitung nach dem Rad und von demselben nach dem Krähbach abfließen,
+                es wäre denn, daß Bürgi von den Bachanstößern und den
+                Gewerbsbesitzern am Krähbach die Erlaubniß für Anlegung eines Weyers
+                oder Waßersammlers nachgesucht und erhalten hätte.
+            
+3.) Wird diese Waßerrechtsame einzig für den Betrieb einer Tobakstampfe und deren
+                Zubehörde bewilligt, und soll daher ohne eingehohlte Erlaubniß für keinen andern
+                Gewerbs- oder Fabricationszweig benutzt noch verändert werden dürfen.
+            
+4.) Soll nach Beendigung des Baues und Ingangsetzung der Werke die vorhandene
+                Waßerkraft gemeßen und nach Verhältniß derselben die an den Staat zu bezahlende
+                jährliche Retribution bestimmt werden.
+            
+Gegenwärtiger Beschluß wird der L. Commißion für Administrative Streitigkeiten, der
+                L. Finanz-Commißion und dem Oberamt Wädenschweil, unter Beylegung
+                einer besondern Ausfertigung als Urkunde für den Bittsteller zugestellt.
+        </body>
+    </text>
+</TEI>

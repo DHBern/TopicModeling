@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Schreiben an das Obergericht betreff. Doppelvorschläge für neue Bestellung der Ersatzmänner der Kreisschätzer.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn23.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Schreiben an das Obergericht betreff. Doppelvorschläge für neue Bestellung der Ersatzmänner der Kreisschätzer.</title>03.06.1847<ident>StAZH MM 2.96 RRB 1847/0892</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">265–266</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Mit Eingabe vom 19t. d. M. übermacht das Straßendepartement die Doppelvorschläge für neue Bestellung der Ersatzmänner der Kreisschätzer, einzig den ersten des dritten Kreises, den Herrn Heinrich Fierz, Bezirksrath, aus Herrliberg, ausgenommen, deßen Amtsdauer erst mit dem 3t. September d. J. zu Ende geht.
+Es wurden dieselben, wie sie nachstehend folgen, unverändert angenommen und dem Obergerichte [l. M. h. T.] in gewohnter Weise übermacht:
+Erster Kreis
+Bezirke Zürich, Regensberg und Bülach
+Erster Vorschlag.
+Hr. Joh. Jb. Weiß, Bezirksrchtr. v. Niederweningen [Bez. Regensb.]
+„	Rudolf Nägeli im Röthel, A. Frdsrchtr.		 [ „		Zürich[]]
+Zweiter Vorschlag.
+„	Rud. Roman, Ctsrth. v. Dachslern, Kirchgem. Niederwening[en] [Regensb.]
+„	Joh. Hrch. Meier, Bezirksr. v. Winkel  b. Bülach [Bez. Bülach]
+Zweiter Kreis.
+Bezirke Winterthur und Andelfingen.
+Erster Vorschlag  
+Hr. Rud. Fenner Gemeindammann v. Feuerthalen [Bez. Andelfingen]
+„	Jb. Schuppiser, A. Ctsrth. v. Oberwinterthur	[„		Winterthur]
+Zweiter Vorschlag.
+„	Rud. Hablützel, Zftrchtr. von Trüllikon 		[„ 		Andelfingen]
+„	Cspr. Enzeler, A. Gemeindammann v. Ellikon	[„		Winterthur]
+Dritter Kreis.
+Bezirke Affoltern, Horgen und Meilen.
+Erster Vorschlag.
+„ 	Joh. Rud. Bär, Zftgrchtsprsdt. v. Rifferschweil [Bez. Affoltern]
+zweiter Vorschlag.
+„	Hrch. Schärer, A. Gemeindammann v. A. Affoltern [] „		D.]
+Vierter Kreis.
+Bezirke Hinweil, Pfäffikon, u. Uster
+Erster Vorschlag.
+„	Jb. Knecht, v. Fischenthal, Ctsrth.		[Bez. Hinweil]
+„	Joh. Rud. Näf v. Pfäffikon, A. Ctsrth.		[„	Pfäffikon]
+Zweiter Vorschlag.
+„	Joh. Müdispacher, Frdsrchtr. v. Münchaltorf	[„	Uster]
+„	Jb. Aeppli, Ctsrth. v. Volkentschweil		[„		„ ]<p/></body></text></TEI>

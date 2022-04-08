@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Herr Unterstatthalter Ulmer übersendet die Verbalprozeße der Gemeindraths-
+                    und Friedensrichter-Wahlen von 6. Gemeinden.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-11-17"
+                            >17.11.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Herr Unterstatthalter Ulmer übersendet die Verbalprozeße der
+                        Gemeindraths- und Friedensrichter-Wahlen von 6. Gemeinden.</title><date
+                        when="1806-04-01">01.04.1806</date><ident>StAZH MM 1.17 RRB
+                        1806/0392</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.17</biblScope><biblScope unit="page">20</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Kleine Rath hat die, von dem Herren
+                Unterstatthalter Ulmer, unterm <date when="1806-05-31"
+                    >31sten pass.</date>, eingesandten Verbalprozeße der, im Laufe dieses Jahrs
+                vorgegangenen gesetzmäßigen Gemeindraths- und Friedensrichter-Wahlen in den
+                Gemeinden Wollishofen, Rüschlikon,
+                    Kilchberg, Adlischweil, Langnau und
+                    Hütten, ad acta zu legen beschloßen, da es sich daraus
+                ergiebt, daß diese Wahlen in gehöriger Ordnung vorgenohmen
+                worden sind.
+        </body>
+    </text>
+</TEI>

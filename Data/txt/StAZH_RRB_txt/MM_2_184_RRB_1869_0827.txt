@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Nordostbahngesellschaft. Bewillig. ihres Gesuches um Ausgabe weiterer Obligationen im Betrage v. 5 Millionen Franken.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn10.04.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Nordostbahngesellschaft. Bewillig. ihres Gesuches um Ausgabe weiterer Obligationen im Betrage v. 5 Millionen Franken.</title>15.05.1869<ident>StAZH MM 2.184 RRB 1869/0827</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.184</biblScope><biblScope unit="page">299–301</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Mit Zuschrift vom 8. dies zeigt die Direktion der Nordostbahn an, sie sei im Falle zur Ausführung der Bahnlinie Romanshorn-Kreuzlingen, zur Vermehrung des Transportmaterials sowie zur Bewerkstelligung von Vollendungs- u. Erweiterungsbauten auf den Bahnhöfen Zürich, Schaffhausen, Romanshorn, Aarau etc. ein neues Anleihen von 5 Millionen Franken vermittelst Ausgabe von 4 1/2% Obligationen welche in denselben Rechten  wie die bereits emittirten stehen sollen, aufzunehmen und stellt das Gesuch um Autorisation hiezu im Sinne des § 1100 des privatr. Gesetzbuches.
+Mit Einrechnung dieses neu zu emittirenden Anleihens beläuft sich die Obligationenschuld der Nordostbahngesellschaft auf Fr. 43,100,000, wovon Frk. 7,600,113.57 Rp. auf die direkte und indirekte Betheiligung bei dem Eisenbahnunternehmungen Zürich-Zug-Luzern und Bülach-Regensberg fallen. Zur Verzinsung dieser Obligationenschuld ist eine jährliche Summe von Fr. 1,879,000 erforderlich. Dagegen beträgt das Aktienkapital Fr. 28,700,000 für welches sich in den letzten vier Jahren ein durchschnittlicher Dividendenertrag von Fr. 2,260,755 ergeben hat. Außerdem hat der aus den Betriebsergebnissen gebildete Reservefond mit dem Rechnungsjahr 1868 die Summe von Frk. 2,500,000 erreicht, über welche hinaus statutengemäß keine obligatorischen Einlagen mehr in demselben zu machen sind.
+Laut Rechnung von 1868 wurden aus dem Jahresertrage bezahlt:
+a. für Verzinsung der Anleihen
+Fr.
+1,732,382.
+87
+rp.
+b.  “   Dividenden der Aktionäre
+“
+2,296,640. 
+–
+c.  “   Einlage in d. Reservefond. 
+Fr.
+383,633.16
+weniger die aus diesem Fond
+für den Oberbau entnommen
+“
+221,849.49
+“
+161,783.
+67
+“
+Uebertrag:
+Fr.
+4,190,806.
+54
+“
+
+d. Hiezu der Rechnungssaldo Ende 1868
+Fr.
+103,325.18
+weniger der Saldo 1867
+“
+25,267.09
+“
+78,058.
+09
+“
+Total des Ueberschusses abzügl. d. Betriebsausgabe 
+Fr.
+4,268,864.
+63
+rp.
+Schließlich spricht sich die Direktion der Nordostbahn dahin aus, daß sie, wenn es sich um eine finanzielle Betheiligung der Nordostbahngesellschaft bei der Gotthardunternehmung handeln werde, die hiezu erforderlichen Fonds auf dem Wege einer in geeigneter Foren zu bewerkstelligenden Aktenemmission zu beschaffen gedenke.
+Der Regierungsrath hat,
+nach Einsicht eines Antrages der Direktion der Finanzen,
+beschlossen:
+I. Es wird der Nordostbahngesellschaft für die Ausgabe von weitern auf den Inhaber lautenden Obligationen im Betrage von fünf Millionen Franken zum Zinsfuße von 4 1/2% im Sinne des § 1100 des privatrechtl. Gesetzbuches die Bewilligung des Regierungsrathes ertheilt.
+II. Mittheilung an die Direktion der schweiz. Nordostbahn u. an die Direktion der Finanzen.<p/></body></text></TEI>

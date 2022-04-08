@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Anzeige der Regierung des Kantons Basel, wegen noch ausgestellter Annahme eines neuen Münzfußes.
+Der Lobl[ichen] Stand Basel berichtet unterm 10. dieß, daß er dem Herrn Landammann die einstweilen noch beschloßene Ausstellung der Annahme eines neuen Münzfußes mit dem Wunsche angezeigt habe, daß überhaupt mit allem Prägen von neuer Münze noch einige Zeit möchte innegehalten werden. Diese Mittheilung ist gedachtem Lobl[ichen] Stand zu verdanken und beyzufügen, daß auch hierseits noch nicht an die Ausprägung neuer Münze gedacht worden sey.

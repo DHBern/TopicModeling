@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gegenerklärung vom Lobl. Stand Aargäu in Betreff des Kirchenguts der
+                    Loohöfe.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-13"
+                            >13.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Gegenerklärung vom Lobl. Stand Aargäu in Betreff des Kirchenguts der
+                        Loohöfe.</title>19.02.1805<ident>StAZH MM
+                        1.12 RRB 1805/0278</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.12</biblScope><biblScope
+                        unit="page">126</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die sub 30sten Januarii eingekommene,
+                sehr ausführliche und auf den früheren dießfalls von dem L. Stand Aargäu
+                aufgestellten Ansichten und Behauptungen lediglich beharrende Gegenerklärung des
+                Regierungsraths des gedachten Lobl. Standes in Beziehung auf die letzte dießseitige
+                Zuschrift vom 25sten Octobris a. p., betreffend das
+                Kirchengut der Loohöfe oder der evangelischen Gemeinde Längnau, – wird der
+                    Commißion des Inneren in Originali zu näherer Prüffung und
+                Hinterbringung ihres Befindens über die Frage zugestellt: „ob und wie diese
+                Angelegenheit von hießigem Ort aus allfählig weiter zu betreiben sey?[“]
+        </body>
+    </text>
+</TEI>

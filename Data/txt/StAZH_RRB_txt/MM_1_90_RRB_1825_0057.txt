@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorstellungen der betreffenden Gemeinden und Beschluß in Betreff der
+                    Liquidation der Kosten für Correction des ersten Glattbezirks von Oberglatt bis
+                    zur Rümlangermühle.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-05-06"
+                            >06.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Vorstellungen der betreffenden Gemeinden und Beschluß in Betreff der
+                        Liquidation der Kosten für Correction des ersten Glattbezirks von Oberglatt
+                        bis zur Rümlangermühle.</title><date when="1825-01-22"
+                        >22.01.1825</date><ident>StAZH MM 1.90 RRB
+                        1825/0057</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.90</biblScope><biblScope unit="page"
+                    >54−57</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da die Lbl. Waßerbaupolicey-Commißion, in Erfüllung des sub <date
+                    when="1825-11-23">23. Novembris</date> a. p. erhaltenen Auftrages, Ausschüße der
+                Gemeinden Oberglatt, <pb n="55"
+                    />Rümlang, Rüti, Seew,
+                    Winkel, Hofstetten,
+                    Bachenbülach und Oberhasli vorbeschieden, um dieselben zu
+                Handen der betreffenden Güterbesitzer mit denjenigen Verpflichtungen bekannt zu
+                machen, welche ihnen nunmehr rücksichtlich der Kosten für die Correction des ersten
+                Glattbezirkes von Oberglatt bis zur Rümlangermühle obliegen;
+                diese Vorsteher aber den Anlaß benutzten, um Nahmens ihrer Committenten mancherley
+                Vorstellungen zu Handen der hohen Regierung vorzutragen, welche dahin zielten, sich
+                diesem billigen Ersatz zu entziehen, oder doch sich solchen möglichst zu
+                erleichtern, so glaubte die wohlermeldte Commißion, das Vernommene der hohen
+                Regierung nicht vorenthalten zu sollen, und erstattete daher dem <orgName>Kleinen
+                    Rathe</orgName> mit Weisung d. d. 9ten passati
+                dießfalls einen ausführlichen und sorgfältigen Bericht, nach deßen Anhörung und
+                reifer Würdigung der allseitigen Einwendungen sich UHHerren und Obern überzeugten,
+                daß solche theils ganz unstatthaft seyen, theils auf wenig bedeutenden Gründen
+                beruhen, und bemeldte Gemeinden vielmehr die unter bedeutender Beyhülfe und
+                Aufopferung von Staatswegen erzielte Befreyung von der großen Beschwerde öfterer
+                Ueberschwemmungen dankbar erkennen, sowie auch nunmehr trachten sollten, aus der <pb
+                    n="56"/>Entsumpfung ihrer Güter den beßten Nutzen zu ziehen. Einzig wurde
+                gefunden, daß die Lage einer dieser Gemeinden durch ihre speciellen Verhältniße, des
+                geringen Worthes und zum Maaße ihrer Bevölkerung vorhandenen Ueberflußes der Güter,
+                wirklich erschwert werde, und vielleicht einige Rücksicht zuläßig machen dürfte. Mit
+                Berücksichtigung des Ganzen aber ging das einmüthige Befinden der hohen Behörde
+                dahin, daß es bey dem über die Kostenliquidation sub <date when="1825-11-23">23sten
+                    November</date> a. p. aufgestellten Beschluße sein gänzliches Verbleiben haben
+                solle, und daher wurde erkennt:
+            
+1.) Die Lbl. Waßerbaupolicey-Commißion ist beauftragt, die Repartition der Kosten für
+                die Correction des ersten Glattbezirkes nach Maaßgab der vorgelegten Tabellen über
+                den Besitzstand und Mehrwerth der Güter ohne Verschub vorzunehmen und der Lbl.
+                    Finanz-Commißion die dießfälligen Specialverzeichniße zum
+                Behuf des Bezugs und weiterer Berathung in die Hand zu legen.
+            
+2.) Wird die Lbl. Waßerbau-Policey-Commißion beauftragt, in den Maaßregeln zu
+                Correction des zweyten Glattbezirks von der Rümlanger-Mühle bis zur Glattbruck
+                unaufgehalten fortzuschreiten.
+            
+Gegenwärtiger Beschluß wird der Lbl. Finanz-Commißion
+                und der Lbl. Waßerbau-Policey-Commißion zu Handen gestellt.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Königlich Preußische Kriegs- und Domainen-Kammer zu Anspach in betref der
+                    Aufhebung der dort, wegen des gelben Fiebers rüksichtlich der Transit-Waaren,
+                    genommenen Maasregeln.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-02"
+                            >02.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Königlich Preußische Kriegs- und Domainen-Kammer zu Anspach in
+                        betref der Aufhebung der dort, wegen des gelben Fiebers rüksichtlich der
+                        Transit-Waaren, genommenen Maasregeln.</title><date when="1805-02-12"
+                        >12.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0239</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >82–83</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Königlich Preußische Kriegs- und Domainen-Kammer des Fürstenthums
+                Anspach benachrichtigt die hießige Regierung unterm <date when="1805-01-30"
+                    >30sten Jenner</date>, daß die Vorsichtsmaasregeln, welche gegen die
+                Verbreitung des gelben Fiebers in den Königlich Preußischen Fränkischen
+                Fürstenthümeren getroffen worden, nunmehr rüksichtlich der transits-Waaren, wieder
+                ganz aufgehoben seyen, und also letztre ohne Aufenthalt paßieren können, welches die
+                hießige Regierung dem Handelsstand bekannt zu machen ersucht wird. Zu diesem Ende
+                hin, wurde beschloßen, von der gedacht eingekommenen Nachricht der außerordentlichen
+                Sanitäts-Polizey-Commißion hiermit erforderliche Notiz zu geben.
+        </body>
+    </text>
+</TEI>

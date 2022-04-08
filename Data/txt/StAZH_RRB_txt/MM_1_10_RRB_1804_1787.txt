@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Resignierte und wiederbesetzte Stelle im Zunftgericht Neftenbach.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-02-13"
+                            >13.02.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Resignierte und wiederbesetzte Stelle im Zunftgericht
+                        Neftenbach.</title>03.11.1804<ident>StAZH MM
+                        1.10 RRB 1804/1787</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.10</biblScope><biblScope
+                        unit="page">33</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da es sich aus der hinterbrachten sorgfältigen Weisung der
+                    Justiz- und Polizey-Commißion vom <date when="1804-10-31"
+                    >31ten</date> und dem ihr beygefügten umständlichen Amtsbericht des Herrn
+                Bezirksstatthalter Steiner von Winterthur
+                vom 28ten Octobris ergiebt, daß die unter den
+                Mitgliederen des Zunftgerichts
+                Neftenbach gewalteten, und von dem <orgName>Kleinen
+                    Rath</orgName> unterm 27ten Septembris an die
+                    Justiz- und Polizey-Commißion gewiesenen Anstände wegen
+                fernerem Beysitz des Herrn Zunftrichter Christoph
+                Brandenberger, dardurch beseitiget seyen, daß dieser
+                lezterefreywillig seine Dimmißion verlange, – so ist ihme in diesem seinem
+                Entlaßungsbegehren entsprochen, und Herr Altuntervogt Ganz von
+                    Buch an seiner Statt einhellig zum Mitglied des
+                    Zunftgerichts
+                Neftenbach erwählt worden; als worvon Herr Bezirksstatthalter
+                    Steiner zu Handen der betreffenden Personen und Behörden
+                benachrichtiget wird.
+        </body>
+    </text>
+</TEI>

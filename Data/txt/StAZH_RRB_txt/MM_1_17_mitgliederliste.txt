@@ -1,0 +1,28 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Kleinen Raths.</title><respStmt><resp ref="#dsa" key="transcript">Transkript: dsa04.09.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Kleinen Raths.</title>01.04.1806-29.05.1806<ident>StAZH MM 1.17 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.17</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Herr Hs. Conrad Escher, Bürgermeister.
+Herr Hans Reinhard, Bürgermeister.
+Herr Hs. Conrad Escher, Rathsherr.
+Herr Paulus Uster, Rathsherr.
+Herr Hs. Jacob Pestaluz, Rathsherr.
+Herr Rudolf Rebmann, Rathsherr.
+Herr Hs. Jacob Walder, Rathsherr.
+Herr David Wyß, Rathsherr.
+Herr Hs. Conrad Finsler, Rathsherr.
+Herr Hs. Caspar Egg, Rathsherr.
+Herr Diethelm Lavater, Rathsherr.
+Herr Hs. Jacob Hirzel, Rathsherr.
+Herr Hs. Caspar Schinz, Rathsherr.
+Herr David Vogel, Rathsherr.
+Herr Hs. Caspar Ott, Rathsherr.
+Herr Hs. Caspar Pfenninger Rathsherr.
+Herr Heinrich Nievergelt, Rathsherr.
+Herr Hs. Jacob Schärer, Rathsherr.
+Herr Salomon Rahn, Rathsherr.
+Herr Hs. Conrad Meis, Rathsherr.
+Herr Hs. Jacob Wolf, Rathsherr.
+Herr Caspar Ott, Rathsherr.
+Herr Johann Heinrich Grebel, Rathsherr.
+Herr Jacob Christoph Ziegler, Rathsherr.
+Herr Ludwig Meyer, von Knonau, Rathsherr.</body></text></TEI>

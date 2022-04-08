@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antwort des Obergerichts, wegen Versorgung der im Zuchthaus befindlichen
+                    Pünter von Stäfa, Denzler von Zürich, und Wipf von Marthalen in Französische
+                    Kriegsdienste; und Bemerkung wegen des Sytz von Knonau.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-04-27"
+                            >27.04.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Antwort des Obergerichts, wegen Versorgung der im Zuchthaus
+                        befindlichen Pünter von Stäfa, Denzler von Zürich, und Wipf von Marthalen in
+                        Französische Kriegsdienste; und Bemerkung wegen des Sytz von
+                        Knonau.</title>23.04.1807<ident>StAZH MM 1.22
+                        RRB 1807/0517</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.22</biblScope><biblScope
+                        unit="page">148–149</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da das Obergericht (laut seiner Antwort vom <date
+                    when="1807-04-18">18ten</date> dieß) dem Ansuchen des <orgName>Kleinen
+                    Raths</orgName> vom 16ten dieß, rüksichtlich der,
+                in dem Zuchthaus verwahrten, obergerichtlich sentenzierten:
+            
+Heinrich Pünter von Stäfa,
+            
+Heinrich Denzler von Zürich, und
+            
+Jacob Wipf von Marthalen,
+            
+– entsprochen, und den über diese drey Personen früher ausgefällten Strafurtheilen
+                den Anhang beygefügt hat, daß es gänzlich der Weisheit der Regierung überlaßen sey,
+                dieselben auf eine, für die öffentliche Sicherheit unschädliche Weise, im Ausland
+                unterzu- bringen, – so wird um die <orgName>Justiz- und
+                    Polizey-Commißion</orgName> auch zu Versorgung der genannten drey Inhaftierten
+                in Französische Kriegsdienste, das Angemeßene veranstalten.
+            
+Was dann die, von dem Obergericht, in Ansehung des, von dem
+                    Kleinen Rath bereits in Französische Kriegsdienste erkennten
+                    Heinrich Sytz von Knonau, beygefügte
+                Bemerkung betrifft, daß derselbe durch das Strafurtheil vom <date when="1807-04-14"
+                    >14ten</date> Jenner d. J. zwar nur zu einer sechsmonatlichen Detention in
+                hießigem Zuchthaus condemniert worden, daß aber dem Urtheil der Anhang beygefügt
+                sey, daß der Sytz so lange in dem Zuchthaus verbleiben müße, bis alle
+                Indemnisationen und Kosten berichtigt seyn werden, und daß bis dermahlen wenigstens
+                die Prozeß- und Verhaftskosten nicht bezahlt seyen, – so bedarf es hierüber keiner
+                Verfügung, da, wie berichtet wird, dieser Anhang des Sytzischen Urtheils der
+                Werbungscommißion mitgetheilt worden ist, und mithin von dieser leztern die nöthige
+                Vorsicht vor der Abführung des Sytz beobachtet werden wird.
+        </body>
+    </text>
+</TEI>

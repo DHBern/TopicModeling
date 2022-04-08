@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Landrechtsbegehren des Leinenweber Johannes Lutz von Ober-Urbach im
+                    Würtembergischen.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: 06.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Landrechtsbegehren des Leinenweber Johannes Lutz von Ober-Urbach im
+                        Würtembergischen.</title><date when="1819-12-02"
+                        >02.12.1819</date><ident>StAZH MM 1.71 RRB
+                        1819/0937</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.71</biblScope><biblScope unit="page"
+                    >289–290</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Ein von dem L. Oberamte Andelfingen mit Bericht
+                d. d. 25sten passati einbegleitetes
+                Landrechtsbegehren des zu Feuerthalen befindlichen Leineweber
+                    Johannes
+                Lutz von Ober-Urbach im Würtembergischen, wird der
+                L. Commißion des Innern zu näherer Prüfung und Einbringung eines
+                gutächtlichen Berichts und Antrages überwiesen. 
+        </body>
+    </text>
+</TEI>

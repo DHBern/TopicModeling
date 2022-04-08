@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Herr Landammann der Schweiz berichtet über die fiscalisch zu betreibende
+                    Schuldanforderung gegen die Juden Dreyfuß in Baden.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-26"
+                            >26.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Der Herr Landammann der Schweiz berichtet über die fiscalisch zu
+                        betreibende Schuldanforderung gegen die Juden Dreyfuß in Baden.</title><date
+                        when="1805-02-02">02.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0178</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page">26</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da es sich aus der Zuschrift des Herrn Landammanns der Schweiz vom <date
+                when="1805-01-29">29sten Jenner</date> ergiebt, daß Derselbe in Bezug auf die,
+                von der Liquidations-Commißion dem hießigen Stand auf die Juden Dreyfuß von
+                    Baden übersandte Anweisung, mit, und rüksichtlich der, in
+                dem dießseitigen Erlaß vom 26sten Jenner
+                aufgestellten Ansichten und Vorschlägen vollkommen einverstanden seye, und würklich
+                deßhalben der Regierung des Cantons Argäu seine bestimmte Meynung dahin eröffnet
+                habe, daß theils der, in Betref dieses Gegenstands von der Liquidations-Commißion
+                genommene Beschluß als unwiederruflich zu betrachten und keiner rechtlichen
+                Erörterung mehr zu unterwerfen sey, theils aber, daß dem dießörtigen Ansuchen um
+                fiscalische Betreibung dieser Schuldanforderung befürderlich Folge geleistet werde,
+                widrigenfalls der Beschluß der Liquidations-Commißion lediglich durch Ihn in
+                Vollziehung gesezt werden müßte, – so ist, in Gewärtigung deßen was der Erfolg
+                dieser Verwendung des Herrn Landammanns seyn wird, – die dießfällige Zuschrift ad
+                acta zu legen.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[1.] Gutachten über einen allgemeinen Grundsaz wegen Eidleistungen u. das
+                    Begehren des Churfürstl[ich] Badischen Oberamts Pforzheim den Küferknecht Leist
+                    wegen Schlaghändeln zu Niefern eidlich zu verhören. 2. Über das Verlangen des
+                    Magistrats zu Rietlingen, daß der [Barbara] Biber von Horgen über den bey ihr
+                    von Joh. Georg Stiebinger begangenen Diebstahl ein Cörperlicher Eid abgenohmen
+                    werde.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-11"
+                            >11.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>[1.] Gutachten über einen allgemeinen Grundsaz wegen Eidleistungen u.
+                        das Begehren des Churfürstl[ich] Badischen Oberamts Pforzheim den
+                        Küferknecht Leist wegen Schlaghändeln zu Niefern eidlich zu verhören.
+                        2. Über das Verlangen des Magistrats zu Rietlingen, daß der [Barbara] Biber
+                        von Horgen über den bey ihr von Joh. Georg Stiebinger begangenen Diebstahl
+                        ein Cörperlicher Eid abgenohmen werde.</title><date when="1805-06-06"
+                        >06.06.1805</date><ident>StAZH MM 1.14 RRB
+                        1805/0935</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.14</biblScope><biblScope unit="page"
+                    >21–24</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach angehörtem sorgfältigem, in Folge Auftrags vom <date
+                    when="1805-05-30">30ten May</date> von der <orgName>Justiz- und
+                    Polizey-Commißion</orgName> hinterbrachten Gutachtens vom <date
+                    when="1805-05-31">31. ejusdem</date>, wurde allervorderst im Allgemeinen der
+                Grundsaz angenohmen, einlangende Begehren von Eidesleistungen zu Vervollständigung
+                von Criminalprozeßen gegen die betreffenden fremden Stel- len so
+                nachdrüklich und beharrlich als möglich abzulehnen, indem solches in Folge der
+                bisherigen wohlhergebrachten Übung, auch bisher geschah, zumahlen durch öftere
+                Deferation des Eids das Gewicht dieser Handlung ungemein geschwächt, und dieselbe zu
+                einer bloßen Formalität herabgewürdigt würde, mithin nach den hierorts
+                ununterbrochen geübten Prozeßgang anstatt des eidlichen Aktus das Handgelübd
+                eintretten zu laßen, dann aber rüksichtlich der obschwebenden beyden Specialfällen
+                beschloßen:
+            
+1. Das Schreiben des Churfüstlich Badischen Oberamts Pforzheim vom <date
+                    when="1805-05-21">21sten May</date> worinn, veranlaßt durch bedeutende
+                Schlaghändel, welche im Julius des vorigen Jahrs in dortigem
+                Oberamtsort Niefern zwischen dem dasigen bürgerlichen Jägercorps, und den dortigen
+                Einwohnern vorgefallen, ersucht wird, den als Zeugen aufgeruffenen Küfferknecht
+                    Leist, der hier in Arbeit stehen soll, nach abgelegtem
+                Zeugeneyd, in Anleitung des, dem gedachten Schreiben abschriftlich beyliegenden
+                Protocolls zu vernehmen, – dem Herren Bezirksstatthalter Geßner
+                im Original mitzutheilen, – mit der Einladung, daß derselbe beliebe, dem
+                Küfferknecht Leist nachzufragen, und wenn dieser ausfündig
+                gemacht wird, ihm nach Anleitung des eingekommenen Protocolls seine bestimmten
+                Aussagen über jenen Schlaghandel unter ernstlicher Vermahnung und nach geleistetem
+                Handgelübd, daß er der Wahrheit getreu zu seyn verspreche, an Eidesstatt abzunehmen,
+                und diese Aussagen, mit vorangestellter Darstellung der Art und Weise, wie sie er-
+                    hoben worden, dem Kleinen Rathe zu Handen des
+                Churfürstl[ich] Badischen Oberamts Pforzheim zu übermachen, welchem Bericht der Herr
+                Bezirksstatthalter die mitfolgenden Originalacten wiederum beyzufügen ersucht
+                wird.
+            
+2. Da der Magistrat der K. auch K. K. Schwäbischen Oesterreichischen Donaustadt
+                Rietlingen wiederholt und zulezt unterm 27ten May,
+                gegründet auf die K. auch K. K. allerhöchste Criminalgerichts-Ordnung beharrlich
+                verlangt, daß der Wittwe Anna
+                Barbara
+                Biber von Horgen, über den, durch den
+                Einbruch des daselbst am 22ten pass. abgeurtheilten
+                Criminalinquisiten Joh.
+                Georg Stiebinger und Consorten am <date when="1805-06-18"
+                    >18ten</date> Aprill 1801. erlittenen, und ohne die erhaltenen Waaren fl. 500. ß
+                32; mit diesen aber fl. 509. ß. 12. betragenden Waarenverlust, ein körperlicher Eid
+                abgenommen, und das hierwegen führende Protocoll dem gedachten Magistrat bald
+                möglichst überschikt werde; So soll bey der besondern Beschaffenheit dieses
+                    Falls, und da der Magistrat zu Rietlingen auf diesem
+                Begehren beharret, die Wittwe Biber von
+                    Horgen in die hiesige Staatscanzley beschieden und ihr
+                daselbst von dem Ersten Staatsschreiber angezeigt werden, was für ein Verlangen von
+                Seite des Magistrats zu Rietlingen eingekommen sey, und daß, wenn sie nicht ihre
+                Ansprache auf eine allfählige Entschädigung für den erlittenen Waaren-Verlurst
+                fahren laßen wolle, die Regierung bewilligt habe, daß ihr der verlangte körperliche
+                Eid abgenohmen werde, welchen dann der Erste Staatsschreiber derselben auch nach
+                vorhandenen Formularen abnehmen wird, worüber nachher der <orgName>Kleine
+                    Rath</orgName> einen dießfälligen Bericht zu wei- terer
+                Communication gewärtiget.
+        </body>
+    </text>
+</TEI>

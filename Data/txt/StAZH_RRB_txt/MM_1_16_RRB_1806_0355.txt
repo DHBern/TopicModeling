@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Bewilligte Steuer von 80. Franken, für das Hospithal auf dem Berg Grimsel.
+Nach Ablesung des, von Melchior von Bergen, Verwalter des Hospithals auf dem Berg Grimsel, vorgelegten Empfehlungsschreiben des Lobl. Standes Bern, vom 7ten Jenner d. J., in Betreff einer ihm zu gestattenden Steuer-Aufnahme zu Gunsten des gedachten Hospitii, – wurde beschloßen, dem Eingangsgenannten Melchior von Bergen, durch die Steuersection der Commißion des Inneren, die Summe von 80. Schweizerfranken, jedoch ohne Verbindlichkeit für die Zukonft, aus der Steuer-Caßa auszubezahlen; wobey ihme dann aber jede anderweitige Steuersammlung in hießigem Canton untersagt seyn solle. 

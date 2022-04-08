@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht der L. Militär-Commißion über die Anfrage des Eidgenößischen
+                    Oberstkriegscommißarius wegen hiesigen Localitäten und Geräthschaften für
+                    Militär-Lazarethe.</title>
+                <respStmt>
+                    <resp ref="#dsa" key="transcript">Transkript: <date when="2009-12-04"
+                            >04.12.2009</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2009
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Bericht der L. Militär-Commißion über die Anfrage des Eidgenößischen
+                        Oberstkriegscommißarius wegen hiesigen Localitäten und Geräthschaften für
+                        Militär-Lazarethe.</title><date when="1831-02-03"
+                        >03.02.1831</date><ident>StAZH MM 1.113 RRB
+                        1831/0111</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.113</biblScope><biblScope unit="page"
+                    >136–137</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung eines gutächtlichen Berichtes der L. Militär-Commißion d.
+                d. 31. passati, haben UHochgeachten Herren
+                beschloßen, dem Eidgenößischen Herrn Oberstkriegs-Commißarius auf seine Anfrage,
+                wegen Überlaßung wollener Decken für den Gebrauch der Lazarethe, zu antworten, daß
+                hierseits kein Vorrath derselben vorhanden sey, und man für eigenes Bedürfniß selbst
+                wieder an die, für gute Lieferung bekannten Nördlinger-Fabriken werde recurieren
+                müßen.
+            
+Was dann ferner eine zweyte Frage wegen Aufnahme von kranken Militairs in die
+                hierseitgen Spitalanstalten betrifft, so wäre Wohldemselben anzuzeigen, daß solche
+                von Kantonalkranken völlig angefüllt seyen.
+            
+Indeß wird die L. Finanz-Commißion beauftragt, unverzüglich eine
+                Un- tersuchung der noch vorhandenen Lazareth-Effecten und allfällig
+                andrer für hiesige Lazarethe tauglichen, der Regierung zustehenden Localitäten
+                anstellen zu laßen, und dem Kleinen Rathe darüber in der nächsten
+                Sitzung Bericht zu erstatten, damit dem Herrn Oberstkriegs-Commißarius das
+                Angemeßene geantwortet werden könne.
+        </body>
+    </text>
+</TEI>

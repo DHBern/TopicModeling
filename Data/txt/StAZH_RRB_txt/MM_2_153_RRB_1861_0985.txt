@@ -1,0 +1,16 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Landrechtsertheilung an [Konrad] Hüber v. Böttingen/Württemberg.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn15.07.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Landrechtsertheilung an [Konrad] Hüber v. Böttingen/Württemberg.</title>20.07.1861<ident>StAZH MM 2.153 RRB 1861/0985</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.153</biblScope><biblScope unit="page">132–133</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Mit Zuschrift vom 16 Juli stellt der eventuell in das Bürgerrecht der politischen Gemeinde Niederglatt-Nöschikon aufgenommene Konrad Hüber von Böttingen, Württemberg, das Gesuch um Ertheilung des Kantonsbürgerrechtes und legt behufs dessen folgende Ausweisschriften bei:
+1. einen Auszug aus dem Tauf- u. Familienregister der Gemeinde Böttingen d. d. 2 Mai 1861;
+2. einen Heimatschein, d. d. 5 Oktober 1857;
+3. günstige Leumundszeugnisse der Gemeindräthe Kloten, Opfikon u. Niederglatt, aus welchen zugleich hervorgeht, daß sich Petent seit 1852 ununterbrochen im Kanton Zürich aufgehalten;
+4. eine Bescheinigung des Pfarramtes Regensdorf, daß Petent sich mit einer Kantonsbürgerin ehelich versprochen habe; d. d. 29 Mai 1861.
+5. eine Bescheinigung des Gemeindrathes Niederglatt daß Petent das gesetzliche Vermögen von Frs 2500 laut Inventar in versteuerbarer Fahrhabe besitze, d. d. 1 Juni 1861;
+6. eine eventuelle Bürgerrechtsurkunde der polit. Gemde. Niederglatt u. der Kirchgemeinde Niederhasle d. d. 2 Juni u. 6 Juli 1861.  
+7. eine definitive Entlassungsurkunde aus seinem bisherigen Gemeinde-  und Staatsverbande d. d. 22 April 1861;
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion des Innern,
+beschließt:
+I. Sei dem Petenten das Kantonsbürgerrecht ertheilt und dessen Aufnahme in das Bürgerrecht der politischen Gemeinde Niederglatt-Nöschikon bestätigt, unter der Bedingung, daß sich Petent innerhalb 4 Wochen über die Entrichtung der Einkaufsgebühren in das Gemeinde- u. Kantonsbürgerrecht, letzterer im Betrage von Frk. 600 ausweise.
+II. Sei die Staatskanzlei beauftragt den Petenten, sobald er sich über Erfüllung der in Disp. I aufgestellten Bedingung ausgewiesen haben wird, die Landrechtsurkunde gegen Entrichtung der gesetzlichen Taxe auszustellen.
+III. Mittheilung an die Direktion der Finanzen im Auszuge, an den Gemeindrath Niederglatt, Nöschikon u. an den Petenten, letzterm durch das Mittel des Statthalteramtes Regensberg unter Rückstellung der Akten, soweit dieselben aushingegeben werden können u. an die Direktion des Innern.<p/></body></text></TEI>

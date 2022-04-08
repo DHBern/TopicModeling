@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fernere Berichte wegen der Vorfälle im Hirzel, in Bezug auf den Herrn Pfarrer
+                    Schweizer. Erkannte Wegziehung der fränkischen Truppen daselbst.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-03"
+                            >03.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Fernere Berichte wegen der Vorfälle im Hirzel, in Bezug auf den Herrn
+                        Pfarrer Schweizer. Erkannte Wegziehung der fränkischen Truppen
+                        daselbst.</title>25.04.1803<ident>StAZH MM
+                        1.1 RRB 1803/0007</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.1</biblScope><biblScope
+                        unit="page">4–6</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf die von der Municipalität der Gemeinde Hirzel
+                unterm 20sten dieß eingelangte, und von der
+                weitgrößten Zahl der dortigen Bürger unterschriebene Petition, worinn Sie nicht nur
+                verheißen, ihren Herrn Pfarrer, den Herrn Schweizer, in seinen
+                amtlichen Verrichtungen zu respektieren, ihm alles Zutrauen zu schenken, und das
+                Vergangene in Vergeßenheit zu setzen, sondern über dieß ein ruhiges Betragen
+                überhaupt, und Handhabung der Sicherheit der Perso- nen und des
+                Eigenthums versprechen, wobey die Munizipalität die Anzeige von den zu diesem Ende
+                hin von ihr getroffenen Polizey-Anordnungen beyfügt, – findet nun der kleine Rath
+                kein Bedenken, bey dem fränkischen Generalen Seras (lt. Mißiven) um Wegziehung der
+                in die Gemeinde Hirzel detaschirten Truppen anzusuchen,
+                ertheilt aber dem Herrn Adjunct Dr. Landis zu Richterschweil,
+                unter dießfälliger Anzeige, den Auftrag, die Municipalität im
+                    Hirzel bey Eröffnung gegenwärtiger Verfügung zu ihren
+                eigenen Handen und zu Handen aller Bürger, welche die gedachten Verpflichtungen mit
+                ihrer Unterschrift bekräftigt haben, ernstlich aufzufordern, dieselben von nun an
+                immer auf das pünktlichste zu erfüllen, maßen bey eintrettendem unverhofftem Fall
+                wiederholter Vergehungen gegen die öffentliche Ruhe und Sicherheit oder
+                Beeinträchtigung einzelner Bürger, die Regierung ernstlichere Maßregeln zu ergreifen
+                genöthiget wäre. Übrigens soll durch diese Verfügung der Fortgang des gegen den
+                    Jacob
+                Schärer und allfällig andre, gleicher Vergehungen wegen
+                aggravierte Personen, in keinen Theilen gehemmt seyn. Dieser Beschluß wird auch <pb
+                    n="6"/>dem Herrn Pfarrer Schweizer abschriftlich zu Handen
+                gestellt.
+            
+Bey dieser Lage der Sachen sind um die von Herrn Dr. und Adjunct
+                    Landis dieses Geschäfts halber sub <date when="1803-04-20"
+                    >20sten dieß</date> eingesandten fernern Verhöre und Schreiben der Municipalität
+                im Hirzel, und des Herrn Pfarrers, so wie das eigenhändige
+                Schreiben des letzteren vom 21sten dieß, lediglich ad
+                Acta zu legen.
+        </body>
+    </text>
+</TEI>

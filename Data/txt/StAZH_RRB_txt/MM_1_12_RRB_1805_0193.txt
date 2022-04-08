@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vom L. Stand Lucern eingesendete Aufrüffe wegen drey vermißter
+                    Schuldinstrumente.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-27"
+                            >27.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Vom L. Stand Lucern eingesendete Aufrüffe wegen drey vermißter
+                        Schuldinstrumente.</title><date when="1805-02-05"
+                        >05.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0193</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >34–35</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die von dem Lobl. Stand Lucern mit seiner Zuschrift vom <date
+                when="1805-01-31">31sten Jenner</date> übermachten Auf- rüffe,
+                betreffend nachstehende, ab Handen gekommene Schuldinstrumente: a. Ein von
+                    Melchior
+                Marbach von Hunzikon, Gemeinde
+                    Geuensee und Gerichtskrais Sursee,
+                mit seinen Brüderen Peter und Johann den
+                Marbachen getroffenes, 2000 fl. haltendes Auskaufs-Instrument vom <date
+                    when="1805-04-13">13ten April</date> 1787. b. Ein 2143 fl. haltender Aufschlag
+                von Jacob
+                Hunkeler von Nunweil, Kirchgangs Hochdorf,
+                gegen seine Ehefrau Rosa
+                Burkart. c. Ein 295 fl. 20 ß. haltender Aufschlag von
+                    Joseph
+                Jutz sel. drey Kindern zu Handen ihrer
+                    Mutter, Mariann[?e] Lütpold von Nunweil, – werden durch
+                Veranstaltung der Canzley den hießigen öffentlichen Blätteren beygerükt, und so zur
+                Kenntniß des hießigen Cantons-Publici gebracht werden, als worvon dem Lobl. Stand
+                    Luzern [lt. Missiven] rükantwortliche Kenntniß gegeben
+                wird.
+        </body>
+    </text>
+</TEI>

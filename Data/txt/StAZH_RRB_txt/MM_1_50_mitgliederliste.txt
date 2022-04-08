@@ -1,0 +1,28 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Kleinen Raths.</title><respStmt><resp ref="#msu" key="transcript">Transkript: msu09.06.2007</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Kleinen Raths.</title>25.06.1814-27.09.1814<ident>StAZH MM 1.50 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.50</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+MHJunker Hans Reinhard, Amtsburgermeister.
+MHJunker Hs. Conrad Escher, Burgermeister.
+MHJunker Hs. Conrad Escher, Rathsherr und Altburgermeister.
+MHHerr Paulus Usteri, M. D. und Rahtsherr.
+MHHerr Hs. Jacob Pestalutz, Rathsherr.
+MHHerr Rudolf Rebmann, Rathsherr.
+MHJunker David Wyß, Rathsherr.
+MHHerr Hs. Conrad Finsler, Rathsherr und Oberstquartiermeister.
+MHHerr Ulrich Hegner, Rathsherr.
+MHHerr Diethelm Lavater, M. D. und Rathsherr.
+MHHerr Hs. Jacob Hirzel, Rathsherr.
+MHHerr Hs. Caspar Schinz, Rathsherr.
+MHHerr David Vogel Rathsherr.
+MHHerr Hs. Caspar Ott, im Zeltweg, Rathsherr.
+MHHerr Hs. Caspar Pfenninger, Rathsherr.
+MHHerr Hs. Conrad Escher, Rathsherr.
+MHHerr Hs. Jacob Schärer, Rathsherr.
+MHHerr Salomon Rahn Rathsherr.
+MHJunker Hs. Conrad Meis, Rathsherr und Oberst.  
+MHHerr Carl Emanuel Steiner, M. D. und Rathsherr.
+MHHerr Caspar Ott, an der Thorgaß, Rathsherr.
+MHJunker Joh. Heinrich Grebel, Rathsherr.
+MHHerr Jacob Christoph Ziegler, Rathsherr und Oberst.
+MHJunker Ludwig Meyer von Knonau, Rathsherr.
+MHHerr Heinrich Homberger, Rathsherr. </body></text></TEI>

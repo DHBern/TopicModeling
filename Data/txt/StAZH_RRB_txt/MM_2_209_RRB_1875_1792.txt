@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schweiz. Eisenbahndepart.; Zuschrift an dasselbe betr. d. Straßenübergang üb.
+                    d. linksufrige Seebahn in Horgen.</title>
+                <respStmt>
+                    <resp ref="#mls" key="transcript">Transkript: mls<date when="2014-09-26"
+                            >26.09.2014</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2014
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Schweiz. Eisenbahndepart.; Zuschrift an dasselbe betr. d.
+                        Straßenübergang üb. d. linksufrige Seebahn in Horgen.</title><date
+                        when="1875-07-24">24.07.1875</date><ident>StAZH MM 2.209 RRB
+                        1875/1792</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.209</biblScope><biblScope unit="page"
+                    >203–205</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Direktion der öffentlichen Arbeiten bemerkt:
+            
+Bei Anlaß der Plangenehmigung für die linksufrige Zürichseebahn am <date
+                    when="1875-05-07">7. Mai</date> 1874 wurden diejenigen Bedingungen mit Rücksicht
+                auf Situation und Richtungsverhältnisse an dieselbe geknüpft, die der Regierungsrath
+                für angemessen, hielt, und es hat sich derselbe dabei ausdrücklich vorbehalten,
+                weitere Anforderun- gen nach Eingang der in Art. 13. der
+                bundesräthlichen Verordnung vom 29. Februar 1873
+                vorgeschriebenen Längenprofile über die Straßenübergänge und Verlagerungen zu
+                stellen.
+            
+Trotz dem daß 27. Juni 1874 das Begehren um Einsendung
+                dieser Vorlagen in besonderer Zuschrift erneuert und unterm <date when="1875-09-24"
+                    >24. Herbstmonat</date> und 17. Weinmonat v. Js. in gleicher Weise darauf
+                hingewiesen wurde, daß an der linksufrigen Seebahn Uebergänge von Landstraßen
+                speziell im Dorfe Horgen ausgeführt werden, die der
+                Genehmigung entbehren, gelangten dieselben doch erst am <date when="1875-12-02">2.
+                    Christmonat</date> in den Besitz der Direktion.
+            
+Mit Rücksicht darauf, daß in einer der größten und volksreichsten Ortschaften des
+                Kantons, auf einer nahezu horizontalen Strecke einer Straße I. Klasse mit
+                anschließenden Contrependenzen eine gegen 4 Fuß betragende
+                Erhöhung mit beidseitigen Steigungen von 3% projektirt war, wurde verlangt, daß die
+                Bahngesellschaft angehalten werde, den fragl. Uebergang im Dorfe
+                    Horgen nach einer im damals beigelegten Profil mit
+                Bleistift eigezeichneten Niveaulinie auszuführen und die durch die Bahn geschaffene
+                Straßenerhöhung beidseitig auf 120 Meter auszugleichen – ohne daß in dieser
+                Angelegenheit seither etwas zur Ordnung dieser Verhältnisse gethan
+                worden wäre.
+            
+Der Bahnbau rückt nun auf der ganzen Länge hinaus Ende entgegen, und nachdem diese
+                Verkehrshemmung auf einer der frequentirsten [sic!] Landstraßen nahezu ein Jahr
+                andauerte, haben die Klagen, welche die zunächst Betheiligten über diesen bald
+                unerträglichen Zustand führen, ihre volle Berechtigung, und es erscheint an der
+                Zeit, daß diese längst schwebende Angelegenheit endlich geordnet werde.
+            
+Der Regierungsrath,
+            
+nach Einsicht eines Antrages der Direktion der öffentlichen Arbeiten,
+            
+beschließt:
+            
+1. Es sei beim Bundesrath neuerdings die Erledigung dieser Angelegenheit im Sinne des
+                durch Regierungsbeschluß vom 12. Christmonat 1874
+                näher präzisirten Begehrens bezüglich Ueberführung der Landstraße über die Bahn im
+                Dorfe Horgen nachzusuchen.
+            
+2. Mittheilung an die Direktion der öffentlichen Arbeiten unter Rückstellung der
+                Akten.
+        </body>
+    </text>
+</TEI>

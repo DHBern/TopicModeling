@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Kleinen Raths.</title><respStmt><resp ref="#amr" key="transcript">Transkript: amr19.09.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Kleinen Raths.</title>27.06.1812-30.10.1812<ident>StAZH MM 1.42 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.42</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+HHerr 
+Hs. Conrad Escher, Amtsburgermeister.
+HHerr
+Hans Reinhard, Bürgermeister.
+HHerr
+Hs. Conrad Escher, Rahtsherr.
+HHerr
+Paulus Usteri, Rathsherr.
+HHerr
+Hs. Jacob Pestaluz, Rathsherr.
+HHerr
+Rudolf Rebmann, Rathsherr.
+HHerr
+David Wyß, Rathsherr.
+HHerr
+Hs. Conrad Finsler, Rathsherr.
+HHerr
+Hs. Caspar Egg, Rathsherr.
+HHerr
+Diethelm Lavater, Rathsherr.
+HHerr
+Hs. Jacob Hirzel, Rathsherr.
+HHerr
+Hs. Caspar Schinz, Rathsherr.
+HHerr
+David Vogel, Rathsherr.
+HHerr
+Hs. Caspar Ott, Rathsherr.
+HHerr
+Hs. Caspar Pfenninger, Rathsherr.
+HHerr
+Heinrich Nievergeld, Rathsherr.
+HHerr
+Hs. Jacob Schärer, Rathsherr.
+HHerr
+Salomon Rahn, Rathsherr.
+HHerr
+Hs. Conrad Meis, Rathsherr.
+HHerr
+Hs. Jacob Wolf, Rathsherr.
+HHerr
+Caspar Ott, Rathsherr.
+HHerr
+Joh. Heinrich Brebel, Rathsherr.
+HHerr
+Jacob Christoph Ziegler, Rathsherr.
+HHerr
+Ludwig Meyer, v Knonau, Rathsherr.
+HHerr
+Heinrich Homberger, Rathsherr.</body></text></TEI>

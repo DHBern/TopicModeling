@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Signalement des Jaques Simonin, welcher zum Tode verurtheilt, aus den
+                    Gefängnißen zu Bourg in Frankreich entsprungen.</title>
+                <respStmt>
+                    <resp ref="#jvs" key="transcript">Transkript: jvs<date when="2010-03-24"
+                            >24.03.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Signalement des Jaques Simonin, welcher zum Tode verurtheilt, aus den
+                        Gefängnißen zu Bourg in Frankreich entsprungen.</title>
+                    04.04.1816
+                    <ident>StAZH MM 1.58 RRB 1816/0307</ident>
+                    <edition>Protokoll des Regierungsrats</edition>
+                    <biblScope unit="volume">1.58</biblScope>
+                    <biblScope unit="page">1</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da Seine Exzellenz, der Königl. Französische Gesandte, Herr
+                    Graf von Talleyrand, dem hiesigen Staatsrath durch Zuschrift
+                vom 30sten passati, das Signalement eines gewißen
+                    Jaques
+                Simonin, der für gewaltsamen Raub zum Tode verurtheilt, aus den
+                Gefängnißen von Bourg entsprungen ist, mit dem Ersuchen übersendet, daß die nöthigen
+                Maßregeln getroffen werden möchten, um diesen Verbrecher, wenn er sich auf das
+                Schweizer-Territorium geflüchtet haben sollte, zu entdecken und zu arretieren,– so
+                haben UHochgeachten HHerren und Obern solches der L. Cantons-Polizey-Commißion mit
+                dem Auftrage zugestellt, die erforderlichen Verfügungen zu Nachspur des Bezeichneten
+                zu erlaßen.
+            
+Von diesem Beschluße soll Seiner Exzellenz, dem Französischen Minister (laut Mißiven)
+                Kenntniß gegeben werden.
+        </body>
+    </text>
+</TEI>

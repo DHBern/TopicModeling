@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß, betreffend die von dem Stadtrath verlangte Abtretung des
+                    Wagenschopfs neben der Waisenhauskirche für die Zuchtanstalt.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: <date when="2010-08-03"
+                        >03.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beschluß, betreffend die von dem Stadtrath verlangte Abtretung des
+                        Wagenschopfs neben der Waisenhauskirche für die Zuchtanstalt.</title><date
+                        when="1822-11-09">09.11.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0874</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >148–151</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf den von der Finanz-Commißion unterm <date
+                    when="1822-10-30">30sten October</date> hinterbrachten Bericht, daß wegen der
+                von dem Lbl. Stadtrath zum Behuf der projectirten Erweiterungen und Verbeßerungen in
+                der innern Einrichtung der Zuchthausgebäude, verlangten Abtretung des Wagenschopfes
+                neben der Waisenhauskirche [welcher zwar schon seit mehr als 20. Jahren
+                von dem Lbl. Stadtrath zu Aufbewahrung von Wagengeräthschaften benutzt worden war,
+                auf den aber von Seite jener Behörde keine auf die Aussteuerungs- und
+                Abchurungs-Acte gegründete Ansprache gemacht werden konnte] sich einige Anstände
+                erhoben haben, indem der Lbl. Stadtrath sich mit dem ihm als Ersatz dafür zur
+                Benutzung anerbotenen, zum ehemaligen Amthause am Oetenbach gehörigen Pferdestall
+                neben dem Krankenhaus, als einziger für den Staat entbehrlicher Platz, nicht
+                begnügen wolle, sondern in Folge der dießfalls gepflogenen Unterhandlungen seine
+                endliche Erklärung dahin gegeben habe, daß derselbe den vorgeschlagenen Tausch nur
+                in so fern annehmen könne, als ihm das Gebäude, worin sich der quästionirliche
+                Pferdestall befindet, als Eigenthum überlaßen werde, wogegen er sich dann
+                anerbietet, neben der Uebernahme des Bauunterhalts, sowohl dem Herrn Pächter des
+                Oetenbacher-Amthauses den obern Boden dieses Gebäudes, so lange er deßelben bedarf,
+                als der Zuchtanstalt für einmal den Gebrauch des darin befindlichen Bennenschopfs zu
+                überlaßen, – hat der Kleine Rath, nach sorgfältiger Prüfung des
+                Gegenstandes finden müßen, daß diesem Verlan- gen des Lbl. Stadtraths
+                nicht entsprochen werden könne, sondern daß die unbedingte Abtretung des
+                Wagenschopfs von dem Lbl. Stadtrath um so eher verlangt werden kann, als durch die
+                der Forderung kurz vorangegangene gänzliche Ueberlaßung der Waisenhauskirche, für
+                den Stadtrath wesentliche Vortheile entstanden, so wie dann im Gegentheil durch
+                Anstellung und Besoldung eines eigenen Seelsorgers für die Zuchtanstalt, dem Staat
+                bedeutende neue Lasten zugefallen, für welche die Abtretung des quästionirlichen
+                Schopfes, auch selbst wenn der Lbl. Stadtrath gegründete Ansprüche darauf zu machen
+                hätte, das wenigste ist, was als etwelches Compensationsmittel verlangt werden
+                mag.
+            
+Der Kleine Rath sieht sich desnahen im Fall, auf der von der
+                    Finanz-Commißion verlangten Abtretung des Wagenschopfs, als
+                für die Zuchtanstalt unentbehrlich, zu beharren, will aber dagegen, in Bestätigung
+                des von der Finanz-Commißion gemachten Vorschlags, dem Lbl.
+                Stadtrath für einmal, und bis man über andres definitive Einrichtungen übereinkommen
+                wird, den Gebrauch des zum Oetenbacher Amthause gehörenden Pferdestalls neben dem
+                Krankenhaus zu Aufbewahung von Wagen überlaßen, in der zuversichtlichen
+                Erwartung, daß der Lbl. Stadtrath vornehmlich auch in Rücksicht der erwähnten, der
+                Stadt zugewachsenen anderweitigen Vortheile, – sich mit dieser Einrichtung
+                befriedigen werde.
+            
+Gegenwärtiger Beschluß wird der Lbl. Finanz-Commißion und dem Lbl.
+                Stadtrath zugestellt.
+        </body>
+    </text>
+</TEI>

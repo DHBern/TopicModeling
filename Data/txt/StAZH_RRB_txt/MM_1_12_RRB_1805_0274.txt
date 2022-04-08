@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einfrage des Ehegerichts wegen der præstanda fremder Weibspersonen in Bezug
+                    auf die Anwendung des Gesetzes in schwierigen Fällen und bey obwaltenden Ehe-
+                    und Vaterschafts-Klage der Maria Schneeberger von Leinischweil im Canton Bern,
+                    gegen Jacob Ris von Pfeffikon.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-12"
+                            >12.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Einfrage des Ehegerichts wegen der præstanda fremder Weibspersonen in
+                        Bezug auf die Anwendung des Gesetzes in schwierigen Fällen und bey
+                        obwaltenden Ehe- und Vaterschafts-Klage der Maria Schneeberger von
+                        Leinischweil im Canton Bern, gegen Jacob Ris von Pfeffikon.</title><date
+                        when="1805-02-16">16.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0274</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >120–121</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Dem Lobl. Ehegericht ist auf sein Schreiben vom <date
+                when="1805-01-31">31sten pti</date>. und die darin enthaltene Einfrage in
+                Betreff der praktischen Anwendung des Gesetzes über die præstanda fremder
+                Weibspersonen, besonders in dem gegenwärtig obwaltenden Fall, wo die
+                    Maria
+                Schneeberger von Leinischweil, Pfarre
+                    Rohrbach im Canton Bern, gegen den
+                    Jacob
+                Ris von Pfeffikon, mit einer Ehe- und
+                Vaterschafts-Klage auftritt, aber als unbemittelt nicht im Stand ist, die præstanda
+                zu leisten, – diese communication [sic!] und die Sorgfalt, vermittelst welcher das
+                    Ehegericht bis- her die gegebenen Fälle ohne
+                besondere Folgen für die Gemeinden berichtigte, beßtens zu verdanken, mit dem
+                Beyfügen, die Klugheit, womit daßelbe bisher zu Werk gegangen, – gewähre der
+                Regierung vollkommene Beruhigung, so daß dem Lobl. Ehegericht in
+                jedem Fall überlaßen sey, nach den obwaltenden Umständen zu handeln, und besonders
+                in Fällen, wo die Gemeinden und Stillstände selbst nicht auf die strengste
+                Beobachtung der præstanda dringen, die möglichst milde Auslegung des Gesetzes
+                eintretten zu laßen, zumalen auch auf diesem Wege, in
+                gegebenen Fällen, die durch das Gesetz vorzüglich beabsichtigte Sicherheit der
+                Gemeinden am beßten erzielt werden kann.
+        </body>
+    </text>
+</TEI>

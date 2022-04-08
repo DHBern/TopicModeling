@@ -1,0 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Petition des Gemeindrathes Hirzel ohne</title><respStmt><resp ref="#sbh" key="transcript">Transkript: sbh30.05.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Petition des Gemeindrathes Hirzel ohne</title> D.tu., be<ident>StAZH MM 2.107 RRB 1850/0497</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.107</biblScope><biblScope unit="page">669</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Praesidial-Verfügungen
+Actum den 15 März]
+Der mit Prüfung der Maßregeln gegen die Verarmung niedergesetzten Kommission wird überwiesen:
+Eine Petition des Gemeindrathes Hirzel ohne Datum, betreffend Abänderung des Armenpolizeigesetzes.</body></text></TEI>

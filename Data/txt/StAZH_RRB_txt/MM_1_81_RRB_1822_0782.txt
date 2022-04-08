@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Regierung von Thurgau ersucht um Bestimmung des Tages zu der Conferenz in
+                    Winterthur, über die Pfarreyen Stammheim, Ellikon etc.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: 12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Regierung von Thurgau ersucht um Bestimmung des Tages zu der
+                        Conferenz in Winterthur, über die Pfarreyen Stammheim, Ellikon
+                        etc.</title>17.10.1822<ident>StAZH MM 1.81
+                        RRB 1822/0782</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.81</biblScope><biblScope
+                        unit="page">46–47</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Regierung des Lbl. Standes Thurgau berichtet durch Mißive d. d. <date
+                    when="1822-09-27">27sten passati</date>, sie habe zu dortseitigen Abgeordneten
+                auf die in Winterthur abzuhaltende Conferenz über die
+                kirchlichen Angelegenheiten der Gemeinden Stammheim, Ellikon u.
+                s. w. den HHerrn Landammann Morell und Se. Hochwürden, den Herrn
+                Antistes Sulzberger ernennt, und wolle nun gewärtigen, ob es
+                gefällig seye, die Zusammenkunft auf den 16ten
+                17ten oder 18ten hujus
+                vor sich gehen zu laßen.
+            
+Da nun aber diese Tage bereits eingetreten sind, so haben UHHerren und Obern erkennt,
+                jene Zuschrift, unter Entschuldigung des Verschubes, auf freundschaftliche Weise und
+                mit dem Antrage zu erwiedern, daß den Hochgeachten Herren Committirten überlaßen
+                werden möchte, sich selbst über die Zeit und das Locale ihrer Zusammenkunft zu
+                verständigen. 
+            
+Hievon wird MHHerrn Rathsherrn Rahn als erstem
+                hiesigem Standes-Deputirten Kenntniß gegeben, und der Auftrag ertheilt, darüber mit
+                den Thurgauischen Herren Abgeordneten in Correspondenz zu treten.
+        </body>
+    </text>
+</TEI>

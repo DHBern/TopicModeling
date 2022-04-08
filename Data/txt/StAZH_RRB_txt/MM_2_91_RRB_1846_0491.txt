@@ -1,0 +1,8 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Schreiben 1. An die Grßh. Hessische Regierung 2. An den Hamburgischen Senat, betreff. Mittheilung dort. Gesetze.</title><respStmt><resp ref="#dsa" key="transcript">Transkript: dsa04.01.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Schreiben 1. An die Grßh. Hessische Regierung 2. An den Hamburgischen Senat, betreff. Mittheilung dort. Gesetze.</title>27.03.1846<ident>StAZH MM 2.91 RRB 1846/0491</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.91</biblScope><biblScope unit="page">387–388</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Iussu Præsidii
+Actum den 27. März 1846.
+Da sich aus dem Berichte der Canzlei ergeben, es sei auf Privatwegen  
+1. weder er Entwurf des Grßhz. Hessischen Polizeistrafgesetzes 
+2. noch auch derjenige der Hamburgischen Feuerpolizeiverordnungen zu erhalten, so werden dieselben [l. M. h. T.] bei den betreffenden Regierungen nachgesucht.<p/></body></text></TEI>

@@ -1,0 +1,9 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>[Genehmigung d. Kaufvertrages betr. d. Ankauf d. Arbeitsanstalt Uitikon.]</title><respStmt><resp ref="#rgr" key="transcript">Transkript: rgr27.06.2015</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2015<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>[Genehmigung d. Kaufvertrages betr. d. Ankauf d. Arbeitsanstalt Uitikon.]</title>04.04.1882<ident>StAZH MM 2.236 RRB 1882/0639</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.236</biblScope><biblScope unit="page">56a</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body><p/>
+Der Regierungsrath hat,
+nach Einsicht eines Antrages der verordneten Kommission,
+beschlossen:
+I. Dem von der regierungsräthlichen Kommission vorgelegten Vertragsentwurf betr. den Ankauf der Arbeitsanstalt Uitikon wird unter Ratifikationsvorbehalt durch den Kantonsrath die Genehmigung ertheilt.
+II. Die Anstaltspflege Uitikon wird eingeladen, ihrerseits dafür zu sorgen, daß bis Ende Mai von sämmtlichen betheiligten Gemeinden die nöthigen Schlußnahmen betr. Genehmigung oder Nichtgenehmigung des Kaufvertrages erfolgen.
+III. Mittheilung an die Anstaltspflege Uitikon & an die Gefängnißdirektion.
+[Fortsetzung RRB 1882/0640]</body></text></TEI>

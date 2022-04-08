@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einfrage des Gmdrths. Wetzikon u. Bescheid, betreff. die Wählbarkeit von
+                    Niedergelassenen zu Bezirkswahlmännern.</title>
+                <respStmt>
+                    <resp ref="#dsa" key="transcript">Transkript: dsa<date when="2011-04-15"
+                            >15.04.2011</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2011
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Einfrage des Gmdrths. Wetzikon u. Bescheid, betreff. die Wählbarkeit
+                        von Niedergelassenen zu Bezirkswahlmännern.</title><date when="1846-06-02"
+                        >02.06.1846</date><ident>StAZH MM 2.92 RRB
+                        1846/0914</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.92</biblScope><biblScope unit="page"
+                    >319–320</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Regierungsrath hat nach Einsicht einer Zuschrift des Gemeindrathes
+                    Wetzikon vom 30t. v. M. womit derselbe die Einfrage
+                stellt: 
+            
+„Ob die von den Gemeinden zu wählenden Bezirkswahlmänner ausschließlich nur aus
+                stimmberechtigten Bürgern der wählenden Gemeinde zu wählen, oder ob stimmberechtigte
+                Niedergelassene ebenfalls wähler [sic!] seien?“
+            
+in Berüksichtigung:
+            
+1. Daß §. 3. des Gesetzes über die Bezirksversammlungen vom <date when="1846-05-31"
+                    >31ten. Mai</date> 1831. [N. O. S. Bd. I. pag 125] ausdrüklich bestimmt: es sei
+                die einer Kirchgemeinde zugetheilte Anzahl Wahlmänner aus den stimmberechtigten
+                Bürgern und Ansäßen zu wählen.
+            
+2. Daß gegenüber dieser unzweideutigen Gesetzesbestimmung der widersprechende
+                Regierungsbeschluß vom 20ten. Juni 1831 enthaltend
+                eine Erläuterung betreffend die Erwählung der Wahlmänner [N. O. S. Bd. III. p. 63] nicht
+                in Berüksichtigung kommen kann; 
+            
+beschlossen:
+            
+I. Es sei dem Gemeindrathe Wetzikon zu rescribiren, daß nach
+                dem citirten §. 3. des Gesetzes über die Bezirksversammlungen sowohl
+                stimmberechtigte Bürger als stimmberechtigte Niedergelassene einer Gemeinde [d. h.
+                solche Niedergelassenen, denen nach §. 72. der Verfassung das Stimmrecht bei der
+                Wahl der Bezirkswahlmänner zusteht] zu Bezirkswahlmännern gewählt werden können; 
+            
+II. Sei hievon dem Gemeindrathe Wetzikon durch das Mittel des
+                Statthalteramtes Hinweil Kenntniß zu geben.
+        </body>
+    </text>
+</TEI>

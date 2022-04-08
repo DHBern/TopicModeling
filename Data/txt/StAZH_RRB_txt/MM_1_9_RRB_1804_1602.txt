@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dem Churbadischen Oberamt Rötelen ertheilte Auskonft wegen Müller Meili von
+                    Baßerstorf.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-01-25"
+                            >25.01.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Dem Churbadischen Oberamt Rötelen ertheilte Auskonft wegen Müller Meili
+                        von Baßerstorf.</title>22.09.1804<ident>StAZH
+                        MM 1.9 RRB 1804/1602</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.9</biblScope><biblScope
+                        unit="page">198–199</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da nunmehro der Herr Unterstatthalter Ganz von
+                    Rorbas den ihm sub <date when="1804-09-08">8ten
+                    hujus</date> abgefordere- ten Bericht in Betreff des, dermahlen zu
+                Welmlingen im Churbadischen Oberamt Rötelen sich aufhaltenden Müllers
+                    Joh.
+                Jacob
+                Meili von Baßerstorf, mittelst einer Zuschrift vom <date
+                    when="1804-09-17">17ten hujus</date> erstattet hat, – so ist, nach Anleitung
+                deßelben, dem Churbadischen Oberamt in Lörrach sein dießfälliges
+                Erkundigungsschreiben vom 27ten pti dahin zu
+                erwideren: „daß zwar der Meili ein Vermögen von 1000 fl. besize,
+                daß aber dato noch, und bis ein von ihm zu Benglen außerehelich erzeugtes
+                    Kind erwachsen seyn werde, der größte
+                    Theil der Intereßen seiner bemeldeten, im hießigen Land
+                besitzenden Mittel alljährlich zur Sustentation jenes Kindes verwendet werden müße;
+                und daß die Crescentia Schmelzin von Bernau, falls der Meili,
+                nach allfälliger Verehelichung mit derselben sein hießiges Landrecht beyzubehalten
+                und sich und den Seinigen seyn hießiges Vaterland offen zu erhalten wünschte, – vor
+                erfolgender Promulgation und Vollziehung der Ehe, der Gemeinde
+                Baßerstorf, nach der dortigen rechtlichen Übung, einerseits 10 fl. an
+                Einzugsgebühren entrichten, und anderseits den Besiz eines eigenthümlichen Vermögens
+                von 200 fl. ausweisen müße, ansonsten sie und ihre Descendenz nie als hießige
+                Cantonsangehörige anerkannt werden würden“.
+        </body>
+    </text>
+</TEI>

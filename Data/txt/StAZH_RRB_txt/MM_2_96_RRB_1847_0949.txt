@@ -1,0 +1,609 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Erledigung der Rekurse gegen die Vermögens- Erwerbs- u. Einkommenssteuer im Jahre 1846.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn25.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Erledigung der Rekurse gegen die Vermögens- Erwerbs- u. Einkommenssteuer im Jahre 1846.</title>10.06.1847<ident>StAZH MM 2.96 RRB 1847/0949</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">315–320</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Bericht und Antrag der verordneten Rekurskommißion in Sachen der nachstehenden Privaten, Rekurrenten
+gegen
+das Abgabendepartement, resp. den Finanzrath, betreffend die auferlegte Vermögens-Erwerbs- und Einkommenssteuer für 1846.
+nach Einsicht und Prüfung der Akten verfügt, wie folgt.
+Bez. Zürich
+Name des Rekurrenten
+Vermögen
+Taxe d. Finanzrathes
+Frkn./Rp.
+Beschluß
+Frkn./Rp.
+Bemerkungen
+Zürich
+Bebin Rud. Tischler
+„
+9.     40
+8       -
+begründet.
+„
+Fäsi Jb. Carl.
+„
+13    35
+1        -
+id.
+„
+Koller Frdrch. Bäk
+„
+24    -
+22      -
+zum Theil begründet.
+„
+Müller geb. Landolt Wwe.
+„
+60
+45
+id.
+„
+Zeller, Johs. Brunnenmeister
+„
+-        50
+-         50
+unbegründet Rekurrent bezieht den Zins v. dem fragl. Erbe u. hat somit solches auch zu versteuern.
+Forrer Jb. Adjunkt b. Straßendepartement.
+„
+10      80 
+8        -
+theilweise begründet.
+Huber, Jb. [II. No. 299]
+„
+1
+-
+begründet
+Hürlimann, Ulr. Schneider
+„
+Erwerb
+-        40
+-        60
+-         40
+-         60
+unbegründet
+Isler, Hrch. z. Bögli
+Vermögen
+1       10
+-          -
+begründet.  
+Zürich
+Lang, Frdrch, Caßier
+Einkommen
+18      -
+18       -
+unbegründet. Ueberdieß wird der Rekurrent für die in dem Rekursschreiben  enthaltenen alle Achtung gegenüber v. Behörden bei Seite setzenden u. allen Anstand verletzenden Äeußerungen eine Ordnungsbuße  v. 12. Frkn. auferlegt.
+[Zürich]
+Morf Hrch. Trechsler
+Vermögen
+1      20
+1       20
+unbegründet
+„
+Schoch, Reg. v. Sommerau
+„
+3      -
+2       -
+theilweise begründet.
+„
+Schlageter Felix Schloßer
+„
+1
+-        -
+begründet
+„
+Morf, Jb. Schuster I. 219
+„
+-      90
+-       90
+unbegründet
+„
+Füßli, alt Oberrichter      sel. Erben
+Füßli Frau. Wwe. Anna
+„
+„
+288   -
+8       -
+288   -
+8       -
+unbegründet gestützt auf den Inhalt des §. 6. des Steuergesetzes v. 30. Brachm. 1832. nach welchem das fragl. Vermögen als unter vormundschaftl. Verwaltung stehend, abgesehen davon, wo sich die Bevormundeten aufhalten mögen, da wo die Verwaltung ihren Sitz hat, versteuert werden muß.
+Außersihl
+Näf Ferdinand
+„
+13
+10      -
+begründet.
+„
+v. Wyß, Conrd. alt Pfarrer
+„
+152     30
+152   30
+unbegründet.
+„
+Boßhard J. J. z. Garten d. Hoffnung 
+„
+8          80
+8       80
+id.
+Enge
+Boßhard Csper.
+„
+16        85
+4       90
+begründet
+Högg [sic!] 
+Schmid Jb.
+„
+7          40
+5       -
+id.
+Hottingen
+Eßlinger Maria gesch. Kummer
+„
+5
+4       -
+thweilw. begründet.
+„
+Bindschädler J. Hchr. Sensal
+„
+4
+4
+unbegründet
+Oberstraß
+Bühler Johs. sel. Wittwe
+„
+32        -
+32
+id.
+O. Engstringen
+Vögeli Gustav
+„
+64
+64
+id.
+Bez. Zürich 
+Name des Rekurre
+Vermögen
+Taxe d. Finanzrathes
+Frkn./Rp.
+Beschluß
+Frkn./Rp.
+Bemerkungen
+Riesbach
+Tuggener Hrch.
+„
+1      50
+1
+theilw. begründet.
+„
+Alder Jb. Schloßer
+„
+Erwerb
+2
+1      60
+2
+1      60
+unbegründet
+Schlieren
+Frei, Joh. Müller
+Vermögen
+10
+10
+id
+Schwamendingen
+Kündig Jb. in Oerlikon
+„
+4
+4
+id.
+Weinigen
+Frei, Barb. verehl. Vogler.
+„
+2       62
+2      62
+id.
+„
+Vogler Klöti, Jb.
+„
+1       70
+1      50
+theilweise begründet.
+Wiedikon
+Müller Joh. in d. Au
+„
+1       27
+       60
+begründet.
+„
+Wetzstein Jb.
+„
+1
+       30
+id.  
+Wytikon
+Näf, Anna gesch. Huber
+Vermögen
+3       10
+2      62
+begründet
+Bez. Affoltern
+Affoltern
+Zubler J. J. A. Frdsrichter
+„
+3       80
+3      80
+unbegründet
+Mettmenstetten
+Reutlinger J. C. Pfarrer
+„
+7       40
+7      40
+id.
+„
+Frik. Wwe. geb. Gattiker
+        70
+-       -
+begründet.
+Bez. Horgen
+Hütten
+Eschmann-Schärer, Carl
+„
+5       70
+-       -
+id.
+Oberrieden
+Geßner, Georg Pfarrer
+„
+92     60
+92     60
+Rekurrent ist mit diesem Steueransatz einverstanden.
+Bez. Meilen
+Männedorf
+Juker Hs. Hrch
+„
+-        20
+-        -
+Meilen
+Trüb Jb.
+„
+-        50
+-        -
+Oetweil
+Bebie Rudolf
+„
+-        60
+-        -
+} sämmtlich begründet
+Zumikon
+Hardmeier, Reg. verh. Hardmeier
+„
+-        50
+-        -
+Küßnacht
+Kündig Geschwister
+„
+-        15
+-        -
+Meilen
+Gattiker J. Gemeindammann 
+„
+40
+40
+unbegründet Rekurrent bezieht sich in seiner Beschwerdeschrift nur auf einen Erbfall, während derselbe v. zwei verschiedenen Personen geerbt hat.
+Bez. Hinweil
+Wetzikon
+Bertschinger, Joh. Sohn in Ettenhausen
+„
+Erwerb
+          20
+          20
+       20
+       20
+unbegründet.
+Bez. Zürich 
+Name des Rekurre
+Vermögen
+Taxe d. Finanzrathes
+Frkn./Rp.
+Beschluß
+Frkn./Rp.
+Bemerkungen
+„
+Spörri Johs. in Kempten
+Vermögen
+          60
+       40
+theilw. begründet.
+„
+Bauert, Hrch. in U. Wetzikon
+„
+Erwerb
+2         70
+           20
+       60
+begründet
+Bez. Uster
+Egg
+Kunz Jb. in der Zelg, im Hof
+Vermögen
+5          30
+2
+begründet
+Maur
+Holz, Rud. Präsident
+„
+           50
+-          -
+id.
+Uster
+Hager, J. in Nänikon
+„
+           60
+-          -
+id.  
+Bez. Pfäffikon
+Bauma
+Scheuchzer Jb.
+Vermögen
+160       -
+160
+unbegründet
+„
+Wirth Cspr. in Blakten
+„
+17         -
+17        -
+id.
+Fehraltorf
+Dietrich, Hs. Rud. Frdsrchtr.
+„
+23         -
+23        -
+id.
+„
+Müller Johs.
+„
+7           -
+6         80
+theilweise begründet
+„
+Bachmann Hrch. Fabrikant
+„
+2           -
+2         -
+unbegründet
+Hittnau
+Kägi, Hrch. Fabrikant
+„
+9           -
+9         -
+id.
+„
+Boßhard, Hs. Jb. Frdsrchtr.
+„
+10         -
+10       -
+idem
+Illnau
+Baumann, Cspr. u. Hrch.
+„
+5           50
+5        50
+„
+Wegmann Hrch. Müller
+„
+34
+34
+Pfäffikon
+Schneider Hs. Hrch.
+„
+4
+4
+„
+Bühler Hrch.
+„
+5
+5
+„
+Hanhart J. J. Sohn
+„
+40
+40
+„
+Keller Marzin Hermetschweil.
+„
+13
+13
+Rußikon
+Kägi, Cspr. Müller in Ludetschweil
+„
+26
+26
+„
+Gubler, Gebr. in Gündisau
+„
+8
+8
+Weißlingen
+Stahl Hs. Rud. Viehhändler
+„
+2
+2
+} sämmtlich unbegründet
+„
+Vogt, Jsr. Regula
+„
+13
+13
+„
+Winkler Jb. Großen in Theilingen
+„
+2
+2
+„
+Frei Jb. Civilprsdt.
+„
+3
+3
+„
+Winkler, Hs. Rud. u. Sohn Ziegler
+„
+30
+30
+„
+Winkler J. Jb. Zunftrichter.
+„
+4
+4
+„
+Winkler Rud. 
+„
+1          10
+        80
+zum Theil begründet
+Wildberg
+Keller Hrch.
+„
+6
+5       50
+„ 
+„
+Juker Joh. in d. Lugeten
+„
+9
+9
+unbegründet.
+Bez. Zürich 
+Name des Rekurre
+Vermögen
+Taxe d. Finanzrathes
+Frkn./Rp.
+Beschluß
+Frkn./Rp.
+Bemerkungen
+Bez. Winterthur
+Neftenbach
+Schrämli Hrch. Sohn.
+„
+2
+2
+unbegründet  
+Oberwinterthur
+Güttinger Jb.
+Vermögen
+8
+7
+begründet.
+Schlatt
+Bölsterli Gottfried
+„
+-            50
+-         20
+id.
+Bez. Zürich
+Name des Rekurrenten
+Vermögen
+Taxe d. Finanzrathes
+Frkn./Rp.
+Beschluß
+Frkn./Rp.
+Bemerkungen
+Töß
+Wetter Johs.
+„
+6
+6
+unbegründet
+Turbenthal
+Stahel, Rud. in d. Altenmühle
+„
+6
+5
+begründet.
+„
+Gibel, Hrch. Viehhändler
+„
+3       60
+3      60
+„
+Jünger, Rud. Maurer
+„
+1       60
+1      60
+} unbegründet
+Wiesendangen
+Peter, Cspr. Hptm. in Menzengrüt
+„
+Erwerb
+12
+3
+12
+3
+Winterthur
+Baumann Elis. gesch. Keller
+Vermögen
+1       50
+1      20
+begründet
+„
+Plau, Jb. z. Windeck
+„
+45
+45
+„
+Forrer Stettler, Hrch. S. D. M.
+„
+85
+85
+} unbegründet.
+Wülflingen
+Lattmann Jb. Weinschenk
+„
+5
+4
+zum Theil begründet.
+Zell
+Kägi, Hrch. in U. Langenhard
+„
+2
+2
+unbegründet
+Bez. Andelfingen
+Adlikon
+Sigg, Barb. geb. Schwarz
+„
+-         60
+-        30
+Berg
+v. Escher im Eigenthal
+„
+115    30
+83     30
+} sämmtlich begründet.
+Marthalen
+Trunninger Hrch. sel. Erben
+„
+20      60
+18     -
+Bez. Bulach
+Dietlikon
+Altorfer, Jb.
+„
+6
+        25
+Nürenstorf
+Dübendorfer Conr. sel. Wwe. in Baltenschweil
+2
+2         90
+2
+} sämmtlich begründet.
+Wallisellen
+Hummel, Joh. Georg Bäk
+„
+5
+4
+Bez. Regensberg
+Schleinikon
+Jäggli, Hrch. Hptmann
+„
+1
+begründet.   
+Hievon wird 1.) dem Finanzrathe für sich und zu Handen des Abgabendepartements unter Rükstellung der Akten zur Vormerkung im Steuerregister und den erforderlichen Verfügungen für den Bezug des betreffenden Steuerquoten und Anordnung der Rükzahlung an Rekurrenten, welche ihre Steuerbeiträge bereits entrichtet haben sollten, 2.) den resp. Statthalterämtern zu Handen der Bezirksrathskanzleien und der Gemeindräthe, behufs Vormerkung aller Veränderungen in den Steuerregistern, und unter Nachnahme der 12. Frkn. Ordnungsbuße von Herrn Lang durch das Statthalteramt Zürich, 3.) den Rekurrenten durch die üblichen Formulare Kenntniß gegeben.<p/></body></text></TEI>

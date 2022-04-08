@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anzeige und Unterschriften der neugewählten Standeshäupter des Lbl. Kantons
+                    Graubünden.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-05-05"
+                            >05.05.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Anzeige und Unterschriften der neugewählten Standeshäupter des Lbl.
+                        Kantons Graubünden.</title><date when="1825-01-06"
+                        >06.01.1825</date><ident>StAZH MM 1.90 RRB
+                        1825/0011</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.90</biblScope><biblScope unit="page">8−9</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Von dem Großen Rathe des Lbl. Standes Graubünden sind,
+                laut Kreisschreiben des dortigen Kleinen Raths vom <date
+                    when="1824-12-03">3ten passati</date>, durch die verfaßungsmäßige jährliche Wahl
+                zu Standeshäuptern und Mitgliedern des Kleinen Raths für das Jahr
+                1825. ernannt worden:
+            
+Die HHerren Bundslandammann Valentin Rofler,
+            
+ Bunds-Präsident Maximilian
+                von Salis-Soglio, und
+            
+ Landrichter Peter
+                Anton de Latour,
+            
+in welcher Folge jeder derselben von 4. zu 4. Monathen das Präsidium
+                dieser Regierungsbehörde führen wird.
+            
+Diese Anzeige ist dem Kleinen Rathe von Graubünden (lt. Mißiven)
+                zu verdanken und die Anerkennung der mitgetheilten Unterschriften der genannten
+                neuen Standeshäupter zuzusichern.
+        </body>
+    </text>
+</TEI>

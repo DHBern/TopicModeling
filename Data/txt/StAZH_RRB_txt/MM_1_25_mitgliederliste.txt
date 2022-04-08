@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Kleinen Raths.</title><respStmt><resp ref="#szn" key="transcript">Transkript: szn10.06.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Kleinen Raths.</title>03.03.1808-28.06.1808<ident>StAZH MM 1.25 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.25</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Hherr Hs. Conrad Escher Burgermeister.
+Hherr Hans Reinhard, Alt-Landammann der Schweitz und Burgermeister.
+Hherr Paulus Usteri, Rathsherr.
+Hherr Hs. Jacob Pestalutz, Rathsherr.
+Hherr Rudolf Rebmann, Rathsherr.
+Hherr David Wyß, Rathsherr.
+Hherr Hs. Conrad Finsler, Rathsherr.
+Hherr Hs Caspar Egg, Rathsherr.
+Hherr Diethelm Lavater, Rathsherr.
+Hherr Hs. Jacob Hirzel, Rathsherr.
+Hherr Hs. Caspar Schinz, Rathsherr.
+Hherr David Vogel, Rathsherr.
+Hherr Hs. Caspar Ott, Rathsherr.
+Hherr Caspar Pfenninger, Rathsherr.
+Hherr Heinrich Nievergeld, Rathsherr.
+Hherr Hs. Jacob Schärer, Rathsherr.
+Hherr Salomon Rahn, Rathsherr.
+Hherr Hs. Conrad Meiß, Rathsherr.
+Hherr Hs. Jacob Wolf, Rathsherr.
+Hherr Caspar Ott, Rathsherr.
+Hherr Joh: Heinrich Grebel, Rathsherr.
+Hherr Jacob Christoph Ziegler, Rathsherr.
+Hherr Ludwig Meyer von Knonau, Rathsherr.
+Hherr Heinrich Homberger, Rathsherr.</body></text></TEI>

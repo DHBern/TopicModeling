@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Zurüknahme des Gesetzesvorschlags wegen indirekter Abgaaben.
+Der Kleine Rath hat den Gesetzesvorschlag über die indirecten Abgaaben vom 14. dieß, über welchen die, von dem Großen Rath unterm 16ten dieß niedergesetzte Kommißion, ihr auf Verwerfung des Vorschlags antragendes Gutachten dem großen Rathe heut hinterbracht hat, und worüber die Berathung eingestellt worden ist, zurükgenommen, und der Sache angemeßen befunden, diesen Gesetzesvorschlag zu Entwerfung der zwekmäßig findenden Modifikationen der Finanz-Commißion wiederum zu überweisen. 

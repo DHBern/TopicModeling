@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Einstellung des Gesetzesvorschlags wegen direkter Abgaben.
+Auf die von dem HH[errn] Amtsburgermeister gethane Einfrage, und nachdem der HHerr Rathsherr Vogel dem Kleinen Rathe mündlich das Resultat des Gutachtens der von dem Großen Rathe zu Prüfung des Gesetzes-Vorschlags wegen direkter Auflagen verordneten Kommißion mitgetheilt hatte, fand der Kleine Rath für gut, bey der ohnehin noch zu berichtigenden beträchtlichen Anzahl von Geschäften des Großen Raths, den Gesetzesvorschlag wegen des Bezugs direkter Abgaben, und den Antrag der Begwältigung des Kleinen Raths zum Bezug einer direkten Auflage auf den Fall des eintrettenden Bedürfnißes, einzustellen, bis zu der nächsten periodischen Sitzung des Großen Raths, da dann verhoffentlich demselben ein anschaulicher Etat von dem Zustand der Finanzen wird vorgelegt werden können.

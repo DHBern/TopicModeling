@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antworten der L. Stände Schaffhausen und Thurgau, in Betreff einer
+                    Uebereinkunft wegen Auslieferung der Ausreißer aus den capitulirten
+                    Schweizertruppen in Frankreich.</title>
+                <respStmt>
+                    <resp ref="#sbh" key="transcript">Transkript: sbh<date when="2010-09-06"
+                            >06.09.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Antworten der L. Stände Schaffhausen und Thurgau, in Betreff einer
+                        Uebereinkunft wegen Auslieferung der Ausreißer aus den capitulirten
+                        Schweizertruppen in Frankreich.</title><date when="1818-02-07"
+                        >07.02.1818</date><ident>StAZH MM 1.66 RRB
+                        1818/0134</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.66</biblScope><biblScope unit="page"
+                    >54−55</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Regierung des L. Standes Schaffhausen tritt
+                dem ihr unterm 22sten passati mitgetheilten Entwurf
+                einer Uebereinkunft wegen Auslieferung der Ausreißer aus den capitulirten
+                Schweizertruppen in Frankreich, in ihrer unterm <date when="1818-01-30">30sten
+                    ejusdem</date> ertheilten Antwort in so fern bey, als auch eine gleiche
+                Zustimmung von den mitcapitulirenden L. Ständen erfolgen werde.
+            
+Ein gleichmäßiger, aber unbedingter Beytritt, wird auch von der Regierung des L.
+                Standes Thurgau unter gleichem Datum erklärt, und beyde Regierungen ersuchen die <pb
+                    n="55"/>hiesige, diese Uebereinkunft dem L. Stande Bern
+                zu seinen und zu Handen der übrigen L. Stände, welche seiner Zeit in
+                    Bern capitulirt haben, mitzutheilen. Dabey würde es aber
+                dann die Thurgauische Regierung für zweckdienlich erachten, wenn für die Verhaftung
+                und Einbringung eines Ausreißers aus den Schweizertruppen eine von dem betreffenden
+                Regimente zu bezahlende Prämie festgesetzt würde, und sie nimmt die dießörtige
+                Verwendung für die Bestimmung einer solchen Belohnung in Anspruch.
+            
+Ehe nun von diesen eingekommenen Antworten dem L. Stand Bern
+                Kenntniß gegeben, oder auch über den beygefügten Wunsch des L. Standes Thurgau
+                eingetreten wird, sind die Antworten der übrigen, an der hiesigen Französischen
+                Militär-Capitulation Theil habenden L. 6. Stände, an welche das
+                hierseitige Kreisschreiben vom 22sten Jenner
+                ebenfalls gerichtet war, abzuwarten.
+        </body>
+    </text>
+</TEI>

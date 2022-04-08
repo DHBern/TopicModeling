@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von der Regierung des Lbl. Standes Zug wird die Stellung des Oswald und Alois
+                    Schicker von Baar, wegen Ankauf gestohlener Seide, verlangt.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Von der Regierung des Lbl. Standes Zug wird die Stellung des Oswald und
+                        Alois Schicker von Baar, wegen Ankauf gestohlener Seide,
+                        verlangt.</title>12.10.1822<ident>StAZH MM
+                        1.81 RRB 1822/0772</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.81</biblScope><biblScope
+                        unit="page">34–35</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung eines Berichts und Gutachtens der Lbl.
+                Kantons-Policey-Commißion d. d. 5ten hujus, haben
+                UHHerren und Obern erkennt, dem Antrage des Lbl. Amtsgerichtes
+                    Zürich zu entsprechen und durch heutige Mißive von der
+                Regierung des Lbl. Standes Zug zu verlangen, daß die
+                dortseitigen Angehörigen Oswald
+                Schicker, Vater, und
+                    Alois
+                Schicker, Sohn, von Baar, seßhaft zu
+                Blickenstorf, welche von dem hier in Verhaft sitzenden Heinrich
+                Münch von Adlischweil mit unzweifelhaften Umständen als
+                wißentliche Abnehmer gestohlener Seide bezeichnet worden sind, als Theilnehmer an
+                einem verübten Verbrechen, mit Beförderung vor hiesiges Tribunal gestellt werden,
+                mit dem Beyfügen, man könne um so weniger zweifeln, daß diesem auf das
+                Eydsgenößische Recht gegründeten Requi- sitoriale
+                entsprochen werden wolle, als laut dem Concordat schon für Policeyfälle Stellung
+                Statt finde, und dem hiesigen Stande, welcher sich stets zur Pflicht gemacht,
+                solchen freundeydsgenößischen Ansuchen zu entsprechen, als fabriktreibender Kanton,
+                vorzüglich daran gelegen seyn müße, solchen Mißbräuchen und Unterschleifen, die
+                seinen Verkehr äußerst benachtheiligen, kräftig entgegen zu arbeiten.
+            
+Hievon wird dem Lbl. Amtsgerichte Zürich Kenntniß gegeben,
+                zugleich aber in Rücksicht auf die Correspondenz, welche dasselbe mit der Regierung
+                des Lbl. Standes Zug deshalben gepflogen, bemerkt, daß es
+                nicht nur der diplomatischen Ordnung angemeßener, sondern auch wirksamer und zu
+                Verhütung von manchen Verwicklungen dienlicher seye, wenn bey vorkommenden Anständen
+                von und zwischen den Regierungen selbst über solche Geschäfte unterhandelt
+                werde.
+        </body>
+    </text>
+</TEI>

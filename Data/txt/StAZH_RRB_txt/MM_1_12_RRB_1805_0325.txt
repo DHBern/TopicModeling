@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rükantwortliches Promotoriale an das Churfürstlich Badische
+                    Zinshofraths-Collegium zu Mörspurg, wegen der schuldigen Zehentenquart-Rükstände
+                    des Herrn Pfarrer Eberhard zu Wyla.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-05-15"
+                            >15.05.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Rükantwortliches Promotoriale an das Churfürstlich Badische
+                        Zinshofraths-Collegium zu Mörspurg, wegen der schuldigen
+                        Zehentenquart-Rükstände des Herrn Pfarrer Eberhard zu Wyla.</title><date
+                        when="1805-02-23">23.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0325</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >178–180</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+In Genehmigung des, von der Commißion des Innern, in
+                Folge der Rathserkanntniße vom 31sten pti. und <date
+                    when="1805-02-05">5ten dieß</date>, unterm <date when="1805-02-08">8ten
+                    dieß</date>, in Begleit eines umständlichen Berichts, dem <orgName>Kleinen
+                    Rathe</orgName> hinterbrachten, sorgfältig ausgearbeiteten Projects eines
+                Antwortschreibens an das Churfürstlich Badische Zins-Hofraths-Collegium zu Mörspurg
+                auf deßelben Reclamation vom vorigen Monat, wegen des Rükstands von 44. Mütt Kernen,
+                56. Mütt Hafer, und fl. 4. Geld, welche der Herr Pfarrer
+                    Eberhard zu Wyla gegen des Ober-Pflegamt in
+                    Constanz von den Jahren 1801. bis und mit 1804. per den
+                tractatenmäßigen Zehenten-Quart schuldig verbleibt, wurde angemeßen befunden, dem
+                Churfürstlich Badischen Zinshofraths-Collegio anzuzeigen, daß der Herr Pfarrer
+                    Eberhard diese Schuld allerdings als tractatenmäßig
+                anerkenne, indeßen wegen der durch die unglüklichen Ereigniße während den lezten
+                Kriegs- und Revolutions-Jahren, erlittenen Verlüste, wegen der beträchtlichen
+                Einbuße des Erdapfel-Zehentens, und des beträchtlich unter dem gewohnten
+                    Preis von Kauf und Lauf gesezlich
+                herabgesezten Geld-Preises, womit der Zehenten-Ertrag in den Jahren 1801. und 1802.
+                gegen den Decimator getilgt werden konnte, durch welche Umstände alle dem Herrn
+                Pfarrer und seiner Familie die Subsistenz so sehr erschwert und beynahe
+                unmöglich geworden sey, die Hoffnung nähre, daß die Churfürstlich Badische
+                Regierungsbehörde, nach ihrer Weisheit und Großmuth, diese seine drükende Lage zu
+                erwägen belieben und ihn der gemachten Ansprüche zu befreyen geruhen werde. Mit
+                dieser vertraulichen Anzeige der, von Seite des Herrn Pfarrer
+                    Eberhard eingegangenen ehrerbietigen Vorstellungen, wird
+                dann einerseits die Bestätigung ihrer vollkommenen Wahrheit, und anderseits die
+                vorwortliche Empfehlung für diesen würdigen Geistlichen um geneigte Milderung der
+                von ihm abzutragenden Rükstandsschuld verbunden, und diese Empfehlung damit
+                motiviert, daß, so sehr man auch hießigen Orts vollkommen einsehe, daß in streng
+                rechtlicher Hinsicht die bestehende Verkommniß gegen den Herrn Pfarrer zu sprechen
+                scheine, eben so stark und unzweydeutig hinwiederum für denselben die Sache der
+                Billigkeit spreche; zumalen, wenn gleich der Tractat von 1794. nach dem damaligen
+                Ertrag des Zehentens berechnet, die jährliche Schuld auf 11. Mütt Kernen, 14. Mütt
+                Hafer und 1 fl. Geld bestimme, – eben so gewiß in der Zeitfolge, bey jeder
+                erweislichen unverschuldeten Schweinung des Zehentenertrags [wie es der vorliegende
+                Fall sey] neue gemilderte Bestimmungen in denselben würden gelegt worden seyn, – und
+                dieß um so gewißer, als das jährliche Fixum nichts anders, als den
+                verhältnismäßigen Ertrag des Quart-Zehentens zu bezeichnen geeignet war.
+            
+Von dieser, an das Churfürstlich Badische Zinshofraths-Collegium zu Mörspurg, zu
+                Gunsten des Herrn Pfarrer Eberhard zu Wyla erlaßenen
+                Vorwortschreiben, wird dem leztern, vermittelst gegenwärtiger Erkanntnuß Nachricht
+                gegeben, damit derselbe verständiget sey, wie weit die Regierung zu seinen Gunsten
+                gehandelt habe, und zu handeln im Fall sey.
+            
+Der Commißion des Innern wird ihre dießfällige geschikte Bemühung
+                geziemend verdankt.
+        </body>
+    </text>
+</TEI>

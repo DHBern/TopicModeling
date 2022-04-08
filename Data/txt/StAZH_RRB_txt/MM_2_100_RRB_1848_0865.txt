@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesuch der Gmde Rickenbach um Erhöhung ihrer Einzugsgebühren.</title>
+                <respStmt>
+                    <resp ref="#csn" key="transcript">Transkript: <date when="2011-06-14"
+                            >14.06.2011</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2011
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Gesuch der Gmde Rickenbach um Erhöhung ihrer
+                        Einzugsgebühren.</title><date when="1848-05-30"
+                        >30.05.1848</date><ident>StAZH MM 2.100 RRB
+                        1848/0865</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.100</biblScope><biblScope unit="page"
+                    >435–437</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Regierungsrath hat auf den Antrag des Rathes des Innern betreffend
+                ein Gesuch der Gemeinde Rickenbach um Erhöhung ihrer
+                Einzugsgebühren:
+            
+nachdem sich ergeben:
+            
+A. In einer vom 15ten März d. J. datirten Eingabe
+                stelle die Petentin das Gesuch, daß die Einzugsgebühren in ihre öffentlichen Güter
+                erhöht werden möchten, und begründe dasselbe damit, daß das Gemeindgut hauptsächlich
+                aus Liegenschaften namentlich aus Waldungen, bestehe, aus welchen jeder anwesende
+                Bürger einen jährlichen Nutzen von ca. 24. Franken beziehe, und
+                aus deren übrigen Ertrage noch alle Gemeindausgaben bestritten werden
+                können, so daß für jeden einzelnen Bürger der jährliche Nutzen aus dem Gemeindgut im
+                Ganzen auf 32–36. Frkn. angeschlagen werden dürfe, und dieser Nutzen bapitalisirt
+                [sic!] die Summe von 8–900. Frkn. ausmachen würde, während die Einzugsgebühr nur
+                120. Frkn. betrage.
+            
+B. Ueber dieses Begehren gebe der Bezirksrath Winterthur sein
+                Gutachten dahin ab, daß die bisher zu Gunsten des Gemeindgutes
+                    Rickenbach bezogene Einzugsgebühr wirklich in keinem
+                Verhältnisse zu dem Ertrage der Gemeindsliegenschaften, welcher alljährlich unter
+                die Bürger vertheilt werde, stehe, weßhalb es billig sei, daß man jene mit diesem
+                Letztern in Einklang bringe, er wünsche daher, daß die Einzugsgebühr in das
+                fragliche Gemeindgut auf Frkn. 450. erhöht, diejenigen in die übrigen Güter dagegen
+                auf den bisherigen Ansätzen belassen werden möchten, weil sie dem Bestande derselben
+                angemessen seien;
+            
+beschlossen:
+            
+I. Es sei die Einzugsgebühr in das Gemeindgut Rickenbach von
+                Frkn. 120. auf Frkn. 450. erhöht, dagegen habe es bei dem gegenwärtigen Bestande der
+                Einzugsgebühren in die übrigen Güter der Gemeinde Rickenbach
+                sein Verbleiben.
+            
+II. Sei diese Abänderung durch das Amtsblatt zur öffentlichen Kenntniß zu bringen,
+                dem Bezirks- rathe Winterthur mitzutheilen, in
+                den zu den Akten gebrachten Einzugsbrief einzutragen und soll der so veränderte
+                Einzugsbrief der Petentinn durch das Mittel des Statthalteramtes
+                    Winterthur wieder zugestellt werden.
+        </body>
+    </text>
+</TEI>

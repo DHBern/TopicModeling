@@ -1,0 +1,12 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Auslieferung Frau Sophie Brütschli v. Sursee.</title><respStmt><resp ref="#rke" key="transcript">Transkript: rke29.04.2016</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2016<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Auslieferung Frau Sophie Brütschli v. Sursee.</title>21.05.1883<ident>StAZH MM 2.240 RRB 1883/0925</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.240</biblScope><biblScope unit="page">439–440</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Präsidial-Verfügungen.
+21. Mai 1883.]
+Der Regierungsrath hat,
+in Sachen der Sophie Brütschli, geb. Twerenbold, von  Sursee,
+betreffend Auslieferung,
+nach Einsicht eines Antrages der Direktion der Justiz & Polizei,
+beschlossen:
+Sei nachfolgendes Schreiben an die Regierung des Kts. Luzern zu richten:
+„Unter Bezugnahme auf Euer verehrl. Schreiben vom 16. Mai d. Js. betr. die von Euch gewünschte Auslieferung der Frau Sophie Brütschli geb. Twerenbold, von Sursee, geben wir Euch davon Kenntniß, daß wir Euerem Ansuchen entsprochen & unter Polizeikommando mit dem Vollzug der Auslieferung der Requirirten an Euer Justizdepartement beauftragt haben.“<p/></body></text></TEI>

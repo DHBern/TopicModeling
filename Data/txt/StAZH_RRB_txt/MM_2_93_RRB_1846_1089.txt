@@ -1,0 +1,15 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Abgewiesener Rekurs des J. Vollenweider v. Mettmenstetten, seßh. in Horgen pto Wegweisung.</title><respStmt><resp ref="#dsa" key="transcript">Transkript: dsa20.05.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Abgewiesener Rekurs des J. Vollenweider v. Mettmenstetten, seßh. in Horgen pto Wegweisung.</title>04.07.1846<ident>StAZH MM 2.93 RRB 1846/1089</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.93</biblScope><biblScope unit="page">21–23</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Antrag des Rathes des Innern [vom 26t. v. M.] in Sachen des Johannes Vollenweider von Mettmenstetten, seßhaft im Stoker zu Horgen, Rekurrenten.  
+gegen
+einen Beschluß des Bezirks- resp. Gemeindrathes Horgen, betreffend Wegweisung:
+auf das Ergebniß des bezirksräthlichen Beschlusses vom 14t. April d. J. und nachdem sich ferner ergeben:
+D. Der Bezirksrath Horgen habe den Beschluß des Gemeindrathes Horgen bestätigt, wonach dem Rekurrenten der längere Aufenthalt in der Gemeinde Horgen wegen des mangelnden Requisites eines guten Leumundes verweigert worden sei; 
+E. Rekurrent verlange nun Aufhebung dieser Wegweisungsbeschlüsse, in dem er in weitläufiger Eingabe vom 20t. v. M. seine Lebensverhältnisse schildere und theils durch seine Darstellung, theils durch ein Zeugniß seines heimathlichen Gemeindrathes [Act No. 7] darzuthun versuche daß er gegenwärtig einen beßern Leumund besitze; 
+Nach Anhörung der gemeindräthlichen Berichterstattung vom 6t. gl. M.
+In Genehmigung der bezirksräthlichen Erwägungen 
+gefunden
+Es sei der Rekurs unbegründet 
+und beschlossen:
+I. Sei derselbe abgewiesen und der Beschluß des Bezirksrathes Horgen bestätigt; 
+II. Sei hievon dem Bezirksrathe Horgen für sich und zu Handen des Gemeindrathes daselbst, sowie dem Rekurrenten [durch  das Mittel des Statthalteramtes[]] [unter Rükstellung der eingelegten Papiere] Kenntniß zu geben.<p/></body></text></TEI>

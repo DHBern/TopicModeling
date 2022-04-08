@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Tagsbestimmung für die Besetzung der fünf Hauptämter.
+Die Besetzung der fünf durch den Beschluß des Kleinen Raths vom 6ten Octobris festgesetzten fünf oeconomischen Hauptämter oder Schaffnereyen des hießigen Kantons, benanntlich des Obmannamts, Kornamts, und der Ämter Küßnacht, Rüti u: Tös [sic!] oder Winterthur, – ist auf Samstag den 31sten Christmonats vertaget worden.

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Jb. Mundweiler, Vater, Müller in Dietikon. Ertheilung e. Wasserrechtes.</title><respStmt><resp ref="#sbh" key="transcript">Transkript: sbh17.12.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2012<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Jb. Mundweiler, Vater, Müller in Dietikon. Ertheilung e. Wasserrechtes.</title>04.02.1865<ident>StAZH MM 2.167 RRB 1865/0224</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.167</biblScope><biblScope unit="page">246–254</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+In Sachen
+des Herrn Jacob Mundweiler, Vater, Müller, in Dietikon,
+betreffend Wasserrecht,
+hat sich ergeben:
+A. Schon unterm 10. Augstm. 1860 suchte Herr Mundweiler um die Bewilligung zur Errichtung eines Wasserwerkes an der Reppisch nach. Nach dem damals vorliegenden Projecte hätte das Wasser beim evangelischen Schulhause im Unterdorf durch das Eigenthum des Petenten [den sog. Geißschachen] abgeleitet, so-  dann mittelst eines Syphons unter dem Bachbette durchgezogen u. endlich weiter geführt werden sollen.
+Da aber die rechtzeitig hiegegen erhobenen Einsprachen:
+a. der Direktion der Nordostbahngesellschaft d. d. 3. Herbstm. 1860
+b. der Gemeinde Dietikon, d. d. 4. Herbstm. 1860.
+c. des Sekelmeister Jb Ungricht u. 22 Mitbetheiligter, d. d. 4. Herbstm. 1860 u.
+d. der evangelischen Schulpflege Dietikon d. d. 7. Herbstm. 1860 nicht beseitigt werden konnten, so wurde das fragliche Gesuch durch Verfügung der Direktion der öff. Arbeiten vom 17. Christm. 1860 abgewiesen.
+B. Theils um die erwähnten Protestationen leichter erledigen zu können, theils um den Bau eines Syphons zu ersparen, änderte Herr Mundweiler laut Eingabe an das Statthalteramt Zürich vom 20. Christm. 1860 sein Project in der Weise ab, daß der Kanal zu dem Wasserwerke dem rechtseitigen Ufer der Reppisch entlang bis in die Au geführt, zu diesem Zwecke das Bachbett der Reppisch in gehöriger Breite durch sein eigenthümliches Land in Geißschachen gezogen, die durch die neue Abgrabung erübrigte Erde zur Eindeckung des alten Bachbettes u. zur Anlegung des Kanals verwendet u. die Ufer des neuen Bachbettes gehörig geschützt würden. Das Auffangswuhr würde nach dem frühern Projecte unverändert erstellt.
+C. Nachdem auch dieses modifizirte Project in gesetzlicher Weise publizirt worden, protestirten dagegen:  
+a. der Gemeindrath Dietikon laut Eingabe vom 22. Jenner 1861
+b. Joh. Benz u. Jacob Grau lt Eingabe vom gl. Tage.
+Diese Einsprachen konnten bei der vom Kreisingenieur unterm 7. März 1861 vorgenommenen Lokaluntersuchung nicht gehoben werden, der Petent hoffte aber, es werde ihm dieses später gelingen u. aus diesem Grunde wurde vom Kreisingenieur die Behandlung dieser Angelegenheit verschoben.
+D. Mit Eingabe vom 1. Christm. 1864 macht Herr Prokurator Spyri Namens des Herrn Mundweiler die Anzeige, daß sämmtliche Einsprachen beseitigt seien u. legt dafür folgende Erklärungen bei
+1. Vier Abstandeserklärungen der Inhibenten Sekelmeister Ungricht u. Mithafte [Fact A c], sowie eine Abstandserklärung der Fact C b aufgeführten Einsprecher Joh. Benz u. Jb Grau [Beilage 8, 9, 10, 11 u. 18]
+2. Erklärung der evangelischen Schulpflege Dietikon d. d. 20. Christm. 1860.
+3. Rechtskräftiges Urtheil des Bezirksgerichtes Zürich vom 26. Herbstm. 1864 zwischen dem Petenten u. der Direktion der schweiz. Nordostbahngesellschaft. Nach diesem Urtheil muß zwar Petent sich mit der Nordostbahndirektion noch bezüglich der Durchleitung des Kanals unter der Eisenbahn verständigen; nach der Auffassung des Gerichtes kann aber auf diese Frage erst eingetreten werden, wenn Petent die Conzession zur Errichtung des beabsichtigen Wasserwerkes wenigstens vorläufig er-  halten hat.
+Die Abstandserklärung des Gemeindrathes Dietikon d. d. 26. Jenner 1861 lag bereits in Handen des Kreisingenieurs.
+E. Nach dem Berichte der Inspektion stehender Entsprechung des vorliegenden Gesuches in wasserbaupolizeilicher Beziehung keine Hindernisse entgegen.
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion der öffentl. Arbeiten,
+beschließt:
+I. Dem Herrn Jacob Mundweiler, Vater, Müller, in Dietikon, wird die Bewilligung ertheilt, unterhalb des Dorfes in der Au daselbst ein Wasserwerk zu errichten u. zu diesem Behufe das Wasser der Reppisch unterhalb des Steges beim reformirten Schulhause vermittelst eines Auffangswuhres aufzufassen, durch einen in Mauern gefaßten Kanal längs des rechten Ufers des Baches u. sodann in einem aus Erde erstellten Gerinne durch die Güter in der Au auf das Werk zu leiten u. von diesem weg in einem Abzugskanale unter der Eisenbahn hindurch durch seinen Acker in der Schachenmatt u. das Gemeindeigenthum im Hanfland nach der Limmat abzuführen; ferner wird ihm bewilligt, die Reppisch vom Auffangswuhr an abwärts bis unterhalb der Abweichung zu verlegen – jedoch alles nur unter der Voraussetzung, daß es ihm  gelingen werde, das Recht für die Durchführung des Kanals unter der Eisenbahn hindurch zu erwirken u. alsdann unter folgenden Bedingungen:
+1. Für die Anlage dieses Wasserwerkes ist das nachfolgende Nivellement maßgebend:
+Oberfläche des Auffangswuhres, gleich der Bachsohle
+20,10’
+Wasserspiegel bei dem projectirten Wuhr [veränderlich]
+19,20
+Grundschwelle der Kanalschleuße bei dem Wuhr
+20,60
+Limmatufer an der Ausmündung des Kanals beim Antonisloch
+37,30
+Wasserspiegel der Limmat daselbst [veränderlich]
+38,81
+Fixpunkte u. anderweitige Anhaltspunkte:
+Thürschwelle am linken Pfosten des ref. Schulhauses
+10,48
+Fensterbank zunächst links an der Thür des Schulhauses
+7,87
+Wasserhöhe vom 2. Herbstm. 1860 beim Hause von Bernhard Locher
+14,50
+Thürschwelle zur Werkstätte von Schreiner Jos. Locher, am rechten Pfosten
+13,82
+Eisenbahnmarke an der Westseite der Bahn beim Kanaldurchgang
+24,44
+Schienenhöhe der Bahn daselbst
+20,62
+Eisenbahnmarke auf der Ostseite der bahn ebendaselbst
+25,18
+2. Die linkseitige, zugleich das rechte Bachufer bildende Kanalmauer soll solid aus zusammengespitzten Steinen, mit gehörigem Fundament u. einer Höhe von mindestens 6 Fuß über dem regulirten Bachbette ausgeführt werden u. eine dem Hochwasserdrucke vollständig widerste-  hende Dicke erhalten.
+3. Der Unternehmer hat nach Vorschrift des Gemeindrathes das neue Bachbett in gehöriger Breite [mindestens 35 Fuß] u. Tiefe zu erstellen, auch das linkseitige Bachufer, soweit es korrigirt wird, mit Steinen zu bekleiden, ferner die nöthigen Bachzugänge u. Treppen für die Uferanwohner, sowie Tränkestellen für das Vieh zu erstellen u. alle diese Anlagen zu unterhalten.
+4. Derselbe hat am Kanale zum Tränken des Viehes u. zum Wässern der Fässer, Standen u. s. w. einen 20’ breiten Platz zu erstellen, welcher von den Berechtigten bezeichnet wird.
+5. Der jeweilige Wasserrechtsbesitzer gestattet, das zu Wäschen, zum Füllen von Jauchetrögen u. s. w. erforderliche Wasser aus dem Kanale zu beziehen, wie solches bisher aus dem Bache bezogen worden ist.
+6. Der jeweilige Wasserrechtsbesitzer hat alle Uebergänge von Feld- u. Fußwegen, sowie die Verlängerung des Bachsteges über den Kanal dauerhaft zu erstellen u. zu allen Zeiten zu unterhalten.
+7. Bezüglich der Fischenzen des Joh. Benz u. Jacob Grau wird der Unternehmer auf den mit denselben laut Beschluß des Bezirksgerichtes Zürich vom 24. Herbstm. 1862 abgeschlossenen Vertrag verwiesen.
+8. Sollte in Folge einer allfälligen Correktion der Limmat die Ausmündung des Kanals verändert werden müssen, so hat der Besitzer des Wasserrechtes diese Ver-  änderung in seinen Kosten auszuführen.
+9. Die Verlegung der Reppisch in den sog. Geißschachen darf nur unter der ausdrücklichen Bedingung vorgenommen werden, daß der Bach auch da, wo er korrigirt wird, ein öffentliches Gewässer bleibe u. es hat sich daher Petent bei der Direktion der öff. Arbeiten darüber auszuweisen, daß das neue Bachbett von aller u. jeder Pfandschaft sowie von übrigen Lasten geledigt sei.
+10. Ohne eingeholte neue Erlaubniß dürfen keinerlei Veränderungen an den bewilligten Anlagen des Wasserwerkes vorgenommen werden.
+11. Das Wasserwerk wird für die Betreibung einer Baumwollenweberei bewilligt u. soll ohne nachgesuchte u. erhaltene Erlaubniß für keinen andern Gewerbszweig benutzt werden dürfen.
+12. Sollte das Wasserrecht früher oder später in den Besitz eines Andern übergehen, so ist hievon der Direktion der öffentl. Arbeiten Kenntniß zu geben.
+13. Der jeweilige Besitzer dieses Wasserrechtes haftet für jeden Schaden u. Nachtheil, der, von den Anlagen u. der Bewerbung dieses Rechtes herrührend, an fremdem Eigenthum entstehen sollte.
+14. Sollten die vorgeschriebenen Bedingungen u. Verpflichtungen nicht vollständig erfüllt werden, so ist der Direktion der öffentl. Arbeiten das Recht vorbehalten, auf Kosten des jeweiligen Besitzers dieses Wasserrechtes weitere sichernde Anordnungen zu treffen.  
+15. Der Regierungsrath behält sich das Recht vor, die Conzession ohne Entschädigung gänzlich zurückzuziehen u. für kraftlos zu erklären, wenn nicht binnen 3 Jahren das Wasserwerk ausgeführt ist.
+II. Nach Beendigung der Anlagen u. erfolgter Ingangsetzung des Werkes hat der Unternehmer die Direktion der öff. Arbeiten davon in Kenntniß zu setzen, welche durch einen Experten folgende Untersuchungen u. Arbeiten vornehmen lassen wird:
+a. Die Untersuchung des Zustandes der ganzen Wasserwerksanlage mit Rücksicht auf die dafür aufgestellten Bedingungen,
+b. Die Messung der Wasserkraft für die Besitmmung des Wasserzinses.
+III. Petent hat diese Bewilligung, deren Bedingungen für ihn sowie für seine Rechtsnachfolger verbindlich sind, in seinen Kosten in das Notariatsprotokoll eintragen zu lassen u. binnen 6 Wochen der Direktion der öff. Arbeiten eine diesfällige Bescheinigung zuzustellen.
+IV. Hat Petent an die Kanzlei der Direktion der öff. Arbeiten zu Handen der Experten Frk. 27 Expertengebühren einzusenden u. an die Staatskanzlei die Ausfertigungs- u. Stempelgebühren zu bezahlen.
+V. Hievon wird dem Statthalteramte Zürich, dem Petenten in urkundlicher Ausfertigung durch das Mittel des Statthalteramtes u. der Direktion der öff. Arbeiten unter Rückstellung der Akten u. Pläne Kenntniß  gegen.<p/></body></text></TEI>

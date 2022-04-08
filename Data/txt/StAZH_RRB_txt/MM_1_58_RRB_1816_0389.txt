@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorschlag der Militar-Commißion dem Herrn Cantonscommißair Oeri den Grad
+                    eines Oberstlieutenants zu geben.</title>
+                <respStmt>
+                    <resp ref="#jvs" key="transcript">Transkript: jvs<date when="2010-04-21"
+                            >21.04.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Vorschlag der Militar-Commißion dem Herrn Cantonscommißair Oeri den Grad
+                        eines Oberstlieutenants zu geben.</title>
+                    18.04.1816
+                    <ident>StAZH MM 1.58 RRB 1816/0389</ident>
+                    <edition>Protokoll des Regierungsrats</edition>
+                    <biblScope unit="volume">1.58</biblScope>
+                    <biblScope unit="page">115–116</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf angehörten Bericht und Antrag der L. Militar-Commißion d. d. <date
+                    when="1816-03-16">16ten passati</date>, daß dem Herrn Cantonscommißarius
+                    Oeri als Beweis von Zufriedenheit der Regierung mit seinen
+                bisher, und besonders in den lezten Kriegsjahren geleitsteten ausgezeichneten
+                Diensten, der Rang eines Oberstlieutenants ertheilt werden möchte,– hätten
+                UHochgeachten HHerren und Ober zwar in Würdigung der Verdienste
+                des Herrn Oeri, keinen Anstand genohmen, diese Gradeserhöhung
+                sofort zu beschließen, allein da derselbe die Stelle eines
+                Regiments-Quartiermeisters bekleidet, nothwendig erachtet, vorher noch die Frage zu
+                erläutern, ob und wie solche Ertheilung höherer Grade als die bekleideten Stellen
+                reglementsmäßig mit sich füh- ren, ohne nachtheilige Consequenz und
+                Incongruitäten auf die militarische Formation im Allgemeinen, Statt finden
+                können.
+            
+Die L. Militar-Commißion wird daher ersucht, diesen Gegenstand in nähere Prüfung zu
+                nehmen und dem Kleinen Rathe dießfalls wieder ihren Bericht und
+                Antrag einzugeben.
+        </body>
+    </text>
+</TEI>

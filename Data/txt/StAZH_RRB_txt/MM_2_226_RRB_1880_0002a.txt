@@ -1,0 +1,10 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Bundesrath; Reklamation d. Fidel Cereza v. Verdabbio.</title><respStmt><resp ref="#lhr" key="transcript">Transkript: lhr15.09.2015</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2015<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Bundesrath; Reklamation d. Fidel Cereza v. Verdabbio.</title>02.01.1880<ident>StAZH MM 2.226 RRB 1880/0002a</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.226</biblScope><biblScope unit="page">969</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Präsidial-Verfügungen.
+02. Januar 1880.]
+Der Regierungsrath hat,
+betreffend eine durch den Bundesrath vermittelte Reklamation des Fidel Cereza von Verdabbio, Graubünden, z. Zt. in Paturage, Belgien,
+nach Einsicht eines Antrages der Justiz- & Polizeidirektion,
+beschlossen:
+Die vom Statthalteramte Zürich eingegangene Berichterstattung mit dem in heutigen Missiven enthaltenen Schreiben dem Bundesrathe einzubegleiten.<p/></body></text></TEI>

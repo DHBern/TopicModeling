@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Bestätigung v. Niederlassungsbewilligungen in den Bezirken Zürich, Affoltern, Hinweil, Pfäffikon u. Winterthur.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn06.02.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2012<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Bestätigung v. Niederlassungsbewilligungen in den Bezirken Zürich, Affoltern, Hinweil, Pfäffikon u. Winterthur.</title>23.06.1849<ident>StAZH MM 2.104 RRB 1849/1129</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.104</biblScope><biblScope unit="page">569–583</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Antrag des Rathes des Innern, betreffend die von den resp. Gemeindräthen der Bezirke Zürich, Affoltern, Hinweil, Pfäffikon und Winterthur eventuell ertheilten Niederlassungsbewilligungen an nachstehende Kantons- und Landesfremde, –  
+I. Aus dem Bezirke Zürich.
+a. Stadtgemeinde Zürich.
+Schweizerbürger.
+1. Alder, Joh. Ulrich v. Schönengrund, Kt. Appenzell a/R. verhe. Tagelöhner;
+2. Bachmann, Andreas von Beggingen Kt. Schaffhausen verheir. Dessinateur.
+3. Baumann, Friedrich v. Niederlenz Kt. Aargau verh. Drechsler.
+4. Baui, von Amden Kt. St. Gallen, verheir: Zuschläger.
+5. Bollinger, Daniel v. Löhmingen Kt. Schaffhausen verh. Tagelöhner.
+6. Bollinger, Samuel v. Löhmingen Kt. Schaffhausen verh. Einkärner.
+7. Blessi, Johannes von Sohl, Kt. Glarus verh: Handlanger.
+8. Bucher, Maria v. Lengnau, Kt. Aargau unverh. Spetterinn.
+9. Deebrunner, Heinrich v. Mettendorf Kt. Thurgau unverh. Commis.
+10. Deppeler, Rudolf. v. Würenlos K. Aargau verh: Mühlemacher.
+11. Dübi, Friedrich von Schüpfen Kt. Bern unverheir. Commis.
+12. Frei, Anna geb. Bachmann v. Frauenfeld, Kt. Thurgau, Wittwe, Spetterinn  
+13. Frischknecht, Martin v. Schwellbrunn Kt. Appenzell a/R. unverh. Uhrenmacher.
+14. Geiger, Heinrich von Walzenhausen Kt. Appenzell a/R. verh. Tagelöhner.
+15. Gillieron, Victor von Corcelles Kt. Waadt, verh. Sprachlehrer.
+16. Hasler, Catharina, geb. Meier v. Altstätten Kt. St. Gallen, Wittwe, Spetterinn.
+17. Heer, Jakob von Märstetten, Kt. Thurgau unverh. Schuster.
+18. Hofmann, Johs. v. St. Gallen verh. Commis.
+19. Horber, Johs. v. Aadorf Kt. Thurgau verh. Weinhändler.
+20. Hösli, Elisab. geb. Grebel v. Glarus ohne Familie, Partikularinn.
+21. Hugentobler, Heinrich v. Oppikon, Kt. Thurgau verh. Schuster.
+22. Kern, Frau Elisab. geschied. Pfister v. Müllheim Kt. Thurgau, Zwirnerinn;
+23. Künzli, Ulrich v. Ebnat, Kt. St. Gallen, unverh. Commis.
+24. Labhard, Caspar v. Steckborn Kts. Thurgau verh. Drechsler.
+25. Läubli, Rudolf von Seengen Kt. Aargau, verh. Kürvner.
+26. Lutermauer, Johs. v. Rußweil, Kt. Luzern verh. Maurer.  
+27. Meier, Anna v. Obersiggenthal Kt. Aargau unverh. Spetterinn.
+28. Müller, Jakob v. Tägerweilen Kt. Thurgau verh. Gastwirth.
+29. Müller, Johs. v. Wattweil Kt. St. Gallen, verh. Buchdrucker.
+30. Müller, Anna v. Bichelsen, Kt. Thurgau, unverh. Näherinn.
+31. Näf, Ursula v. Urnäschen Kt. Appenzell a/Rh. unverh. Strickerinn.
+32. Portmann, Johs. v. Eschholzmatt Kt. Luzern, verh. Schirmfabrikant.
+33. Probst, Joseph v. Holderbank, Kt. Thurgau, unverh. Commis.
+34. Riethmann, Joh. Casp. v. Tägerweilen Kt. Thurgau, verh. Litograph.
+35. Rohr, Gottfried v. Hungenschweil, Kts. Aargau, unverh. Flachmaler.
+36. Rühle, Wilhelm v. Dörflingen Kt. Schaffhausen, verh. Bedienter;
+37. Rütschi, Frau Elisab. geb. Wipf v. Frick, Kt. Aargau, Wittwe Spetterinn.
+38. Schatzmann, Casp. v. Hausen, Kt. Aargau, unverh. Commis.
+[ist zurückgezogen worden] 39. Schlatter, Casp. v. Fahrwangen Kt. Aargau, verh. Commis.
+40. Schuhmacher, Jakob v. Dießenhofen Kts.  Thurgau, verh. Handlanger.
+41. Sprecher, Christian v. Tschiertschen, Kt. Graubündten, verh. Claviermacher.
+42. Stadler, Eduard v. Flawyl, K. St. Gallen unverh. Commis.
+43. Stöhr, Anna Maria v. Mumpf K. Aargau, unverh. Modiste.
+44. Tanner, Christian v. Lützelflüh, Kt. Bern, verh. Handelsmann.
+45. Urech, Wilhelm v. Othmarsingen Kt. Aargau, verh. Buchhalter.
+46. Völki, Georg von Altnau, Kt. Thurgau, verh. Schneider.
+47. Zappa, Paris v. Zernetz, Kt. Graubündten verh. Commissionär
+Landesfremde.
+48. Allegre, Franz v. Ally in Frankreich verh: Schirmmacher.
+49. Balz, Albert v. Straßburg in Frankreich verh. Kellner.
+50. Bauer, Adam v. Erbendorf, Baiern, verheir. Musiker.
+51. Baumann, Wolfgang v. Unterneuren, Böhmen, verh. Bettfedernhändler.
+52. Bayol, Peter v. Ally, in Frankreich unverh. Schirmhändler.
+53. Braun, Johannes von Hildrighausen Königreich Würtenberg ver-  heirathet, Mühlemacher.
+54. Degrenon, Simon v. Lauvat in Frankreich verh. Schirmmacher.
+55. Friedrich, Jakob v. Basigheim, Würtemberg verh. Schneidergeselle.
+56. Lorenz, Johs. v. Schnifis, Oestreich, verh. Maurergeselle.
+57. Mack, Georg v. Schreisheim, Baden, verheir. Farbwaarenhändler.
+58. von Mulert, Elisabetha von Fattandt von Nimwegen in Holland, Wittwe Particularinn.
+59. Meier, Mathias v. Unterlenzkirch, Baden, unverh. Glashändler.
+60. Montet, Johs. v. Soulages in Frankreich, unverheir. Schirmfabrikant.
+61. Pangratz, Anton v. Donau in Böhmen, unverh. Bettfedernhändler.
+62. Patuzzi, Alexander von Wien verheir. Zahnarzt.
+63. Rheinek, Juditha geb. Kick v. Memingen, Baiern, ohne Familie, Kuchenbäckerinn.
+64. Riedmüller, Franz v. Schwap in Oestreich verh. Handelsmann.
+65. Schöning, Wilhelm v. Kirchheim Würtember[g] unverh. Commis.
+66. Wagner, Dionisius von Möffingen, Wür-  temberg, verh. Maurergesell.
+67. Wichelhausen, Elisab. geb. Geßner v. Bremen Witwe Particularinn.
+68. Wurz, Johannes v. Ulm, Würtemberg verh. Bedienter.
+b. Gemeinde Altstätten.
+69. Huber, Caspar v. Buch, Kt. Thurgau verheir. Güterarbeiter.
+c. Gemeinde Außersihl.
+70. Ammann, Magdal. v. Ermatingen Kt. Thurgau unverh. Näherinn.
+71. Bürgi, Anna v. Gontenschweil, Kt. Aargau unverh. Fabrikarbeiterinn
+72. Burkhardt, Gabriel Ludw. v. Ligerz, Kt. Bern verh. Seidenfabrikat.
+73. Ducret, Daniel v. Chardonne, Kt. Waadt, verh. Particular.
+74. Huber, Catharina v. Mettendorf Kt. Thurgau unverh. Particularinn.
+75. Kaufmann, Joh. Ulrich v. Ebnat Kt. St. Gallen verh: Maurergeselle.
+76. Merle, Franziska, geb. Eichmann v. Schwyz, Wittwe Taglöhnerinn.
+77. Möhr, Barbara, geb. Zünd v. Maienfeld Kt. Graubündten, Wittwe Particularinn
+78. Streit, Benedikt v. Englisberg Kt. Bern unverh. Gärtner,  
+79. Wildi, Johs. v. Schafisheim, Kt. Aargau verheir. Leineweber.
+80. Bausch, Regula, geb. Meier v. Beerwangen Baden, Wittwe, Taglöhnerinn.
+81. Schueler, Joseph v. Kappel in Oesterreich verheir. Maurergeselle.
+d. Gemeinde Birmenstorf.
+82. Häusler, Caspar Joseph v. Schwaderloch, Kts. Aargau unverh. Hutmacher.
+e. Gemeinde Enge.
+83. Gehrschweiler, Ferdinand v. Oberutzweil Kts. St. Gallen verh. Kaufmann.
+84. Hartmann, Conrad v. Neßlau Kt. St. Gallen verh. Handelsmann.
+85. Helbling, A. Maria v. Kaltbrunn Kt. St. Gallen verh. Näherinn.
+86. Imhof, Anna geb. Senn v. Altnau Kt. Thurgau, Wittwe Näherinn.
+87. Züger, Joh. Baptist v. Wangen Kt. Schwyz verh. Taglöhner.
+88. Duden, Friedrich Wilhelm Ludwig von Dortmund, Preußen verheir. Kaufmann.
+89. Sax, Joseph von Gailingen, Baden verheir. Kaufmann.
+90. Tröndli, Jakob von Bondorf, Baden, verheir. Taglöhner.  
+Gemeinde Fluntern.
+91. Blickle, Thomas von Hausen, Fürstenthum Hohenzollern-Hechingen, verheir. Bierbrauer.
+92. Sudre, Jakob, v. St. Mary le Gros in Frankreich ohne Familie, Löther.
+G. Gemeinde Geroldschweil.
+93. Frei, Jakob von Bötzberg Kt. Aargau verheir. Landwirth.
+Gemeinde Hirslanden.
+94. Geiger, Marx v. Ermattingen, Kt. Thurgau, verh. Fabrikarbeiter.
+95. Keller, Hs. Georg v. Huttweilen Kt. Thurgau, verh. Gärtner.
+96. Akert, Jakob v. Nußbaumen, Kt. Thurgau, verheir. Fabrikarbeiter.
+97. Rütishauser, Sebastian, v. Sulgen, Kt. Thurgau. verh. Zimmermann.
+98. Schweizer, Josua v. Peterzell Kt. St. Gallen, verh. Landwirth.
+99. Straßer, Jakob v. Nußbaumen Kt. Thurgau verh. Straßenarbeiter.
+i. Gemeinde Höngg.
+100. Gautschi, Hs. Rudolf v. Rheinach, Kt. Aargau verh. Fabrikarbeiter.
+K. Gemeinde Hottingen.
+101. Buchegger, Conrad von Vogelsang Kanton  Thurgau, unverh. Gewerbsknecht.
+102. Bürgi, Verena von Gontenschweil, Kantons Aargau, unverh. Fabrikarbeiterinn.
+103. Dickel, Wilhelm v. Müllheim Kt. Thurgau verh. Färber.
+104. Künin, Jakob sel. Wittwe v. Wollerau Kt. Schwyz, Spetterinn.
+105. Martin, Leonhard v. Frankendorf Kt. Baselland, verh. Fabrikarbeiter.
+106. Weber, Jakob v. Eglisweil, Kt. Aargau, verheir. Landwirth.
+Gemeinde Oberengstringen.
+107. Meier, Matheus v. Höchenschwand, Baden, verh. Landwirth.
+m. Gemeinde Oberurdorf.
+108. Bolliger, Samuel v. Eglisweil, Kt. Aargau verh. Maurer.
+Gemeinde Riesbach.
+109. Gily, Bartholom v. Salenstein, Kt. Thurgau, verh. Schuster.
+110. Hunziker, Dorothea von Staffelbach, Kt. Aargau Fabrikarbeiterinn [lebt getrennt v. ihrem Ehemann[]]      
+111. Kelber, Regula geb. Weber von Rüdlingen Kt. Schaffhausen mit Familie, Seidenweberinn.  
+112. Müller, Johs. v. Wengi Kt. Thurgau verheir. Jaquardweber.
+113. Munz, Susanna v. Donzhausen Kt. Thurgau unverh. ohne Beruf.
+114. Nefzer, Johs. v. Bubendorf, Kt. Baselland, verh. Bandweber.
+115. Dicht, Johs. v. Strengen im Tyrol, verheirathet Maurer.
+116. Engelmann, Friedr. Julius v. Nötwitz in Sachen, unverh. Musiklehrer.
+117. Hofmann, Wilhelm, v. Usingen in Nassau, verh. Handelsmann.
+118. Patrik, Eduard Theodor v. Mühlhausen in Frankreich, verh. Fabrikarbeiter. 
+119. Stamm, Karl Geofroi Ferdinand v. Straßburg, Frankreich verh. Kaufmann.
+Gemeinde Schwamendingen.
+120. Bruchsal, Joachim v. Mettendorf K. Thurgau verh. Schuster.
+Gemeinde Unterengstringen.
+121. Trottmann, Jakob v. Rottenschweil Kt. Aargau verh. Maurer.
+Gemeinde Unterstraß.
+122. Dubach, Peter v. Rothenburg Kt. Luzern, verh. Brunnenmacher.
+123. Lorez, Elisabetha, geb. Bretscher v. Hinterheim Kt. Graubündten Wittwe, Guts-  besitzerinn. 
+Gemeinde Wipkingen.
+124. Vetterli, Jakob v. Wagenhausen, Kt. Thurgau verh. Fabrikarbeiter.
+Gemeinde Wollishofen.
+125. Greuter, v. Gingishausen, Kt. Thurgau verheir. Anrüster.
+Gemeinde Zollikon.
+126. Meier, Anna, geb. Hunziker v. Dietingen Kt. Thurgau, Wittwe, Weberinn
+Gemeinde Schlieren.
+127. Schniezer, Alois, v. Hildisrieden, Kt. Luzern, unverh. Thierarzt.
+II. Aus dem Bezirke Affoltern.
+Gemeinde Ottenbach.
+128. Hauenstein, Jakob v. Degerfelden Kt. Aargau unverh. Landwirth.
+129. Sennrich, Joseph v. Auw. Kt. Aargau, verheir. Rechenmacher.
+Gemeinde Stallikon.
+130. Thommann, Anna, geb. Glättli v. Brienz, Kt. Bern, verh. Seidenwinderinn.
+III. Aus dem Bezirk Hinweil.
+a. Gemeinde Goßau.
+131. Boßhard, Daniel v. Oberwangen, Kt. Thurgau, verh. Schneider.
+Gemeinde Wetzikon.  
+132. Eppeler, Johs. von Oberdigisheim, Würtemberg verh. Schreiner.
+IV. Aus dem Bezirke Pfäffikon.
+Gemeinde Wildberg.
+133. Frener, Anna von Urnäschen, Kt. Appenzell a/Rh. unverh. Baumwollenweberinn.
+134. Wild, Johs. v. Kappel Kt. St. Gallen, verh. Baumwollenweber.
+Aus dem Bezirke Winterthur.
+a. Gemeinde Hettlingen.
+135. Löpfe, Jos. Anton v. Wittenbach Kt. St. Gallen, verh. Schuster u. Landwirth.
+b. Gemeinde Töß.
+136. Häfliger, Michael v. Triengen Kt. Luzern verh. Schmid.
+137. Kreß, Leonhard v. Bonau Kt. Thurgau verh. Taglöhner.
+Gemeinde Turbenthal.
+138. Müller, Joh. Georg v. Tannegg Kt. Thurgau verh. Weber.
+Gemeinde Veltheim.
+139. Bernauer, Colestin v. Todtnau, Baden, unverh. Bürstenhändler.
+Stadtgemeinde Winterthur.
+140. Brack, Heinrich v. Oberneunforn Kt. Thurgau verh. Drechsler.  
+141. Morf, Susanna geschied. Weiler v. Wäldi, Kt. Thurgau Näherinn.
+142. Fischer, Xaver von Holzhäusen Großherz. Baden verh. Gärtner.
+143. Methfassel, Ernst Adam v. Mühlhausen, Preußen, unverh. Musikdirektor.
+144. Schmied, Joh. Georg v. Mumlischweil Kt. Solothurn, verh. Buchdrucker.
+145. Wiehler, Marx v. Dingelsdorf, Baden, verh. Maurer.
+146. Wüscher, Johs. v. Schaffhausen, verh. Instrumentmacher.
+beschlossen:
+I. Die eventuellen Niederlassungsbewilligungen unter No 1–49. 51–54. 57–65., 67–80. 82–84. 86–88. 90–114. 116.–131. 133–144. u. 146. werden einfach bestätigt.
+II. Die übrigen eventuellen Niederlassungsbewilligungen werden zwar ebenfalls bestätigt, jedoch in der Meinung, daß:
+a. die betreffenden Gemeindräthe beauftragt werden, nachträglich noch in den Bewilligungen unter No 50. und 85. das Datum der Ausweisschriften berichtigen zu lassen.
+b. den Petenten unter No 55. 56. 66. 81. 115. 132. und 145. gemäß §. 41. 1. des Niederlassungsgesetzes auf das strengste untersagt werde, ein  Handwerk auf eigene Rechnung zu betreiben, mit der Androhung, daß die Uebertretung dieser Bedingung den sofortigen Entzug der Niederlassungsbewilligung zur Folge hätte, worüber sowohl die betreffenden Gemeindräthe als auch die Statthalterämter zu wachen haben.
+III. Den Statthalterämtern Zürich, Affoltern, Hinweil, Pfäffikon und Winterthur wird von diesen Beschlüssen, soweit sie dieselben berühren zu ihren und der betreffenden Gemeindräthe und Petenten Handen unter Anlage der von den letztern eingelegten Ausweisschriften zur Rückgabe an dieselben, sowie dem Sekretariate des Rathes des Innern, behufs Vormerkung auf dem Register der Niedergelassenen Kenntniß gegeben.<p/></body></text></TEI>

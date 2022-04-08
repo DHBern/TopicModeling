@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Justizcommißion von St. Gallen, wegen Extradition des Vermögens für
+                    Schreinermeister Künzli von Wald.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2005-07-01"
+                            >01.07.2005</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Justizcommißion von St. Gallen, wegen Extradition des Vermögens für
+                        Schreinermeister Künzli von Wald.</title><date when="1807-06-04"
+                        >04.06.1807</date><ident>StAZH MM 1.22 RRB
+                        1807/0707</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.22</biblScope><biblScope unit="page">328</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Das Beschwerdschreiben der Justiz- und Polizeycommißion des Cantons St.
+                    Gallen an die hießige <orgName>Justiz- und
+                    Polizey-Commißion</orgName> vom 29sten passati,
+                betreffend die, von dem dort eingeheurateten Schreinermeister
+                    Künzli von Wald, durch verschiedene
+                    Wege fruchtlos begehrte Extradition seines, noch in
+                    Wald ligenden Vermögens, welches nicht verabfolgt werden
+                wolle, so lange Künzli sich nicht an einem anderen Orte als
+                würklicher Einkäufer niedergelaßen habe, oder von seiner Verwandtschaft auf den Fall
+                seiner Zurükkunft für die unversehrte Zurükbringung seines Vermögens keine Garantie
+                geleistet werde, – wird der Commißion des Inneren zu näherer
+                Untersuchung dieses Geschäftes und zu Hinterbringung ihres Berichts und Gutachtens
+                überwiesen. 
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,19 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#lhr" key="transcript">Transkript: lhr30.03.2016</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2016<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>05.01.1887-01.04.1887<ident>StAZH MM 2.255 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.255</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Herr
+Johannes Eschmann, von Richtersweil, Präsident.
+“
+Walter Hauser, von Wädensweil, Vice-Präsident.
+“
+Dr Johs. Stössel, von Bäretsweil.
+“
+Joh. Emanuel Grob, von Zürich.
+“
+Joh. Jakob Spiller, von Winterthur.
+“
+Karl Felix Walder, von Hombrechtikon.
+“
+Heinrich Nägeli, von Enge.
+Staatsschreiber.
+Herr Heinrich Stüssi, von Russikon & Oberrieden.</body></text></TEI>

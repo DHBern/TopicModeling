@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johannes Isliker von Alten, Soldat in Holländischen Diensten, bittet um
+                    Auslieferung eines Tauf- und Heimath-Scheins.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-29"
+                            >29.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Johannes Isliker von Alten, Soldat in Holländischen Diensten, bittet um
+                        Auslieferung eines Tauf- und Heimath-Scheins.</title><date when="1805-02-09"
+                        >09.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0228</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >68–69</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Zuschrift des Herrn Pfarrer Veith von
+                    Andelfingen vom <date when="1805-01-30">30sten
+                        Jenner</date>, enthaltend die Anzeige, daß ein mit Namen Johannes
+                Isliker von Alten, gegenwärtig in Holländischen Diensten
+                stehender Soldat, bey ihm um die Auslieferung seines Tauf- und Heimathsscheins
+                angesucht habe, ohne welche er durchaus nicht bey seinem Regiment bleiben könne, die
+                Gemeinden Kleinandelfingen und Alten aber diesen durch den
+                Zusammenfluß verschiedener Umstände heimathlosen Johannes
+                Isliker nicht als Gemeindsbürger annehmen wollen, weßnahen um die
+                Obrig- keitliche Dazwischenkunft angesucht wird, – wird der
+                    Commißion des Inneren in Originali mit der Einladung
+                zugestellt, die Sache mit besonderer Hinsicht auf die Ehegerichtliche Erkanntnuß vom
+                    13ten August 1778. zu untersuchen, und dem
+                    Kleinen Rath ihren Bericht und Antrag darüber zu
+                hinterbringen.
+        </body>
+    </text>
+</TEI>

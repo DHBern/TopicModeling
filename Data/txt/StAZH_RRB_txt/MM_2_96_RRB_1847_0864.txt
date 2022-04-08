@@ -1,0 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Ansuchen der Frau Pfarrer Nabholz um Erhöhung der bisher bezogenen Pfarrpfrund.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn22.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Ansuchen der Frau Pfarrer Nabholz um Erhöhung der bisher bezogenen Pfarrpfrund.</title>28.05.1847<ident>StAZH MM 2.96 RRB 1847/0864</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">250</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Iussu Praesidii
+Actum den 28. May 1847.] 
+Dem Finanzrathe wird zur Prüfung und Berichterstattung überwiesen:
+Das Ansuchen eines Specereihandlers J. Vogel in Zürich, d. d. 27t. d. M. Namens seiner Schwester Frau Pfarrer Nabholz um Erhöhung der bisher bezogenen Pfarrpfrund-Entschädigungssumme.<p/></body></text></TEI>

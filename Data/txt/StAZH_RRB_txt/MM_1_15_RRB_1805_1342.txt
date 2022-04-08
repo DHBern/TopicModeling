@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verschiedene Einleitungen und Dispositionen, veranlaßt durch das
+                    Circularschreiben des Herrn Landammanns in Bezug auf den muthmaaßlichen Bruch
+                    zwischen Frankreich und Österreich, und auf die Neutralität der
+                    Schweitz.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-25"
+                            >25.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Verschiedene Einleitungen und Dispositionen, veranlaßt durch das
+                        Circularschreiben des Herrn Landammanns in Bezug auf den muthmaaßlichen
+                        Bruch zwischen Frankreich und Österreich, und auf die Neutralität der
+                        Schweitz.</title>05.09.1805<ident>StAZH MM
+                        1.15 RRB 1805/1342</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.15</biblScope><biblScope
+                        unit="page">1–6</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung und in Genehmigung des von der Diplomatischen Commißion
+                unterm 3ten Septembris [in Folge erhaltenen Auftrags
+                vom 29sten Augstmonats] hinterbrachten sorgfältigen
+                Berichts und Gutachtens, betreffend die verschiedenen, durch das Circularschreiben
+                Seiner Excellenz, des Herren Landammanns der Schweitz vom <date when="1805-08-22"
+                    >22sten Augstmonat</date>, in Bezug auf den muthmaaßlichen Bruch zwischen
+                Frankreich und Österreich, und auf die Neutralität der Schweiz, erforderlich
+                werdenden Einleitungen und Dispositionen, – ist einmüthig beschloßen worden:
+            
+1.) Der Grundsatz, daß das wichtige Neutralitätsgeschäft, und die daraus
+                herfließenden Vorschläge von diplomatischer und öconomischer Natur, dem
+                    Großen Rath vorgetragen werden sollen, – wird jetzo schon
+                festgesezt, die würkliche Convocation des Großen Raths aber, bis
+                auf den Augenblik verschoben, wo die nähere Entwiklung der Ereigniße bekannt und
+                nammentlich von des Herren Landammanns Excellenz eine bestimmte Aufforderung zu
+                würklicher Beschikung der gemeineydsgenößischen Tagsatzung eingekommen seyn
+                wird.
+            
+2.) Damit aber beym würklichen Eintritt jenes Moments keinerley Zögerung entstehe, –
+                so wird der Staats-Canzley jezo schon aufgetragen, ein im Allgemeinen mit den
+                obwaltenden Conjuncturen motiviertes Convocationsschreiben zu entwerfen, darbey
+                einsweilen die nähere Tagsbestimmung en blanc zu laßen, es dem Druck zu übergeben,
+                und so in Bereitschaft zu halten, daß die Formulare im eintrettenden Fall
+                augenbliklich ausgefüllt und durch Expreße nach den verschiedenen Landesgegenden
+                vertragen werden können. Auch wird die Canzley eine, von den
+                Haupt-Correspondenz-Acten begleitete, kurze historische Erzählung von den
+                verlanlaßenden Ursachen der Ausschreibung einer außerordentlichen Tagsatzung, und
+                mithin auch der Convocation des Großen
+                Raths, vorläuffig zu Papier bringen; gleichwie die
+                versch[?iede]nen Commißionen der Regierung ersucht werden, die verschiedenen, ihnen
+                in Gemäßheit der gegenwärtigen Erkanntnuß, obliegenden Arbeiten hinlänglich zu
+                beschleunigen. 
+            
+3.) Die Geschäfte des Großen Raths werden folgende seyn:
+            
+a) Discußion und Abschluß über einen ihm, in Gemäßheit eines folgenden Abschnitts
+                dieses Beschlußes, vorzulegenden Antrag, in Betreff der, durch Aufstellung und
+                Behauptung einer bewaffneten Neutralität erforderlich werdenden außerordentlichen
+                Hülfsquellen in öconomischer Hinsicht.
+            
+b) Berathung und Abschluß über den Instructionsproject für die hießige
+                Standesgesandtschaft auf die außerordentliche Tagsatzung.
+            
+c) Wahl der Gesandtschaft.
+            
+d) Wiederbesetzung der vor zwey Monaten durch seliges Absterben des Herren Ratsherr
+                    Fries erledigten Stelle im Mittel des Kleinen
+                    Raths.
+            
+4.) Die Diplomatische Commißion wird auf das Fundament der theils bereits vorhandenen
+                und vornehmlich in dem Circularschreiben des Herrn Landammanns der Schweitz vom
+                    22sten Augstmonat enthaltenen allgemeinen
+                Staminum, theils der aus dem seiner Zeit von Seiner Excellenz einlangenden
+                Convocationsschreiben herzuleitenden näheren Specialitäten, – den sorgfältigen
+                Project einer, der hießigen Ehrengesandtschaft auf die außerordentliche Tagsatzung
+                zu ertheilenden Instruction ausarbeiten, mit dieser Arbeit dermahlen schon so viel
+                als möglich vorschreiten, und zugleich auch einen Rathschlag über die Composition
+                und Ausdähnung der hießigen Standesgesandtschaft abfaßen.
+            
+5.) Nebst dem Instructions-Project ist dem Großen Rath auch der,
+                selbst bey gewöhnlichen Tagsatzungen bis dahin üblich gewesene Antrag zu
+                hinterbringen: „daß der Große Rath den <orgName>Kleinen
+                    Rath</orgName> begwältigen möchte, über solche Gegenstände, über welche der
+                    Große Rath bereits instruiert hat, die Ehrengesandtschaft im
+                    Sinn dieser gegebenen allgemeinen Instruction, mit den
+                allfählig durch die Umstände erforderlich werdenden Erläuterungen, Ergänzungen und
+                näheren Instructionen zu versehen, auch ihr in eintrettenden Fällen über neue
+                Gegenstände diejenigen eventuellen Instructionen, welche einizg durch den Lauf und
+                die jedesmahlige Laage der Dinge bestimmt, und, nach der Natur der Gegenstände,
+                weder zum Voraus festgesezt noch verschoben werden können, so zu
+                ertheilen, wie es der Kleine Rath, nach seinem gewißenhaften
+                Befinden, für die Ehre, Unabhängigkeit und Sicherheit des gemeinwerthen Vaterlandes
+                am beßten erachtet“.
+            
+6.) Aus den, in dem Gutachten umständlich entwikelten Gründen, wird der
+                    Kleine Rath dem Großen Rath, bey deßen
+                muthmaaßlich nächstbevorstehender außerordentlicher Zusammenkonft, unter voraus
+                gehender Entwiklung der Nothwendigkeit und Dringlichkeit der Sache, den Antrag
+                machen: „den Kleinen Rath zu begwältigen, zu Bestreitung der mit
+                der Gränzbesetzung und Behauptung der Schweitzerischen Neutralität verbundenen,
+                außerordentlichen Ausgaaben, auf dem ganzen Canton eine außerordentliche directe
+                Vermögenssteuer auszuschreiben und, je nach Maaßgabe des Bedürfnißes, in dienlich
+                erachtenden Raten und Terminen zu percipieren“. 
+            
+7.) Die von dem Großen Rath zu erbetende Vollmacht zur
+                Steuerenthebung wird auf das Gedoppelte der gewohnten Vermögenssteuer, mithin auf
+                200,000. Schweitzerfranken, festgesezt.
+            
+8.) Die Finanzcommißion wird eingeladen, auf eben benanntes Fundament hin, einen von
+                dem Kleinen Rath an den Großen Rath zu
+                hinterbringenden, motivierten Antrag auszuarbeiten, und darinn den näheren
+                dießfälligen Detail zu bestimmen.
+            
+9.) Es wird der Finanzcommißion empfohlen, in so weit es durch die allfählige Kürze
+                der Zeit und durch die Beschaffenheit der vorhandenen, und noch zu enthebenden Daten
+                gestattet wird, dem Steuer-Repartitions-fuß auf die sämmtlichen Gemeinden, die
+                möglichste Remedur angedeyhen zu laßen, selbigen den Grundsätzen vollkommener
+                Billigkeit und Gleichheit möglichst nahe zu bringen und besonders auf begründet
+                erfundene dießfällige Beschwerden jede mögliche Rüksicht zu nehmen.
+            
+10.) Die Finanzcommißion wird zugleich eingeladen, den ausgearbeiteten Project einer
+                dießfälligen Aufforderung an das Cantonspublicum im Namen der Regierung, in
+                Bereitschaft zu halten, und bey deßen Entwerfung die Gründe, welche unter so
+                bewandten Umständen, jeden gegen das Vaterland redlich denkenden Bürger zu williger
+                und schleuniger Er- füllung der Steuerpflicht bestimmen müßen,
+                andringlich auseinander zu setzen, und mit zwekmäßiger Beleuchtung des unschätzbaren
+                Werths desjenigen, was man durch die vorhabenden wichtigen Maaßregeln zu erzielen
+                glaube, als Gegensatz die Schilderung der weit größeren, eingreiffenderen, und
+                langwierigeren Lasten zu verbinden, die vorzüglich auch in öconomischer Hinsicht
+                unfehlbar eintretten müßten, wenn die Eydsgenoßschaft beym Ausbruch des Kriegs
+                zwischen zwoo benachbarten Mächten, sorglos und unthätig ihr Schicksal, und ihre
+                wichtigsten Intereßen dem bloßen Zufall überlaßen wollte.
+            
+11.) Die Finanzcommißion wird zwar [in Betrachtung des dermahligen Zustandes der
+                Natural-Vorräthe des Staats] einstweilen und bis auf weitere Disposition, keine
+                Ankäuffe von Lebensmitteln veranstalten, hingegen aber einerseits die erforderliche
+                Einleitung treffen, daß, von Stund an, mit allen Fruchtverkäufen aus den
+                Natural-Vorräthen des Staats innegehalten werde, – und anderseits den Räthen der
+                Stadtgemeinden Zürich und Winterthur,
+                so wie auch, nach Gutfinden, allfählig anderen Stellen, denen beträchtliche
+                Natural-Gefälle zustehen, auf angemeßene Art die Weisung ertheilen, unter
+                obwaltenden Umständen zu keinen Veräußerungen von Naturalien zu schreiten.
+            
+12.) Die Militarcommißion wird ersucht:
+            
+a) Alle dienlich erachtenden Verfügungen zu Vervollständigung
+                des Vorraths an Munition und besonders an denjenigen Kugeln, welche zu dem
+                Artillerie-train gehören, den der hießige Stand [nach dem gemeineydsgenößischen
+                Militar-Reglement] zu stellen hat, – fürdersammst zu treffen.
+            
+b) Dasjenige, was allfählig zu völliger Organisation und nöthiger Equippierung des
+                hießigen Succurs-Regiments noch erforderlich ist, und auf den Fall eines Auszugs
+                nicht unterlaßen noch verschoben werden kann, einzuleiten und vorzukehren.
+            
+c) Ihre Gedanken walten zu laßen, und dem Kleinen Rath zu
+                hinterbringen, wie eine angemeßene Uniformierung des Succurs-Regiments so schnell
+                    als möglich, und auf einem kürzeren, als dem durch das
+                Militar-Organisations-Gesetz vorgezeichneten Weg, zu
+                erzielen; ob nämmlich: entweder eine schnell würkende, und hinreichend ergiebige
+                Ausdähnung der gesetzlichen Bestimmungen in Betreff der Contribuabilität zur
+                Montierungscaßa ausfündig gemacht, der Sanction des Gesetzgebers unterlegt, in
+                unverweilte Ausübung gesezt und somit ausgewichen werden könne, die Gemeinden und
+                die ohnehin beschwerte dienstleistende junge Mannschaft dießfalls zu belästigen, –
+                oder: ob zu schneller Erzielung des obwaltenden Endzweks unumgänglich nothwendig
+                sey, die sämmtlichen Gemeinden anzuhalten, daß jede, ihre zum Succurs-Regiment
+                gehörende Mannschaft auf Abrechnung aus dem Privatvermögen des Soldaten, oder, in
+                deßen Unvermögensfall, seiner Verwandten, – oder auf Abrechnung des Soldes, – und
+                endlich mit Vorbehalt auf die Erstattung der, aus der Montierungscaßa gesetzlich zu
+                enthebenden Unterstützung, – unverweilt mit Uniformes, Capots und Tornistern
+                versehe?
+            
+d) Dem Kleinen Rath einen Bericht über den gegenwärtigen Zustand
+                der Organisation der Reserve-Corps der Cavallerie, Artillerie und Scharfschützen,
+                und der ersten Reserve der Infanterie, – und einen Antrag über dasjenige zu
+                hinterbringen, was allfählig zur Vervollständigung dieser Organisation und zur
+                Bewaffnung und Ausrüstung dieser Reservecorps, unter den obwaltenden Umständen
+                erforderlich seyn dürfte.
+            
+13.) Bey Ausarbeitung der Instruction auf die außerordentliche Tagsatzung wird die
+                Diplomatische Commißion, was die allgemeinen Militardemonstrationen anbetrifft,
+                Rüksicht auf die bereits in den dießfälligen Vorrathschlägen zur Sprache gekommenen
+                Wünsche nehmen, daß nämmlich einerseits darbey durchgängig die so höchst
+                nothwendige, gänzliche Beyseitsetzung aller entbehrlichen und blos zum Prunk
+                dienenden Gegenstände von Ausgaaben ins Auge gefaßt, die weit eingreiffende Tendenz
+                zu einer vielmehr den Gang der Sachen behinterenden, als aber nützlichen Anhäuffung
+                von Staabspersonale möglichst un- terdrükt, und die Zahl des Militars von
+                solchen Waaffen, die von kostbarer Natur und Unterhaltung sind, nach Erforderniß
+                beschränkt, – und anderseits, auf unveränderte Beybehaltung und Handhabung der
+                verfaßungsmäßigen Verhältniße in Absicht auf die verschiedenen, den Cantonen
+                obliegenden Leistungen, kräftigst gedrungen werden möchte.
+            
+14.) Gegenwärtiger Beschluß wird in seinem ganzen Umfang an die Diplomatische
+                Commißion, an die Militar- und die Finanz-Commißion hingegen, nur
+                in so weit mitgetheilt, als es jede betrifft.
+        </body>
+    </text>
+</TEI>

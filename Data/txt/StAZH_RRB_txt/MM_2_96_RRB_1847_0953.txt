@@ -1,0 +1,7 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Eingabe der Gem. Hottingen betreff. Ausscheidung der Banngrenzen.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn01.03.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Eingabe der Gem. Hottingen betreff. Ausscheidung der Banngrenzen.</title>10.06.1847<ident>StAZH MM 2.96 RRB 1847/0953</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">321</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Iussu Praesidii
+Actum den 10. Juny 1847.
+Dem Finanzrathe wird zu den bereits überwiesenen Akten zugestellt:
+Eine Eingabe der Gemeinde Hottingen, d. d. 9. hjs. betreffend Ausscheidung der Banngrenzen der Stadt Zürich.<p/></body></text></TEI>

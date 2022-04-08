@@ -1,0 +1,13 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschluß, betreff. Revision der Einzugsbriefe der polit. Gemeinden Fehraltorf, Wyla Rußikon u. Illnau mit Rüksicht auf die Niederlaßungsgebühren in die Civilgemeindgüter Fehraltorf, Wyla, Madetschweil, Rußikon, Ottikon u. Illnau.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn07.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beschluß, betreff. Revision der Einzugsbriefe der polit. Gemeinden Fehraltorf, Wyla Rußikon u. Illnau mit Rüksicht auf die Niederlaßungsgebühren in die Civilgemeindgüter Fehraltorf, Wyla, Madetschweil, Rußikon, Ottikon u. Illnau.</title>08.05.1847<ident>StAZH MM 2.96 RRB 1847/0750</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">155</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Antrag des Rathes des Innern [vom 5t. d. M.] in Sachen der Civilgemeinden Fehraltorf, Wyla, Madetschweil, Rußikon, Ottikon [Pfarre Illnau] und Irgenhausen, betreffend Revision der Einzugsbriefe resp. Erhöhung von Niederlaßungsgebühren;
+nach Einsicht des Gutachten des Bezirksrathes Pfäffikon vom 28t. März d. J.
+beschloßen:
+I. Seien die Einzugsbriefe der politischen Gemeinden Fehraltorf, Wyla, Rußikon, Illnau und Pfäffikon dahin zu revidiren, daß die Niederlaßungsgebühren in die Gemeindgüter der oberwähnten Civilgemeinden festgesetzt werden wie folgt:
+1. in das Civilgemeindgut Fehraltorf 	auf 2. Frkn.
+2. „	„	„	Wyla	„	 2. „
+3. „	„	„	Madetschweil	„	 2. „		2. Btzn.
+4. „	„	„	Rußikon	„	 2. „	
+5. „	„	„	Ottikon	„	 2. „		2. „
+6. „	„	„	Irgenhausen	„	 1. „		6. „
+II. Sei hievon dem Bezirksrathe Pfäffikon für sich und zu Handen der betreffenden Civilgemeinden Kenntniß zu geben und derselbe eingeladen, die zu revidirenden Einzugsbriefe an die Staatskanzlei zur erforderlichen Abänderung einzusenden.<p/></body></text></TEI>

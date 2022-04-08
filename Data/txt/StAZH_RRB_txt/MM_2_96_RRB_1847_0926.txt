@@ -1,0 +1,20 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Abweisung der Beschwerde des Hrch. Sigg, gewes. Gefreiter bei der Polizeiwache betreff. Entlaßung vom Corps, resp. Verweigerung einer Pension.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn25.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Abweisung der Beschwerde des Hrch. Sigg, gewes. Gefreiter bei der Polizeiwache betreff. Entlaßung vom Corps, resp. Verweigerung einer Pension.</title>08.06.1847<ident>StAZH MM 2.96 RRB 1847/0926</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">300–301</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat in Sachen des Heinrich Sigg, gewesener Gefreiter bei der Polizeiwache, Beschwerdestellers
+gegen
+den Polizeirath, resp. den Chef der Polizeiwache, betreffend Entlaßung vom Corps, resp. Verweigerung einer Pension:
+nach Einsicht der Beschwerdeschrift, sowie des Beschlußes des Polizeirathes d. d. 2. Dez. v J. aus welchen sich ergeben:
+Es habe der Polizeirath in Berüksichtigung:
+1. Daß durch Urtheil des Bezirksgerichtes Horgen d. d. 20. Dezember 1843. Sigg zweier Amtspflichtsverletzungen für schuldig erfunden worden,
+2. Daß in Folge dieses Urtheils Sigg durch Beschluß des Polizeirathes vom 24. Jenner 1844. bloß probeweise bei dem Polizeikorps beibehalten worden:
+3. Daß aus den Angaben der Frau Wolfer und der Frau Kurz fact. 4. in Verbindung mit den fact. 1. b. und c. ent-  haltenen Angaben sich ergibt, daß Sigg einen sittenlosen Lebenswandel führe;
+4. Daß Sigg nach den in fact. 2. enthaltenen Beschuldigungen in Verbindung mit den Ergebnißen des Urtheils auch in dieser Beziehung verdächtig erscheint;
+5. Daß aus allen diesem zusammengenommenen, die Entlaßung des Sigg aus dem Polizeikorps vollkommen gerechtfertigt ist:
+beschloßen
+Es sei der Gefreite Heinrich Sigg aus dem Polizeikorps zu entlaßen
+in gänzlicher Genehmigung der dem Beschluße des Polizeirathes zu Grunde liegenden Motive.
+gefunden
+Es ist die Beschwerde unbegründet und demnach
+beschloßen:
+I. Ist dieselbe in beiden Beziehungen abgewiesen:
+II. Wird dem Sigg auf sein Begehren hievon abschriftlich Kenntniß gegeben.<p/></body></text></TEI>

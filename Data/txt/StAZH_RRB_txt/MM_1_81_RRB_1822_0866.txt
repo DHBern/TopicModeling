@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Gemeinde Herrliberg wird bewilligt, Jahr und Tag am Futter gehabtes Vieh
+                    liedweis auszuwägen.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: <date when="2010-08-03"
+                        >03.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Der Gemeinde Herrliberg wird bewilligt, Jahr und Tag am Futter gehabtes
+                        Vieh liedweis auszuwägen.</title><date when="1822-11-09"
+                        >09.11.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0866</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >142–143</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Es hat der Kleine Rath, nach Anhörung und in
+                Genehmigung eines ausführ- lichen Berichts und Gutachtens der Lbl.
+                Commißion für Administrative Streitigkeiten d. d. <date when="1822-10-04">4ten
+                    passati</date>, betreffend das Petitum der Gemeinde
+                    Herrliberg, daß ihr bewilligt werden möchte, selbst
+                erzogenes Vieh schlachten und auswägen zu dürfen, in sorgfältiger Berathung und
+                Berücksichtigung sowohl des Bedürfnißes der Landwirthschaft, als der frühern
+                Mezgverhältniße der Gemeinden Küßnacht, Ehrlenbach und
+                    Herrliberg, ferner des den bestehenden Meztgrechtsamen zu
+                gewährenden Schutzes, und endlich der bisherigen Uebung, sowie der den benachbarten
+                Gemeinden gestatteten Befugniße, erkennt, der Gemeinde
+                    Herrliberg zu bewilligen, daß ihre Particularen Jahr und
+                Tag selbst am Futter gehaltenes Vieh auf eigene Rechnung
+                abschlachten und liedweise in der Gemeinde verkaufen dürfen.
+            
+Gegenwärtiger Beschluß wird dem Lbl. Oberamte Meilen zu Handen
+                der betreffenden Gemeinde zugestellt.
+        </body>
+    </text>
+</TEI>

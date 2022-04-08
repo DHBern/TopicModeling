@@ -1,0 +1,462 @@
+Erledig. d. eingegang. Rekurs. betr. Taxationen d. Handelsklassensteuer.
+Die durch Regierungsbeschluß vom 16. Juni dJs für Prüfung der gegen Taxationen der Handelsklassensteuer für das Jahr 1866 eingegangenen Rekurse verordnete Kommission stellt ihre sachbezüglichen Anträge u. verweist zur Begründung auf die von der Finanzdirektion von den einzelnen Experten, welche bei Festsetzung der Taxationen mitgewirkt haben, eingeholten Gutachten, sowie auf die bei den einzelnen Rekurrenten beigesetzten Bemerkungen.
+Hierauf hat der Regierungsrath,
+nach Einsicht eines Antrages der verordneten Kommission,
+beschlossen:
+I. Werden obige Rekurse in nachstehender Weise erledigt.  
+Wohnort
+Name der Ragion
+Geschäftszweig
+Taxation pro 1866
+Beschluß
+Bezirk Zürich
+Außersihl
+Kammerer J. F.
+Fabr. chem. Produkte
+50
+50
+theilw. begrdt.
+Ingenieur
+125
+60
+1)
+Dietikon
+Grünenwald J.
+Pferdehaargeflechtfabr.
+100
+50
+   “          “
+Hottingen
+Schaad, M. am Zeltweg
+Jacquard u. etwas Seidenstoffe
+50
+50
+un-          “
+“
+de Ronnay Louis
+Weinhandel
+15
+5
+               id:
+Riesbach
+Strähler J. R.
+Seidenappart. u. Presserei
+80
+50
+               id:
+“
+Zuberbühler, Abrah.
+Spedition & Commiss. Geschäft
+24
+24
+un-           id:
+Unterstraß
+Ryffel, Rud. Sattler
+Sattlerart.l u. Spezerei-Waaren
+30
+30
+2) un-       id:
+Wiedikon
+Koller, Jb Ziegler
+Ziegel u. Kalkbrennerei
+40
+20
+         id:
+[Wohnort
+Name der Ragion
+Geschäftszweig
+Taxation pro1866
+Beschluß]
+[Bezirk Zürich]
+Zürich
+Anstein Reichard
+Reparaturen f auswärt. Häuser
+40
+–
+–
+id:
+“
+Berleaux-Radoux & Cie
+Seidenwaaren
+175
+175
+un-           id:
+“
+Brunner-Brunner
+Weißwaaren
+50
+40
+thlw.         id:
+“
+Dampfschiffgesellschaft v. recht. Seeufer
+Befördg. v. Personen u. Waaren
+1000
+1000
+un-           id:
+“
+Ehlert, L M.
+Agentur u. Commission
+40
+–
+–
+               id:
+“
+Hager Müller
+Fabr. v. Waagen u. Tapez. Posementaren
+25
+25
+un-           id:
+“
+Hess, H. C.
+Commission u. Inkassogeschäft
+50
+50
+ “             id:
+“
+Honegger, G.
+Uhrenfabrikation
+125
+100
+thlw.         id:
+“
+Honegger-Schmid, C.
+Leihbibliothek u. Buchhdlg.
+50
+40
+ “             id:
+“
+Huber, Carl
+Landfabrikation
+50
+50
+un-           id:
+“
+Kraut & Boßhard
+Buchhandlung
+40
+30
+thlw-        id:
+“
+Kutter, Buckmeyer & Cie.
+Export v. Seidenwaaren
+1000
+600
+id:
+“
+Bäuchli J.
+Agentur u. Commission
+30
+15
+thlw.    id: 3)
+Eisenwaaren
+15
+15
+ “
+1.) mit Hinsicht auf das Drogueriegeschäft
+2) In der Meinung, daß die Einkommenssteuer für 1866 gestrichen werde.
+3) mit Hinsicht auf das Agentur u. Commissionsgeschäft
+
+Zürich
+Louis, Alexander
+Steinguthandel
+80
+25
+thlw. begrdt.
+“
+Müller, Heinrich
+Weinhandlung
+10
+10
+Diese Taxation betrifft den Rekurrenten nicht!
+“
+Neumann, Gebde
+Seidennstoffresten nebst Abfällen
+150
+80
+id:
+“
+Oschwald J. U.
+Rohe u. gezwirnte Seide u. Florastoffe
+200
+200
+un-         id:
+“
+Papasian & Cie.
+Einkauf v. Seide u. Bmwollwaaren
+150
+80
+thlw.        id:
+“
+Pfeifer- v- Orelli, Louise
+Modewaaren
+10
+5
+id:*
+“
+Schlatter, S. G.
+Commiss. Geschäft in Seidenwaaren
+200
+125
+thlw.        id:
+[Wohnort
+Name der Ragion
+Geschäftszweig
+Taxation pro1866
+Beschluß]
+[Zürich]
+Seemann, Gustav.
+   “                   “
+400
+250
+id:
+“
+Stempelmann, R.
+Verkauf v- Seidenbändern, Tülle u. Hutfournituren
+15
+5
+id:*
+“
+Surber, Rudolf
+Weinhandel
+20
+20
+–
+un- [begrdt.]
+“
+Thomann F.
+Bmwollhandlung
+50
+30
+thlw.    id:
+“
+Ganz J.
+Schreibmaterialien
+200
+100
+ “        id:
+“
+Müller, Wilhelm
+Kleiderhandlung
+15
+15
+un-      id:
+“
+Marget Giraud
+Agentur
+40
+25
+          id:
+“
+Dreifuß L u. Cie.
+Getreidehandel
+200
+200
+un-      id:
+“
+Denpler Felix
+Comiss. Geschäft
+175
+100
+thlw.    id:
+Bezirk Affoltern
+Affoltern
+Dubs Jacob im Loo
+Mühle u. Bäckerei
+30
+200
+ “        id:
+Bezirk Horgen
+Horgen
+Napfer, Max in Käpfnach
+Kalk u. Ziegelbrennerei
+100
+50
+           id:
+Langnau
+Obrist u. Schärer
+Wein- u. Spezereihdlg
+20
+20
+un-       id:
+Richtersweil
+Egli, J. C. u. Comp
+Seidenfabrikation
+100
+–
+–
+           id:*
+Wädensweil
+Wiedemann u. Weilbach
+Colonialwaaren
+175
+125
+           id:
+* in der Meinung, daß sich die Petenten aus dem Ragionenbuche streichen lassen.                                                     
+Bezirk Meilen
+Erlenbach
+Arber, Emil
+Tuchhandlung
+10
+5
+      begrdt
+Hombrechtikon
+Raschle, Otto in Feldbach
+Bierbrauerei
+300
+300
+un-       id:
+“
+Wäber Jacob
+Kornhandel
+20
+10
+thlw.     id:
+Männedorf
+Schwarzenbach, Hch. Außerfeld
+Ziegelei
+40
+40
+un-       id:
+Stäfa
+Pfenninger, Caspar
+Käsehandel
+10
+–
+–
+           id: 1)
+Männedorf
+Leemann, Rudolf
+Spezereihandlung
+5
+2
+50
+           id: 2)
+ 
+[Wohnort
+Name der Ragion
+Geschäftszweig
+Taxation pro1866
+Beschluß]
+Bezirk Hinweil
+Bubikon
+Pfister, Gottfr. in d. Kammer.
+[Spezereihandlung]
+10
+5
+–
+     [begrdt.]
+Dürnten
+Heußer, Hch Söhne, 
+Bmwollspinnerei
+10
+10
+un-      id:
+“
+Hotz Johs in O/Dürnten
+Branntweinhandlg
+25
+25
+“         id:
+Goßau
+Bueler Jb im Greut
+Spezereihdlg
+10
+5
+          id:
+Rüti
+Bauert Caspar
+Tuchwaaren
+10
+5
+          id:
+Wald
+Senn. Hch in d. Vorhalden
+Schmalviehhandel
+10
+10
+un-     id:
+Bezirk Uster
+Uster
+Denzler Jc. H. Nänikon
+Bmwollspinnerei
+20
+15
+thlw.    id:
+“
+Graf-Ritter Hch. Oberuster
+Mercerie u. Quincalleriewaaren
+10
+5
+          id:
+“
+Guyer-Brunner
+Fabrikation u. Handel mit Tricot, Bett- u. Tischdecken u. Bettmacherei
+50
+25
+thlw.    id:
+Bezirk Pfäffikon
+Russikon
+Saalenbach, Fried. Arnold Bläsimühle
+Pferdehaargeflechtfab.
+110
+25
+thlw.    id:
+Bezirk Winterthur
+Winterthur
+Imhoof-Brunner u. Comp.
+Bmwollspinnerei u. Weberei
+900
+900
+un-      id:
+1.) u. 2) in der Meinung, daß das Geschäft aus dem Ragionenbuch gestrichen werde.
+
+Winterthur
+Nägeli, Joh. Rud.
+Commissionär u. Repräs. überseeischer Häuser
+60
+50
+thlw. bgdt.
+“
+Sulzer, Gebrüder
+Gießerei
+1800
+1800
+un-      id:
+“
+Studer Abraham
+Angenturgeschäfte
+80
+80
+ “        id:
+“
+Hirzel J. R.
+Mühlegewerbe
+20
+20
+ “        id:
+ 
+[Wohnort
+Name der Ragion
+Geschäftszweig
+Taxation pro1866
+Beschluß]
+Bezirk Bülach
+Bassersdorf
+Hug, Caspar
+Spezerei- u- Ellenwaaren
+15
+10
+thlw. bgdt.
+Bülach
+Meier, Gebde
+Bierbrauerei
+25
+25
+un-     id:
+Eglisau
+Schmid, Hch. Gerber
+Gerwerei
+10
+10
+ “       id:
+II. Wird von der Erledigung der Recurse den Rekurrenten durch die üblichen Formulare, sowie den Statthalterämtern u. der Direktion der Finanzen Mittheilung gemacht.

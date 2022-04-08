@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Magistrat von Riedlingen verlangt Auskonft über verschiedene, den allda
+                    inhaftierten Dieben Joh: Georg Stiebinger von Vortsberg betreffende
+                    Punkte.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-29"
+                            >29.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Magistrat von Riedlingen verlangt Auskonft über verschiedene, den allda
+                        inhaftierten Dieben Joh: Georg Stiebinger von Vortsberg betreffende
+                        Punkte.</title>07.02.1805<ident>StAZH MM 1.12
+                        RRB 1805/0216</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.12</biblScope><biblScope
+                        unit="page">53–54</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die von dem Magistrat der K. auch K. K. Schwäbisch-Österreichischen
+                Donaustadt Riedlingen unterm 31st[en] Jenner eingesendeten umständlichen Extracte
+                aus dem Untersuchungs-Protocoll des wegen Diebstahls daselbst im Verhaft
+                befindlichen, von Vortsberg in Steyermark gebürtigen Criminal-Inquisiten Joh:
+                    Georg Stiebinger, vulgo der Bayerische oder
+                Salzburger-Jörgel, vom 29sten und <date
+                    when="1805-01-30">30sten Jenner</date>, – werden in Originali dem Herrn
+                Unterstatthalter Ulmer in Enge mit der
+                Einladung übermacht, die darin enthaltenen Umstände in Betreff eines von dem
+                Stiebinger, in Gesellschaft von anderen Jauneren, um Ostern 1802. in
+                    Horgen begangenen Einbruchs in einen Kramladen, möglichst
+                zu verificieren, die durch diesen Diebstahl beschädigten Personen über den wahren
+                und eigentlichen Betrag der entwendeten Waa- ren an Eydes statt zu
+                vernehmen, unter den Acten des vormahligen Bezirksgerichts
+                Horgen dem, der Frau des Stiebingers allda abgenohmenen
+                [Quæst. 214. berührten] Original-Copulationsschein des Stiebinger mit der
+                    Barbara Rüller, nachschlagen zu laßen, und das Resultat
+                aller dieser Bemühungen mittelst eines umständlichen Amtsberichts und der
+                benöthigten Belege, an den Kleinen Rath einzusenden, und auch die
+                von Riedlingen eingekommenen Acten wiederum beyzufügen.
+        </body>
+    </text>
+</TEI>

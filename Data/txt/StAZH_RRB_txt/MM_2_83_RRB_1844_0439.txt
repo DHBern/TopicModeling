@@ -1,0 +1,18 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Festsetzung der Traktanden für die ordentliche Frühlingssitzung des Großen Rathes.</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn13.01.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Festsetzung der Traktanden für die ordentliche Frühlingssitzung des Großen Rathes.</title>21.03.1844<ident>StAZH MM 2.83 RRB 1844/0439</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.83</biblScope><biblScope unit="page">43–45</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Es wurden sodann die Traktanden für die ordentliche Frühlingssitzung des Großen Rathes auf Dienstag den 26t. hjs. festgesetzt wie folgt:
+1. Bericht und Antrag des Regierungsrathes über die von den Wahlkreisen Richterschweil, Schöfflistorf und Hinweil  getroffenen Wahlen von Mitgliedern des Großen Rathes.
+2. Geprüfter Gesetzesvorschlag betreffend das Notariat Herrliberg.
+3. Geprüfter Gesetzesvorschlag betreffend die Apotheken.
+4. Bericht und Antrag der Kommission, betreffend Kreditbewilligung für Ausführung eines Schleussenwerkes auf dem obern Mühlesteg in Zürich.
+5. Kommissionalgutachten betreffend die Staatsrechnung und die unter besondern Verwaltungen stehenden Kantonalgüter vom Jahre 1842.
+6. Kommissionalgutachten betreffend den Voranschlag der muthmaßlichen Einnahmen und Ausgaben für das Jahr 1844.
+7. Gesetzesentwurf betreffend die Verhältnisse der Katecheten.
+8. Gesetzesentwurf betreffend Gehaltszulage für die Pfarrer auf Filialstellen.
+9. Entwurf eines Polizeigesetzes für Handwerksgesellen, Lehrlinge, Fabrikarbeiter, Tagelöhner und Dienstboten.
+10. Beschlussentwurf betreffend Abtrennung des nach Pfäffikon kirchgenössigen Theiles der Civilgemeinde Wermetschweil von der politischen Gemeinde Uster und Verbindung  
+desselben mit der politischen Gemeinde Pfäffikon.
+11. Bericht und Antrag des Regierungsrathes betreffend Ertheilung der Ratifikation des Freizügigkeitsvertrages zwischen der schweizerischen Eidgenossenschaft und dem Königreiche Portugal.
+12. Bericht über die Verhandlungen des Großen Rathes im Jahre 1843.
+13. Wahlen: zweier Mitglieder der Petitionskommission.
+14. Anträge der Petitionskommission. <p/></body></text></TEI>

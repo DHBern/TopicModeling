@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Klage der Gemeindvorsteher von Ober und Nieder Urdorf gegen den Herrn Pfarrer
+                    Grimm, wegen einer sie unschuldig kränkenden Canzelrede über pflichtlose
+                    Weinzehentenstellung.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-04-25"
+                            >25.04.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Klage der Gemeindvorsteher von Ober und Nieder Urdorf gegen den Herrn
+                        Pfarrer Grimm, wegen einer sie unschuldig kränkenden Canzelrede über
+                        pflichtlose Weinzehentenstellung.</title><date when="1803-11-03"
+                        >03.11.1803</date><ident>StAZH MM 1.3 RRB
+                        1803/1157</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.3</biblScope><biblScope unit="page"
+                    >276–277</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die von dem Gemeindrath der Gemeinden Ober- und Niederurdorf unterm
+                31ten pti eingekommene Klagschrift gegen ihren
+                Seelsorger, den Herrn Pfarrer Grimm zu
+                    Urdorf, „über die von ihm Sonntags den <date
+                    when="1803-11-16">16ten</date> Weinmonat, gehaltene unvorbereitete und unwürdige
+                Ausdrüke enthaltende Kanzelrede, worin der Herr Pfarrer wegen gestelltem
+                Weinzehenten von unreifen Trauben und dießfälliger Verschuldung von Seite der
+                Gemeindsvorgesezten, diese leztern auf eine höchst empfindliche Weise an ihrer Ehre
+                gekränkt habe“, weßwegen die Gemeindsvorsteherschaft von
+                    Urdorf die Regierung um Genugtuung wegen der unschuldig
+                erlittenen Kränkungen, und um Entfernung des Herrn Pfarrer Grimm
+                von dieser Pfarrpfründe, und einen zutrauenswürdigeren Seelsorger ersucht, – wird in
+                die Hände des Kirchenraths gelegt, um diesen Gegenstand nach
+                anwohnender Klugheit und Sorgfalt näher zu untersuchen, dem Herrn Pfarrer
+                    Grimm über die auf ihm ruhende Klage seine specielle
+                Verantwortung abzufordern, und mit möglichster Befürderung einen
+                Bericht, über das Resultat dieser Untersuchung zu hinterbringen.
+        </body>
+    </text>
+</TEI>

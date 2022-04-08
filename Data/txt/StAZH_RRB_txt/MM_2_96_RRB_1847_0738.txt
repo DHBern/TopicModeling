@@ -1,0 +1,20 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschluß, betreff. Getreidevertheilung an die politischen Gemeinden des Cantons.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn04.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beschluß, betreff. Getreidevertheilung an die politischen Gemeinden des Cantons.</title>08.05.1847<ident>StAZH MM 2.96 RRB 1847/0738</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">146–148</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Antrag des Finanz-  rathes, in Betracht der steigenden Preise aller Lebensmittel
+und
+in der Absicht, den hieraus entstehenden Nothstand, so weit es die Kräfte des Staates gestatten, zu mildern
+beschloßen:
+§. 1.
+Es soll für die Zeit von vier Wochen, vom 15t. dieß bis zum 15. Juni eine Vertheilung, im Betrage von ca. 8000. Zentner Waizen und Kernen an die politische Gemeinde des Cantons unter nachstehenden Bedingungen statt finden.
+als Maßstab der Vertheilung dient die Bevölkerung jeder politischen Gemeinde nach der amtlichen Zählung vom Jahre 1836.
+auf je 100 Seelen werden 3 ½ Zentner Schweizer Gewicht Korn gerechnet.
+§. 2.
+Die Vertheilung geschieht in zwei Abtheilungen je zur Hälfte von 14. zu 14. Tagen in den Staatsmagazinen zu Zürich und Töß. Gemeinden, welche es wünschen, können auch ihr ganzes Betreffniß auf einmal beziehen.
+§. 3.
+Der Preis für diese Austheilung ist pr. Zentner Korn auf à 10 fl. 13. ß 20. festgesetzt. Die Zahlung geschieht innerhalb 14. Tagen nach Empfang der Lieferung baar an die Domänenkaßa, wobei nur die Hälfte in Schweizerfranken und 8. und 4. Batzenstüken Cantonalsilbermünzen angenommen  wird; die andere Hälfte muß in groben Geldsorten nach gesetzlichem Tarif bezahlt werden.
+§. 4.
+Diese Vertheilungen, welche unabhängig von den Maisaustheilungen und den dießfälligen Bestimmungen zu geschehen haben, sollen treu und Gewißenhaft von den Gemeindräthen zur Verarbreichung an Mehl oder Brod im kostenden Preise gegen Bezugskarten an die Einwohner ihrer Gemeinde verwendet und es soll darüber gute Rechnung zu Handen der Gemeinden geführt werden.
+§. 5.
+Der Regierungsrath behält sich vor, je nach dem Erfolge dieser Maßregel und den eintretenden Bedürfnißen, sowie nach Maßgabe der Vorräthe diese Vertheilungen entweder in Korn oder Mehl auch weiters unter dannzumal zu bestimmenden Preisen fortzusetzen.
+§. 6.
+Dieser Beschluß ist durch das Amtsblatt bekannt zu machen und dem Finanzrathe zur Vollziehung mitzutheilen.<p/></body></text></TEI>

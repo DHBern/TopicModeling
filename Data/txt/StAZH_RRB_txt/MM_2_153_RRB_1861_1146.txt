@@ -1,0 +1,20 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Urtheil in S. der Gemeinde Bassersdorff c. Armengüterverwalter Brunner das. betr. Straßenunterhaltspflicht.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn15.08.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Urtheil in S. der Gemeinde Bassersdorff c. Armengüterverwalter Brunner das. betr. Straßenunterhaltspflicht.</title>28.08.1861<ident>StAZH MM 2.153 RRB 1861/1146</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.153</biblScope><biblScope unit="page">447–449</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+In Sachen der Gemeinde Bassersdorf, Beklagte u. Appellantin
+gegen Heinrich Brunner, Armengutsverwalter in Bassersdorf,
+betreffend Straßenunterhaltspflicht
+hat sich ergeben:
+A–D. des erstinstanzlichen Urtheils,
+E. Unterm 14 Juni 1861 beschloß der Bezirksrath Bülach:
+1. Sei der Rekurs begründet erklärt u. demnach die Gemeinde Bassersdorf verpflichtet, die Straße nach der Eichmühle mit ihren Abzweigungen zu unterhalten;
+2. Trage die Gemeinde die kosten von 2 Frk.  Staats- 2 Frk. Kanzlei- 2 Frk. 40 Rp. Schreib- u. Stempelgebühren.
+F. Ueber dieses Urtheil beschwert sich der Gemeindrath Bassersdorf, Namens der dortigen  Gemeinde und stellt das Gesuch um Aufhebung desselben unter Kostens- u. Entschädigungsfolge, zur Begründung beruft er sich im Wesentlichen auf die vor erster Instanz vorgebrachten Gründe; er bestreitet ferner, daß auch die Hobelgaße als Landfußwegrecht nach Dietlikon und Dübendorf bestehe oder daß dieselbe je als Kommunikationsstraße erklärt werden. Dieselbe sei nicht einmal eine Straße 4t Klasse, sondern eine einfache Güterstraße; den Beschluß vom 17 Dezember 1858 wodurch die Gemeinde die Unterhaltung des fraglichen Weges übernommen, könne dieselbe beliebig wieder aufheben.
+G. Heinrich Brunnerr trägt auf Abweisung des Rekurses an und bemerkt u. A.: die Hobelgasse sei seit unvordenklicher Zeit, von der Gemeinde Bassersdorf unterhalten worden, der Verbindungsarm von derselben bis zur Eichmühle theilweise und durch den Beschluß vom 17 Dezember 1855 sei blos noch die Unterhaltung der Verbindungswege zur Eichmühle u. zum Eichhaus ganz der Gemeinde übernommen worden. Das Fußwegrecht nach Dietlikon werde durch das Zeugniß des dortigen Gemeindrathes dargethan.
+Der Regierungsrath hat,
+in Betracht 1, daß die Hobelgaße unbestrittenermaßen von jeher den Charakter eines Land-  fußweges hatte,
+2, daß auch gegenwärtig keine genügenden Gründe vorliegen, um dieselbe aus der Reihe der öffentlichen Straßen zu streichen;
+3, daß die Unterhaltung der öffentlichen Straßen in der Gemeinde Bassersdorf gemäß Beschluß vom 17 Dezember 1855 ausschließlich der Gemeinde obliegt, –
+nach Einsicht eines Antrages der Direktion der Justiz,
+erkennt:
+I. Sei die Appelation unbegründet u. das Urtheil des Bezirksrathes Bülach vom 14 Juni 1861 bestätigt.
+II. Trage die Gemeinde Bassersdorf die erst- u. zweitinstanzlichen Kosten, die letztern bestehend in 3 Frk. Staats- 2 Frk. Kanzlei- 2 Frk. Waibel- den Stempel- u. Ausfertigungsgebühren.<p/></body></text></TEI>

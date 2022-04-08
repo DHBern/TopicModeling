@@ -1,0 +1,193 @@
+Auschreibung der zweyten Hälfte der decretierten Kriegssteuer.
+Da laut dem Bericht der Finanz-Commißion vom 12ten d. M. der ununterbrochene Fortgang der starken Beyträge des hießigen Cantons zu den außerordentlichen Militarlasten aller Art, die kürzlich erhobene Cantonal-Steuer von 200,000. Frk. bereits mehr als erschöpft hat, und daher die ungesäumte Enthebung der zweyten Hälfte der von dem Großen Rath decretierten Vermögenssteuer von 400,000. Frk. erforderlich ist, – so wurde die Finanzcommißion, in Genehmigung des von ihr hinterbrachten Gutachtens, begwältiget, diese zu beziehende Summe von 200,000. Frk. auf Fundament des vorgelegten Repartitions-Projects, mit den von ihr selbst angetragenen Abänderungen und unter den bisher üblichen Bestimmungen, auf sämmtliche Gemeinden des Cantons auszuschreiben und zu beziehen, und noch für dieß Mahl den Beytrag des Klosters Rheinau unveränderet zu belaßen.
+Steuer-Repartitions-Liste
+Stadt Zürich	Frk.	57000.
+Section Meilen
+Hombrächtikon	   „	2120.
+Stäfa	   „	4270.
+Männedorf	   „	2030.
+Uetikon	   „	650.
+Meilen	   „	3020.
+Herrliberg	   „	970.
+Erlenbach	   „	650.
+Küßnacht	   „	2330.
+Zummikon	   „	180.
+Zollikon	   „	1100.
+Wytikon	   „	180.
+Hirslanden	   „	1040.
+Riespach	   „	1380.
+Hottingen	   „	1700.
+Fluntern	   „	880.
+Section Horgen
+Richterschweil	   „	2440.
+Schönenberg	   „	770.
+Wädenschweil	   „	6060.
+Hütten	   „	270.
+Horgen	   „	3880.
+Hirzel	   „	670.
+Oberrieden	   „	1500.
+Thalwil	   „	1660.
+Rüschlikon	   „	710.
+Kilchberg	   „	1110.
+Adlischweil	   „	440.
+Langnau	   „	470.
+Albisrieden	   „	200.
+Altstetten	   „	340.
+Wiedikon	   „	750.
+Enge und Leimbach	   „	1700.
+Außersihl	   „	800.
+Wollishofen	   „	930.
+		104200.
+Transport	Frk.	104200.
+Section Knonau
+Husen	   „	710.
+Knonau	   „	570.
+Cappel	   „	360.
+Mettmennstetten	   „	900.
+Affolteren	   „	620.
+Äugst	   „	210.
+Hedingen	   „	260.
+Maschwanden	   „	460.
+Ottenbach	   „	800.
+Bonstetten	   „	180.
+Stallikon	   „	540.
+Birmenstorf und Äsch	   „	700.
+Ober- und Nieder-Urdorf	   „	360.
+Rifferschweil	   „	400.
+Uitikon	   „	200.
+Dietikon	   „	680.
+Schlieren	   „	360.
+Section Uster
+Kyburg	   „	120.
+Weißlingen	   „	650.
+Wildberg	   „	390.
+Wyla	   „	410.
+Volkentschweil	   „	850.
+Schwerzenbach	   „	220.
+Fällanden	   „	400.
+Greiffensee	   „	330.
+Fehraltorf	   „	900.
+Uster	   „	2540.
+Pfäffikon	   „	1080.
+Rußikon	   „	770.
+Hittnau	   „	520.
+Bärentschweil	   „	790.
+Bauma	   „	850.
+Section Grüningen
+Wetzikon	   „	800.
+Seegräben	   „	90.
+Mönchaltorf	   „	440.
+Goßau	   „	1020.
+Egg	   „	880.
+Maur	   „	760.
+Oetweil	   „	550.
+Grüningen	   „	980.
+		128850.
+Transport	Frk.	128850.
+Bubikon	   „	640.
+Rüti	   „	590.
+Wald	   „	1100.
+Fischenthal	   „	530.
+Sternenberg	   „	190.
+Hinwil	   „	940.
+Dürnten	   „	560.
+Section Regensperg
+Oberstraß	   „	500.
+Schwammendingen	   „	360.
+Seebach und Oberhausen	   „	360.
+Unterstraß	   „	1380.
+Wipkingen	   „	480.
+Dübendorf	   „	410.
+Wangen	   „	410.
+Wallisellen	   „	170.
+Höngg	   „	970.
+Weiningen	   „	1250.
+Affholteren	   „	220.
+Oberglatt	   „	420.
+Niederhasli	   „	800.
+Dielstorf	   „	520.
+Regensperg	   „	210.
+Regenstorf	   „	850.
+Adlikon	   „	150.
+Dällikon	   „	430.
+Buchs	   „	360.
+Otelfingen	   „	1000.
+Steinmaur	   „	1100.
+Schöfflistorf	   „	920.
+Niederweningen	   „	1000.
+Bachs	   „	380.
+Stadel	   „	560.
+Weyach	   „	300.
+Section Bülach
+Illnau	   „	1100.
+Baßerstorf	   „	460.
+Außere Gemeinden	   „	450.
+Opfikon	   „	170.
+Brütten	   „	200.
+Lindau	   „	450.
+Embrach	   „	970.
+Lufingen	   „	100.
+Rorbas	   „	220.
+Teuffen und Freyenstein	   „	250.
+		153280.
+Transport	Frk.	153280.
+Kloten	   „	1040.
+Dietlikon und Rieden [Wallisellen]	   „	250.
+Bülach	   „	2170.
+Winkel, Rüti und Eschenmosen	   „	380.
+Rümlang	   „	270.
+Glattfelden	   „	520.
+Eglisau	   „	960.
+Rafz	   „	520.
+Wyl [Wil] etc	   „	730.
+Section Winterthur
+Winterthur	   „	18000.
+Dorlikon	   „	370.
+Altikon	   „	270.
+Rickenbach	   „	410.
+Ellikon	   „	500.
+Dynhart	   „	670.
+Wiesendangen	   „	600.
+Ellsau	   „	440.
+Schottikon	   „	130.
+Oberwinterthur	   „	1140.
+Seen	   „	750.
+Elgg	   „	1140.
+Schneit	   „	360.
+Hofstetten	   „	220.
+Bertschikon	   „	360.
+Zell	   „	480.
+Turbenthal	   „	700.
+Schlatt	   „	340.
+Pfungen	   „	210.
+Dättlikon	   „	170.
+Neftenbach	   „	950.
+Buch	   „	380.
+Wülflingen	   „	920.
+Veltheim	   „	340.
+Töß	   „	430.
+Section Andelfingen
+Feuerthalen	   „	400.
+Lauffen und Uhwiesen	   „	700.
+Benken	   „	680.
+Rheinau (Stadt)	   „	240.
+Marthalen	   „	780.
+Trüllikon	   „	1180.
+Oberstammheim	   „	510.
+Unterstammheim	   „	520.
+Waltalingen und Guntalingen	   „	300.
+Oßingen	   „	870.
+		196580.
+Transport	Frk.	196580.
+Andelfingen	   „	1240.
+Flaach	   „	800.
+Volken	   „	260.
+Dorf	   „	310.
+Berg [Berg am Irchel]	   „	380.
+Henggard [Henggart]	   „	160.
+Dägerlen	   „	440.
+Hettlingen	   „	400.
+Seuzach	   „	570.
+Klein-Andelfingen etc.	   „	500.
+Kloster Rheinau	   „	3200.
+	Summa 204,840.

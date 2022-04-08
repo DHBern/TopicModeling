@@ -1,0 +1,392 @@
+Erledigung der Rekurse gegen die Taxation der Wirthschaftsabgabe pro 1856.
+
+Der Regierungsrath hat
+betreffend die Rekurse gegen die Taxationen der Wirthschaftsabgabe u. Speisepatentgebühren für das Jahr 1856,
+nach Einsicht eines Antrages der verordneten Kommission,
+beschlossen:
+I.) Die Rekurse werden erledigt, wie in dem nachstehenden Verzeichnisse zu ersehen ist.
+II.) Den Rekurrenten, sowie den betreffenden Statthalterämtern wird von der Art der Erledigung Kenntniss gegeben.
+III.) Die Direktion der Finanzen wird mit der Rückzahlung der beschlossenen Reduktionen beauftragt.  
+Gemeinden.
+Name der Rekurrenten.
+Taxation von 1856.
+Beschluß.
+Wirth-schafts-abgabe
+Speise-patent-gebühr
+Wirth-schafts-abgabe
+Speise-patent-gebühr.
+Frk.
+Rp.
+Frk.
+Rp.
+Frk.
+Rp.
+Frk.
+Rp.
+Bezirk. Zürich.
+Zürich
+Häfeli, Niklaus[,] zum Adler
+408.
+33.
+–
+–
+379.
+16.
+   “
+Uster, J. J.[,] zur Krone
+1166.
+67.
+–
+–
+1166.
+67.
+Abweisung.
+Höngg
+die Gemeinde, zum Rebstock.
+102.
+08.
+–
+80.
+21
+Oberstraß
+die Gemeinde, zum Löwen.
+160.
+41.
+160.
+41.
+Abweisung
+Zürich
+Forster, Johs, am untern Graben
+131.
+25.
+116.
+67.
+   “
+Appenzeller Hch, zur Zimmerleuten
+189.
+58
+116.
+67.
+189
+58.
+116.
+67.
+Abweisung
+   “
+Pfister, Wittwe[,] zum rothen Gatter
+138.
+54
+138.
+54
+      id
+   “
+Stadelmann, J. Georg, z. Kronberg
+116.
+67.
+65.
+62.
+Gemeinden.
+Name der Rekurrenten.
+Taxation von 1856.
+Beschluß.
+Wirth-schafts-abgabe
+Speise-patent-gebühr
+Wirth-schafts-abgabe
+Speise-patent-gebühr
+Frk.
+Rp.
+Frk.
+Rp.
+Frk.
+Rp.
+Frk.
+Rp.
+[Zürich]
+Lamprecht Hch, Marktgasse
+102.
+08
+58.
+33.
+    “
+Meili, Hch, hinter der Metzg
+102.
+08.
+87.
+50.
+94.
+79.
+87
+50
+    “
+Weinmann Heinrich
+102
+08.
+87.
+50
+    “
+Fisler, Conrad
+102.
+08.
+102.
+08
+Abweisung.
+    “
+Willi Conrad
+109.
+37.
+87.
+50.
+102
+08
+87
+50
+    “
+Meier Jakob, Kappelergasse
+94.
+79
+87
+50.
+87
+50.
+87
+50
+    “
+Strübi Jakob, am Münsterhof
+102.
+08.
+87
+50.
+102.
+08.
+87.
+50.
+Abweisung.
+    “
+Rosenberger, Jakob Petershofstatt
+102.
+08.
+87.
+50
+87
+50.
+87.
+50
+    “
+Hotz Heinrich[,] im Strohhof
+350.
+145.
+83.
+350.
+145
+83
+Abweisung
+    “
+Bindschädler, Jb, Augustinergasse
+109.
+37.
+94.
+79.
+Fluntern
+Wuhrmann Conrad
+80
+21
+65
+62.
+    “
+Müller Felix, im Forster
+87
+50
+80
+21.
+    “
+Rinderknecht Jakob
+87.
+50
+87
+50.
+80
+21
+87
+50.
+Geroldsweil
+Frei, Casp.[,] zum Thalacker
+58.
+33.
+58.
+33.
+Abweisung.
+Hirslanden
+Reisch, Johs, Metzger
+102.
+08.
+87
+50.
+102.
+08.
+87.
+50.
+    id 
+Seebach
+Tanner Jakob
+58.
+33
+58.
+33
+Abweisung.
+Wipkingen.
+Weidmann Ulrich, Bäcker
+58.
+33.
+58.
+33
+      id
+Zürich
+Huber, Fr. Anna geb Bühler
+116.
+67.
+116.
+67
+      id
+   “
+Knecht, J. Rud. Strehlgasse.
+102.
+08.
+87.
+50
+102.
+08.
+87
+50
+      id
+Bezirk Affoltern.
+Kappel.
+Hägi, Johs, in Ebertsweil
+72.
+92.
+72.
+92.
+      id
+Stallikon
+Beyel, Friedrich, zum Uetliberg
+204.
+16.
+160.
+41
+Bezirk Horgen.
+Horgen.
+Stünzi, Johs, zum Adler
+218.
+75.
+218.
+75.
+Abweisung.
+Hütten
+Bär, Jakob, zum Bären
+72.
+92
+72
+92
+      id
+Gemeinden.
+Name der Rekurrenten
+Taxation von 1856.
+Beschluß.
+Wirth-schafts-abgabe
+Speise-patent-gebühr
+Wirth-schafts-abgabe
+Speise-patent-gebühr
+Frk.
+Rp.
+Frk.
+Rp.
+Frk.
+Rp.
+Frk.
+Rp.
+Langnau
+Beerli, B, zum Hirschen
+131.
+25.
+131.
+25.
+[Abweisung.]
+Wädensweil.
+Gattiker Johs., am See.
+87
+50.
+87
+50.
+87.
+50
+87
+50.
+       id
+Bezirk. Meilen.
+Meilen
+Bolleter, Z, zum Hirschen
+94.
+79
+65.
+62.
+Oetweil
+Billeter, Hch, zur Sonne
+102.
+08.
+72.
+92.
+Uetikon
+Weber, Hch, im Orgelacker
+58.
+33.
+51.
+04.
+Bezirk Winterthur.
+Schottikon.
+Groß, Johs, zum weißen Schaf
+80
+21.
+72.
+92.
+Töß
+Herr, Ulrich, a. Gemeindammann
+65.
+62.
+58.
+33.
+Bezirk Andelfingen.
+Feuerthalen.
+Müller, Johs, Bäcker
+72.
+92.
+72
+92
+Abweisung.
+Kl. Andelfingen.
+Hatt, Johs, im Alten
+51.
+04.
+51
+04
+      id
+Laufen
+Nohl, Melchior, im Nohl.
+51
+04
+51.
+04.
+      id
+Bezirk Bülach. 
+Bülach.
+Malzacher, M, zum weissen Kreuz.
+138.
+54.
+102.
+08.
+Bezirk Regensberg.
+Niederhasli.
+Vogler, Conrad, in Oberhasli.
+58.
+33.
+58.
+33
+Abweisung.

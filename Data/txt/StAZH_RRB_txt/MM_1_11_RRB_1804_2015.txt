@@ -1,0 +1,1551 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Weisung und Gesetzesvorschlag betreffend die Milizorganisation des Cantons
+                    Zürich.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-03-13"
+                            >13.03.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Weisung und Gesetzesvorschlag betreffend die Milizorganisation des
+                        Cantons Zürich.</title>08.12.1804<ident>StAZH
+                        MM 1.11 RRB 1804/2015</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.11</biblScope><biblScope
+                        unit="page">14–58</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der, von der Militarcommißion unterm 30ten
+                pti hinterbrachte, sehr sorgfältig ausgefertigte Gesetzes-Vorschlag betreffend die
+                Miliz-Organisation unsers Cantons, wurde verlesen, theils einmüthig, theils [und
+                zwar in soweit es die im 7ten Abschnitt enthaltene
+                Errichtung einer Montierungs-Caße betrifft, welcher Theil des
+                Gesetzesvorschlags nach der Meynung der Minorität, wegen der Bedenklichkeit der
+                Errichtung einer solchen Caße an die Militarcommißion zu nochmaliger Überlegung
+                zurükgewiesen werden sollte] mit Mehrheit genehmigt, und so wie er diesem Protocoll
+                einverleibt ist, dem Großen Rat, mit folgender Weisung zur
+                Sanction vorzulegen beschloßen.
+            
+Weisung.
+            
+Durch den 11ten § des Gesetzes vom <date
+                    when="1804-12-23">23ten December</date> 1803, betreffend die Organisation des
+                Succurs-Contingents des Cantons Zürich, wird dem
+                    Kleinen Rath aufgetragen, dem Großen Rath
+                in möglichster Beförderung den Entwurf einer vollständigen Militar-Ordonnanz zur
+                Sanction vorzulegen.
+            
+Da nun die Organisation des Succurs-Contingents mit der Organisation der
+                Reserve-Milizen, nothwendigerweise in der genauesten Verbindung stehen muß, <pb
+                    n="15"/>theils aber auch seither, durch das von der Tagsatzung angenommene, und
+                von den Cantonen im Allgemeinen sanctionierte, allgemeine Militar-Reglement für den
+                Schweizerischen Bundesverein, einige Abänderungen in Rüksicht der verschiedenen
+                Truppen-Arten, welche der Canton Zürich zu einem
+                Gemeineydgenößischen Contingents-Corps zu stellen hat, stattgefunden haben; – so
+                glaubt der Kleine Rath den erhaltenen Auftrag zu erfüllen, indem
+                er die Ehre hat, dem Großen Rate zu Vervollständigung des
+                Gesetzes vom 23ten December 1803 den beyliegenden
+                Gesetzesvorschlag zur Sanction vorzulegen.
+            
+Gesezes-Vorschlag betreffend die Milizorganisation des Cantons
+                    Zürich.
+            
+Erster Abschnitt:
+            
+Das Contingent-Corps betreffende allgemeine Verfügungen.
+            
+1.
+            
+Das Mediationsmäßige Succurs-Contingent, welches der Canton
+                    Zürich zu einem Gemein-Eiddgenößischen, 15'203
+                    Mann starken Armee-Corps zu stellen hat, soll nach Anleitung
+                des allgemeinen Militar-Reglements für den Schweizerischen Bundesverein, bestehen
+                in: 
+            
+3. Bataillons Infanterie; 
+            
+2. Compagnien Artillerie; 
+            
+2. Compagnien Scharfschüzen; 
+            
+1. Compagnie Dragoner.
+            
+2.
+            
+Die Formation der Compagnien und Bataillons wird auf den Fuß
+                angenommen, welcher durch das Reglement, für die Gemeineydsgenößischen
+                Contingents-Truppen eingeführt worden ist. Damit aber der ausrükende Stand, bey
+                einem allfälligen Ausmarsch, immer vollständig seye, so solle bey jedem <pb n="16"
+                />Bataillon des Succurs-Regiments, eine sechste überzählige oder Depot-Compagnie
+                sich befinden, und über dieß einer jeden Infanterie-Compagnie 10, einer
+                Artillerie-Compagnie 8, einer Scharfschüzen-Compagnie 15, und der Dragoner-Compagnie
+                10 über complette Gemeine zugetheilt werden.
+            
+Die stehende Standes-Compagnie soll mit dem Rang der ersten Grenadier-Compagnie, dem
+                Succurs-Regiment einverleibt sein und unter dem nämlichen Regiments-Staab
+                stehen.
+            
+3.
+            
+Das Contingents-Corps stehet unter der unmittelbaren Aufsicht und Leitung eines
+                Obersten und drey Oberst-Lieutenants, und soll von den Reserven-Milizen gänzlich
+                abgesöndert seyn und bleiben. – Der Oberst des Contingents-Corps hat einen
+                Staabs-Adjudanten mit Hauptmanns-Rang, welchen er selbst dem <orgName>Kleinen
+                    Rathe</orgName> zur Bestätigung vorschlägt.
+            
+4.
+            
+Die Contingents-Truppen sollen als eine auserlesene Miliz auf den bestmöglichen
+                    Fuß gesezt, nach den gemeineidgenößischen Dienst- und
+                Exerzier-Reglements gehörig in den Waffen geübt, und im Dienst unterrichtet
+                werden.
+            
+5.
+            
+Die Bewaffnung aller zu dem Succurs-Corps des Cantons gehörenden Truppen soll nach
+                dem gemeineidsgenößischen Militar-Reglement eingeführt, und dieselben, nach und nach
+                auf den von der Tagsatzung vorgeschlagenen Fuß montiert werden,
+                die Unterscheidungs-Zeichen für die verschiedenen Grade werden ebenfalls nach dem
+                allgemeinen Militar-Reglement eingeführt. 
+            
+6.
+            
+Die Kriegszucht soll bey den Contingents-Truppen des Cantons, wenn sie bey einem
+                Eydsgenößischen Truppen-Corps oder in Eidgenößischem Sold stehen, nach dem
+                gemeineidsgenößischen Militar-Codex und nach den Vorschriften gehandhabet werden,
+                welche die Tagsazung hierüber festsezt.
+            
+Für den Dienst im inneren des Cantons, und so lange die Truppen nicht unter dem
+                Central-Commando stehen, wird man sich für die Handhabe einer guten Mannszucht und
+                die Bestraffung gesezwidriger Vergehen nach den Vorschriften richten, welche die
+                Regierung des Cantons für die unter den Waaffen, oder im Dienst stehende Mannschaft
+                zu verordnen für gut finden wird.
+            
+7.
+            
+Die Contingents-Truppen des Cantons Zürich beziehen, wann sie
+                in Eydsgenößischem Sold stehen, die durch das Eydsgenößische Militar-Reglement
+                bestimmten Besoldungen und Rationen. Im besondern Dienst des Cantons aber bestimmt
+                jederzeit der Kleine Rath den Sold und die Rationen.
+            
+8.
+            
+Die Mannschaft des Contingent-Corps ist, in Folge des Gesezes vom <date
+                    when="1804-12-23">23ten December</date> 1803 auf vier Jahr bey diesem Corps zu
+                dienen verpflichtet, und soll während dieser Zeit allen an sie ergehenden
+                Aufforderungen und Verfügungen sich willig unterziehen.
+            
+9.
+            
+Das Contingents-Corps, soll aus der Claße der Mannschaft vom zurükgelegten <date
+                    when="1804-12-19">19ten</date> bis angetrettenen <date when="1804-12-25"
+                    >25ten</date> Jahr gezogen, und immer wieder ergänzt werden. Allerförderst aber
+                werden die Freywilligen aus allen Claßen, wenn sie zum Dienst
+                tauglich sind, darbey aufgenommen. 
+            
+10.
+            
+Jeder Abgang bey dem Succurs-Regiment muß nach der gesezlichen Vorschrift, ohne allen
+                Aufschub sogleich wieder ergänzt werden.
+            
+11.
+            
+Wann bey einem Ausmarsche des Succurs-Regiments, oder eines Theils desselben, ein zu
+                diesem Corps gehördender Unterofficier, Caporal oder Gemeiner sich muthwilliger
+                Weise entfernt hätte, um sich des Diensts zu entziehen, so solle ein solcher durch
+                einen dienstfähigen Mann aus der zweyten Reserve ersetzt werden,
+                welchen dann die Gemeinde zu der der Entwichene gehört, ganz nach der Ordonanz zu
+                montieren hat, wofür ihr sodann der Regreß auf des betreffenden Abwesenden eigenes,
+                oder seiner Eltern Vermögen offen stehet. – Würde alsdann der Abwesende nach Verfluß
+                eines Monats, und auf die, durch die öffentlichen Blätter an ihn ergehende
+                Aufforderung hin, nicht zurükkehren, und sich bey seinem Corps stellen, so solle er,
+                wann er späterhin habhaft gemacht werden kann, dem Kriegsgericht als Ausreißer zur
+                verdienten Bestraffung übergeben werden.
+            
+12.
+            
+Ein Officier, der sich auf diese Weise dem Dienst entziehen würde, soll ebenfalls dem
+                Kriegsgericht zur Bestraffung übergeben werden.
+            
+13.
+            
+Jeder zum Succurs-Regiment gehördende Unterofficier, Caporal oder Gemeine, der sich
+                für einige Zeit außert den Canton begeben will, ist verpflichtet, ein solches dem
+                Oberst-Lieutenant, zu deßen Kreis er gehört, anzuzeigen, und
+                demselben zugleich einen schriftlichen Revers von ei- nem über 25 Jahr
+                alten dienstfähigen Mann aus der Reserve einzusenden, wodurch
+                dieser sich verpflichtet, an der Stelle des Abwesenden zu marschieren, wenn ein
+                Aufgebott ergehen sollte.
+            
+Ebenso hat ein jeder Officier es dem Oberst-Lieutenant, zu deßen
+                    Kreis er gehört, zu Handen des Obersten des Succurs-Regiments
+                anzuzeigen, wann er sich für mehr als 8 Tage außert dem Canton aufzuhalten gedenkt,
+                wobey auch beyläufig die Zeit, so die Abwesenheit dauren soll, angemerkt werden
+                muß.
+            
+Zweyter Abschnitt: 
+            
+Militar-Eintheilung des Cantons, Verrichtungen und Pflichten der
+                Quartierhauptleuten.
+            
+14.
+            
+Der Canton Zürich bleibt nach dem Gesetz vom <date
+                    when="1804-12-23">23ten</date> Decembris 1803 in drey Militar-Kreise von soviel
+                möglich gleicher Bevölkerung, und jeder dieser Kreise in sechs Quartiere von
+                möglichst gleicher Stärke eingetheilt.
+            
+Die Eintheilung ist folgende:
+            
+Erster Kreis.
+            
+Erstes Quartier: 
+            
+Stadt Zürich.
+            
+Zweytes Quartier: 
+            
+Ober- und Unterstraß; Affoltern; Seebach; Schwamendingen; Fällanden; Zumikon;
+                Wytikon; Küßnacht; Zollikon; Hirslanden; Riesbach; Hottingen; Flunteren.
+            
+Drittes Quartier: 
+            
+Außersihl; Enge; Wollishofen; Adlischweil; Langnau; Kilchberg; <pb n="20"
+                />Rüschlikon; Thalweil; Oberrieden; Horgen.
+            
+Viertes Quartier: 
+            
+Wädenschweil; Richterschweil; Hütten; Hirzel; Schönenberg.
+            
+Fünftes Quartier: 
+            
+Hausen, Cappel, Rifferschweil, Aügst; Knonau; Maschwanden;
+                Ottenbach; Mettmenstetten; Affoltern; Hedingen; Bonstetten;
+                    Stallikon.
+            
+Sechstes Quartier: 
+            
+Uitikon; Birmensdorf; Urdorf; Dietikon; Schlieren; Albisrieden; Altstetten; Wiedikon;
+                Wipkingen; Höngg; Weiningen; Hüttikon und Oetikon;
+                Otelfingen; Buchs; Dällikon; Regensdorf.
+            
+Zweyter Kreis.
+            
+Erstes Quartier: 
+            
+Regensperg; Dielstorf; Steinmaur, Dachsleren; Niederweningen;
+                Schöfflistorf; Bachs; Stadel; Weyach; Glattfelden; Eglisau; Rafz; Wyl; Hüntwangen;
+                Wasterkinden. 
+            <p/>
+            
+Zweytes Quartier: 
+            
+Flaach; Berg; Buch; Dättlikon; Rorbas und Teuffen; Embrach;
+                Lufingen; Bülach; Höri [alle drey]; Niederhaßle;
+                    Oberglatt.
+            
+Drittes Quartier: 
+            
+Rümlang; Kloten; Opfikon; Wallißellen; Rieden; Dietlikon; Dübendorf; Wangen;
+                Weislingen; Kyburg; Lindau; Baßersdorf; Brütten.
+            
+Viertes Quartier:
+            
+Tös; Veltheim; Winterthur; Seen; Dägerlen; Seuzach; Hettlingen; Wölflingen;
+                Neftenbach; Pfungen.
+            
+Fünftes Quartier: 
+            
+Zell; Schlatt; Ellgg; Bichelsee; Schneit; Bertschikon; Elsau; Wiesendangen;
+                Oberwinterthur; Rikenbach; Dynhard; Altikon; Ellikon.
+            
+Sechstes Quartier: 
+            
+Stammheim; Oßingen; Trüllikon; Benken; Feuerthalen; Lauffen; Rhynau;
+                Marthalen; Andelfingen; Dorf; Henggard; Dorlikon
+            
+Dritter Kreis
+            
+Erstes Quartier: 
+            
+Erlenbach; Herrliberg; Meilen; Männedorf; Oetwil; Egg;
+                Maur.
+            
+Zweytes Quartier: 
+            
+Uetikon; Stäfa; Hombrechtikon; Bubigheim [Bubikon]; Grüningen;
+                    Mönchaltorf.
+            
+Drittes Quartier: 
+            
+Dürnten; Hinweil; Bäretschweil; Hittnau; Wezikon; Seegreben.
+            
+Viertes Quartier:
+            
+Rüti; Wald; Fischenthal; Bauma.
+            
+Fünftes Quartier: 
+            
+Sternenberg; Wyla; Turbenthal; Wildberg; Rußikon; Illnau;
+                    Fehraltorf.
+            
+Sechstes Quartier: 
+            
+Volkentschwil; Schwerzenbach; Greiffensee; Uster; Goßau;
+                    Pfäffikon.
+            
+15.
+            
+Für ein jedes Quartier ist ein, in dem Bezirk deßelben wohnender
+                Quartierhauptmann aufgestellt. Er ist in seinem unterhabendem Quartier die erste
+                Militar-Person, und stehet unter den unmittelbaren Befehlen der Militar-Commißion,
+                an welche er die gehörigen Rapports und Meldungen einzusenden hat.
+            
+16.
+            
+Jeder Quartierhauptmann kann sich einen zu den Reserven-Truppen des Quartiers
+                gehörenden Officier zu seinem Adjudanten und Gehilfen auswählen, welcher, so lange
+                er als Adjudant angestellt ist, nicht verpflichtet seyn soll, irgend eine andere Art
+                von Militar-Diensten zu leisten.
+            
+17.
+            
+Jeder Quartierhauptmann hat die Aufsicht und Leitung über die Militar-Organisation
+                seines Quartiers, ist aber nicht befugt, ohne Vorwißen der Militar-Commißion irgend
+                eine Art von Truppen aufzubieten und in Bewegung zu setzen.
+            
+18.
+            
+Die Quartierhauptleute besorgen die Einschreibung und Eintheilung der des
+                Militardiensts pflichtigen Mannschaft ihrer Quartiere. – Wann die zur Reserve
+                gehörenden Infanterie-Compagnien mit Waffen und Lederzeug versehen seyn werden, so
+                haben sie die Aufsicht über den Zustand derselben. – Durch sie werden alle
+                Aufgebotte der Mannschaft auf Befehl der Militar-Commißion angeordnet.
+            
+19.
+            
+Die Quartierhauptleute haben alljährlich die verordneten Bereinigungs-Musterungen
+                über die zur Reserven gehörenden Infanterie-Compagnien abzuhalten.
+            
+20.
+            
+Sie haben die Aufsicht über das Fuhrwesen ihrer respectiven Quartiere, und führen die
+                darüber nöthigen Verzeichniße.
+            
+21.
+            
+Die den Quartierhauptleuten zustehende Strafcompetenz wegen geringerer
+                Disciplin-Vergehen, Verabsäumung von Bereinigungs-Musterungen u. s. w., wird durch
+                ein besonderes Reglement bestimmt werden.
+            
+22.
+            
+Damit alle von Seite der Militar-Commißion an die Quartierhauptleute, zu Handen der
+                in ihren respectiven Quartieren wohnenden Mannschaft ergehenden Befehle mit der
+                gehörigen Beförderung und Genauigkeit an den Ort ihrer Bestimmung gelangen, so
+                sollen die Gemeind-Ammänner pflichtig seyn, alle die dießfähligen Aufträge der
+                Quartierhauptleuten anzunehmen, und zu vollziehen. Zu dem Ende hin sind bey den
+                Aufgeboten oder andern ohne Aufschub zu befördernden Befehlen, die Landjäger
+                verpflichtet, die schriftlichen Aufträge der Quartierhauptleute an die
+                Gemeind-Ammänner zu übernehmen, und sogleich von einer Station zur andern zu
+                befördern.
+            
+Dritter Abschnitt:
+            
+Eintheilung der Militardienstpflichtigen Mannschaft – Complettierung des
+                Succurs-Regiments.
+            
+Dienstsdauer.
+            
+23.
+            
+Jedem Oberst-Lieutenant des Succurs-Regiments ist einer von den drei Militarkreisen
+                des Cantons angewiesen; aus welchem er die Mannschaft für sein Bataillon nach der
+                gesezlichen Vorschrift ziehen und ergänzen soll.
+            
+24.
+            
+Die zu den Artillerie-, Cavallerie- und Scharfschüzen-Compagnien des
+                Succurs-Corps erforderliche Mannschaft, wird in Zukonft nach Inhalt des § 45 aus den
+                besondern Reserven dieser veschiedenen Corps gezogen und ergänzt.
+            
+25.
+            
+Jeder den Canton Zürich bewohnende
+                    Schweizer von zurükgelegtem <date when="1804-12-16"
+                    >16ten</date> Jahr seines Alters bis zum angetrettenen 46ten wird auf die
+                Mannschafts-Listen seines Quartiers eingeschrieben. Samtliche eingeschriebene
+                Mannschaft wird in zwey Hauptclaßen eingetheilt: 
+            
+Die erste Claße begreifft die Mannschaft vom zurükgelegten <date when="1804-12-19"
+                    >19ten</date> und noch nicht angetrettenen 26ten
+                Jahr. 
+            
+Die zweyte Claße enthält die jungen Leute, welche das 16te Jahr
+                zurükgelegt und das 20te noch nicht angetretten haben. – Ferner die Mannschaft,
+                welche das 25te Jahr zurükgelegt und das 46te noch nicht angetretten hat.
+            
+Die verschiedenen Alter sind in Zukonft auf den ersten Jenner
+                jedes Jahrs zu berechnen.
+            
+26.
+            
+Die sämmtliche des Militardiensts pflichtige Mannschaft des Cantons
+                    Zürich wird in Contingents-Truppen und in erste und
+                zweyte Reserve abgetheilt.
+            
+27.
+            
+Die Contingents-Truppen werden nach der gesezlichen Vorschrift [§ 42 und 45] aus der
+                Mannschaft vom angetrettenen 20ten bis zurükgelegten
+                    25ten Jahr gezogen.
+            
+28.
+            
+Zu der ersten Reserve, welche bestimmt ist, im Fall es die Umstände erforderen
+                würden, die gleichen Dienste, wie die Contingents-Truppen zu leisten, gehört alle
+                dienstpflichtige Mannschaft, welche nicht bey den Contingents-Truppen eingeschrieben
+                ist, und das 20te Jahr angetreten, das 30te aber noch nicht zurükgelegt
+                hat.
+            
+29.
+            
+Zur zweyten Reserve hingegen, die, wenn es nothwendig seyn sollte, die erste Reserve
+                ersezen müßte, gehört 1mo alle Mannschaft, welche das 30te Jahr zurükgelegt und das
+                46te noch nicht angetreten hat. 2º Alle jungen
+                    Leute, welche das 16te Jahr zurükgelegt, das 20te aber noch
+                nicht angetretten haben.
+            
+30.
+            
+Nach zurükgelegtem 45ten Jahr stehet es einem jeden frey, seine gänzliche Entlaßung
+                vom Militardienst zu verlangen. Nur in außerordentlichen Fällen, und erst nachdemme
+                die Reserve-Truppen schon unter den Waffen stehen, kann die Mannschaft, welche das
+                45te Jahr zurükgelegt hat, zum Dienst und zwar vorzüglich im Inneren des Cantons
+                wieder aufgebotten werden.
+            
+31.
+            
+Die Einschreibung bey den Reserve-Truppen geschiehet jährlich im Monat
+                    May.
+            
+32.
+            
+Die Quartierhauptleute werden die Verzeichniße, so sie über sämmtliche in ihren
+                Quartieren wohnende, des Militardiensts pflichtige Mannschaft zu führen haben, nach
+                den Formulars einrichten, die ihnen von der Militar-Commißion zugestellt werden, und
+                alle Mutationen genau bemerken.
+            <p/>
+            
+33.
+            
+Zu diesem Ende hin wird der Pfarrer einer jeden Gemeinde des Cantons
+                    Zürich alljährlich auf den <date when="1804-12-15"
+                    >15ten</date> Jenner dem betreffenden Quartierhauptmann ein genaues Verzeichniß
+                der jungen Leute seiner Gemeinde einsenden, welche am ersten
+                Jenner des lauffenden Jahrs das 16te Jahr ihres Alters zurükgelegt
+                haben, wobey nebst dem Geburtstag so viel möglich immer der Aufenthaltsort eines
+                jeden anzuzeigen ist.
+            
+34.
+            
+Ebenfalls auf den 15ten Jenner jedes Jahrs werden die
+                Gemeinds-Ammänner den Quartierhauptleuten, zu deren Quartier die Gemeinde gehört,
+                nach den Formulars die ihnen zugestellt werden, ein genaues Verzeichniß aller in der
+                Gemeind sich aufhaltenden Ansäßen oder Knechte, sie mögen aus dem hiesigen oder
+                einem andern Schweizer-Canton seyn, einsenden.
+            
+35.
+            
+Die Quartierhauptleute werden die verschiedenen Eingaben von Seite der Seelsorger und
+                der Gemeindsammänner so viel möglich verificieren, und ihre Quartierbücher nach
+                denselben führen.
+            
+36.
+            
+Die Gemeindräte sollen ein genaues Verzeichnis aller bey den Contingents-Truppen
+                eingeschriebener Gemeinds-Angehörigen und Gemeinds-Bewohner führen, und wenn durch
+                Todesfälle, anhaltende Verlaßung des Cantons, durch gerichtliche Verurtheilung wegen
+                Criminal-Verbrechen, oder auf irgend eine andere Weise, eine Mutation oder Abgang
+                bey dieser Mannschaft sich ihres Wißens ereignet, so sind sie bey höchster
+                Verantwortung verpflichtet, einen solchen Vorfall unverweilt dem betreffenden
+                Quartierhauptmann anzuzeigen, damit durch deßen Veranstaltung der Abgang ohne
+                Aufschub wieder ersezt, und dem Oberst-Lieutenant des Kreises zu Handen des Obersten
+                des Succurs-Regi- ments die gehörige Anzeige davon gemacht werden
+                könne.
+            <p/>
+            
+37.
+            
+Jede Gemeinde zählt unter ihre des Militardiensts pflichtige Mannschaft, nicht nur
+                die Gemeindsangehörigen, sondern auch alle Schweizer, welche sich
+                in derselben angesiedelt, oder sonst berufshalber seit Jahresfrist aufgehalten
+                haben. Wer aber einmal bey dem Succurs-Regiment eingeschrieben ist, zält während der
+                ganzen Dauer seiner Dienstszeit bey demselben für die Gemeinde, bey deren Contingent
+                er eingeschrieben worden, obschon er sich nachher in eine andere Gemeinde gesezt
+                hätte.
+            
+38.
+            
+Ein jedes Quartier stellt eine Infanterie-Compagnie zum Succurs-Regiment, und ist
+                verpflichtet, selbige in Kriegs- und Friedenszeiten beständig auf complettem
+                    Fuß zu unterhalten.
+            
+39.
+            
+Wann sich nicht genug Freywillige hierzu vorfinden, so entscheidet das
+                    Loos unter der Mannschaft, welche das 20te Jahr angetreten
+                und das 25te noch nicht zurükgelegt hat.
+            
+40.
+            
+Jede Gemeinde liefert hierzu ihren Beytrag, nach dem Verhältniß ihrer im
+                    Alter von 20 bis 25 Jahren sich befindenden Mannschaft, wozu
+                aber diejenigen nicht gerechnet werden, welche bey der ersten Reserve der
+                Artillerie, Dragoner und Scharfschüzen aufgenommen worden sind.
+            
+41.
+            
+Die Berechnung wird alljährlich auf den ersten Februar auf die dießfalls
+                einzusendenden Tabellen der Quartierhauptleuten, von der Militar-Commißion
+                vorgenohmen, und jedem Quartierhauptmann für sein Quartier mitgetheilt.
+            
+42.
+            
+Wann sich bey einer Infanterie-Compagnie des Succurs-Regiments ein Abgang ereignet,
+                so hat der betreffende Quartierhauptmann, auf die dießfalls von dem
+                Oberst-Lieutenant des Kreises im Namen des Obersten dieses Regiments geschehene
+                Anzeige, dem Gemeindrath derjenigen Gemeinde, welche den Abgang ersezen soll, die
+                Anzeige hievon zu machen, worauf dann unverweilt der Gemeindrath unter allen
+                Militar-Dienstpflichtigen Bewohnern der Gemeinde, welche sich nach § 25 in der
+                ersten Claße befinden [in sofern sich keine Freywilligen zeigen], durch das
+                    Loos entscheiden läßt, wer zum Succurs-Regiment befördert
+                werden soll.
+            
+43.
+            
+Hierbey ist aber jedoch zu bemerken, daß immer zuerst die junge Mannschaft vom
+                angetretenen 20ten bis zurükgelegten <date
+                    when="1804-12-23">23ten</date> Jahr sich dem Loos unterziehen
+                solle, und daß erst, wenn diese zur Ergänzung des Succurs-Regiments nicht mehr
+                zureichen würde, alle Mannschaft bis zum zurükgelegten <date when="1804-12-25"
+                    >25ten</date> Jahr sich ebenfalls dem Loos zu unterziehen
+                hat.
+            
+44.
+            
+Als abwesend zu betrachten sind jenne, welche sich seit Jahresfrist aus ihrer
+                Gemeinde entfernt, und in einer andern Gemeinde des Cantons aufgehalten haben.
+                Ferner alle diejenigen, welche sich nicht in dem Canton aufhalten.
+            
+45.
+            
+Wann eine Ergänzung der Artille- rie-, Dragoner- oder
+                Scharfschüzen-Compagnie des Succurs-Regiments statt haben soll, so wird auf die
+                dießfalls geschehene Anzeige des Obersten dieses Regiments an den Commandanten des
+                betreffenden Reserve-Corps, dieser [falls sich keine Freywilligen hierzu melden
+                sollten] bey der Artillerie und den Scharfschüzen die jüngste Mannschaft der
+                Freycompagnien, bey der Cavallerie aber die jüngsten Freyreuter an das
+                Succurs-Regiment abgeben.
+            
+46.
+            
+Ein zu dem Succurs-Regiment beförderter Militair mag mit Vorwißen und Bewilligung des
+                Obersten dieses Corps, an seiner Stelle für 4 Jahr einen andern zum Dienst in jeder
+                Rüksicht tauglichen, aber nicht zu der Claße der 20 bis 25jährigen Mannschaft
+                gehörenden Mann aus dem hiesigen Canton seinem
+                    Hauptmann vorstellen, für den er aber die ganze Dauer seiner
+                Dienstzeit gut stehen, auch denselben auf seine Kosten ganz nach der Ordonnanz
+                montieren wird. Über dieß soll derjenige, welcher statt seiner einen andern
+                    Mann zu dem Succurs-Regiment stellt, gehalten seyn, nach §
+                100 seinen Beytrag an die Montierungs-Caße zu erlegen.
+            
+47.
+            
+Kein Schweizerbewohner das Cantons Zürich, der nicht
+                Cantonsangehöriger ist, kann verpflichtet werden, sich dem Loos
+                für den Eintritt bey dem Succurs-Regiment zu unterziehen, sondern solle nur bey der
+                Reserve eingeschrieben, übrigens aber angehalten werden, zu beweisen, daß er mit
+                Vorwißen und Bewilligung seiner respectiven Cantons-Regierung, sich in hiesigem
+                Canton aufhalte. 
+            
+48.
+            
+Die Freywilligen zälen für die Gemeinde, in welcher sie wohnen.
+            
+49.
+            
+Die Officiers-Stellen bey dem Succurs-Regiment werden ohne Rüksicht auf Quartiere und
+                Gemeinden durch taugliche Subjecte aus dem ganzen Canton besezt.
+            
+50.
+            
+Nach verfloßenen 4 Dienstjahren bey den Contingents-Truppen, stehet es in
+                Friedenszeiten einem jeden einzelnen frey [falls er nicht länger freywillig bey
+                diesem Corps dienen will] seine Entlaßung zu begehren. Jedoch soll ein seine
+                Entlaßung Begehrender, sich zwey Monate vorher bey seinem
+                    Hauptmann deßwegen zu melden verpflichtet seyn, damit dieser
+                es dem Oberst-Lieutenant seines Bataillons zu Handen des Obersten gehörig anzeigen
+                könne. 
+            
+51.
+            
+Jedes von dem Succurs-Regiment austrettende Individuum wird seinem dießfälligen, von
+                dem Obersten des Regiments unterzeichneten Entlaßungs-schein dem Quartierhauptmann,
+                in deßen Quartier er wohnt, vorweisen, oder zur Einsicht übersenden, um hierauf
+                gehöriger Maaßen in die Reserve eingeschrieben zu werden.
+            
+52.
+            
+In Kriegszeiten werden alle und jede Entlaßungen von dem Succurs-Regiment nur am Ende
+                eines jeden Feldzugs bewilliget.
+            
+Vierter Abschnitt:
+            
+Organisation der Reserve-Truppen.
+            
+53.
+            
+Bey der Artillerie-, Cavallerie- und Scharfschüzen-Reserve-Corps, sollen, wenn sie
+                einmal vollzählig sind, jährlich nur so viele Leute aufgenommen
+                werden können, als ihrer des Diensts entlaßen worden sind; jedoch kann
+                dem, nach vollendeter Dienstzeit bey dem Succurs-Regiment, von demselben
+                austrettenden Artilleristen, Dragoner und Scharfschüzen die Aufnahme bey der
+                betreffenden Reserve nicht verweigert werden.
+            
+54.
+            
+In keinem Fall sollen bey einem dieser Reserve-Corps aus einer Gemeinde mehr als
+                höchstens 2 Mann aufgenommen werden, welche das 25ste Jahr nicht
+                zurükgelegt, oder nicht schon bey dem Succurs-Regiment ihre Dienstzeit vollendet
+                haben.
+            
+Reserve der Artillerie.
+            
+55.
+            
+Es soll nach und nach aus der Mannschaft, die sich freywillig zum Dienst der
+                Artillerie anbieten wird, ein Artillerie-Reserve-Corps von 6 Compagnien errichtet
+                werden, deren Formation und Stärke die nämmliche, wie bey den Artillerie-Compagnien
+                des Succurs-Regiments seyn solle.
+            
+Zwey von diesen Compagnien sind Freycompagnien, sie bestehen aus Freywilligen, und
+                aus der zur ersten Reserve gehörenden Mannschaft. Die vier übrigen gehören als
+                Stamm-Compagnien zur zweyten Reserve.
+            
+56.
+            
+Der Commandant des Artillerie-Reservecorps wird zu den Freycompagnien soviel immer
+                möglich die fähigsten Officiers und Unterofficiers auswählen.
+            
+57.
+            
+Aus der Mannschaft der beyden Freycompagnien soll eine Abtheilung von 20 Pionniers
+                ausgezogen, und unter der Aufsicht von zwey besonderen hiezu be- <pb n="33"
+                />stellten Officiers und einigen Unterofficiers, in diesem besondern Dienst
+                unterrichtet werden.
+            
+58.
+            
+Dieses Artillerie-Reservecorps stehet unter der Leitung und Aufsicht eines Obersten
+                und eines Oberst-Lieutenants.
+            
+59.
+            
+Es ist dem Kleinen Rath überlaßen, das übrige Staabspersonale
+                dieses Corps zu bestimmen.
+            
+60.
+            
+Die beyden ältesten Hauptleute haben den gleichen Rang wie die Rittmeister und den
+                Titul von Divisions-Commandanten.
+            
+Reserve der Dragoner.
+            
+61.
+            
+Es soll ein Dragoner-Reserve-Regiment errichtet werden, welches, wann sich genug
+                Freywillige für den Cavallerie-Dienst anbieten, nach und nach bis auf 4 Escadrons
+                gebracht werden soll. Jede Escadron bestehet aus 2 Compagnien, welche die nämmliche
+                Formation haben werden, wie die Dragoner-Compagnien des Succurs-Regiments.
+            
+62.
+            
+Der Quart einer jeden Compagnie bestehet aus Freyreutern, die aus Freywilligen oder,
+                wenn diese nicht zureichen sollten, aus der jüngsten Mannschaft zu nehmen sind.
+            
+Wann die samtlichen Freyreuter dieses Dragoner-Regiments zusammen gezogen werden, so
+                bilden sie 2 Compagnien, zu welchen der Commandant dieses Reservencorps schon im
+                Voraus die erforderliche Prima Plana bestellt.
+            
+63.
+            
+Der ältere Hauptmann einer jeden Escadron bekommt den Titul eines
+                Rittmeisters, und nimmt seinen Rang nach allen Staabs- Officieren und
+                vor allen Hauptleuten der übrigen Waffen.
+            
+64.
+            
+Das Dragoner-Regiment steht unter der Aufsicht und Leitung eines Staabs-Officiers,
+                der den Rang und den Titul eines Obersten führt.
+            
+65.
+            
+Es ist dem Kleinen Rath überlaßen, das übrige Staabs-Personale
+                dieses Regiments zu bestimmen.
+            
+Reserve der Scharfschüzen.
+            
+66.
+            
+Es soll ein Scharfschüzen-Reserve-corps errichtet werden, welches, wenn sich
+                Freywillige genug dazu anbieten, nach und nach bis auf 6 Compagnien von der
+                nämlichen Stärke und Formation der Scharfschüzen-Compagnie des Succurs-Regiments
+                gebracht werden soll.
+            
+67.
+            
+Zwey von diesen Compagnien sind Freyschüzen-Compagnien, und bestehen aus
+                Freywilligen, und der, zur ersten Reserve gehörenden Mannschaft. 
+            
+Die 4 übrigen gehören als Stamm-Compagnien zur zweyten Reserve.
+            
+68.
+            
+Der Commandant des Scharfschüzen-Reservecorps, wird zu den Freycompagnien, so viel
+                als immer möglich die fähigsten Officiers und Unterofficiers auswählen.
+            
+69.
+            
+Wer bey dem Scharfschüzen-Reservecorps aufgenohmen zu werden wünscht, muß bey einem
+                zu veranstaltenden Probe-Schießen Beweise ablegen, daß er gut mit dem
+                    Stutzer umzugehen wiße, und Anlagen habe, ein guter Schüz zu
+                werden.
+            
+70.
+            
+Das Scharfschüzen-Reservecorps steht unter der Aufsicht und Leitung eines
+                Staabsofficiers, welchem, nach den Umständen, der Grad eines Obersten, oder
+                Oberst-Lieutenant gegeben wird.
+            
+71.
+            
+Es ist dem Kleinen Rath überlaßen, das übrige Staabs-Personale
+                dieses Corps zu bestimmen.
+            
+Schiffleuthe.
+            
+72.
+            
+Es soll eine Compagnie Schiffleute zum Dienst auf den Schiffen errichtet, und mit den
+                erforderlichen Officiers und Unterofficiers versehen werden.
+            
+73.
+            
+Die hierzu freywillige und erforderliche Mannschaft kann aber, mit Ausnahme der
+                Officiers, nur aus der Reserve gezogen werden.
+            
+74.
+            
+Aus der Zahl der Schiffleuthen soll eine Abtheilung von 20 bis 30
+                    Mann zu Pontonniers ausgezogen, und unter der Aufsicht eines
+                besonders hierzu verordneten Officiers und der nöthigen Unterofficiers, in diesem
+                besondern Dienst unterrichtet werden.
+            
+75.
+            
+Dem Kleinen Rath ist übertragen, durch ein eignes Reglement das
+                Nähere über die Organisation der Schiffmannschaft zu bestimmen.
+            
+Reserve der Infanterie.
+            
+76.
+            
+Sämtliche, nach dem § 28 zur ersten Reserve der Infanterie gehörige Mannschaft eines
+                jeden Quartiers, wird in so viel Freycompagnien eingetheilt, als Mannschaft zu deren
+                Bildung das Quartier stellen kann.
+            
+Die Frey-Compagnien haben die Prima Plana der Infanterie-Compagnien des Succurs- <pb
+                    n="36"/>Regiments, dagegen sollen sich bey einer jeden Freycompagnie so viel
+                möglich wenigstens 20 übercomplette Gemeine befinden.
+            
+77.
+            
+Bey der Einschreibung in die Freycompagnien werden die Quartierhauptleute darauf
+                bedacht seyn, daß die Leute aus einer Gemeinde nicht bey der
+                nämlichen Compagnie eingeschrieben, sondern so viel möglich unter alle
+                Freycompagnien des Quartiers vertheilt werden.
+            
+78.
+            
+Die vorschießende Mannschaft, welche noch nicht zahlreich genug ist, um eine ganze
+                Frey-Compagnie zu bilden, wird als überzälige Gemeine der bestehenden Freycompagnien
+                des Quartiers zugetheilt.
+            
+79.
+            
+Die Freycompagnien stehen unter dem unmittelbaren Commando ihrer respectiven
+                Quartierhauptleute.
+            
+80.
+            
+Ein Bataillon von der ersten Reserve bestehet aus 5 Freycompagnien und einem Staab,
+                welcher demjenigen gleich ist, der bey einem Bataillon des Succurs-Regiments
+                angestellt ist. Erst, wenn ein solches Bataillon ausziehen muß, wird der
+                Oberstlieutenant und das übrige Staabs-Personale zu dem Bataillon ernennt.
+            
+81.
+            
+Sämtliche dienstpflichtige Mannschaft, welche nicht bey dem Succurs-Regiment, bey den
+                Artillerie, Cavallerie und Scharfschüzen Reservecorps, bey der Schiffmannschaft oder
+                bey den Freycompagnien eingeschrieben ist, wird bey der zweyten Reserve oder bey den
+                Stamm-Compagnien eingeschrieben. 
+            
+Jedes Quartier bildet daher so viele Stamm-Compagnien, als Mannschaft sich zu deren
+                Complettierung vorfindet.
+            
+82.
+            
+Die Prima Plana einer Stamm-Compagnie ist die nämliche, wie die der übrigen
+                Infanterie-Compagnien; hingegen soll eine Stamm-Compagnie aus circa 200 Köpfen Prima
+                Plana bestehen. Die überzählige Mannschaft eines Quartiers, welche keine ganze
+                Compagnie mehr ausmachen kann, wird über dieß noch als Übercomplett auf die
+                bestehenden Stamm-Compagnien des Quartiers vertheilt.
+            
+Fünfter Abschnitt: Verpflichtung zum Dragonerdienst und Begünstigungen für
+                denselben.
+            
+83.
+            
+Wann sich nicht genug Freywillige für die, zu dem Succurs-Regiment gehördene
+                Dragoner-Compagnie vorfinden sollten, um dieselbe immer auf dem completten
+                    Fuß zu erhalten; so sollen sämtliche, zu einem jeden Quartier
+                gehörenden Gemeinden pflichtig seyn, auf ihre Kosten 3 in jeder Rüksicht taugliche,
+                leicht und gut berittene, auch ganz nach der Ordonnanz und mont- und armierte
+                Dragoner zu der Dragoner-Compagnie des Succurs-Regiments zu stellen, und diese Zahl,
+                zum Dienst des Vaterlandes beständig vollzählig zu erhalten.
+            
+84.
+            
+So oft die zum Succurs-Regiment oder auch die zur Reserve gehörenden Dragoner
+                wirklich in activen Dienst und Sold tretten, wird auf Veranstaltung der
+                Militar-Commißion, durch besonders bestellte Experti eine billige Estimati- <pb
+                    n="38"/>on über jedes Dragoner-Pferd gemacht, und hierüber von der Canzley der
+                Militar-Commißion ein besonderes Protocoll geführt.
+            
+85.
+            
+Jedem Dragoner, der vor dem Feinde oder bey seinen Dienstverrichtungen ohne sein
+                Verschulden, sein Pferd verlieren oder beschädigen wurde [sic!] , soll aus der
+                Staats-Caßa der Schaden ersezt werden; in so fern derselbe durch gültige Attestate
+                gehörig bescheint werden kann.
+            
+Sechster Abschnitt:
+            
+Das Fuhrwesen.
+            
+86.
+            
+Die sämtlichen, zu der Bespannung des Artillerie-Trains, des Commißariats-Fuhrwesens
+                und der auf jedes Bataillon zu stellenden Munitions-, Brod- und Bagagen-Waagen
+                erforderliche Pferde sollen, wenn die Contingents- oder Reserve-Truppen ausziehen
+                müßen, nebst den Wagen und den nöthigen Knechten, nach einer zu bestimmenden
+                Kehrordnung so viel möglich aus allen Quartieren gezogen werden.
+            
+87.
+            
+Sämtliche, zu einem jeden Quartier gehörende Gemeinden sind in solchen Fällen
+                pflichtig, nach einem billigen Verhältnis den Eigenthümern der gelieferten Pferde,
+                je nach den Umständen, einen mäßigen Schaden-Ersatz zu leisten.
+            
+88.
+            
+Zu dem Ende hin sind die Gemeindammänner verpflichtet, den betreffenden
+                Quartierhauptleuten, alljährlich im Februar, bey Einsendung der Listen der ansäßigen
+                Mannschaft, zugleich ein genaues Verzeichnis der in jeder Gemeind vorhandenen <pb
+                    n="39"/>Zug-Pferde einzusenden. Wornach dann von den Herrn Quartierhauptleuten
+                ein Rapport über sämtliches Fuhrwesen an die Militar-Commißion eingesandt und auf
+                dieses Fundament hin ein General-Etat verfertiget wird.
+            
+89.
+            
+Alle Zug-Pferde, die zum Dienst gebraucht werden müßen, sollen nach einer billigen
+                Schazung durch bestellte Experti geschätzt werden.
+            
+Siebenter Abschnitt: Errichtung einer Montierungs-Caßa.
+            
+90.
+            
+Es soll eine Montierungs-Caßa errichtet werden, aus welcher, wenn sich genug Fonds in
+                derselben befinden werden, einem jeden Unterofficier und Gemeinen der zum
+                Succurs-Regiment gehörenden Infanterie und Artillerie auf sein geziemendes Ansuchen,
+                eine Außtattung von 12 Franken an die Montierung, die er sich
+                nach Vorschrift anzuschaffen hat, bewilliget wird.
+            
+91.
+            
+Jedem zu diesem Corps gehörenden Dragoner und Scharfschützen hingegen soll auf sein
+                Ansuchen hin die doppelte Ausstattung bewilliget seyn.
+            
+92.
+            
+Ganz Armen, die durch ein Zeugnis ihres Gemeindraths attestieren können, daß weder
+                sie noch ihre Elteren im Stande sind, selbst die Montierung anzuschaffen, mag aus
+                dieser Caßa, je nach den Umständen, die doppelte Außtattung verabfolget werden.
+            
+93.
+            
+Nach vollendeten 4 Dienstjahren bey dem Succurs-Regiment, bleibt die
+                Montierung das wahre Eigenthum deßen, der sie besizt, und soll hernach, bey dem
+                Austritt von diesem Corps, niemalen keine Rükerstattung an die Montierungs-Caßa
+                statthaben.
+            
+94.
+            
+Die Beyträge zu dieser Caßa fließen aus nachfolgenden Quellen.
+            
+95.
+            
+So oft es in einer Gemeinde um die Ziehung des Looses unter der 20 bis 25 jährigen
+                Mannschaft, für den Eintritt bey dem Succurs-Regiment zu thun ist, so soll auch für
+                die außert dem Canton wohnende Mannschaft dieser Claße das Loos
+                gezogen werden, in sofern nicht durch ein legales Zeugniß bewiesen wird, daß die
+                betreffenden wirklich bey den Miliz-Truppen eines andern Schweizer-Cantons dem
+                gemeinschaftlichen Vaterland die schuldigen Militardienste leisten. Fällt alsdann
+                das Loos auf einen außert dem Canton wohnenden, so muß zwar
+                neuerdings unter den Anwesenden gelooset werden; hingegen soll der Gemeindrath
+                derjenigen Gemeinde, zu welcher der Abwesende gehört, für das erste und zweyte Mal,
+                da das Loos auf einen abwesenden Gemeindsbürger fallen würde, für
+                einen solchen jedes Mal 8 Franken in die Montierungs-Caßa
+                erlegen, wogegen sich dann der Gemeindrath, auf dem Vermögen, das der Abwesende
+                wirklich schon besizt, oder noch zu erwarten hat, entschädigen kann; würde aber das
+                    Loos mehr als zweymal auf den nämlichen Abwesenden fallen, so
+                ist der Ge- meindrath für alle folgenden Mahle nichts in die
+                Montierungs-Caßa zu erlegen pflichtig.
+            
+96.
+            
+Jeder verheurathete Bürger einer Gemeinde, der sich in dem Alter
+                von 20 bis 25 Jahren befindet, kann sich für ein und alle mahl von dem Ziehen des
+                Looses und von dem Eintritt bey dem Succurs-Regiment befreyen, wenn er 40
+                    Franken in die Montierungs-Caßa erlegt.
+            
+97.
+            
+Denjenigen, welche sich, während dem sie wirklich schon bey dem Succurs-Regiment
+                eingeschrieben sind, verehelichen, und hierauf von diesem Corps zur Reserve
+                transferiert zu werden wünschen, wird dieses gegen die Zurükerstattung der
+                Dottation, welche sie schon aus der Montierungs-Caßa erhalten haben möchten, und
+                gegen Erlegung von 64 Franken in diese Caßa bewilliget.
+            
+98.
+            
+Eben so solle es in Zukonft mit denjenigen gehalten werden, welche schon verheurathet
+                waren, bevor sie bey dem Succurs-Regiment eintretten, und erst nachher wieder ihre
+                Entlaßung begehren
+            
+.
+            
+99.
+            
+Allen Verheuratheten, die sich bey Bekanntmachung gegenwärtigen Gesetzes wirklich
+                schon bey dem Succurs-Regiment befinden, soll auf ihr Begehren ihre Entlaßung von
+                dem Succurs-Regiment, und die Transferierung zu den Reserven-Truppen gegen Erlegung
+                von 32 Franken in die Montierungs-Caßa ertheilt werden.
+            
+100.
+            
+Wer an seiner Stelle unter den im § 46 festgesezten Bedingungen einen andern
+                    Mann zum Succurs-Regiment stellt, erlegt 12
+                    Franken in die Montierungs-Caßa.
+            
+101.
+            
+Ein, bey dem Succurs-Corps stehender Unverheuratheter kann, wann er das 25te Jahr
+                seines Alters zurükgelegt, dennoch aber die 4 Dienstjahre bey dem Corps noch nicht
+                vollendet hat, auf sein Begehren gegen Erlegung von 24 Franken in
+                die Montierungs-Caßa, seine Entlaßung erhalten.
+            
+102.
+            
+Wer wegen einer bekleydeten Civil-stelle oder Beamtung durch gesezliche Ausnahme von
+                dem Dienst bey dem Succurs-Regiment dispensiert ist, erlegt, so lange er sich in dem
+                    Alter von 20 bis 25 Jahren befindet, jährlich 4
+                    Franken in die Montierungs-Caßa.
+            
+103.
+            
+Jeder Verheurathete, der das 25te Jahr zurükgelegt hat, kann auf sein Begehren des
+                Dienstes bey der ersten Reserve entlaßen, und unter der Mannschaft der <date
+                    when="1804-12-02">2ten</date> Reserve eingeschrieben werden, wogegen ein solcher
+                aber 32 Franken in die Montierungs-Caßa zu erlegen hat.
+            
+104.
+            
+Alle Geldbußen, die in Zukunft wegen Nachläßigkeit, als z.B. Versaumnuß von
+                Musterungen, Exerziertagen, nicht gesezmäßiger Anschaffung von Waffen oder
+                Montierungsstüken, von irgend einer competierlichen Militarbehörde, der
+                waffentragenden Mannschaft auferlegt werden müßten, sollen in die Montierungs-Caßa
+                fallen.
+            
+105.
+            
+Für jeden an die Montierungs-Caßa gelieferten Beytrag, wird von der zur Verwal- <pb
+                    n="43"/>tung der Caßa bestimmten Commißion ein Empfangsschein ausgestellt, auf
+                welchem der Betrag der Summe, und die mit der geschehenen Leistung verbundenen
+                Bedingniße bemerkt sein werden.
+            
+106.
+            
+Der Kleine Rath ist beauftragt eine Commißion über die Verwaltung
+                der Montierungs-Caßa niederzusezen, welche aus 2 Mitgliedern des Kleinen, 2
+                Mitgliedern des Großen
+                Raths, 2 Mitgliedern der Militar-Commißion und 2
+                Quartierhauptleuten bestehen soll.
+            
+107.
+            
+Diese Commißion wird alljährlich der Militar-Commißion zu Handen des <orgName>Kleinen
+                    Raths</orgName> eine genaue Rechnung über ihre Einnahme und Ausgaabe
+                vorlegen.
+            
+108.
+            
+Von dem ersten Jenner 1805 an gerechnet, soll jeder junge Burger
+                einer Gemeinde, der sich im Alter von 20 bis 25 Jahren befindet,
+                und bey dem Succurs-Regiment keine Militar-Dienste leistet, pflichtig seyn, während
+                des bemeldten Zeitraums, jährlich einen Franken in die
+                Montierungs-Caßa zu legen, welcher in jeder Gemeinde durch den Gemeindammann
+                eingezogen, und von demselben in die Montierungs-Caßa geliefert wird.
+            
+Achter Abschnitt: Bewaffnung und Montierung der Contingents- und Reserve-Truppen.
+            
+109.
+            
+Die zum Succurs-Regiment gehörende Infanterie-Compagnien, sollen, bis auf weitere
+                Verfügungen, aus den öffentlichen Zeughäusern mit Waffen versehen werden.
+            
+110.
+            
+Die Dragoner und Scharfschüzen, sind hingegen verpflichtet, sich [mit Ausnahme der
+                Carabiner für die Erste- ren] die ordonnanzmäßigen Waffen und Lederzeug
+                selbst anzuschaffen.
+            
+111.
+            
+Die gleiche Verbindlichkeit nehmen die Dragoner, Scharfschüzen und Artilleristen auf
+                sich, welche bey den Reserven dieser verschiedenen Corps aufgenommen zu werden
+                wünschen.
+            
+112.
+            
+Sämtliche zu den Infanterie-Reserve-Compagnien gehörende Mannschaft, ist pflichtig,
+                sich auf ihre eignen Kosten mit den ihr zustehenden Waffen und Lederzeug zu
+                versehen, wann es die Regierung für Nothwendig erachten würde.
+            
+113.
+            
+Die zum Succurs-Regiment gehörenden Officiers der verschiedenen Waffen sind
+                pflichtig, sich bey ihrem Eintritt bey diesem Corps, pünktlich nach der angenommenen
+                Ordonnanz zu montieren und auszurüsten.
+            
+114.
+            
+Alle zum Succurs-Regiment gehörenden Unterofficiers, Caporals und Gemeine sind
+                ebenfalls verpflichtet, sich nach der angenommenen Ordonnanz ganz zu montieren, so
+                bald ihnen die dießfählige Dotattion aus der Montierungs-Caße angeboten wird, wobey
+                sich die Dragoner zugleich die Pferd-Equipierung, nach den angenommenen Modellen,
+                anzuschaffen haben, übrigens sollen sich die Infanteristen, Artilleristen und
+                Scharfschüzen gleich bey ihrem Eintritt bey dem Succurs-Regiment mit Tornistern oder
+                Habersäken nach der Vorschrift versehen.
+            
+115.
+            
+Die zu den verschiedenen Reserve-Corps gehörende Mannschaft soll nur
+                gehalten seyn, sich mit einem ordonnanzmäßigen Überrok und Hut zu versehen, und
+                dieses zwar erst dann, wann es der Kleine Rath für nothwendig
+                erachten würde.
+            
+116.
+            
+Die zur Reserve gehörenden Dragoner, Artilleristen und Scharfschüzen, tragen die
+                vormalige Montierung dieser verschiedenen Corps, wenn sie dieselbe noch haben; wer
+                sich aber neu montieren laßen will, soll dieß nach der dermalen eingeführten
+                Ordonnanz thun.
+            
+117.
+            
+Die Unterscheidungszeichen für die verschiedenen Grade bey den Reserve-Truppen,
+                sollen die gleichen, wie bey den Contingents-Truppen seyn, nur daß die Officiers der
+                Reserve-Infanterie nicht verpflichtet sind, die Epauletten sich anzuschaffen.
+            
+118.
+            
+Dem Kleinen Rath ist aufgetragen, mit möglichster Beförderung
+                durch ein besonderes Reglement zu bestimmen: 
+            
+a. den genauen Detail über die Montierung der verschiedenen Corps,
+            
+b. einen leicht anzubringenden Unterschied in der Montierung der Contingents- und der
+                Reserve-Truppen.
+            
+c. Die Unterscheidungszeichen für die Quartierhauptleute, und die beyden
+                Divisions-Kommandanten der Artillerie, so wie auch eine Besoldung oder Gratification
+                der Herren Quartierhauptleuten für ihre Dienste und Auslaagen.
+            
+d. Die besondern Unterscheidungszeichen für die Cavallerie-Officiers.
+            
+Neunter Abschnitt: Musterungen und Waffenübungen.
+            
+119.
+            
+Ein jedes der 3 zum Succurs-Regi- ment gehörenden Infanterie-Bataillons
+                soll alljährlich zwey mal gemustert werden.
+            
+120.
+            
+Zu diesem Ende hin sollen die Bataillons, so lange die Waffen aus den Zeughäusern
+                geliefert werden, auf die jedesmal von der Militar-Commißion zu bestimmende Zeit, in
+                der Nähe der Hauptstadt des Cantons gemustert werden.
+            
+121.
+            
+Damit aber Officiers und Gemeine sich in dem, was sie in der Exerzier-Schule erlernt
+                haben, gehörig üben, und die verschiedenen Evolutionen mit ganzen Bataillons
+                vorgenommen werden können, so solle eine jede Bataillons-Musterung zwey Tag nach
+                einander fortdauren, wo dann der erste Tag zur Bereinigung der Compagnien, zur
+                gehörigen Rangierung ihrer Prima Plana, und zu Übungen in den Handgriffen; der
+                zweyte Tag aber zum Exerzieren, Feuren und Manœuvrieren zu verwenden ist.
+            
+122.
+            
+Die Artillerie-, Dragoner- und Scharfschüzen-Compagnien sind den gleichen Musterungen
+                unterworfen.
+            
+123.
+            
+Der Oberst des Succurs-Regiments wird allen diesen Musterungen und jeder
+                Oberst-Lieutenant denjenigen seines Bataillons beywohnen.
+            <p/>
+            
+124.
+            
+Die zum Succurs-Regiment gehörenden Scharfschüzen, sollen sich über dieß auf
+                verschiedenen, vom Obersten des Regiments ihnen anzuweisenden Schießstätten, unter
+                der Aufsicht ihrer Officiers und Unterofficiers, im Schießen nach dem Ziele
+                zwekmäßig üben, und auf diese Weise jeder Unterofficier und Gemeine Scharfschüze
+                jährlich wenigstens 6 mal die ihnen angewiesenen Schießstätte an den
+                hiezu bestimmten Sonntagen besuchen.
+            
+125.
+            
+Sämmtliche, zum Succurs-Regiment gehörenden Individuen, welche zugleich bey der
+                Standes-Legion eingeschrieben sind, und sich dort in den Waffen üben, sollen mit
+                Ausnahme der Officiers, zu keinen anderen Waffenübungen angehalten werden können,
+                und daher nur verpflichtet seyn, den Ergänzungs-Musterungen beyzuwohnen; wann aber
+                die Truppen-Abtheilung, zu welcher sie gehören, aufgebotten wird, und ausmarschieren
+                soll, so sind sie, falls die Legion dannzumal nicht würklich in activem Dienst wäre,
+                nichts desto weniger verpflichtet, mit dem Contingents-Corps, zu welchem sie
+                gehören, auszurüken.
+            
+126.
+            
+Die jährlich bey dem Succurs-Regiment eintrettende Ergänzungs-Mannschaft der
+                Infanterie, Artillerie und Scharfschüzen, wird in verschiedenen Abtheilungen, je zu
+                2 Monaten um, in die Hauptstadt berufen, wo sie gehörig im Exercieren und
+                Manövrieren unterrichtet werden, und gemeinschaftlich mit der stehenden
+                Standes-Compagnie den Garnisonsdienst versehen soll.
+            
+127.
+            
+Die jährlich bey der Dragoner-Compagnie des Succurs-Regiments eintrettende
+                Ergänzungs-Mannschaft, wird auf 8 Tag ohne Pferdte und hernach auf 14 Tage mit den
+                Pferden in die Stadt berufen, und während dieser Zeit zwekmäßig unterrichtet. 
+            
+128.
+            
+Die Freycompagnien der Infanterie sollen, wann es der Kleine Rath
+                für nothwendig erachten wird, jährlich in dem Bezirk ihrer Quartieren
+                einmal besammelt und über sie durch die respectiven Quartierhauptleute, eine
+                Bereinigung und Ergänzungs-Musterung abgehalten werden, welche aber jederzeit in
+                einem Tag beendiget werden soll.
+            
+129.
+            
+Erst wann die zu den Freycompagnien gehörende Mannschaft mit Waffen versehen seyn
+                wird, soll durch ein besonderes Reglement bestimmt werden, wie die Trüll- und
+                Exerziermeister aufzustellen, und die junge Mannschaft in den Waffen zu üben
+                seyen.
+            
+130.
+            
+Die beyden Freycompagnien der Artillerie sollen jährlich einmal auf dem Poligone
+                besammelt, bereiniget und während 2 Tagen unter der Aufsicht des Staabs und übrigen
+                Officiers des Reserve-Artillerie-Corps, so gut möglich im Schießen und Werffen mit
+                Granaten und Bomben und im Manövrieren mit den Kanonen und Haubizen geübt
+                werden.
+            
+Die vier Stamm-Compagnien des Reserve-Artillerie-Corps, sollen jährlich zu diesem
+                Ende hin nur für einen Tag auf dem Poligone besammelt werden.
+            
+131.
+            
+Die Freyreuter einer jeden Escadron werden jährlich an einem hierzu schiklichen Orte
+                zu einer 2 tägigen Musterung besammelt, und durch ihre Officiers und Unterofficiers,
+                nach Anleitung des Commandanten dieses Reserve-Corps, in Führung der Pferde und des
+                Seite-Gewehrs, im Schießen mit Pistolen, und im Manövrieren geübt, – auch soll
+                ihnen, wann es die Zeit und Umstände gestatten, einiger Unterricht in dem besondern
+                Felddienst der leichten Cavallerie ertheilt werden. 
+            
+132.
+            
+Die zur zweyten Reserve gehörenden Dragoner sind nur pflichtig, nach Anleitung des
+                Commandanten dieses Reserve-Corps, einem dieser beyden Übungstagen beyzuwohnen.
+            
+133.
+            
+Die auf dem Piket stehende Freyschützen-Compagnie, soll jährlich an einem schiklich
+                gelegenen Orte, besammelt, bereiniget und durch ihre Officiers und Unterofficiers,
+                nach Anleitung des Commandanten des Scharfschüzen-Reserve-Corps, zwey Tage nach
+                einander in den dieser Truppen-Art eigenen Manövres und Feuren unterrichtet werden.
+                Die nicht auf dem Piket stehende Freyschüzen-Compagnie wird, sowie die
+                Stamm-Compagnie dieses Reserve-Corps, alljährlich nur auf einen Tag besammelt,
+                gemustert und im Schießen nach dem Ziel geübt.
+            
+134.
+            
+Alle Freyschüzen sollen nach vormaliger Übung gehalten seyn, an den bestimmten
+                Sonntagen auf verschiedenen ihnen von dem Commandanten des
+                Scharfschüzen-Reserve-Corps anzuweisenden Schießstätten sich unter der Aufsicht
+                ihrer Officiers oder wenigstens eines Unterofficiers im Zielschießen zu üben, und
+                auf diese Weise ihre 6 Schießtage zu erfüllen.
+            
+135.
+            
+Die Mannschaft der zweyten Reserve der Infanterie soll zu Bereinigungs- und
+                Ergänzungs-Musterungen nur dannzumal außerordentlich besammelt werden, wenn es der
+                    Kleine Rath für Nothwendig erachten würde.
+            
+136.
+            
+Bey den Bereinigungs- oder Ergänzungs-Musterungen wird die junge Mannschaft, welche
+                das 20te Jahr angetretten hat, bey der ersten Reserve eingeschrieben,
+                und dagegen werden alle diejenigen, welche durch Vorweisung ihrer Taufscheine
+                erweisen können, daß sie das 31te Jahr angetretten haben, auf ihr Begehren, von der
+                ersten Reserve zur zweyten transferiert; die aber, so das 46te Jahr angetretten
+                haben, gänzlich entlaßen, auch überhaupt alle seit der lezten Musterung
+                vorgefallenen Mutationen sorgfältig bemerkt.
+            
+Zehenter Abschnitt: Piquets- oder Bereitschafts-Tour.
+            
+137.
+            
+Die sämtliche zum Succurs-Regiment gehörende Mannschaft soll ohne Unterschied zum
+                Ausrüken in beständiger Bereitschaft seyn.
+            
+138.
+            
+Die Freycompagnien eines jeden Quartiers, werden, sowie die beyden Freycompagnien der
+                Artillerie-Reserve, und die Freyschüzen-Compagnie durch das Loos
+                mit bleibenden Nº bezeichnet. Nº 1 macht sodann den Anfang mit dem ersten
+                Piquetstour, und so lauft derselbe nach den Nº der Compagnien jährlich mit dem
+                ersten Jenner abwechselnd immer fort.
+            
+139.
+            
+Mit den Freyreutern hat es dieselbe Bewandtnuß, so daß die vier Dragoner-Compagnien
+                ihre Nº bekommen, und nach diesen, die Hälfte der Freyreuter jährlich im ersten
+                Piquets-Tour miteinander abwechseln.
+            
+140.
+            
+Die auf dem Piquet stehenden Reserve-Truppen sind bestimmt, zuerst
+                auszurüken, wenn ein Aufgebot der Reserve statthaben sollte.
+            
+Eilfter Abschnitt: Ernennung der Officiers und Unterofficiers.
+            
+141.
+            
+Sämtliche Staabs-Officiere des Succurs-Regiments und der Reserve, werden von dem
+                    Kleinen Rath durch geheimes Stimmenmehr erwählt, beeidiget
+                und unter dem Standes-Sigel brevetiert.
+            
+142.
+            
+Die Quartierhauptleute werden ebenfalls von dem Kleinen Rath
+                erwählt, und ihnen ihre Stellen durch eine obrigkeitliche Erkanntnuß
+                aufgetragen.
+            
+143.
+            
+Das zu einem Bataillons-Staab gehörende Officiers-Personale soll [mit Ausnahme des
+                Aidemajor, der auf gleiche Weise wie die Hauptleute erwählt wird, § 144] auf einen
+                von den Staabs-Officieren des betreffenden Corps zu machenden dreyfachen Vorschlag
+                von der Militarcommißion ernennt werden.
+            
+144.
+            
+Sämtliche Hauptleute aller verschiedenen Corps, werden auf einen dreyfachen Vorschlag
+                der Militar-Commißion, von dem Kleinen Rath erwählt, und durch
+                die Staatscanzley brevetiert.
+            
+145.
+            
+Zu einem solche Vorschlag solle, wenn es eine Infanterie-Compagnie des
+                Succurs-Regiments anbetrifft, der Oberlieutenant der vacanten Compagnie, dann zwey
+                andere Oberlieutenants des Succurs-Regiments, oder auch ein aus fremden
+                Kriegsdiensten retirierter Officier, in Vorschlag gegeben werden. 
+            
+146.
+            
+Auf Begehren des Obersten des Succurs-Regiments kann, wenn es die Militarcommißion
+                genehmiget, auch ein würklicher Hauptmann oder erfahrner
+                Oberlieutenant aus der Reserve, zu diesem Vorschlag genommen werden.
+            
+147.
+            
+Bey einer vacanten Artillerie- oder Scharfschüzen-Compagnie des Succurs-Regiments,
+                soll nebst den beyden Oberlieutenants auch ein Oberlieutenant des betreffenden
+                Reservecorps, oder ein wirklicher Hauptmann in den Vorschlag
+                gegeben werden.
+            
+148.
+            
+Wann die Hauptmannstelle bey der Dragoner-Compagnie des Succurs-Regiments zu vergeben
+                ist, so sollen, nebst dem Oberlieutenant dieser Compagnie zwey Oberlieutenants oder
+                auch wirkliche Hauptleute von der Dragoner-Reserve, in Vorschlag gegeben werden.
+            
+149.
+            
+Der Vorschlag zu einer bey den Reserve-Milizen zu vergebenden Compagnie geschiehet
+                auf gleiche Weise, wie bey dem Succurs-Regiment, in so fern sich kein
+                    Hauptmann oder Oberlieutenant von diesem letztern für die bey
+                der Reserve vacante Compagnie meldet, in welchem Fall ein solcher, wann er nämmlich
+                wenigstens 4 Jahre als Officier bey dem Succurs-Regiment mit Ehren gedient hat, und
+                von den nämlichen Waffen der vacanten Compagnie ist, immer ohne weitern Vorschlag
+                auf Bewilligung der Militarcommißion, den Vorzug haben soll.
+            
+150.
+            
+Von der zweyten Unterlieute- nants-Stelle avanciert man bis zum
+                Oberlieutenant per Compagnie nach der Ancienität, den Fall ausgenommen, wo ein,
+                unter den im vorhergehenden § festgesezten Bedingnißen, von dem Succurs-Regiment
+                austrettender Ober- oder Unterlieutenant sich für die vacante Stelle melden
+                würde.
+            
+151.
+            
+Sämtliche zweyten Unterlieutenants der Infanterie-, Artillerie- und Scharfschüzen-
+                und die Unterlieutenants der Dragoner-Compagnien werden von der Militarcommißion aus
+                einem ihr von den Staabs-Officiers des betreffenden Corps, oder bey den
+                Reserve-Infanterie-Compagnien, von dem betreffenden Quartierhauptmann zu machenden,
+                dreyfachen Vorschlag erwählt. Wobey aber ausdrüklich vorbehalten wird, daß die
+                Militarcommißion nicht an den Vorschlag gebunden seyn solle, sondern auch außert
+                demselben, nach ihrem Ermeßen ein würdiges und verdientes Subject aus dem Canton
+                erwählen kann.
+            
+152.
+            
+Niemand soll in Zukonft zu einer Artillerie-Officier-Stelle, weder bey den
+                Contingents-, noch Reserve-Truppen gelangen, der nicht zuvor in einem von dem
+                Obersten der Reserve-Artillerie zu veranstaltenden Examen hinlängliche Proben seiner
+                Fähigkeit abgelegt hat.
+            
+153.
+            
+Da die Officiers des Succurs-Regiments, wann die gemeinschaftlich mit andern
+                Eidsgenößischen Officiers dienen, öfters in den Fall kommen können, ihre Ancienität
+                durch ihre Brévets zu erweisen, so sollen sie alle ohne Ausnahme, nach
+                dem der Kleine Rath ihre Ernennung confirmiert haben wird, unter
+                dem Standessigel brevetiert werden.
+            
+154.
+            
+Sämtliche Subalterne Officiers bey den verscheydenen Reserve-Truppen werden von der
+                Militarcommißion brevetiert.
+            
+155.
+            
+Die Unterofficiers aller zum Succurs-Regiment gehörenden Compagnien der verschiedenen
+                Waffen, werden durch die Hauptleute, auf Genehmigung des Bataillons-Commandanten und
+                des Obersten des Regiments erwählt, und bey der nächsten Musterung, oder wenn sonst
+                die Truppen unter Gewehr tretten, den Compagnien durch einen Officier von der
+                Compagnie vorgestellt.
+            
+156.
+            
+Bey den Reserve-Truppen ernennen die Hauptleute ihre Unterofficiers, unter Vorbehalt
+                der Genehmigung der betreffenden Staabs-Officiers und Quartierhauptleute.
+            
+Zwölfter Abschnitt: Bestimmung des Rangs der Officiers und der verschiedenen
+                Truppen.
+            
+157.
+            
+Sobald Officiers in der Uniform im Dienst oder unter Gewehr sind, nimmt der Officier
+                von höherm Grad über den von minderm Grade, von welcher Waffe auch der eine oder
+                andern seyn mag, jederzeit und unbedingt den Rang.
+            
+158.
+            
+Unter Officiers von gleichem Grade entscheidet das Datum des Brevets den
+                Rang.
+            
+159.
+            
+In Rüksicht des zu übernehmenden Commando bey, aus verschiedenen Truppen-Arten
+                componierten Detachements, wird man sich in Zukonft an dasjenige halten, was
+                hierüber in einem Gemeineidsgenößischen Dienstreglement festgesezt werden möchte,
+                einstweilen aber soll in solchen Fällen zur allgemeinden Richtschnur dienen, daß
+                unter Officiers von gleichem Grade [ohne Rüksicht auf das Datum des Brévets] in
+                einem befestigten Orte oder geschloßenen Feldschanze, der Officier von der
+                Artillerie das Commando des ganzen Detachements übernimmt. In einem jeden andern
+                Fall aber, in welchem sich ein solches Detachement befinden kann, oder wenn auch im
+                ersten Fall kein Artillerie-Officier vorhanden wäre, soll unter Officiers von
+                gleichem Grade, je der Älteste nach dem Datum des Brevets, das Commando des ganzen
+                Detachements, und mit diesem auch die Verantwortlichkeit für das Ganze übernehmen,
+                indem zwischen den verschiedenen Corps kein Rang statthaben wird. Hierbey hat jedoch
+                die Ausnahme statt, daß bey einem, aus verschiedenen Truppen-Arten componierten
+                Detachement, welches mit besonderer Rüksicht auf die eine oder andere Waffe
+                ausgeschikt werden muß, es dem Truppen-Commandanten, auf deßen Befehl das
+                Detachement ausgesandt wird, überlaßen seyn soll, je nach den Umständen, unter
+                Officiers von gleichem Grade zu bestimmen, wer das Commando des Ganzen
+                übernehmen solle.
+            
+160.
+            
+In Parade-Ordnung nimmt die Cavallerie den rechten Flügel, hierauf folgt die
+                Artillerie, dann die Scharfschüzen und endlich die Infanterie. In der
+                Schlachtordnung und bey allen übrigen Gelegenheiten aber, werden die Truppen nach
+                dem Gutbefinden des commandierenden Officiers aufgestellt.
+            
+Dreizehnter Abschnitt: Transferierung von den Contingents-Truppen zur Reserve.
+            
+161.
+            
+Wer nach verfloßener Diensts-Zeit bey dem Succurs-Regiment zu der Reserve
+                transferiert wird, kann bey den betreffenden Reserve-Corps nicht unter seinem bey
+                dem Succurs-Regiment bekleideten Grade angestellt werden, und bleibt daher so lange
+                als überzähliger Officier, Unterofficier oder Caporal, bis sich eine Vacanz
+                ereignet.
+            
+162.
+            
+Für ein jedes Jahr freywilliger Dienstleistung bey dem Succurs-Regiment über die
+                bestimmte Zeit hinaus, werden 2 Jahr Dienstzeit bey der ersten Reserve abgerechnet,
+                so daß, wer z. B. 6 Jahre bey dem Succurs-Regiment gedient hätte, nur bis zum
+                zurükgelegten 26ten Jahre bey der ersten Reserve zu
+                dienen pflichtig wäre, dann aber auf sein Begehren bey der <date when="1804-12-02"
+                    >2ten</date> Reserve eingeschrieben wird.
+            
+163.
+            
+Gegen einem Unterofficier, Caporal oder Gemeinen der zum Succurs-Regiment gehörenden
+                    Truppen, soll, wenn er über die gesetzlichen 4 Jahre hinaus, noch
+                mehrere Jahre freywillig bey diesem Corps gedient hätte, bey seinem nachherigen
+                Austritt von demselben, in dem ihme zuzustellenden Entlaßungs-Schein seiner dem
+                Vaterland freywillig geleisteten Miltitair-Diensten besondere rühmliche Erwähnung
+                geschehen.
+            
+Vierzehnter Abschnitt: Gesezliche Ausnahmen vom Militardienst und Unfähigkeit zu
+                demselben.
+            
+164.
+            
+Vom Waffentragen sind ausgenommen:
+            
+a. Die Geistlichen.
+            
+b. Alle jungen Leute, welche die Theologie
+                studieren.
+            
+c. Die Schullehrer.
+            
+d. Die Doctores und Chirurgi, in so fern solche nicht als Ärzte irgend einem Corps
+                attachiert werden müßen.
+            
+e. Ferner sind die Mitglieder der nachstehenden Behörden und Beamtungen aller
+                persönlichen Militardiensten enthoben, es wäre denn, daß sie aus freyem Willen sich
+                zur Annahme von Militarstellen entschließen würden, die mit ihren übrigen
+                Amtspflichten und Verrichtungen verträglich sind.
+            
+1. Die Mitglieder des Kleinen und Großen
+                Raths, und des Obergerichts, nebst ihren unentbehrlichen
+                Canzlisten und Abwarten.
+            
+2. Die Bezirks- und Unterstatthalter und ihre Waibel.
+            
+3. Die Mitglieder der Bezirksgerichte und die
+                Bezirks-Gerichtsschreiber.
+            
+4. Die Salz- und Postamts-Beamtete.
+            
+5. Der Oberaufseher des Stempels.
+            
+6. Der Waysen- und Zuchthaus-Ver- walter, – der Spitalmeister.
+            
+f. Alle diejenigen, die wegen erforderlich bewiesenen
+                Gebrechen zum Militardienst untauglich sind.
+            
+g. Einzige Söhne von Witwen oder eines mehr als 60jährigen Vaters mögen von dem
+                Succurs-Corps entlaßen, und in die Reserve eingeschrieben werden.
+            
+h. Die Eltern mehrerer in dem Alter von 20 bis 25 Jahren sich
+                befindenden Söhne sind berechtiget, die Befreyung eines derselben von dem Dienst bey
+                dem Succurs-Regiment zu erlangen.
+            
+165.
+            
+Die Militarcommißion ist in außerordentlichen und dringenden einzelnen Fällen
+                bevollmächtigt, eine limitierte oder gänzliche Entlaßung von dem Dienst bey dem
+                Succurs-Regiment zu bewilligen.
+            
+Unfähigkeit zum Militardienst.
+            
+166.
+            
+Als unfähig für das Vaterland die Waffen zu tragen, sind alle diejenigen erklärt, die
+                mit Straffen belegt wurden, die sie ihrer Ehre berauben. Darunter gehören:
+            
+a. Kettenstrafe, 
+            
+b. Ausstellung am Pranger,
+            
+c. Landes-Verweisung,
+            
+d. Brandmarkung,
+            
+e. Staubbäsen.
+            
+167.
+            
+Wer hingegen der Ausübung seiner bürgerlichen Rechte durch einen richterlichen
+                Urtheils-Spruch nur auf eine bedingte Zeit verlurstig war, soll nach Wiedererlangung
+                derselben, auch wieder fähig seyn, für das Vaterland die Waffen zu tragen.
+        </body>
+    </text>
+</TEI>

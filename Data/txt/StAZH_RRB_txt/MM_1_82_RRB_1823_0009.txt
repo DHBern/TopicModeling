@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vollziehungsverordnungen der Lbl. Stände Schaffhausen, Thurgau u. Waadt über
+                    das Handels-Concordat.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-04-27"
+                            >27.04.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Vollziehungsverordnungen der Lbl. Stände Schaffhausen, Thurgau u. Waadt
+                        über das Handels-Concordat.</title><date when="1823-01-07"
+                        >07.01.1823</date><ident>StAZH MM 1.82 RRB
+                        1823/0009</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.82</biblScope><biblScope unit="page">7–8</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die von den Lbl. Ständen Schaffhausen unterm <date
+                    when="1822-12-30">30sten passati</date>, Thurgau und Waadt unterm <date
+                    when="1821-12-28">28sten passati</date>, eingesand- ten
+                Vollziehungsverordnungen über das Eydsgenößische Handels-Retorsions-Concordat vom
+                    27sten und <date when="1823-08-28">28sten
+                    August</date> d. J., werden dem hohen Staatsrath zur Prüfung und Hinterbringung
+                eines Antrags überwiesen. 
+        </body>
+    </text>
+</TEI>

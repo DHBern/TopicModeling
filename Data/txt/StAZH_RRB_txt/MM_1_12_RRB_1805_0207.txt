@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einwendung einiger Schneidermeister aus der Section Meilen gegen die hießige
+                    Handwerks-Ordnung der Schneider.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-29"
+                            >29.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Einwendung einiger Schneidermeister aus der Section Meilen gegen die
+                        hießige Handwerks-Ordnung der Schneider.</title><date when="1805-02-07"
+                        >07.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0207</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >46–47</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung und in gänzlicher Genehmigung des von der Section für
+                Indüstrie, Handwerke und Gewerbe unterm 12ten Jenner
+                an die Commißion des Inneren, und von dieser unterm <date
+                    when="1805-01-30">30sten Jenner</date> an den Kleinen Rath
+                gebrachten Berichts und Gutachtens, betreffend die sub <date when="1805-02-12"
+                    >12ten</date> Decembris a. p. von den Schneidermeisteren
+                    Heinrich
+                Bruppacher, Heinrich
+                Kaltbrunner, und Jacob
+                Thomann von Ehrlibach; Jacob
+                Hofmann, Caspar
+                Hofmann, und Johannes
+                Bruppacher von Küßnacht; Friedrich
+                Büeler im Riespach, und Conrad
+                Hottinger von Hirschlanden, eingegebene Petition wegen ihrer
+                Incorporation in die Handwerksgesellschaft zu Zürich, – wird
+                dem Herrn Unterstatthalter Kaufmann in Küßnacht aufgetragen, den
+                gedachten Meisteren zu bedeuten, daß die Regierung aus ihrer Petition keinen
+                hinreichenden Grund zu Abänderung der Handwerks-Ordnung der allhießigen
+                    Schneider entnehmen könne, daß ihnen übrigens frey stehe,
+                sich in die betreffende Handwerks-Gesellschaft incorporieren zu laßen oder nicht,
+                jedoch in der Meynung, daß, nach dem 9ten §. des
+                Handwerks-Polizey-Gesezes, allen neuangehenden Handwerkeren vom Schneiderhandwerk,
+                in soferne sie nicht in die gesetzliche Handwerks-Gesellschaft
+                aufgenohmen worden, untersagt seyn solle, Gesellen zu halten.
+        </body>
+    </text>
+</TEI>

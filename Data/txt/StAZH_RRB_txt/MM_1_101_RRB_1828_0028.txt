@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die vorörtliche Behörde berichtet, daß die Nachforschungen über Leben oder
+                    Tod des nach Amerika ausgewanderten Johannes Meyer von Winkel bisher fruchtlos
+                    geblieben.</title>
+                <respStmt>
+                    <resp ref="#csn" key="transcript">Transkript: csn<date when="2010-07-02"
+                            >02.07.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die vorörtliche Behörde berichtet, daß die Nachforschungen über Leben
+                        oder Tod des nach Amerika ausgewanderten Johannes Meyer von Winkel bisher
+                        fruchtlos geblieben.</title><date when="1828-01-08"
+                        >08.01.1828</date><ident>StAZH MM 1.101 RRB
+                        1828/0028</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.101</biblScope><biblScope unit="page">184</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die vorörtliche Behörde, welche Ao. 1824. ersucht worden war, durch das
+                Schweizerische Consulat in Neu-York Nachrichten über Leben oder Tod eines Ao. 1805.
+                nach Amerika ausgewanderten Zimmermann
+                Johannes
+                Meyer von Winkel, Pfarre
+                    Bülach, einziehen zu laßen, sendet mit Begleit d. d.
+                    24. passati, den Auszug eines Schreibens des
+                Consuls, Herrn de Rham, ein, woraus sich ergibt, daß seine dießfalls angestellten
+                Nachforschungen bisher fruchtlos waren.
+            
+Hiervon wird dem Lbl. Oberamte Embrach zu Handen der
+                betreffenden Verwandtschaft abschriftlich Mittheilung gemacht.
+        </body>
+    </text>
+</TEI>

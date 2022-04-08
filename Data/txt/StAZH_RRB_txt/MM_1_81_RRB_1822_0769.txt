@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Anstände wegen Niederlaßung des Ludwig Liechti von Gomaringen im
+                    Würtembergischen, werden der Commißion des Innern überwiesen.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die Anstände wegen Niederlaßung des Ludwig Liechti von Gomaringen im
+                        Würtembergischen, werden der Commißion des Innern überwiesen.</title><date
+                        when="1822-10-01">01.10.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0769</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page">31</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Ein Bericht des Lbl. Oberamtes Zürich von heutigem
+                Dato, betreffend die Schwierigkeiten zu Ausmittlung eines Aufenthaltsortes für den
+                71. jährigen, seit seiner Jugend in hiesigem Kanton befindlichen
+                    Ludwig
+                Liechti von Gommaringen [sic!] im Würtembergischen, wird der Lbl.
+                    Commißion des Innern zu näherer Prüfung und Einbringung eines
+                gutächtlichen Berichts und Antrages überwiesen.
+        </body>
+    </text>
+</TEI>

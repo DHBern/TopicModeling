@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erledigter Rekurs des J. Widmer u. Rühli v. Barzheim, C. Schaffhausen gegen
+                    eine Verfügung des Statth. Meilen resp. Gmdrths. Stäfa, betreff. Confiscation v.
+                    Broden beim Brodverkauf in der Gemeinde Stäfa.</title>
+                <respStmt>
+                    <resp ref="#rsn" key="transcript">Transkript: rsn<date when="2011-01-14"
+                            >14.01.2011</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2011
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Erledigter Rekurs des J. Widmer u. Rühli v. Barzheim, C. Schaffhausen
+                        gegen eine Verfügung des Statth. Meilen resp. Gmdrths. Stäfa, betreff.
+                        Confiscation v. Broden beim Brodverkauf in der Gemeinde Stäfa.</title><date
+                        when="1847-03-25">25.03.1847</date><ident>StAZH MM 2.95 RRB
+                        1847/0489</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">2.95</biblScope><biblScope unit="page"
+                    >405–410</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Regierungsrath hat in Sachen des Jakob
+                Winzeler und Rühli von
+                    Barzheim, Cantons Schaffhausen,
+                Rekurrenten
+            
+gegen
+            
+eine Verfügung des Statthalteramtes Meilen, resp. des
+                Gemeindrathes Stäfa, betreffend Confiscation von Broden:
+            
+Da sich ergeben:
+            
+A. Mit Eingabe vom 3t. d. M. beschweren sich die Rekurrenten über eine
+                von dem Statthalteramte Meilen bestätigte Verfügung des
+                Gemeindrathes Stäfa, wodurch ihnen von ca. 400. Stüken
+                    Brod, welche sie von außerhalb des Cantons eingeführt und an
+                jenem Tage in der Gemeinde Stäfa zum Verkauf ausgeboten haben
+                45 ½. Stüke als nicht das volle Gewicht von 4 lb. haltend weggenommen und zu Gunsten
+                des Armenhauses Stäfa confiscirt worden seien. Zur Begründung
+                ihres Rekurses gegen diese Verfügung führen sie im Wesentlichen an: Die im Canton
+                geltenden Gesetze und Verordnungen betreffend den Brodverkauf seien wohl nicht auf
+                die Verhältniße gegenwärtiger Zeit und die Einfuhr von Brod; das von außerhalb des
+                Cantons eingeführt werde, berechnet worden und daher die Vorschriften derselben auf
+                solches Brod nicht anwendbar. Gesetzt aber auch, daß dieses
+                dennoch der Fall wäre, so sei die Absicht des Gesetzgebers keine andere, als dem
+                Käufer die Sicherheit zu verschaffen, daß das verkaufte Brod
+                wirklich das angegebene Gewicht habe und in dieser Ansicht stehend, haben sie, die
+                Rekurrenten, ihrem Abnehmer das verkaufte Brod vorgewogen und nur
+                wirkliche vier Pfunde je für 20 ß verkauft, für ein allfälliges Fehlgewicht am Laibe
+                aber Rabatt am Preise eintreten laßen. Sie haben keineswegs die Absicht irgend einer
+                Schädigung der Käufer gehabt. Auch habe die Wägung aller 400. Stüke ergeben, daß nur
+                45 ½. Stük etwas leichter als 4. Pfund, die übrigen Stüke nicht
+                zu schwer gewesen seien, so daß auf jenen bloß ca. 6. Pfund
+                Fehlgewicht, an diesen aber ein Überschuß von, wenig berechnet, 45
+                    Pfund sich vorgefunden habe. Und wenn
+                berüksichtigt werde, daß das fragliche Brod trokener Witterung
+                und dem Luftwege ausgesetzt gewesen, so sei auch ein Gewichtsverlust leicht
+                erklärlich. Im Uebrigen sei ihr Brod in Qualität untadelhaft und
+                der Verkauf desselben [um 3 ½. ß billiger als zum hiesigen Preise] ein Vortheil für
+                die Consumenten, deßen Beseitigung und Hemmung mit den übrigen Maßregeln zu
+                Linderung der Lebensmittelnoth im Widerspruche stehen müßte. Sie hoffen daher, daß
+                ihr Rekurs begründet erklärt, oder, daß wenigstens, falls ihre Ansicht nicht für
+                richtig erachtet würde, im Hinblick auf die unbedeutende Veranlaßung und auf die
+                gegenwärtigen Zeitverhältniße, denen sie nützlich entgegen gekommen seien, die
+                Aufhebung der verhängten Confiscation und Zurükstellung des
+                    Werthes jener 45 ½. Brode à 18 ß. pr. Stük an sie verfügt
+                werden werde.
+            
+B. In seinen Berichterstattungen vom 6t. 16t. u. 19t. d. M. bemerke der Gemeindrath
+                    Stäfa rüksichtlich der faktischen Verhältniße folgendes:
+                Nachdem die Rekurrenten schon in einer frühern Woche einen Wagen voll
+                    Brod in der Gemeinde verkauft, von welchem Umstande der
+                Gemeindrath erst später Kenntniß erhalten, haben sie am 3t. d. M. eine neue Ladung
+                    Brod zum Preise von 20. Schilling das vier
+                pfündige Stük, zum Verkaufe ausgerufen. Sie haben hiebei eine Waage auf den Wagen
+                genommen, mittelst welcher sie den Käufern das Brod vorgehoben
+                wollen. In wie weit letzere Angabe aber richtig sei, wiße der Gemeindrath nicht,
+                indem beim Beginne seiner Untersuchung schon viele Stüke verkauft und
+                nur noch ca. 240. bis 250. Stük vorhanden gewesen seien. Was daher die Rekurrenten,
+                von der vorgenommenen Wägung aller 400. Stüke behaupten, sei freche Entstellung. Von
+                den vorhandenen Stüken aber habe sich gezeigt, daß 44 ½. derselben [43. ganze u. 3
+                halbe] ungewichtig seien und zusammen ein Niedergewichte von über 8
+                    Pfund haben. Bei einem aufgenommenen Verbalprozeße des
+                Gemeindammannamtes habe sich ergeben, daß die noch unverschnittenen 38 ½. Brode
+                zusammen 246. Loth zu leicht gewesen, somit sich immerhin ein
+                Mindergewicht von 6 30/77 Loth auf das Brod
+                herausstelle. Die übrigen nicht weggenommenen Brode haben allerdings, wenn nicht
+                immer ein Uebergewicht, daß das gehörige Gewicht von 4 Pfund
+                gehabt, wobei aber berüksichtigt werden müße, daß die Brode die ganze
+                    Nacht über an einem feuchten dem Luftzuge unzugänglichen Orte
+                aufbewahrt worden, und diese überhaupt durchschnittlich nicht genug ausgebaken
+                gewesen, was eine durch einen unbetheiligten Sachkundigen angestellte Expertise
+                deutlich herausgestellt habe. Die Qualität dieser Brode sei überhaupt der Art, daß
+                kein großer oder gar kein Vortheil für die Käufer habe entstehen können u. s. f. Im
+                Fernern stelle der Gemeindrath ausführlich dar, daß nach seiner Ansicht die hiesigen
+                Gesetze und Verordnungen auch auf den Verkauf von Brod, das von
+                außen her in den Canton eingeführt werde angewandt werden können und müßen und daß
+                seine Verfügungen mit denselben ganz übereinstimmend gewesen seien, indem die Faßung
+                des rekurrirten Beschlußes der dießseitige Beschluß vom 11t. März d. J.
+                noch nicht erlaßen gewesen und somit auch nicht habe Anwendung finden können.
+            
+Endlich mache er auch auf die Umtriebe in der Gemeinde aufmerksam, die nach seiner
+                Ansicht der ganzen Angelegenheit besondere Wichtigkeit habe geben und zu seiner
+                Verdächtigung und Herabsetzung in den Augen der Gemeindsbewohner dienen solle u. s.
+                f.
+            
+C. Aus den Aussagen, welche das Gemeindammannamt Stäfa auf
+                Befehl des Statthalteramtes am 18t. d. M. von verschiedenen Personen aufgenommen,
+                ergebe sich, daß die Rekurrenten bei den von diesen Zeugen selbst getroffenen oder
+                beobachteten Käufen wirklich das verkaufte Brod vorgewogen
+                haben.
+            
+in Berüksichtigung:
+            
+1. Daß, was vorerst die vom Gemeindrathe Stäfa getroffenen
+                Verfügungen betrifft, sich aus der geführten Untersuchung ergibt, daß seine
+                Maßregeln, namentlich auch die angeordnete Confiscation vollkommen in
+                Uebereinstimmung mit dem Gesetze vom 22t. Brachmonat 1841. und der Verordnung des
+                Regierungsrathes vom 10t. August gl. Js. stehen, und daß daher
+                dem Gemeindrathe Stäfa nichts zur Last fällt;
+            
+2. Daß aber mit Rüksicht auf die Motive, welche der seither gestützt auf die
+                gegenwärtigen Theurungsverhältniße durch Beschluß des Regierungsrathes vom 11t. d.
+                M. eingetretenen Modifikation oberwähnter Verordnung vom 10t.
+                    August 1841. zu Grunde liegen, es als billig erscheint, die
+                Verkäufer des in die Gemeinde Stäfa eingeführten Brodes,
+                zumal denselben abgesehen von der Nichtbezeichnung desselben mit Namen und <pb
+                    n="410"/>Gewicht, keine ungesetzliche Handlung zur Last fällt, für den durch die
+                Confiscation erlittenen Schaden zu entschädigen.
+            
+gefunden
+            
+Es sei die Beschwerde, insoweit sie sich auf das Verfahren des Gemeindrathes
+                    Stäfa bezieht, unbegründet, im Uebrigen dagegen
+                begründet, und
+            
+beschloßen:
+            
+I. Seien die Rekurrenten unter Bezugnahme auf Berüksichtigung 1. abgewiesen, dagegen
+                seien dieselben im Sinne von Berüksichtigung 2. für die ihnen confiscirten Brode im
+                Betrage von 44. Laiben und 20. Schilling per
+                    Laib aus der Staatskaßa zu entschädigen.
+            
+II. Sei hievon dem Finanzrathe zum Vollzug dem Statthalteramte
+                    Meilen zu Handen des Gemeindrathes
+                    Stäfa [unter Rükstellung der verschiedenen eingesandten
+                Beilagen zu Handen des Letztern] und den Rekurrenten durch das Mittel des
+                Statthalteramtes Kenntniß zu geben.
+        </body>
+    </text>
+</TEI>

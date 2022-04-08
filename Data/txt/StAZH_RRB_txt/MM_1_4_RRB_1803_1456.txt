@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Antwort an den St. Schwytz auf die Nachfrage wegen Jaunern.
+Die Verhör-Commißion des Obergerichts berichtet unterm 16. dieß, in Beantwortung der Einfrage des Kleinen Raths vom 14ten und des Schreibens der Kriminalverhörkommißion des Kantons Schwytz vom 8t[en] dieß, daß sich unter den in hiesigem Criminalverhaft befindlichen Jaunern, keiner von den, von der dortigen Verhörkommißion Benamseten sich befinden, noch viel weniger aus den Aussagen der hiesigen Inquisiten sich ergebe, daß sie mit den in Schwytz verhafteten und entflohenen in einem Verkehr oder Bekanntschaft stehen. – Von diesem Bericht ist der Regierung des Kantons Schwytz das Resultat zu notifizieren.

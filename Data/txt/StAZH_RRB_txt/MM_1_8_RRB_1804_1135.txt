@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesezliche Censur der Oberen und Unteren Vollziehungsbeamteten, und
+                    dießfällige Notificationen an Behörde.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-12-31"
+                            >31.12.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Gesezliche Censur der Oberen und Unteren Vollziehungsbeamteten, und
+                        dießfällige Notificationen an Behörde.</title><date when="1804-06-26"
+                        >26.06.1804</date><ident>StAZH MM 1.8 RRB
+                        1804/1135</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.8</biblScope><biblScope unit="page"
+                    >147–149</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+In Folge des, die periodische Erneuerung der oberen und unteren
+                Vollziehungsbeamteten und die freye Wahl der Lezteren betreffenden Gesezes vom <date
+                    when="1804-05-31">31ten May</date>, und der darauf gegründeten Raths-Erkanntnuß
+                vom 23ten Junii, – wurden nachstehende Verfügungen
+                getroffen:
+            
+1o. Es wurden, bey vorgenohmener neuer Wahl der sämtlichen Herren Bezirks- und
+                Unter-statthalter [sic!], theils einmüthig, theils mit Mehrheit der Stimmen,
+                neuerdings für ein Jahr bestätiget:
+            
+Herr
+            
+Hs. Conrad Meis, Bezirksstatthalter des Stadtbezirks
+                    Zürich.
+            
+“
+            
+Heinrich Frik, Bezirksstatthalter des Bezirks
+                    Horgen.
+            
+“
+            
+Heinrich Kaufmann, Unterstatthalter der Section
+                    Meilen des Bezirks Horgen.
+            
+“
+            
+Hs. Ulrich
+                Schwerzenbach, Bezirksstatthalter des Bezirks
+                    Uster.
+            
+“
+            
+Hs. Jacob Crauer, Unterstatthalter der Section
+                    Grüningen des Bezirks Uster.
+            
+“
+            
+Hartmann Angst, Bezirksstatthalter des Bezirks
+                    Bülach.
+            
+“
+            
+Herr Johann
+                Heinrich
+                Ganz, Unterstatthalter der Section
+                Bülach.
+            
+“
+            
+Carl Emanuel
+                Steiner, Bezirksstatthalter des Bezirks
+                    Winterthur.
+            
+2o. Diesen acht auf ein Jahr neuerdings bestätigten Vollziehungs- <pb n="148"
+                />beamteten, ist ihre Bestätigung [lt. Mißiven] anzuzeigen.
+            
+3o. Anstatt des Herrn Johannes
+                Wild, Unterstatthalter der Section Horgen
+                des Bezirks Horgen, ist zu einem neuen Unterstatthalter
+                erwählt worden:
+            
+Herr Altuntervogt Hs. Rudolf
+                Ulmer von Horgen.
+            
+Und anstatt des Herrn Hs: Jacob
+                Arbenz, Unterstatthalter der Section
+                    Andelfingen des Bezirks
+                Winterthur, zu einem neuen Unterstatthalter:
+            
+Herr Altquartiermeister Johannes
+                Sigg im Eigenthal.
+            
+4o. Sowohl den Abgehenden, als den Neugewählten ist hiervon [lt. Mißiven] Kenntniß zu
+                geben, und die Lezteren einzuladen, sich Samstag den <date when="1804-06-30">30ten
+                    Junii</date>, Morgens um 9. Uhr zu Leistung des Pflichteyds in der
+                Raths-Versammlung einzufinden. Auch ist den Herren Bezirksstatthalteren von
+                    Horgen und Winterthur von den
+                vorgegangenen Abänderungen der Unterstatthalterstellen Notiz zu ertheilen.
+            
+5o. Die abgehenden Unterstatthalter sollen ihre Verrichtungen so lange fortsezen, bis
+                die neuerwählten beeydiget seyn werden, und die Übergabe der Protocolle,
+                    Sigel, und Amtsschriften vor sich gegangen ist, zu der die
+                Abgehenden [lt. Mißiven] einzuladen sind.
+            
+6o. Den, in Folge dieser Erkanntnuß an sämtliche neubestätigte oder neuerwählte
+                Bezirks- und Unterstatthalter abgehenden Notificationsschreiben ist die Aufforderung
+                beyzufügen, daß nunmehro ein jeder von ihnen, nach dem Tenor des Gesezes vom <date
+                    when="1804-05-31">31ten
+                    May</date>, eine neue, nicht mehr an die
+                Gemeindraths-Glieder der betreffenden Gemeinden gebundene Wahl der Gemeinds-Ammänner
+                vornehme, worbey jedoch die Bestätigung der Bisherigen frey stehet; und sodann nach
+                vorgenohmener Revision, das genaue, den Vor- und Geschlechts-Namen enthaltende
+                Verzeichniß der neubestätigten oder neu-erwählten Gemeindsammänner unverzüglich an
+                die Staats-Canzley einsende, und derselben auch die sich etwann in der Folge
+                ergebenden Abänderungen von Gemeindsammänneren jederzeit sogleich anzeige, damit die
+                Staats-Canzley ein richtiges Verzeichniß dieser Untervollziehungsbeamteten zu
+                beynahe täglich nöthigem Gebrauch der verschiedenen Regierungs-Collegien
+                fortzuführen im Fall sey.
+        </body>
+    </text>
+</TEI>

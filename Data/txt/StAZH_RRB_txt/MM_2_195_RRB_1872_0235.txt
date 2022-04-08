@@ -1,0 +1,14 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Herr Baumann, erster Kanzlist der [Abgabenkanzlisten], Bewilligung einer Entschädigung für außerordentliche Arbeiten im Jahr 1871.</title><respStmt><resp ref="#amr" key="transcript">Transkript: amr20.02.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Herr Baumann, erster Kanzlist der [Abgabenkanzlisten], Bewilligung einer Entschädigung für außerordentliche Arbeiten im Jahr 1871.</title>03.02.1872<ident>StAZH MM 2.195 RRB 1872/0235</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.195</biblScope><biblScope unit="page">227</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Die Finanzdirektion berichtet:
+Wegen Krankheit u. Altersschwäche des Staatskassabuchhalters, Herren Geyer, hat ein Theil der diesem zustehenden Arbeiten, nämlich:
+1. Die Reinschrift des Journals vom Jahr 1870.
+2.   “	     “	 des Kassabuches vom October 1871. an.
+3. Für Führung resp. Nachtragung des Staatskassa-Hauptbuches für das ganze Jahr 1871.
+dem ersten Abgabenkanzlisten, Herrn Baumann, übertragen werden müssen u. es sind diese Geschäfte von letzterem in den Nebenstunden zur vollen Zufriedenheit ausgeführt worden.
+Der Regierungsrath
+auf den Antrag der Finanzdirektion
+beschließt:
+1. Dem Herren Kanzlist Baumann wird für die ausgeführten außerordentlichen Arbeiten im Jahre 1871. eine Entschädigung von frs. 250. aus dem freien Kredite des Regierungsrathes bewilligt.
+2. Mittheilung an die Direktion der Finanzen zu Vollziehung. <p/></body></text></TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Niederlaßungs-Bewilligung für den, im Schönenberg seßhaften [Johann] Adam
+                    Lillich von Schwäbisch-Halle.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-11-17"
+                            >17.11.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Niederlaßungs-Bewilligung für den, im Schönenberg seßhaften [Johann]
+                        Adam Lillich von Schwäbisch-Halle.</title><date when="1806-04-01"
+                        >01.04.1806</date><ident>StAZH MM 1.17 RRB
+                        1806/0389</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.17</biblScope><biblScope unit="page"
+                    >18–19</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da es sich aus dem Schreiben des Herren Unterstatthalters
+                Ulmer, vom 31sten pass.
+                ergiebt, daß Johann
+                Adam
+                Lillich von Halle in Schwaben, seines Handwerks ein
+                    Schneider, verheyrathet und in der Gemeinde
+                    Schönenberg seßhaft, welcher unterm <date
+                    when="1806-07-20">20sten Julii</date> 1801, von der gewesenen
+                Verwaltungs-Kammer, auf einen, von seiner Ortsobrigkeit, für sich und seine Frau und
+                    Kinder vorgewiesenen Heymathschein, einen Niederlaßungsschein
+                erhalten hat, – um die fernere Aufenthaltsbewilligung ansucht, und dazu von dem
+                Gemeindrath im Schönenberg empfohlen wird, – so hat der
+                    Kleine Rath, auf die vorgelegten Attestate kein Bedenken
+                getragen, dem Lillich die Niederlaßung in hießigem Canton, auf
+                zwey Jahre zu gestatten; in der Meynung, daß er und seine Familie sich während
+                dieser Zeit ferner unklagbar betragen. Hievon wird dem Herren Unterstatthalter
+                    Ulmer, zu Handen des Gemeindraths im
+                    Schönenberg, und unter Zusendung einer besondern
+                Ausfertigung für den Johann
+                Adam
+                Lillich, Kenntniß gegeben.
+        </body>
+    </text>
+</TEI>

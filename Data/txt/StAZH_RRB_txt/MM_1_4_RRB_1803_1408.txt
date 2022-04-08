@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Auftrag an die Finanzcommißion wegen Wiederbesezung des Kammeramts.
+Auf geschehenen Anzug des HHerren Amtsburgermeisters wurde der Finanz-Kommißion der Auftrag ertheilt, sich über die Zeit und Art der Wiederbesetzung des allernächst vacant werdenden Kammeramts der Stift zum Großen Münster zu berathen, und dem Kleinen Rath einen dießfälligen Antrag zu hinterbringen.

@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#csn" key="transcript">Transkript: csn15.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>06.01.1848-25.05.1848<ident>StAZH MM 2.99 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.99</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+MHHerr
+Dr. Hs. Ulrich Zehnder von Oberengstringen, Amtsbürgermeister.
+“
+Dr. Hans Furrer von Winterthur, Bürgermeister.
+“
+Eduard Sulzer von Winterthur.
+“
+Melch. Friedch Sulzer von Winterthur.
+“
+Heinrich Häni von Horgen.
+“
+Paul Karl Eduard Ziegler von Zürich.
+“
+Joh. Jakob Rüttimann von Regensberg.
+“
+Dr. Kaspar Nägeli von Kilchberg.
+“
+Joh. Jakob Fierz von Küßnacht.
+“
+Joh. Jakob Wieland von Thalweil.
+“
+Melchior Eßlinger von Zürich.
+“
+Rudolf Bollier von Horgen.
+Vacat.
+Staatsschreiber.
+MHHerr
+Dr. Alfred Escher von Zürich, erster Staatsschreiber.
+“
+Jakob Sulzer von Winterthur, zweiter Staatsschreiber.</body></text></TEI>

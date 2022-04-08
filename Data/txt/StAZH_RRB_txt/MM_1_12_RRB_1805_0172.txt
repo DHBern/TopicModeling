@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Auftrag an die diplomatische Commißion wegen der zweifelhaften
+                    Collaturverhältniße zu Stammheim.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-26"
+                            >26.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Auftrag an die diplomatische Commißion wegen der zweifelhaften
+                        Collaturverhältniße zu Stammheim.</title><date when="1805-02-02"
+                        >02.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0172</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page">17</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach der, unterm 31sten pti, in betref des
+                Herrn Denzlers, gewesenen Pfarrers zu Stammheim getroffenen
+                Verfügung, wurde als angemeßen erachtet, die <orgName>diplomatische
+                    Commißion</orgName> zu ersuchen, dem Kleinen Rathe wegen der
+                zweifelhaften Collatur-Verhältniße von Stammheim einen Bericht
+                und Gutachten zu hinterbringen.
+        </body>
+    </text>
+</TEI>

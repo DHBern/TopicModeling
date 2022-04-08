@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Erledigung der Rekurse, betreff. die Wirthschaftsabgabe.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn01.04.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Erledigung der Rekurse, betreff. die Wirthschaftsabgabe.</title>31.07.1847<ident>StAZH MM 2.97 RRB 1847/1236</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.97</biblScope><biblScope unit="page">120–123</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Bericht und Antrag der verordneten Commißion, d. d. 17. Juli, betreffend die Rekurse gegen die Wirthschaftsabgabe, die Bierabgabe und die Speisepatentgebühr.
+dieselben zum Theil begründet, zum Theil nicht begründet erfunden und in Folge davon die nachfolgenden Rükzahlungen angeordnet.
+Gemeinde
+Name der Rekurrenten
+Betrag der Rükzahlung
+unbegründet
+Bezirk Zurich.
+Frkn.
+Zürich
+Reischach-Keller, zum Storchen
+50
+„
+Kerez, zum Schwert
+50
+„
+Gujer C. zum Hotel Bellevue
+-
+unbegründet
+„
+Körner, Leonhard zum Schiff
+25
+„
+Pfenninger Johs. z. goldenen Stern
+40
+„
+Zürcher, Joseph in Stadelhofen 
+-
+„
+„
+Steiger Jakob
+-
+„
+„
+Leber, Ant. an der Thorgaß
+10
+„
+Graf Joh. an der Schiffländi
+-
+„
+„
+Scheller, Hrch. auf der Schneidern
+30
+„
+Honegger, Carl, an der Schifflande
+-
+„
+Müller, J. Hrch. zur Zimmerleuten
+20
+„
+Fehr, Jakob, Bäker
+10
+„
+Ryffel, Jakob z. rothen Gatter
+30
+„
+Schneider, Rud. z. rothen Schild
+20
+
+„
+Meier, Joh. zur weisen Lilie
+60
+„
+Bräuning, Joh. Georg
+40
+„
+Falk, Conr. in Brunnehof
+30
+Gemeinde
+Name der Rekurrenten
+Betrag der Rükzahlung
+unbegründet
+Bezirk Zurich.
+Frkn.
+Zürich
+Müller, J. zur Schmidstube
+-
+unbegründet
+„
+Bänninger, Hrch. Bäker
+-
+id.
+„
+Honegger, Johs. Marktgaß
+20
+„
+Attinger Johs.
+20
+„
+Muggler H. im Niederdorf
+-
+„
+„
+Daniel Jb. an der Eselgaß
+15
+„
+v. Tobel, Maths. auf der Waag
+-
+„
+„
+Wittweiler, Jb. Kappelergaß
+-
+„
+„
+Engeler, Joh. im Kratz
+30
+„
+Weber, J. auf Peterhofstatt
+10
+„
+Schneider J. Jb. im Zipfelhaus
+10
+„
+Langrecht, Hrch. Marktgaß
+5
+„
+Remann, Jb. z. Schweizerdegen
+5
+„
+Kraus, Joh. unterm Wettingerhaus
+-
+id
+„
+Kuhn, Jb. im Casino
+30
+Enge
+Altofer, Rud. an Rank
+-
+id.
+Höngg
+Appenzeller, Joh. Gmdrth im Kempfhof
+-
+id.
+Hottingen
+Hotz, im Gemeindhaus
+-
+id.
+O. Engstringen
+Laubi, Hrch. im Eggbühl
+-
+id.
+Oberstraß
+Spaur, Wilhelm
+-
+id.
+„
+Bachofen, Jb. zur Letzi
+-
+id.
+Riesbach
+Wettstein, Wwe. z. frohen Aussicht
+-
+id.  
+Unterstraß
+Steiner, Csp. zur Krone
+10
+-
+Wiedikon
+Rosenberger, Johs.
+5
+-
+Wollishofen
+Boßhard, Cspr. auf d. Muggenbühl
+25
+Bezirk Affoltern
+Stallikon
+Beyel, Fried. auf den Uetliberg
+60
+Wettschweil
+Bühler, Hrch. alt Gemeindammann
+5
+Gemeinde
+Name der Rekurrenten
+Betrag der Rükzahlung
+unbegründet
+Bezirk Horgen.
+Frkn.
+Horgen
+die Gemeinde zum Schwanen
+80
+„
+Stoker C. z. Bären, auf Boken
+20
+Richtenschweil
+Schneider, J. Jakob
+5
+„
+Meier, Hrch. z. Anker
+5
+Thalweil
+Scheibli, Jb. zur Krone
+20
+„
+Fierz, J. Jb. zum Alder
+-
+id.
+Wädenschweil
+Hottinger, Conrad, ob der Auw
+5
+Bezirk Meilen
+Küßnacht 
+Guggenbühl, J. C. z. Sonne
+20
+Zumikon 
+Rüegg, Hrch. in Waltikon
+-
+id.
+Bezirk Hinweil
+Hinweil
+Homberger, Hrch. z. Löwen
+-
+id.
+Bezirk Uster
+Dübendorf 
+Goßweiler, Felix, Gmdgutsverwalter
+5
+Maur
+Wunderli, J. im Binz
+-
+id.
+Mönchaltorf
+Pünter, Daniel
+-
+id.
+Bezirk Winterthur
+Turbenthal
+Peter, Hrch. im Gyrenbad
+20
+-  
+Winterthur
+Hardmeier, Rud. Schützenwirth
+-
+unbegründet
+Bezirk Andelfingen.
+Flaach
+Fehr, Conr. z. Engel
+-
+id.
+Bezirk Bulach
+Baßerstorf
+Schellenberg, Gebrdr. Untermüller
+5
+-
+„
+Hug, Jb. Waibels
+-
+id.
+Dietlikon
+Rathgeb, Jakob
+5
+Eglisau
+Malzacher, Mathias
+10
+„
+Schurter, Melch. in Seglingen
+30
+Nürenstorf
+Bänninger, J. z. Schwanen, Baltenschweil
+10
+Rafz
+Sigrist, Hrch. in Solgen
+5
+„
+Rütschmann, Conrad
+-
+id.
+„
+Neukomm, J. H. Posthalter
+30
+Bezirk Regensberg
+Bachs
+Pfister, Joh. Gemeindammann 
+5
+-
+Gemeinde
+Name der Rekurrenten
+Betrag der Rükzahlung
+unbegründet
+Bezirk Regenberg.
+Frkn.
+Regenstorf
+Korrodi, Cspr. am Katzensee
+-
+id.
+Rümlang
+Hinnen, Jb. alt Gemeindammann 
+5
+„
+Meier,  Mich. Weinschenk
+-
+-
+Hievon wird dem Abgabendepartemente [unter Rükstellung der Akten] für sich und zu Handen der betreffenden Statthalterämter wegen der Rükzahlungen, sowie den Rekurrenten Kenntniß gegeben.<p/></body></text></TEI>

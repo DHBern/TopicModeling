@@ -1,0 +1,19 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Verabreichung e. Staatsbeitrages an die Gemde Mönchaltorf an die Kosten e. Straße 3. Klasse v. Mönchaltorf nach Rellikon.</title><respStmt><resp ref="#ukr" key="transcript">Transkript: ukr12.02.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Verabreichung e. Staatsbeitrages an die Gemde Mönchaltorf an die Kosten e. Straße 3. Klasse v. Mönchaltorf nach Rellikon.</title>16.04.1864<ident>StAZH MM 2.164 RRB 1864/0680</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.164</biblScope><biblScope unit="page">152–154</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+In Sachen der Gemeinde Mönchaltorf,
+betreffend Bestimmung eines Staatsbeitrages an eine Straßenbaute 3. Klasse,
+hat sich ergeben:
+A. Unterm 4. Heumonat 1863 wurde der Gemeinde Mönchaltorf an die Baukosten der Straße 3. Klasse von dem Dorfe Mönchaltorf nach Rellikon ein Staatsbeitrag zugesichert. Diese Straßenbaute ist nun vollendet u. der Gemeindrath bittet, unter Einsendung der Rechnung, um Verabfolgung des Beitrages. Dabei hofft er, es werde bei der Berechnung desselben die bedrängte ökonomische Lage der Gemeinde,  welche in den Jahren 1859, 1861 u. 1863 zur Bestreitung der Ausgaben für das Straßenwesen 13‰ u. zur Deckung der anderweitigen Gemeindsausgaben 17‰ habe steuern müssen, in Betracht gezogen werden.
+Endlich wird das letztes Jahr schon gestellte Gesuch um Ertheilung eines Beitrages an die Kosten der früher ausgeführten Straßenbauten wiederholt.
+Von dem Bezirksrathe Uster wird das vorliegende Gesuch aufs angelegentlichste zur Berücksichtigung empfohlen.
+B. Die Direktion der öffentlichen Arbeiten berichtet:
+a. Die eingereichte Rechnung ist in bester Ordnung geführt u. gibt zu keinen Ausstellungen Veranlaßung. Die Baukosten betragen nach derselben Frk. 6413 29, die Straße hat eine Länger von 4188 Fuß u. es kömmt somit der laufende Fuß auf Frk. 1 53 zu stehen.
+Nach dem Berichte der Inspektion ist die Straße gehörig vollendet.
+Für diese Straßenbaute wurden von der Staatskassa bereits Frk. 266 75 verausgabt, nämlich im Jahr 1859 Frk. 116 für technische Vorarbeiten u. im Jahr 1863 für Bauaufsicht Frk. 150 75.
+b. Nach der ältern Skala beträgt die Quote für Mönchaltorf 307, nach der neuern 276‰ u. danach berechnet sich der Staatsbeitrag zu Frk. 1968 88, resp. Frk. 1770 07.
+Wird aber die oben erwähnte Ausgabe von Fr. 266 75  in Abzug gebracht, so verbleiben Frk. 1702 13 resp. Frk. 1503 32.
+Der Regierungsrath,
+nach Einsicht eines Antrages der Direktion der öffentlichen Arbeiten,
+beschließt:
+1. Der Gemeinde Mönchaltorf wird an die Kosten des Baues der Straße 3. Klasse von Mönchaltorf nach Rellikon ein Staatsbeitrag von Frk. 1800 bestimmt.
+2. Mittheilung a) an den Gemeindrath Mönchaltorf durch das Mittel des Statthalteramtes, mit Weglassung von Fact. B. b. u. unter Rücksendung der Rechnung u. der dazu gehörigen Belege; b.) an die Direktion der öffentlichen Arbeiten unter Rückstellung der übrigen Akten.<p/></body></text></TEI>

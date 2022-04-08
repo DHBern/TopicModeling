@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brandunglück in Adentschweil.</title>
+                <respStmt>
+                    <resp ref="#dsa" key="transcript">Transkript: dsa<date when="2009-12-02"
+                            >02.12.2009</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2009
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Brandunglück in Adentschweil.</title><date when="1831-02-01"
+                        >01.02.1831</date><ident>StAZH MM 1.113 RRB
+                        1831/0093</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.113</biblScope><biblScope unit="page"
+                    >115–11711</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Über das Brandunglück, welches sich am <date when="1831-02-27"
+                    >27sten</date> v. M. Morgens zwischen 3. und 4. Uhr in der Mitte des Dorfes
+                Adentschweil, Gemeinde Bärentschweil, ereignet, erstattet die L.
+                Brandaßecuranz-Commißion mit Weisung vom 29sten v. M.
+                einen umständlichen Bericht, welchem hier folgendes Wesentliche enthoben wird: 
+            
+Das ausgebrochene Feuer griff so schnell und verheerend um sich, daß in kurzer Zeit
+                nachstehende Gebäude des Gänzlichen eingeäschert wurden: 
+            
+Das Wohnhaus No. 19. a. des Hs. Georg
+                Senn, aßecurirt für
+            
+fl.
+            
+800.
+            
+Die halbe Scheune No. 19. b. des Hs. Georg
+                Senn, aßecurirt für
+            
+“
+            
+250.
+            
+Das Wohnhaus und Scheune des Hs. Georg
+                Senn No. 19. c. aßecurirt 
+            
+“
+            
+1000.
+            
+Das Wohnhaus und halbe Scheune No. 24. a. des Felix
+                Knecht, aßecurirt
+            
+“
+            
+1400.
+            
+Das Wohnhaus und halbe Scheune No. 25. des Jacob
+                Brandenberger, aßecurirt für
+            
+“
+            
+1000.
+            
+Das Wohnhaus und halbe Scheune No. 26. des Hs. Heinrich
+                Meyer, aßecurirt für
+            
+“
+            
+800.
+            
+Das Wohnhaus und halbe Scheune No. 27. a. des Jacob
+                Brandenberger, Bäcker, aßecurirt für
+            
+“
+            
+1400.
+            
+Das Wohnhaus und halbe Scheune No. 27. A. [sic!] des Hs.
+                    Heinrich
+                Brandenberger, aßecurirt für
+            
+“
+            
+900.
+            
+Das Wohnhaus No. 28. A. des Rudolf
+                Brandenberger, aßecurirt für
+            
+“
+            
+700.
+            
+Die halbe Scheune No. 28. B. des obigen, aßecurirt für
+            
+“
+            
+300.
+            
+Das Wohnhaus No. 29. A. des Friedrich
+                Brandenberger, aßecurirt für
+            
+“
+            
+400.
+            
+Die halbe Scheune des Obigen No. 29. B., aßecurirt für
+            
+“
+            
+200.
+            
+Das Wohnhaus und 1/2. Scheune No. 30. Des Marx
+                Wartmann, aßecurirt für
+            
+“
+            
+1200.
+            
+Das Wohnhaus und halbe Scheune No. 31. Des Jacob
+                Muggli, aßecurirt für
+            
+“
+            
+550.
+            
+Das Wohnhaus No. 95. Des Heinrich
+                Rüegg, aßecurirt für
+            
+“
+            
+700.
+            
+Summa
+            
+fl.
+            
+11,600.
+            
+Die durch dieses Brandunglück betroffenen 12, aus 62. Personen
+                bestehenden Haushaltungen sahen sich genöthigt, ihre meisten Habseligkeiten den
+                Flammen zu überlaßen, da sie auf persönliche Rettung bedacht seyn mußten.
+            
+Über die Veranlaßung des Brandes sind keinerley nähere Spuren
+                vorhanden, nur so viel scheint ausgemittelt zu seyn, daß das Feuer entweder in des
+                    Marx Wartmanns oder des Hs. Heinrich
+                Meyers
+                Haus ausbrach, in keinem Falle aber waltet Verdacht absichtlicher
+                Brandstiftung auf den Geschädigten, um so weniger, da dieselben im Rufe
+                rechtschaffener und braver Leute stehen.
+            
+Unter diesen Umständen hat der Kleine Rath, dem Commißionalantrage
+                beypflichtend, erkannt, es sey der obenerwähnte Betrag von fl. 11,600. auf die
+                Aßecuranz-Rechnung zu machen, und den sämmtlichen Brandbeschädigten Haushaltungen
+                die übliche obrigkeitliche Brandsteuer abzureichen; von welchem Beschluße der L.
+                Brandaßecuranz-Commißion, der L. Finanz-Commißion und dem Oberamt
+                    Grüningen zu Handen der Geschädigten Kenntniß gegeben
+                wird. 
+        </body>
+    </text>
+</TEI>

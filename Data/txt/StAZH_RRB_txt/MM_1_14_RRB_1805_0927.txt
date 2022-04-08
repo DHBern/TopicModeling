@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abgebrannte Wohnung des Conrad Wirth zu Unter-Stammheim.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-08"
+                            >08.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Abgebrannte Wohnung des Conrad Wirth zu Unter-Stammheim.</title><date
+                        when="1805-06-01">01.06.1805</date><ident>StAZH MM 1.14 RRB
+                        1805/0927</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.14</biblScope><biblScope unit="page"
+                    >15–16</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der Kleine Rath hat mit Bedauren aus dem Schreiben des
+                Herren Unterstatthalter Sigg vom <date when="1805-05-31"
+                    >31sten pass.</date>  gesehen, daß, so viel bis jezt in Erfahrung gebracht werden
+                konnte, durch die Unvorsichtigkeit eines Kindes am <date
+                    when="1805-06-30">30ten</date> pass. in dem Haus des
+                    Conrad
+                Wirth zu Unterstammheim Feuer
+                ausgebrochen, und diese Wohnung bis auf den Grund abgebrannt ist. Da der Herr
+                Unterstatthalter Sigg die nähern Berichte bäldest möglich
+                einsenden wird, so sind dieselben zu gewärtigen, inzwischen ist die Finanzcommißion
+                begwältigt, dem Brandbeschädigten Conrad
+                Wirth die gewohnte Brandsteuer von Seite des Staats verabfolgen
+                zu laßen, wovon dem Herren Unterstatthalter Sigg zu Handen des
+                Brandbeschädigten Conrad
+                Wirth Anzeige gegeben wird.
+        </body>
+    </text>
+</TEI>

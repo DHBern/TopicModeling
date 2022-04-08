@@ -1,0 +1,18 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#csn" key="transcript">Transkript: csn02.11.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>16.10.1841-27.11.1841<ident>StAZH MM 2.66 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.66</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+M. H. Herr Joh: Heinrich Emanuel Moußon von Zürich, Amtsbürgermeister.
+M. H. Herr Hans Konrad von Muralt von Zürich. Bürgermeister.
+M. H. Herr Eduard Sulzer von Winterthur.
+M. H. Herr Melchior Friedrich Sulzer von Winterthur.
+M. H. Herr Heinrich Hüni von Horgen.
+M. H. Herr Joh. Kaspar Bluntschli von Zürich.
+M. H. Herr Friedrich von Sulzer-Wart von Winterthur.
+M. H. Herr Felix Wild von Wädenschweil.
+M. H. Herr Hs. Jacob Kündig von Grüningen.
+M. H. Herr Heinrich Furrer von Pfäffikon.
+M. H. Herr Eduard Ziegler von Zürich.
+M. H. Herr Sigmund Spöndli von Zürich.
+M. H. Herr Johannes Kienast von Zürich.
+Staatsschreiber.
+M. H. Herr Heinrich Hottinger von Zürich 1ster Staatsschreiber.
+M. H. Herr Jacob Heinrich Hottinger von Zürich. 2ter Staatsschreiber.</body></text></TEI>

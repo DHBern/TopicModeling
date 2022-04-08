@@ -1,0 +1,30 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#chn" key="transcript">Transkript: chn04.04.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>06.04.1867-12.07.1867<ident>StAZH MM 2.176 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.176</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Herr
+Dr Joh. Jakob Treichler, von Richtersweil
+I. Präsident
+“
+Dr Eduard Suter, von Pfaeffikon,
+II. id:
+“
+Dr  Rudolf Benz, von Pfungen, eidg. Oberst.
+“
+Felix Wild, von Waedensweil.
+“
+Franz Hagenbuch, von Zürich.
+“
+Heinrich Fenner, von Winterthur, Oberstlieut.
+“
+Karl Adolf Huber, von Waedensweil.
+“
+Heinrich Studer, von Wipkingen.
+“
+Joh. Jakob Scherer, von Winterthur, eidg. Oberst.
+Staatsschreiber.
+Herr
+Gottfried Keller, von Glattfelden,
+I. Staatsschreiber.
+“
+Johannes Bosshard, von Pfaeffikon
+II. id:</body></text></TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Antrag, betreffend die Erneuerung des Glenkischen Tractats wegen
+                    Nachforschung auf Salzquellen und Steinsalzlager, wird auf den Kanzleytisch
+                    gelegt.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-07-27"
+                            >27.07.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Der Antrag, betreffend die Erneuerung des Glenkischen Tractats wegen
+                        Nachforschung auf Salzquellen und Steinsalzlager, wird auf den Kanzleytisch
+                        gelegt.</title>15.04.1830<ident>StAZH MM
+                        1.110 RRB 1830/0296</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.110</biblScope><biblScope
+                        unit="page">101–102</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der von der L. Finanz-Commißion unterm <date
+                when="1830-03-31">31sten v. M.</date> hinterbrachte Bericht und Antrag,
+                betreffend das Gesuch des Herrn Hofrath und Salinen- Director Glenk, um
+                Erneuerung der ihm Ao. 1821. ertheilten Conceßion für Nachforschung auf Salzquellen
+                und Steinsalzlager, so wie auch für Errichtung von Salinen im Umfang des hiesigen
+                Kantons, wurde zur Einsicht UHochgeachten Herren und Obern auf den Kanzleytisch
+                gelegt.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Verabreichung e. Staatsbeitrages an d. Kosten des neuen Schulhauses in Niederhasle Mettmenhasle.</title><respStmt><resp ref="#sbh" key="transcript">Transkript: sbh08.11.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Verabreichung e. Staatsbeitrages an d. Kosten des neuen Schulhauses in Niederhasle Mettmenhasle.</title>20.02.1858<ident>StAZH MM 2.139 RRB 1858/0229</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.139</biblScope><biblScope unit="page">380–382</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+In Sachen der Schulgenossenschaft Niederhasli-Mettmenhasle, Schulkreis gl. Namens,
+betreffend Gesuch um Verabreichung eines Staatsbeitrages an die Kosten des neu erbauten Schulhauses daselbst,
+hat sich ergeben:
+A. Die Bezirksschulpflege Regensberg erklärt in ihren sachbezüglichen Eingaben vom 9/21 Herbstmonat 1857 u. 1 Hornung 1858, es sei dieser Bau durch eine Expertenkommission beaugenscheinigt u. in allen Theilen nach dem früher genehmigten Plane ausgeführt gefunden worden, sie empfiehlt im Weitern die Civilgemeinden Niederhasle u. Mettmenhasle zu einem Staatsbeitrage u. wünscht, daß beide Civilgemeinden in gleichen Raten bedacht werden möchten.  
+B. Die Gesammtkosten der Baute betragen die Summe von
+fcs.
+20,662.
+08.
+c
+wovon jedoch nach dem Regulativ vom 7 Juli 1847 folgende Posten abzuziehen sind:
+1 Kosten für den Ankauf des Landes (7246 [Quadratfuss])
+fcs.
+730.
+–
+2 Kosten für Erdarbeiten
+“
+216.
+50.
+c
+3 Kosten für Frohnarbeiten u. den Transport von Baumaterialien
+“
+5610.
+–
+4 Aufsichts- u. Verwaltungskosten
+“
+482.
+11.
+c
+5. Zinse von Kapitalien
+977.
+22.
+6. Aus dem Titel für Verschiedenes
+504.
+20.
+8520.
+03.
+c
+Bei Ermittlung des Staatsbeitrages fällt somit in Betracht die Summe von
+fcs.
+12,142.
+05.
+c
+C. Das steuerbare Vermögen der Schulgemeinde Niederhasle-Mettmenhasle beträgt: fcs. 341,350, dabei sind fcs. 21,670 der in derselben wohnenden Niedergelassenen begriffen; die Zahl der Haushaltungen beläuft sich auf 100, die der Aktivbürger auf 114. Die Schulgemeinde hat bereits durchschnittlich an Armensteuern ca fcs. 400 u. an Straßensteuern fcs. 450 jährlich zu tragen.
+D. Nach dem erwähnten Regulativ fällt  die Schulgenossenschaft Niederhasle-Mettmenhasle in die Klasse der „wenig begüterten“ u. kann daher mit 1/7–1/6 der Auslagen bedacht werden.
+ Demnach hat der Regierungsrath,
+nach Einsicht eines Antrages der Direktion des Erziehungswesens,
+beschlossen:
+I. Sei der Schulgenossenschaft Niederhasle-Mettmenhasle ein Staatsbeitrag von fcs. 2000 in der Meinung zu verabreichen, daß dieser Beitrag in zwei gleichen Hälften unter die beiden Civilgemeinden Niederhasle u. Mettmenhasle zu vertheilen sei.
+II. Mittheilung an die Direktion des Erziehungswesens für sich u. zu weiter nöthiger Kenntnißgabe u. an die Direktion der Finanzen zur Vollziehung aus dem Kredite des Büdgets von 1858: „G. C. III. b. 2 Schulhausbauten“.<p/></body></text></TEI>

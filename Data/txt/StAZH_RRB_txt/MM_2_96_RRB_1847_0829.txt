@@ -1,0 +1,9 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Kreisschreiben an die Stände gegen das Wegfallen der Verhandlungen über das Linthunternehmen im Schooße der Tagsatzung.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn16.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Kreisschreiben an die Stände gegen das Wegfallen der Verhandlungen über das Linthunternehmen im Schooße der Tagsatzung.</title>22.05.1847<ident>StAZH MM 2.96 RRB 1847/0829</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">223</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Iussu Praesidii
+Actum den 22. May 1847.
+Mit Weisung von heute legte der Staatsrath den Entwurf eines Kreisschreibens an sämmtliche Stände gegen das in §. 37. der Traktanden für die ordentliche Tagsatzung d. J. vorgeschlagene Wegfallen der Verhandlungen, über das Linthunternehmen im Schooße der Tagsatzung vor
+Es wurde hierauf mit Rüksicht auf die dringlichkeit der Sache verfügt:
+1. Sei das Kreisschreiben zu erlaßen, wie dasselbe in den Mißiven h. T. des Nähern zu lesen ist.
+2. Sei dasselbe sowohl dem Vororte als auch der Regierung von Glarus in Antwort auf ihr Schreiben vom 10t. hjs. [l. M. h. T.] mitzutheilen.<p/></body></text></TEI>

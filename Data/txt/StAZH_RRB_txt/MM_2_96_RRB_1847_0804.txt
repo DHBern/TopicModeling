@@ -1,0 +1,13 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Vollmacht für HHerrn Bürgermeister Dr. Furrer, betreff Unterhandlung wegen Ausfuhr v. Mais mit dem K. K. Behörden.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn14.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Vollmacht für HHerrn Bürgermeister Dr. Furrer, betreff Unterhandlung wegen Ausfuhr v. Mais mit dem K. K. Behörden.</title>19.05.1847<ident>StAZH MM 2.96 RRB 1847/0804</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">210–211</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Iussu Präsidii
+Actum den 19. May 1847.]
+MHHerrn Bürgermeister  Dr. Furrer wird die nachstehende Vollmacht nach Wien übersandt
+Wir
+Bürgermeister und Regierungsrath
+des Eidsgenößischen Standes Zürich
+bezeugen anmit
+Daß die im Jahr 1847. von Herrn A. Pfeiffer aus Zürich durch Herrn Hegnauer in Trieß in Ungarn gekauften 4000. Metzen Mais für unsere Rechnung angeschaftet sind und bevollmächtigen.  
+Den Bürgermeister Dr. Furrer Excellenz
+bei den Kaiserlich Königlichen Staatsbehörden alle und jede erforderlichen Schritte zu thun, um die ungehinderte Ausfuhr dieses Quantums Getreide zu erlangen.<p/></body></text></TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anerkennung eines im Wylhof, Gemeinde Rußikon, Statt gefundenen
+                    Aßecuranz-Schadens.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-08-25"
+                            >25.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Anerkennung eines im Wylhof, Gemeinde Rußikon, Statt gefundenen
+                        Aßecuranz-Schadens.</title><date when="1830-09-07"
+                        >07.09.1830</date><ident>StAZH MM 1.111 RRB
+                        1830/0732</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.111</biblScope><biblScope unit="page"
+                    >255–256</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die L. Brand-Aßecuranz-Commißion berichtet unterm <date
+                    when="1830-09-04">4ten</date> d. M: am <date when="1830-08-31">31sten v.
+                        M.</date>, Nachmittags um 4. Uhr, sey in der mit No. 12. bezeichneten und für fl. 800.
+                versicherten Wohnung und Scheune des Heinrich
+                Würgler, Weber, im Wylhof, Gemeinde Rußikon,
+                Feuer ausgebrochen und das Gebäude bis auf den Grund niedergebrannt, auch die
+                Fahrhabe der aus zehn Personen bestehenden Haushaltung größten Theils ein Raub der
+                Flammen geworden. Das Feuer habe in einer, in der Tenne befindlichen Schichte dürrer
+                Reisbürden seinen Ursprung genommen. Durch welche Veranlaßung,
+                habe zwar nicht ausgemittelt werden können; jedoch seyen bey der dießfälligen
+                Untersuchung keinerley Inzichten zum Vorschein gekommen, welche auf den, sonst nicht
+                im beßten Rufe stehenden, Hauseigenthümer oder auf seine, durchaus unbescholtene
+                Haushaltung irgend einen Verdacht von Brandstiftung geworfen hätten.
+            
+Unter diesen Umständen trägt der Kleine Rath, dem
+                Commißional-Antrage beypflichtend, kein Bedenken, den erwähnten Aßecuranz-Schaden
+                von fl. 800. anzuerkennen; auch soll der brandbeschä- digten
+                Haushaltung die übliche obrigkeitliche Brandsteuer gereicht werden.
+            
+Von diesem Beschluße wird der L. Brand-Aßecuranz-Commißion, der L.
+                    Finanz-Commißion und dem Oberamt
+                    Kyburg zu Handen des Würgler Kenntniß
+                gegeben.
+        </body>
+    </text>
+</TEI>

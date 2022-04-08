@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Klage der K. K. Oesterreichischen Gesandtschaft wegen Begünstigung der
+                    Desertion und Anwerbung Oesterreichischer Ausreißer in der Schweiz.</title>
+                <respStmt>
+                    <resp ref="#dsa" key="transcript">Transkript: dsa<date when="2010-04-15"
+                            >15.04.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Klage der K. K. Oesterreichischen Gesandtschaft wegen Begünstigung der
+                        Desertion und Anwerbung Oesterreichischer Ausreißer in der
+                        Schweiz.</title>13.02.1816<ident>StAZH MM
+                        1.57 RRB 1816/0120</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.57</biblScope><biblScope
+                        unit="page">193–197</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Ein Kreisschreiben, welches der L. Staatsrath unterm <date
+                    when="1816-02-15">15ten d. M.</date> an die sämmtlichen L. Stände der
+                Eydsgenoßenschaft erlaßen hat, – lautet folgender Maaßen: 
+            
+„Von Seite der Gesandtschaft Sr. K. K. Apostolischen Majestät in der Schweiz, seyen
+                lebhafte Beschwerden eingekommen, daß, ohne Rücksicht auf die zwischen
+                    Oesterreich und der Schweiz bestehenden nachbarlichen und
+                freundschaftlichen Verhältniße, Ausreißer der in der Nähe unserer Grenzen stehenden
+                Oesterreichischen Armee-Corps, für fremde Kriegsdienste in der Schweiz angeworben,
+                ja selbst vermittelst hoher Handgelder zur Desertion ver- leitet
+                werden. Diesem Unfug zu steuern, bringe der Herr Gesandte diejenigen Anträge in
+                Erinnerung, welche Derselbe im Namen Seines Hofs wegen Abschließung eines Cartels
+                für die Auslieferung der Ausreißer, den <date when="1815-08-22">22sten
+                    Augstmonats</date> lezthin an die Tagsatzung brachte, und diese durch Ihr
+                Kreisschreiben vom 31sten gl. M. den L.
+                Eydsgenößischen Ständen mitgetheilt hat.“
+            
+Wenn bey den Schwierigkeiten einer solchen Unterhandlung, welche, wie es scheine,
+                beynahe allgemein den Hohen Ständen eingeleuchtet haben, das Eydsgenößische Vorort
+                sich gegenwärtig noch außert Stand befinde, einen bestimmten, am wenigsten aber
+                einen befriedigenden Entschluß hierüber an die Oesterreichische Gesandtschaft zu
+                eröffnen, so erachte daßelbe hingegen es für Pflicht gegen das theure Vaterland,
+                alle Schweizerischen Regierung auf den von der Oesterreichischen Gesandtschaft
+                gerügten, gefährlichen Mißbrauch aufmerksamm zu machen, damit von nun an demselben
+                Einhalt gethan werde. Es könne den L. Ständen nicht entgehen, daß, wenn dieser für
+                    Oesterreich sehr wichtigen, und, nach der Überzeugung des
+                Staats- raths, staaterechtlich gegründeten Beschwerde nicht abgeholfen
+                werde, sehr unangenehme Folgen daraus entstehen dürften. Der Mittheilung der
+                Gesandtschaftsnote füge also das Vorort das dringende Ansuchen und den bestimmten
+                Antrag bey, alle Eydsgenößischen Stände möchten, von nun an, die Anwerbung
+                Oesterreichischer Ausreißer strenge untersagen, und den mit Beaufsichtigung der
+                fremden Werbungen beauftragten Behörden, unter besonderer Verantwortlichkeit, die
+                genaue Handhabung dieses Verbotes gegen alle Betrügereyen und Elusionen der Werber
+                einschärfen laßen. 
+            
+Der Staatsrath stehe in der Erwartung, daß die Hohen Stände hierüber Seine
+                Gesinnungen theilen, und zu Erreichung dieses wichtigen Zwecks thätig mitwürken
+                werden, u. s. f.“
+            
+Die beygelegte Note des Herrn von Schraut, ist aus Bern vom
+                13ten Jenner datiert, und lautet also: 
+            
+„Während ein nicht unbeträchtlicher Theil des K. K. Heeres in
+                einigen Gränzländeren der Schweiz stehen bleiben müße, um den in und mit Frankreich
+                wieder hergestellten Frieden zu handhaben, finde der Geist der
+                Unstätheit, die gewöhnlichste und allgemeinste Quelle des Überlaufens in allen <pb
+                    n="196"/>Armeen, eine besondere Lokung in den Hohen Werbgelderen, welche,
+                anstatt mit der Werbung selbst einzig auf die Eingebohrnen sich zu beschränken,
+                unrücksichtlich auf jedes andere nachbarliche, noch so theure Verhältniß, den
+                Österreischischen Ausreißeren kundbar dargeboten worden; und dieses zwar gegen den
+                erklärten Wunsch und Willen der Mächte selbst, für deren Rechnung also geworben
+                wird.
+            
+Der Herr Gesandte wiße, daß die unbewiesenen Fälle stets verneinet, die bewiesenen
+                aber und ganz unbestreitbaren nur dem Werber, und auch diesem nur so wenig als
+                möglich, zur Last gelegt werden. Die Kundbarkeit dieses Ganges und die lange
+                Erfahrung seiner unausbleiblichen Folgen entziehe daher im Voraus jeden beßeren
+                Versicherungen allen festen Werth; sie mache desto mehr nun solche Vorkehrungen
+                nothwendig, aus welchen doch zulezt ein zweckmäßiges Resultat hervorgehen könne.
+            
+Diese Vorkehrungen habe der Herr Gesandte die Ehre gehabt, bey der außerordentlichen
+                Tagsatzung am 22sten Agusti v. J. in Antrag zu
+                bringen. Wenn die Antwort, welche Ihm von Sr. Excellenz, dem HHerrn
+                Amtsbürgermeister von Wyß, am <date when="1815-08-31">31sten
+                    deßelben Monats</date> hierauf zu Theil geworden sey, Ihn
+                nicht zweifeln laße, die Äußerungen der L. Stände werden allerseits erfolgt seyn, so
+                laßen Gehalt, Anlaß und Zeit dieses Antrags, Ihn auch eine solche Gestalt derselben
+                hoffen, wie das Vertrauen sie verdiene, welches der K. K. Oesterreichische
+                    Hof in die Nachbarlichkeit und Freundschaft der Gesinnungen
+                der gesammten Eydsgenoßschaft hierinfalls setze, auch immer und allenthalben setzen
+                werde. u. s. f.“ –
+            
+Dieses sorgfältige Circulare des L. Staatsraths wurde von dem <orgName>Kleinen
+                    Rath</orgName> vollkommen gutgeheißen, und der L. Werbungscommißion von dem
+                Innhalt deßelben und seiner Beylage, durch gegenwärtige Erkanntnuß zu angemeßener
+                Nachachtung Notiz gegeben. 
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Reichsgräfl. Schenk von Castellischen Regierung übersendete Acte,
+                    betreffend verschiedene von dem [Johann] Minder, vulgo Clemensenhans, in Elgg,
+                    Obersteinmaur, Langenriedt und Pfäffikon begangene Diebstähle.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-29"
+                            >29.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Der Reichsgräfl. Schenk von Castellischen Regierung übersendete Acte,
+                        betreffend verschiedene von dem [Johann] Minder, vulgo Clemensenhans, in
+                        Elgg, Obersteinmaur, Langenriedt und Pfäffikon begangene
+                        Diebstähle.</title>07.02.1805<ident>StAZH MM
+                        1.12 RRB 1805/0212</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.12</biblScope><biblScope
+                        unit="page">50–51</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Da nunmehro auch der L. Stand Schwytz der ihm sub <date when="1805-02-17"
+                    >17ten</date> pti. zugegangenen Einladung zu Verification und Schatzung eines
+                durch den zu Oberdischingen im Verhaft sitzenden Jauner, Johann
+                Minder vulgo Clemensen-hans, vor einigen Jahren in
+                    Pfäffikon begangenen Fleisch-Diebstahls, ein Genügen
+                geleistet, und das dießfalls mit dem bestohlenen Johannes
+                Steiner im Thal sub <date
+                    when="1805-01-30">30sten Januarii</date> aufgenohmene Verhör mittelst einer
+                Zuschrift vom 4ten hujus einbegleitet hat, – so sind
+                nunmehro der Reichs-Gräflich-Schenk von Castellischen Regierung in Oberdischingen
+                die [lt. Beschlußes des Kleinen Raths vom <date when="1805-02-17"
+                    >17ten</date> Januarii eingezogenen] Resultate der von gedachter Regierung durch
+                ihr Schreiben vom 9ten pti. verlangten Verificationen
+                mittelst des in den heutigen Mißiven enthaltenen Schreibens und
+                abschriftlicher Mittheilung nachstehender Actenstüke zu übermachen:
+            
+Litt. A. Berichtschreiben des Herrn Bezirksstatthalter Steiner von
+                    Winterthur, wegen des Diebstahls, den
+                    Johann
+                Minder, Clemensen-hans, bey Elgg begangen
+                haben soll. d. d. 25. Jenner 1805.
+            
+Litt. B. Bericht des Herrn Bezirksstatthalter Angst von
+                    Regensperg, betreffend einen vor circa 20. Jahren zu
+                Obersteinmaur geschehen seyn sollenden Diebstahl. d. d. 24. Jenner 1805.
+            
+Litt. C. Schreiben des Landvogteyamts Regensperg, betreffend
+                den im September 1784. bey Jacob Läger,
+                    Krämer von Obersteinmaur vorgegangenen Einbruch und
+                Diebstahl. d. d. 7. Augusti 1788.
+            
+Litt. D. Auszüge aus den Ao. 1788. aufgenohmenen Verhören mit dem sogenannten
+                Frauenfelder-Adämli [Jacob Bachmann] betreffend den im September 1784. bei
+                    Krämer Läger zu Obersteinmaur begangenen Diebstahl.
+            
+Litt. E. 1stes Berichtschreiben des Herrn Unterstatthalter Ganz
+                von Rorbas, über einen vor circa 11. Jahren zu Langenried
+                geschehenen Diebstahl. d. d. 22. Jenner 1805.
+            
+Litt. F. 2tes Berichtschreiben des Herrn Unterstatthalter Ganz von
+                    Rorbas, enthaltend die Schatzung der, von
+                    Johann
+                Minder dem Jacob
+                Bächi zu Langenried gestohlenen Waaren. d. d. 29. Jenner
+                1805.
+            
+Litt. G. Extractus Protocolli der Verhör-Commißion des Bezirks
+                    Pfäffikon im Canton Schwytz, betreffend einen bey
+                    Johannes
+                Steiner im Thal vorgegangenen
+                Fleisch-Diebstahl. d. d. 30. Jenner 1805.
+        </body>
+    </text>
+</TEI>

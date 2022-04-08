@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Gutachten über den Bergbau im Canton Zürich.
+Das sub 30sten Novembris von der Bergwerkscommißion hinterbrachte ausführliche und raisonnierende Gutachten, betreffend einen dem Großen Rath zu hinterbringenden Gesetzesvorschlag über den Bergbau im Canton Zürich, – wird der Commißion des Innern zu sorgfältiger Prüffung und Hinterbringung ihres Befindens überwiesen.

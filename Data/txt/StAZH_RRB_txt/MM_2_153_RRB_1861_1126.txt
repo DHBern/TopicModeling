@@ -1,0 +1,25 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Vollziehung der von dem Großen Rath in seiner außerordentl. Sitzung gefaßten Gesetze u. s. w.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn15.08.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Vollziehung der von dem Großen Rath in seiner außerordentl. Sitzung gefaßten Gesetze u. s. w.</title>22.08.1861<ident>StAZH MM 2.153 RRB 1861/1126</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.153</biblScope><biblScope unit="page">430–433</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat,
+in Vollziehung der von dem Großen Rathe in seiner außerordentlichen Sitzung vom 20 u. 21 August erlassenen Gesetze u. gefaßten Beschlüsse verordnet: 
+I. Von der Entlassung des Herrn Jb. Ernst in Zollikon von der Stelle eines Mitgliedes des Großen Rathes wird dem Statthalteramt Zürich Kenntniß gegeben, mit der Einladung die zum Behuf der Wiederbesetzung dieser Stelle nöthigen Anordnungen zu treffen.
+II. Das Gesetz betreffend das Kirchenwesen des Kantons Zürich ist in die Gesetzessammlung aufzunehmen, besonders zu drucken, dem Kirchenrathe und der Direktion der Finanzen mitzutheilen.
+III. Die Beschlüsse
+1. betreffend	Betheiligung des Kantons Zürich beim Bau einer eidg. Sternwarte in Zürich
+2. “				Genehmigung der von der Generalversammlung der Gesellschaft des 
+				vereinigten Schweizerbahnen beschlossene Aende-  rung ihrer 
+				Gesellschaftsstatuten.
+3. betreffend Abschluß eines Konkordates über gegenseitige Zulassung evangelisch reformirter Geistlicher in den Kirchendienst;
+sind in die Gesetzessammlung aufzunehmen; sodann ist der Beschluß N° 1 den Direktionen der Finanzen, öffentlichen Arbeiten u. des Erziehungswesens,
+der Beschluß N° 2 der Eisenbahnkommission u. der Beschluß N° 3 dem Kirchenrathe, diesem zur Antragstellung über die zu treffenden weitern Anordnungen
+mitzutheilen.
+IV. Bezüglich des auf das Gesuch des Herrn Regierungspräsidenten Dr Dubs um Entlassung von den Stellen eines Mitgliedes des Großen Rathes, eines Mitgliedes u. Präsidenten des Regierungsrathes, eines Mitgliedes des Kirchenrathes und eines Mitgliedes des schweiz. Ständerathes gefaßten Beschlusses, folgendermaßen lautend:
+Der Große Rath beschließt:
+„I. Sei dem Herrn Dr Dubs die nachgesuchte Entlassung von den bezeichneten Stellen unter vollster Anerkennung und Verdankung der von ihm dem Kanton Zürich in seinen amtlichen Stellungen geleisteten ausgezeichneten Dienste und unter besten Glückwünschen für  seinen neuen Wirkungskreis, ertheilt.
+2. Sei der Regierungsrath eingeladen, dem Herrn Dr Dubs in diesem Sinne eine besondere Entlassungsurkunde ausstellen zu lassen u. zu überreichen,“
+wird die Staatskanzlei beauftragt, eine Urkunde in diesem Sinne in würdiger künstlerischer Form fertigen zu lassen. Im Weitern wird eine aus den Herrn Regierungspräsidenten, Dr Zehnder u. Regierungsrath Benz bestehende Deputation bezeichnet, diese Urkunde dem Herrn Bundesrath Dubs zu geeigneter Zeit zu überreichen.
+V. Von der Wahl der Herrn Seminardirektor Fries und Staatsschreiber Huber zu Mitgliedern des Regierungsrathes ist im Fall der Annahme der Wahl der Direktion der Finanzen Kenntniß zu geben.
+VI. Die Wahl des Herrn Regierungsrath Ziegler zu einem Präsidenten des Regierungsrathes ist dem Bundesrathe und den Kantonsregierungen, sowie der Direktion der Finanzen mitzutheilen.
+VII. Die Wahl des Herrn Staatsanwalt Wintsch zu einem Mitgliede des Obergerichtes ist der Direktion der Finanzen mitzutheilen.
+VIII. Von der Wahl des Herrn Professor Dr Rüttimann zu einem Mitgliede des schweiz. Stände-  rathes ist dem Bundesrathe u. der Direktion der Finanzen Kenntniß zu geben.
+IX. Die Wahl des Herrn Regierungsrathes Fries zum Mitgliede des Kirchenrathes ist auf den Fall, daß Herr Fries die Stelle eines Regierungsrathes annehmen sollte, dem Kirchenrathe mitzutheilen.<p/></body></text></TEI>

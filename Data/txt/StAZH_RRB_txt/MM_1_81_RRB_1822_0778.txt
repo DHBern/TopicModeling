@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dießfällige Ueberweisung an den Kantonal-Staatsrath.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Dießfällige Ueberweisung an den Kantonal-Staatsrath.</title><date
+                        when="1822-10-12">12.10.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0778</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >43–44</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der von dem Großen Rathe am <date when="1822-10-09"
+                    >9ten dieß</date> gefaßte Beschluß, betreffend die auf der dießjährigen
+                Tagsatzung am 27sten und <date when="1822-08-28"
+                    >28sten August</date> aufgestellte Uebereinkunft wegen der Handelsverhältniße
+                und wegen Erhebung von Einfuhrzöllen von gewißen Französischen Natur- und
+                Indüstrie-Producten, wird dem Kantonal-Staatsrathe überwiesen, um seine sorgfältige
+                Aufmerksamkeit auf den weitern Gang der Handelsangelegenheit in ihren äußern und
+                innern Entwickelungen zu richten, und alles dasjenige, was dieselben mit sich
+                bringen, oder schon die gegenwärtige Lage der Dinge erheischen würde, in kluge
+                Vorberathung zu ziehen; nahmentlich auch (was in Bezug auf die Frage, ob die
+                Ueberweisung dieses besondern Punctes an den Staatsrath oder die
+                    Finanz-Commißion geschehen solle; mit 12. gegen 10. Stimmen
+                erkannt wurde)[:] Ob und wasfür Abänderungen in dem Gesetz vom <date
+                    when="1822-10-21">21sten</date> Christmonath 1821, betreffend die Enthebung
+                einer Eingangsgebühr von ausländischen Weinen und gebrannten Waßern,
+                durch die seit Erlaßung dieses Gesetzes eingetretene Veränderung der Verhältniße
+                rücksichtlich der Einfuhr Französischer Weine, erforderlich und zweckmäßig seyn
+                möchten; worüber der Kleine Rath die Berichte und Anträge des
+                Staatsrathes gewärtigen will.
+        </body>
+    </text>
+</TEI>

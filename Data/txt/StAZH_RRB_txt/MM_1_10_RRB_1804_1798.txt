@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L. Stand Luzern signalisiert den Bernhard Ostenberger, Joseph Jenicher,
+                    Joseph Unternährer und Andreas Rölli.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-02-16"
+                            >16.02.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>L. Stand Luzern signalisiert den Bernhard Ostenberger, Joseph Jenicher,
+                        Joseph Unternährer und Andreas Rölli.</title><date when="1804-11-06"
+                        >06.11.1804</date><ident>StAZH MM 1.10 RRB
+                        1804/1798</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.10</biblScope><biblScope unit="page">43</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die, von der Regierung des L. Cantons Luzern
+                unterm 31ten pti eingesandten Signalements eines
+                gewißen Bernhard Ostenberger von
+                    Entlebuch, Joseph Jenicher von
+                Pfaffweil, Joseph
+                Unternährer von Schüpfheim und
+                    Andreas
+                Rölli von Littau, alle aus dem Canton
+                    Luzern, welche aus dortigem Zuchthaus entwichen, wohin
+                sie wegen begangener Diebstähle verurtheilt worden sind, werden sowohl der
+                    Justiz- und Polizey-Commißion, als der Landjäger-Commißion
+                zugestellt, mit dem Ersuchen, die Exemplare dieser Signalements unter die Herren
+                Bezirks- und Unterstatthalter, und unter die Landjäger zu vertheilen, damit auf die
+                signalisierten Flüchtlinge genau geachtet, dieselben auf Betretten angehalten, und
+                gegen Erstattung der Kösten, der Regierung des L. Cantons
+                    Luzern, welche die Reciprocität zusichert, überliefert
+                werden. Dieser leztern wird der Empfang ihres Schreibens bescheint, und von der
+                getroffenen Verfügung, lt. Mißiven, Kenntniß gegeben.
+        </body>
+    </text>
+</TEI>

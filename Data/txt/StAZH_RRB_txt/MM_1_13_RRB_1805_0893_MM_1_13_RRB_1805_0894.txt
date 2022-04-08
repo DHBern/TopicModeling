@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Das Churfürst[lich] Badische Oberamt Pforzheim bittet den Küferknecht Leist
+                    wegen Schläghändeln zu Niefern eidlich zu verhören. Der Magistrat zu Riedlingen
+                    begehrt beharrlich, daß der Anna Barbara Biber von Horgen wegen des von dem
+                    Inquisit Stiebinger begangenen Waarendiebstal ein körperlicher Eid auferlegt
+                    werde.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-08-07"
+                            >07.08.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Das Churfürst[lich] Badische Oberamt Pforzheim bittet den Küferknecht
+                        Leist wegen Schläghändeln zu Niefern eidlich zu verhören. Der Magistrat zu
+                        Riedlingen begehrt beharrlich, daß der Anna Barbara Biber von Horgen wegen
+                        des von dem Inquisit Stiebinger begangenen Waarendiebstal ein körperlicher
+                        Eid auferlegt werde.</title><date when="1805-05-30"
+                        >30.05.1805</date><ident>StAZH MM 1.13 RRB 1805/0893–StAZH MM 1.13 RRB
+                        1805/0894</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.13</biblScope><biblScope unit="page"
+                    >389–390</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Verlesung folgender beyden Schreiben, nämmlich eines von dem
+                Churfürstlich Badischen Oberamt zu Pforzheim vom <date when="1805-05-21">21ten
+                    dieß</date>, worinn, veranlaßt durch bedeutende Schlaghändel, welche im
+                    Julius v. J. in dortigem Oberamtsort Niefern zwischen dem
+                dortigen bürgerli- chen Jäger-Corps, und den dortigen Einwohnern
+                vorgefallen waren, ersucht wird, den als Zeuge aufgerufenen Küferknecht
+                    Leist, der hier in Arbeit stehen soll, nach abgelegtem
+                Zeugeneid, nach Maßgabe des jenem Schreiben abschriftlich beyliegenden Protocolls zu
+                vernehmen, und deßelben Deposition dem gedachten Oberamt bald beliebig zugehen zu
+                laßen, – und eines andern
+            
+[MM 1.13 RRB 1805/0894]
+            
+Schreibens von dem Magistrat der K. auch K. K. Schwäb[isch] Oesterreich[ischen]
+                Donaustadt Riedlingen vom 22ten dieß, worinn,
+                gegründet auf die K. auch K. K. allerhöchste Criminalgerichts-Ordnung, beharrlich
+                begehrt wird, daß der Wittwe Anna
+                Barbara
+                Biber von Horgen, über den, durch den
+                Einbruch des daselbst am 22ten dieß abgeurtheilten
+                Criminal-Inquisiten Johann
+                Georg Stiebinger und Consorten am <date when="1805-05-18"
+                    >18ten</date> Aprill 1803. erlittenen, und ohne die wieder erhaltene Waaren fl.
+                500. ß. 32; mit diesen aber fl. 509. ß. 12. betragenden Waarenverlust, ein
+                körperlicher Eid abgenommen, und das hierwegen führende Protocoll sobald nur immer
+                möglich an den gedachten Magistrat überschikt werden möchte, – wurde der Wichtigkeit
+                der Sache angemeßen befunden, diese beyden Schreiben der <orgName>Justiz- und
+                    Polizey-Commißion</orgName> zu überweisen, mit dem Ersuchen, sowohl in Bezug auf
+                die obschwebenden Specialfälle, als auf zukünftige ähnliche Begehren, in Überlegung
+                zu nehmen, ob, in was für Fällen und wie Eidesleistungsbegehren zu entsprechen
+                zuläßig und thunlich sey, und dem Kleinen Rathe ihr dießfälliges
+                Befinden zu hinterbringen. 
+        </body>
+    </text>
+</TEI>

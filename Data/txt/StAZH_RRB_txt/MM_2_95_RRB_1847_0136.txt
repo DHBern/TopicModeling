@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschluß, betreff. die Nummerirung der Contingentstruppen.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn03.12.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2010<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beschluß, betreff. die Nummerirung der Contingentstruppen.</title>26.01.1847<ident>StAZH MM 2.95 RRB 1847/0136</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.95</biblScope><biblScope unit="page">113–1162</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Bericht und Antrag des Kriegsrathes, d. d. 8t. d. M., betreffend die Nummerirung der Contingentstruppen.   
+Da sich ergeben: 
+Der Eidsgenößische Kriegsrath habe die Nummern für die verschiedenen Abtheilungen des hierseitigen Contingents vorgeschrieben und der Kriegsrath erachte es nun angemeßen, damit nicht doppelte Nummern theils für den eidg. Dienst, theils für den Cantonaldienst beibehalten werden müßen, ausschließlich die eidgenößischen Nummern einzuführen, wonach dieselben für die zum I. und II. Auszuge zählenden Korps in der Reihenfolge der bisherigen Nummerirung sich folgendermaßen stellen.
+I. Genie.
+a. Die Compagnie Sappeur hat Eidgenößisch. No. 2.
+b. „		„		Pontanier „	„	„	1.
+II. Artillerie
+c. Die bisherige Compagnie No. 1. hat Eidgenößisch. No. 1.
+	„	„		„		„	2.	„		„				„	8.
+	„	„		„		„	3.	„		„				„	20.
+	„	„		„		„	5.	„		„				„	22.
+	„	„		„		„	6.	„		„				„	25.
+zur Gebirgs-Batterie bestimmt „	4.	„		„				„	30.
+Die Park Compagnie			„			„	43.
+III. Cavallerie
+d. Die bisherige Compagnie No. 1. 	hat Eidgenößisch. No. 3.
+	„	„		„	„	2.	„		„			„	12.
+	„	„		„	„	3.	„		„			„	19.
+IV. Scharfschützen.  
+e. Die bisherige Compagnie No. 1. hat Eidgenößisch. No. 2.
+	„	„		„	„	2.	„			„	21.
+	„	„		„	„	3.	„			„	23.
+	„	„		„	„	4.	„			„ 	35.
+V. Infanterie.
+f. Das bisherige Bataillon No. 1. hat Eidgenößisch. No. 3.
+	„	„		„	„	2.		„		„	5.
+	„	„		„	„	3.		„		„	9.
+	„	„		„	„	4.		„		„	11.
+	„	„		„	„	5.		„		„	29.
+	„	„		„	„	6.		„		„	34.
+	„	„		„	„	7.		„		„	48.
+	„	„		„	„	8.		„		„	64.
+Hinsichtlich der Landwehr Corps, Artillerie, Scharschützen und die Infanterie Bataillone, welche nicht zum Bundes-Contigente zählen, habe der Kriegsrath angemeßen gefunden, folgende Bestimmungen in der Nummerirung zu treffen.
+I. Artillerie
+Die bisherige Compagnie No. 7. erhält im Canton No. 1.
+	„			„	„	 8.	„	„	 „	 2.
+II. Scharfschützen.
+Die bisherige Compagnie No. 5. erhält im Canton No. 1.
+	„			„	„	6.	„	„	„	 2.
+	„			„	„	7.	„	„	„	 3.
+	„			„	„	8.	„	„	„	 4.
+	„			„	„	9.	„	„	„	 5.
+	„			„	„	10.	„	„	„	 6.
+	„			„	„	11.	„	„	„	 7.
+	„			„	„	12.	„	„	„	 8.  
+III. Infanterie.
+Die Nummerirung der 4. Landwehr-Bataillone ist wie bisher nach den Kreisen mit No. 1–4. beizubehalten.
+in Genehmigung des Antrages des Kriegsrathes diese Nummerirung gutgeheißen.
+Hievon wird dem Kriegsrathe zur Vollziehung Kenntniß gegeben.<p/></body></text></TEI>

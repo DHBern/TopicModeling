@@ -1,0 +1,27 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Erledigung der Streitigkeit zwischen Gemeindrath Brunner u. Mithafte in Aesch einerseits u. der Vorsteherschaft der dortigen Civilgemeinde anderseits, betreff. Verlegung einer Straßensteuer.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn25.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Erledigung der Streitigkeit zwischen Gemeindrath Brunner u. Mithafte in Aesch einerseits u. der Vorsteherschaft der dortigen Civilgemeinde anderseits, betreff. Verlegung einer Straßensteuer.</title>08.06.1847<ident>StAZH MM 2.96 RRB 1847/0925</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">297–300</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat in Sachen des Hrn. Gemeindrath Brunner und Mithafte in Aesch [polit. Gemeinde Maur] Kläger und Appellanten einerseits.
+und
+der Vorsteherschaft der Civilgemeinde Aesch, Beklagte und Appellantinn anderseits
+betreffend Verlegung einer Straßensteuer.
+auf das Ergebniß des erstinstanzlichen Erkenntnißes und nachdem sich ferner ergeben.
+A. Gegen dieses Erkenntniß haben Hrn. Gmdrth. J. Brunner und 7. andere Bürger in Aesch die Berufung ergriffen,  in wesentlicher Wiederholung des bereits vor erster Instanz Vorgebrachten.
+B. Darauf habe die Zivilvorsteherschaft ebenfalls die bereits angeführten Momente wiederholt und ausgeführt und nach Einsicht des eingeforderten Civilgemeindsprotokolls
+in Erwägung:
+1. Daß der §. 60. des Gesetzes betreffend das Straßenwesen vom 16t. Herbstmonat 1833. für den Bau und den Unterhalt der Straßen, welche den Gemeinden obliegen, einen fakultativen dreifachen Modus eröffnet, nämlich:
+a. Daß die Arbeit als solche von den einzelnen Haushaltungen geleistet wird.
+b. Daß dieselbe durch im Taglohn angestellte Arbeiter oder
+c. Daß sie gegen Caution im Verding gemacht wird.
+2. Daß nun [abgesehen von der Frage, ob dieser §. nach seinem ganzen Inhalt noch gültig oder durch spätere Bestimmungen modizirt sei] keiner dieser drei Wege einfach eingeschlagen, sondern die Arbeit „selbst gemeinschaftlich mit Anwendung eines bestimmten Taggeldes“ [8. Prot. vom 19t. Febr. 1846] ausgeführt worden ist:
+3. Daß wenn die Appellanten gegen diese Weise der Arbeit hätten Einsprache erheben wollen, dieß s. Zeit und nicht erst nach Vollendung der Arbeit hätte geschehen sollen:
+4. Daß es sich daher gegenwärtig bloß darum fragen kann, wie die durch diese Taggelder entstandenen Auslagen zu deken seien, worüber das erwähnte Protokoll vom 19t. Februar keinerlei bestimmte Auskunft gibt,  
+5. Daß nun der §. 11. des Gesetzes über die Gemeindsausgaben und Gemeindssteuern vom 15t. Christm. 1835. die allgemeine Vorschrift enthält, daß Gemeindssteuern zu ¾ auf das Vermögen, zu 1/8 auf die Haushaltung, die einen eigenen Rauch führt und 1/8 auf den anwesenden Mann von dem angetretenen 20t. Altersjahre zu verlegen seien und daß, wo bei einer Steuer ein einzelner mehr als 1/8 ihres gesammten Betrages zu bezahlen hätte, der Ueberschuß wieder als eine neue Steuer auf Vermögen, Haushaltung und den Mann verlegt werden soll;
+6. Daß von dieser allgemeinen Regel nur eine einzelne Ausnahme für den Fall der Verdingung der Hand- und Fuhrleistung durch Absteigerung in §. 13. des fragl. Gesetzes, modifizirt durch §. 2. des Gesetzes vom 28ten. Herbstmonat 1838. festgesetzt ist:
+7. Daß nun aber diese Ausnahmsbestimmung auf den gegenwärtigen Fall keine Anwendung findet und derselbe daher durch die allgemeine in §. 11. zu erledigen ist.
+8. Daß endlich die beiden Partheien insbesondere aber die Civilvorsteherschaft sich in einem Tone ausgedrükt haben, welcher sowohl die den Oberbehörden als die der Gegenparthei schuldige Achtung außer Augen gesetzt hat;
+gefunden
+Es ist die Appellation theilweise begründet theilweise unbegründet und demnach erkennt:
+I. Ist das bezirksräthliche Erkenntniß aufgehoben und ist die fragliche Steuer nach §. 11. des Gesetzes über die Ge-  meindsausgaben und Gemeindssteuern zu verlegen.
+II. Ist beiden Partheien ihr unziemender Ton alles Ernstes verwiesen:
+III. Tragen die Partheien die erst- und zweitinstanzlichen Kosten, letztere bestehend in 2. Frkn. Staats- 2. Frkn. Canzlei- 2. Frkn. Weibel- nebst den Stempel, und Ausfertigungsgebühren zu gleichen Theilen.
+IV. Wird hievon dem Bezirksrathe Uster, sowie den Partheien durch urkundliche Ausfertigung Kenntniß gegeben.<p/></body></text></TEI>

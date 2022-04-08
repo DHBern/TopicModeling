@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fortgesezter Bericht der Standescommißion über die Lage der Sachen in Bezug
+                    auf die Aufruhr-Schreiben von St. Gallen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-11-20"
+                            >20.11.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Fortgesezter Bericht der Standescommißion über die Lage der Sachen in
+                        Bezug auf die Aufruhr-Schreiben von St. Gallen.</title><date
+                        when="1804-04-03">03.04.1804</date><ident>StAZH MM 1.6 RRB
+                        1804/0623</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.6</biblScope><biblScope unit="page"
+                    >259–265</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der von dem Präsidium der außerordentlichen Standescommißion erstattete
+                Bericht von den neuesten Vorfällen in Bezug auf die aufrührischen Bewegungen in
+                unserm Canton enthielt folgende Resultate:
+            
+Am lezten Sammstag blieb die Lage die nämliche, wie sie in dem lezt <pb n="260"
+                />erstatteten Berichte dargestellt worden.
+            
+Am Sonntag Morgen langte von Herren Unterstatthalter
+                    Kaufmann der schriftliche und mündliche Bericht nebst einem
+                Schreiben des Gemeindraths von Horgen ein, woraus sich ergab,
+                daß in der Nacht vom Samstag auf den Sonntag der sogeheißen
+                Commandant Willi mit 100–130. Mann und 1.
+                Kanone auf Horgen gekommen, und Einquartierung gefordert,
+                auch 3. große Schiffe und Pferdgeschirr in Requisition gesezt, Morgens um 5. Uhr
+                sich mit der Mannschaft eingeschift, und zu Ürikon gelandet habe, von wo er mit
+                derselben nach Stäfa gezogen sey, ohne jedoch etwas weiter zu
+                unternehmen. Die Mannschaft war schlecht von Außehen, und unter derselben befanden
+                sich gut gekannte Leuthe aus den aufrührischen Gemeinden auf der
+                linken Seite des Sees. Auf Zureden hin zog er sich dann hinaufwärts, und auf
+                    Rüti. In Rüti mußte man dieser
+                Rotte Brod, Fleisch und Wein geben und Herr
+                Amtmann Burkhard daselbst wurde mißhandelt, und mit einem
+                Kolbenschlag am Kopf beschädigt, so daß er sich nach
+                Rapperschweil flüchten mußte, wo er jedoch imstand war, einen eigenhändigen
+                schriftlichen Bericht über diese Vorfälle zu erstatten. Von
+                    Rüti zog Willi mit seinem Troße auf
+                    Wald, Hinweil, Bärentschweil,
+                    Pfeffikon. In Wald fanden sich bey
+                ihm aus den Berggegenden ebenfalls hinlänglich bekannte Personen ein. Er begehrte
+                daselbst Einstellung des Gottesdiensts, da aber dieß nicht bewilligt wurde, so er-
+                    schien er nach beendigter Predigt in der Kirche, und bemühte sich
+                mit aufrührischen Vorstellungen, zur Anschließung an seine Leuthe
+                aufzufordern. Ein wakerer Mann trat hervor, warnte und forderte
+                den Willi auf, seine Vollmacht zu zeigen, worauf dieser aber
+                nur mit einer unverschämten Ausrede zu antworten wußte. Der Gemeindsrath besammelte
+                sich im Wirthshaus; allein der Aufrührer mußte unverrichteter Sachen von
+                    Wald wieder abziehen. Andere dortige Gemeinden schloßen
+                sich ebenfalls an das Neutralitäts-System an, und Pfeffikon
+                erklärte sich, daß es keinen Mann verabfolgen laßen werde.
+            
+Von der Gemeinde Horgen verlautete es, daß sie mit den
+                militarischen Bewegungen nichts mehr zu schaffen haben und ihre
+                    Leuthe zurükziehen wolle. Indeßen standen auf Boken und bey
+                der Tanne noch Pösten, worunter Wädenschweiler, Richterschweiler und
+                    Leuthe aus dem Schönenberg sich
+                befanden. Am Sonntag Abends kam ein Schreiben von dem Gemeindrath von Wädenschweil,
+                worin um Einstellung fernerer Militarmaaßregeln angesucht wurde, indem man, des
+                Unglüks müde entschloßen sey, die Leuthe zu
+                    Haus zu behalten. Dieses Schreiben wurde mit der Erklärung
+                beantwortet, daß eine Gemeinde, die weder ganz noch im einzelnen in feindseliger
+                Stellung angetroffen werde, auch nicht feindselig von dem Militair werde behandelt
+                werden, im entgegengesezten Fall aber auch alle diejenigen unglüklichen Folgen
+                eintretten würden, die bewaff- nete Aufrührer treffen müßen. Hernach
+                erschien vor der Standescommißion Herr Unterstatthalter Kaufmann
+                von Küßnacht, und 2. Deputierten von Wädenschweil, Präsident
+                    Diezinger und Gemeindsammann Blattmann,
+                baten um möglichste Milde, und daß die minderschuldigen nicht mit den Schuldigen,
+                und die Unschuldigen nicht mit jenen verwechselt werden. Man wiederholte ihnen obige
+                Verb’scheidung, und als sie von bewaffneten Leuthen, derenhalber hinlängliche
+                Anzeige vorhanden waren, nichts wißen wollten, wurden sie entlaßen; dem Herrn
+                Unterstatthalter Kaufmann aber jenen warnende und zugleich
+                beruhigende Verb’scheidung auch zu Handen seiner Gemeinden ertheilt.
+            
+In den Berggegenden zeigte sich, ungeachtet der erwähnten fruchtlosen Bemühungen des
+                    Willi, dennoch bedeutende Gährung, und eine, – wenn schon
+                nicht allgemein von der gleichen Triebfeder in Bewegung gesezte, – Tendenz zur
+                Bewaffnung, zumalen, wie es verlauten wollte, wirklich 300–400.
+                    Mann in dortiger Gegend unter Waffen stehen.
+            
+Gestern Abends begab sich Herr Unterstatthalter Weber von
+                    Dürnten nach Stäfa und wollte eine
+                Versammlung der Großen Rathsglieder aus den Gemeinden der
+                benachbarten Gegenden veranstalten. Herr Unterstatthalter
+                    Kaufmann wurde hievon benachrichtet, ihm aber, auf die
+                deßhalben ge- machte Anzeige bedeutet, daß bey der gegenwärtig auf der
+                linken Seite des Sees herrschenden Ruhe, eine solche Versammlung aus keinem
+                günstigen Gesichtspunkt angesehen, und keine andern Versammlungen von
+                    Großen Rathsgliedern, als die so vom <orgName>Kleinen
+                    Rathe</orgName> veranstaltet werden, als gesezlich betrachtet werden können.
+            
+Nach dieser mündlichen Berichtserstattung wurde ein Schreiben von Herr
+                Unterstatthalter Weber zu Dürnten vom
+                    2ten dieß, worin über die Vorfälle in den
+                Berggegenden und zu Rüti die nämlichen Data, welche schon in
+                dem mündlichen Bericht der Standescommißion enthalten waren, angegeben werden, – und
+                ein, von der Regierung des Cantons St. Gallen unterm <date
+                    when="1804-03-31">31ten pti</date> an die hießige außerordentliche
+                Standescommißion eingelangtes Schreiben samt einem, demselben beygebogenen Berichte
+                des, in Rapperschweil aufgestellten St. Gallischen Regierungs-Commißairs, Herren
+                Regierungs-Rath Meßmers verlesen.
+            
+Der Bericht des leztern enthält die ihm von Quasi-Deputirten von
+                    Stäfa, welche aber nicht in dieser Eigenschaft, sondern
+                nur als Privatim, und in Gegenwart von Ortsbeamten vorgelaßen wurden, gemachte
+                Schilderung der kläglichen Lage, in der sich ihre und andere Gemeinden befinden, und
+                das von den gedachten Personen beygefügte Ansuchen, daß die Regierung von St.
+                    Gallen bey dem Herrn Landammann der Schweiz, oder bey der
+                Zürcherischen Cantonsregierung vermittelnd einwirken möchte, damit
+                größerem Unglük und Blutvergießen vorgebeugt werde. Das Schreiben der Regierung des
+                Cantons St. Gallen aber gründet auf diesen Bericht ihres
+                Regierungs-Commißairs das Anerbieten jeder Dienstleistung, welche dahin abzweken
+                könnte, mit der vollständigsten Behauptung des obrigkeitlichen Ansehens fernerm
+                Blutvergießen Einhalt zu thun, und erneuertes Zutrauen und Anhänglichkeit an die
+                Regierung zu erweken.
+            
+Die Antwort der hießigen Standescommißion, welche der Regierung von St.
+                    Gallen unterm 2ten dieß
+                ertheilt wurde, enthält nach Verdankung ihrer Theilnahme an der bedaurlichen Lage
+                unsers Vaterlandes, die beruhigende Versicherung, daß alle gütlichen Vorstellungen
+                an die aufrührischen Gemeinden fruchtlos erschöpft, und da es bey dieser
+                Beschaffenheit der Sachen, ohne auf die Herstellung der Ruhe und Ordnung Verzicht
+                zuthun, durchaus nicht möglich sey, von dem nothgedrungen ergriffenen Maaßregeln
+                abzuweichen, bis die Aufrührer sich den Gesezen und der Obrigkeit unterworfen haben,
+                daß man übrigens die dortige Regierung um Forstsezung ihres freundeidgenößischen
+                Aufsehens ersuche.
+            
+Das gestern Nachmittag von Herren Regierungs-Commißair Meßmer
+                eingelangte Schreiben aber, worin zugleich von zurükgewiesenen Versuchen des
+                Aufrührer Willi, den St. Gallischen Boden mit
+                seiner Aufrührer-Rotte zu betretten, Meldung gethan wird, zeigt, daß der Herr
+                Regierungs-Commißair durch die erhaltene Erläuterung verständigt, die Sachen jezt
+                aus einem ganz andern Gesichtspunkt betrachte.
+            
+Der Kleine Rath, nach diesen erhaltenen intereßanten Berichten
+                beschloß, unter Verdankung derselben, mit Mehrheit, daß es bey den klugen
+                Verfügungen der Außerordentlichen Standescommißion lediglich seyn Bewenden habe, und
+                ihre weitern Berichte zu gewärtigen seyen. Der durch das Mehr verneinend
+                entschiedene Antrag gieng dahin, daß die jedesmaligen Berichtserstattungen der
+                Standescommißion mit der Vorlegung ihrer Correspondenz mit Sr. Excellenz dem Herrn
+                Landammann begleitet werden sollen.
+        </body>
+    </text>
+</TEI>

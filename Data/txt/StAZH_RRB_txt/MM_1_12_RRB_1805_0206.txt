@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ratification der Handwerks-Ordnungen von Zürich und Winterthur, und Verfügung
+                    wegen Ertheilung von Reisepäßen an Handwerker.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-04-29"
+                            >29.04.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Ratification der Handwerks-Ordnungen von Zürich und Winterthur, und
+                        Verfügung wegen Ertheilung von Reisepäßen an Handwerker.</title><date
+                        when="1805-02-07">07.02.1805</date><ident>StAZH MM 1.12 RRB
+                        1805/0206</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.12</biblScope><biblScope unit="page"
+                    >43–46</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung des von der Commißion des Inneren unterm
+                29sten Jenner hinterbrachten umständlichen und
+                sorgfältigen Berichts und Gutachtens, betreffend die von ihr, durch das Mittel ihrer
+                Section für Indüstrie, Handwerke und Gewerbe, in Folge des
+                Handwerks-Polizey-Gesetzes vom 28sten May 1804.
+                vorgenohmene Revision der Handwerks-Ordnungen, – wurde beschloßen:
+            
+1o. Der Commißion des Inneren, und insbesondere ihrer Section für
+                Indüstrie, Handwerke und Gewerbe, wird die auf diesen Gegenstand vielfältig
+                verwendete Mühe, Sorgfalt und Aufmerksammkeit, durch Zustellung gegenwärtiger
+                Erkanntnuß auf das verbindlichste verdankt.
+            
+2o. Der Kleine Rath ertheilt den nachstehenden
+                Handwerks-Ordnungen, so wie sie ihm von der Commißion, nach vorgenohmener
+                sorgfältiger Prüffung und definitiver Bestimmung vorgelegt worden sind, – seine
+                unbedingte Zustimmung und Ratification: 
+            
+A. Von Zürich.
+            
+1. Wundärzte.
+            
+2. Rothgerwer.
+            
+3. Wagner.
+            
+4. Tuschschärer.
+            
+5. Sekler.
+            
+6. Pasteten-beker.
+            
+7. Kupferschmid.
+            
+8. Gold- und Silber-Arbeiter.
+            
+9. Nadler.
+            
+10. Schloßer.
+            
+11. Knöpfmacher.
+            
+12. Leinweber.
+            
+13. Schuhmacher.
+            
+14. Bürstenbinder.
+            
+15. Hutmacher.
+            
+16. Drechsler.
+            
+17. Sattler.
+            
+18. Degen- und Meßer-schmide.
+            
+19. Glaser.
+            
+20. Uhrenmacher.
+            
+21. Schneider.
+            
+22. Schwarz-Nagel-Schmide.
+            
+23. Schreiner.
+            
+24. Beker.
+            
+25. Spengler.
+            
+26. Mahler
+            
+27. Peruken-macher.
+            
+28. Hufschmide.
+            
+29. Hafner.
+            
+30. Zukerbeken.
+            
+31. Kürsner.
+            
+32. Küfer.
+            
+33. Schwarz- und Schön-färber.
+            
+34. Steinmezen.
+            
+B. Von Winterthur.
+            
+1. Sattler.
+            
+2. Schuster.
+            
+3. Hutmacher.
+            
+4. Maurer und Steinhauer.
+            
+5. Hafner.
+            
+6. Degen- und Meßer-schmide.
+            
+7. Kamm-macher.
+            
+8. Buchbinder.
+            
+9. Küfer.
+            
+10. Flachmahler.
+            
+11. Uhrenmacher.
+            
+12. Rothgerwer.
+            
+13. Beken.
+            
+14. Schloßer.
+            
+15. Schreiner.
+            
+3o. Die Staatscanzley wird nun- mehro, nachdem ihr von der Section für
+                Indüstrie, Handwerke und Gewerbe die dießfalls benöthigte Anleitung wird ertheilt
+                worden seyn, die Hochobrigkeitlichen Ratificationen der sämmtlichen oberwähnten
+                Handwerks-Ordnungen ausfertigen, und den betreffenden Handwerken mit möglichster
+                Beförderung zustellen, übrigens aber sich hierbey so viel möglich, lediglich an
+                nachstehendes Formular anschließen: „der Kleine Rath hat, auf
+                vorgegangene Untersuchung und erstatteten Bericht seiner <orgName>Commißion des
+                    Inneren</orgName> die vorstehende Handwerks-Ordnung als übereinstimmend mit der
+                allgemeinen Polizey-Verordnung für die Handwerke vom <date when="1805-05-28">28sten
+                    May</date> 1804, Hochobrigkeitlich gutgeheißen und ratificiert.“
+            
+4o. Der Kleine Rath gewärtigt, daß ihm die <orgName>Commißion des
+                    Inneren</orgName> die noch rükständigen Handwerks-Ordnungen, nebst ihrem
+                dießfälligen sorgfältigen Bericht und Befinden vorlege.
+            
+5o. Nach den an die Commißion des Inneren gelangten, und von
+                derselben dem Kleinen Rath empfehlend hinterbrachten Wünschen
+                mehrerer Handwerke, – sollen in Zukonft weder von der Staatscanzley, noch von den
+                Herren Bezirks- und Unterstatthalteren, Reisepäße in das Innere oder Ausland an
+                Fremde Handwerks-Gesellen ertheilt werden, wenn nicht dieselben, nebst den übrigen
+                durch das Reglement vom 9ten Augstmonat 1803. in
+                Betreff der Reisepäße, vorgeschriebenen Erfordernißen, förmliche
+                Handwerks-Kundschaften vorweisen und mit- bringen; als worvon die
+                sämmtlichen Herren Bezirks- und Unterstatthalter zu ihren eigenen, und ihrer
+                unterhabenden Gemeindammänner Handen, durch Protocolls-Extract benachrichtiget
+                werden.
+        </body>
+    </text>
+</TEI>

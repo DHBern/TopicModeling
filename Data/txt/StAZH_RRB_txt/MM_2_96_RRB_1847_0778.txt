@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Niederlaßungsbewilligungen im Bez. Zürich.</title><respStmt><resp ref="#rsn" key="transcript">Transkript: rsn08.02.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Niederlaßungsbewilligungen im Bez. Zürich.</title>15.05.1847<ident>StAZH MM 2.96 RRB 1847/0778</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.96</biblScope><biblScope unit="page">174–180</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Der Regierungsrath hat auf den Antrag des Rathes des Innern, [vom 12t. d. M.] betreffend die von den resp. Gemeindräthen des Bezirkes Zürich ertheilten Niederlaßungsbewilligungen an nachstehende Cantons- und Landesfremde:
+a. Stadtgemeinde Zürich
+A. Schweizer Bürger:  
+1. Christ. Maria, geb. Herrliberger v. Chur, C. Graub. Wwe. Näherinn.
+2. Ducloux, Rud. v. Laufenburg, C. Aarg. unverh. Commis.
+3. Eigenmann, Theres. geb. Groß v. Waldkirch, C. St. Gallen, Mußelinhänderlinn.
+4. Jäger, Barbara, geb. Hug, v. Nußbaumen, C. Thurg. Wwe. Partik. 
+5. May, Frdrch. v. Bern, verh. Partik.
+6. Nater, Dietr. v. Hugelhofen, C. Thurg. verh. Baukonducteur.
+7. Pedretti, Andr. v. Rivierra, C. Teßin, unverh. Stukaturarbeiter.
+8. Rosenmund, Friedr. v. Liestal, C. Baselland verh. Uhrenmacher.
+9. Schmid, Jb. v. Glarus, unverh. Commis
+10. Wegelin, Cspr. v. St. Gallen, verh. Partikular;
+11. Wüthrich, Sam. v. Trueb, C. Bern, unverh. Commis.
+12. Ris, Raph. v. Langnau, C. Aarg. unverh. Handelsmann.
+13. Hartmann, Anna, geb. Rechsteiner, v. St. Peterzell C. St. Gallen, Näherinn.
+14. Baron, Jos. Jb. v. Locle, C. Neuenburg verh. Uhrenmacher.
+15. Baumann, Hrch. v. Stilli, C. Aargau verh. Bäker.
+16. Bieri, Nikl. v. Langnau, C. Bern, verh. Schmid. 
+17. Corrade, Rud. v. Neuforn, C. Thurg. verh. Taglöhner.
+18. Deppeler, Jb. v. Degerfelden, C. Aarg. verh. Drechsler.
+19. Eichenberger, Rud. v. Beinweil, C. Aarg. verh. Drechsler.
+20. Fehr, Jud. geb. Knecht v. St. Gallen, Wittwe Partikularinn.
+21. Gräflein, Carol v. Stekborn, C. Thurg. unverh. Schneiderinn.
+22. Gull, Reg. geb. Steiner, v. Stekborn, C. Thurg. Wwe. Gremplerinn.
+23. Häfeli, Nikl. v. Klingnau, C. Aarg. vehr. Gastwirth.
+24. Hanhart, Joh. Jb. v. Stekborn, C. Thurgau verh. Kaufmann.
+25. Müller Killian, v. Bütschweil, C. St. Gallen, verh. Bäker,  
+26. Nater, Dietr. v. Gugelshofen, C. Thurgau, verh. Schneider.
+27. Rueber, Rud. v. Dägersweilen, C. Thurg. verh. Lohnwascher.
+28. Scheffmacher, Conr. v. Herblingen, C. Schaffh. verh. Drechsler.
+29. Sigrist, Joh. v. Lipoldsweilen, C. Turg. [sic!] verh. Lohnwascher.
+30. Stamm, Elis. v. Schleitheim, C. Schaffh. unverh. Schneiderinn.
+31. Streit, Bened. v. Englisberg, C. Bern, Wwr. Handelsgärtner.
+32. Suter, Jos. von Unter-Ehrendingen, C. Aarg. verh. Schloßer.
+33. Tanner, Pankr. v. Aadorf, C. Thurg. verh. Mechaniker.
+34. Thalmann, Hrch. v. Fischingen, C. Thurg. verh. Taglöhner.
+35. Thörner, Gottfr. v. Lipoltsweilen, C. Thurgau verh. Schuster.
+36. Trümpi, Maria, v. Enneda, C. Glarus, Wwe. Partik.
+37. Uehlinger, Phil. v. Neunkirch, C. Schaffhaus. verh. Zimmerer.
+38. Uhler, Dorothea, v. Uttweil, C. Thurg. Wwe. Partikularinn.
+39. Weiermann, Abrah. v. Wyringen, C. Bern, verh. Schneider.
+40. Widmer, Jonas, v. Wetzikon, C. Thurg. verh. Schuster.
+41. Winz, Barb. geb. Angst v. Stein, C. Schaffh. Wwe. Partik.
+42. Zink, Joh. v. Lausanne, C. Waadt, verh. Sprachlehrer
+B. Landesfremde.
+43. Egger, Eva, gesch. Herrmannst-Lignitz, in Preußen, Citronenhdl[er].
+44. Hauswirth, Georg, v. Lörach, Großh. Baden, unverh. Buchhalter,
+45. Herwig, Emil, v. Schweizer, K. Würt. unverh. Badinhaber.
+46. Kelber, Friedr. v. Waldmannshofen, K. Würt. unverh. Taubstummenlehrer.
+47. Lieb, Julia, v. Biberach, K. Würt. unverh. Krämerinn.
+48. Riese, Hrch. v. Lübek, verh. Taglehrer.
+49. Schwäble, Marg. geb. Böhm, v. Königsbronn. K. Würt. Handelsfrau.
+50. Smit, Peter v. Amsterdam. K. Holland, verh. Schneidergeselle.  
+51. Spamagel, Jb. v. Ebingen K. Würt. unverh. Taubstummenlehrer.
+52. Zimmermann, Phil. v. Dühren, Grßh. Baden, verh. Schneidergesell.
+53. Antretter, Jos. v. Lindau, K. Baiern, unverh. Commis.
+54. Geiger, Mart. v. Nenzig, in Oestr. verh. Maurergesell.
+55. Claus, Christ. v. Memmingen, K. Baiern, unverh. Kaufmann.
+56. Jäger, Joh. v. Ehningen, K. Würtemberg unverh. Leinwandh.
+57. „		„    Georg „	„	„		idem.
+58. Köberlin, Theres. v. Balkrechten, Grßh. Baden, unverh. Gasköchinn.
+59. Kühne, Georg, v. Allmannsdorf, Grßh. Baden, verh. Kopfhalter.
+60. Lorenz, Joh. v. Schnifis, in Oestreich, verh. Maurergesell.
+61. Metzger, Anna, geb. Siber, v. Heilbron, K. Würt. Wwe. Zettlerinn.
+62. Riedmüller, Frz. v. Schwaz, in Oestr. verh. Handelsmann.
+63. Rieber, Anna, geb. Schweizer, v. Gamelhausen, K. Würt. Wwe. Lohnwascherinn.
+64. Sautier, Joh. v. Mayland, K. Sard. unverh. Kaufmann.
+65. Witt, Peter v. Kirchzellersen, in Hanover, verh. Zimmergesell.
+a. Gemeinde Albisrieden.
+66. Straßer, Hrch. v. Nußbaumen, C. Thurg. unverh. Schuster.
+b. Gemeinde Außersihl.
+67. Elmer, Hrch. v. Elm, C. Glarus, verh. Taglöhner.
+68. Leder, Jb. v. Oberflachs, C. Aargau verh. Gießer.
+69. Maron, Dor. geb. Werder, v. Berlingen, C. Thurg. Schuhhändler.
+70. Vögeli, Mart. v. Dörflingen, C. Schaffh. verh. Taglöhner.
+71. Künze, Joh. v. Albert, Grßh. Baden, Baukonducteur
+72. Ludwig, Hrch. Christ. v. Eisfeld, Herzogth. Sachsen-Meinigen. verh. Buchhändler.
+73. März, Johanna, geb. Weingärtner v. Seitingen, K. Würt. Lohnwascherinn.  
+c. Gemeinde Dietikon.
+74. Bumbacher, Cspr. v. Spreitenbach, C. Aarg. verh. Müller.
+75. Nahm, M. Francisca, v. O. Ehrendingen, C. Aarg. Wwe. Süßbradh.
+76. Wanner, Ulr. v. Berg Dietikon, C. Aarg. verh. Landwirth.
+d. Gemeinde Enge.
+77. Bernheim, Isak, v. Langnau, C. Aarg. verh. Handelsmann.
+78. Gutzweiler, Jos: v. Thurwyl, C. Baselland, verh. Schuster.
+79. Hürzeler, Jos. v. Grenzenbach, C. Solothurn, verh. Fabrikant.
+80. Knobel, Joh. Cspr. v. Glarus, verh. Modelstecher.
+81. Läubli, Sam. v. Seengen, C. Aargau verh. Steinhauer
+82. Widmer, Elis. v. Hausen, C. Aargau, unverh. Spetterinn. [mit 2. außerehelichen Kindern, für welche Heimatscheine vorlig[en]]
+83. Sax, Jos. v. Gailingen, Grßh. Baden, unverh. Kaufmann
+e. Gemeinde Fluntern.
+84. Hanhart, Joh. Georg, v. Dießenhofen, C. Thurg. verh. Graveur.
+85. Hartmann, Ad. v. Oberneunforn, C. Thurg. verh. Schneider.
+86. Hürzeler, Hrch. v. Grezenbach, C. Soloth. verh. Müllerknecht.
+87. Niedermann, Isak v. Riedt u. Sirnach, C. Thurg. verh. Lohnwäscher.
+f. Gemeinde Oberstraß.
+88. Boll, Jb. v. Berg Dietikon, C. Aargau verh. Zwirner.
+89. Knecht, Joh. v. Wagenhausen C. Thurg. verh. Taglöhner.
+90. Meier, Jos. v. Stetten, Grßh. Baden, verh. Handlanger.
+91. Weber, Fried. v. Hügelheim, Grßh. Baden, verh. Schreiner
+g. Gemeinde Oberurdorf.
+92. Bürchler, Jb. v. Baltenschweil, Gem. Berg-Dietikon, C. Aarg. verh. Güterarbeiter.
+93. Gloor, Tob. v. Birchweil, C. Aarg. verh. Güterarbeiter;  
+94. Locher, Dieth. v. Spreitenbach, C. Aarg. verh. Güterarbeiter.
+h. Gemeinde Riesbach.
+95. Imhof, Jos. Ldw. v. Aarau, unverh. Zukerbek.
+96. Jost, Joh. Jb. von Seewis, C. Graubündten, verh. Aegent.
+97. Marlignomi, Jos. Bened. v. Rorschach, C. St. Gallen, verh. Maler.
+98. Metzger, Conr. v. Eschenz, C. Thurg. verh. Taglöhner.
+99. Broad, Joh. v. Edinburg, in Schottland, unverh. Rentier.
+100. Dorfschmid, Ludw. v. Gözzingen K. Würt. verh. Jaquard Weber.
+101. v. Hornstein, Freiherr, Fried. v. Riethingen Grßh. Baden ohne Beruf; [ohne seine 
+		Familie]
+102. Weißenberger, Mich. v. Weisweil. Grßh. Baden,
+		verh. Steinmetzgesell.
+i. Gemeinde Unterstraß.
+103. Lämmlin, Joh. Jb. von Schaffh. verh. Mechaniker.
+104. Mager, Carl v. Gräfrath, K. Preußen, verh. Profeßor.
+105. Payr, Frz. v. Stumm, in Tyrol, verh. Handelsmann.
+106. Schaffauer, Joh. v. Stumm „	„
+k. Gemeinde Wiedikon.
+107. Ammann, Georg, v. Matzingen, C. Thurg. verh. Taglöhner.
+108. Grob. Joh. Jb. v. Leutisburg, C. St. Gallen, verh. Seidenweber.
+109. Spaich, Cspr. v. Buchs, C. Aarg. verh. Schreiber.
+110. Marlhac, Francois v. Vieilliespesse, K. Frkrch. unverh. Keßler.
+l. Gemeinde Wipkingen.
+111. Bachmann, Andr. v. Beggingen, C. Schaffh. Wwr. Deßinateur.
+112. Walt, Joh. v. Eichberg, C. St. Gallen verh. Schloßer.
+113. Straßer, Em. v. Nußbaumen, C. Thurg. verh. Güterarbeiter.  
+114. Bohn, Joh. Jos. v. Untergimpern, Grßh. Baden, verh. Nagelschmid.
+beschloßen:
+I. Die Bewilligungen für die Petenten No. 1–11. 13–49. 51. 53. 55–59. 61.–64. 66–76. 78.–90. 92–101. 103–113. werden einfach bestätigt.
+II. Die Bewilligung für die Petenten No. 50. 52. 54. 60. 65. 91. 102. und 114. werden nur bestätigt mit dem Vorbehalt sofortigen Wiederentzugs für den Fall, wo die Petenten entgegen Artikel 41. 1. des Niederlaßungsgesetzes ein Handwerk auf eigene Rechnung betreiben sollten, worüber das Statthalteramt Zürich und die betreffenden Gemeindräthe sorgfältig zu wachen haben.
+III. Die Bewilligungen für die Petenten No. 12. u. 77. werd[en] nur unter den für den Verkehr der Juden bestehenden und allfällig künftigen gesetzlichen Beschränkungen bestätigt.
+IV. Hievon wird dem Statthalteramte Zürich zu Handen der betreffenden Gemeindräthe und Petenten, sowie dem Sekretariate des Rathes des Innern, behufs der nöthigen Vormerkung auf dem Register der Niedergelaßenen Kenntniß gegeben.<p/></body></text></TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die im Kanton Thurgau angeseßenen Familien Bachofner von Bärentschweil und
+                    Kündig von Bauma, werden wieder in das hiesige Kantonalbürgerrecht
+                    aufgenommen.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Die im Kanton Thurgau angeseßenen Familien Bachofner von Bärentschweil
+                        und Kündig von Bauma, werden wieder in das hiesige Kantonalbürgerrecht
+                        aufgenommen.</title>12.10.1822<ident>StAZH MM
+                        1.81 RRB 1822/0773</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.81</biblScope><biblScope
+                        unit="page">35–38</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Mit Weisung d. d. 4ten passati,
+                erstatteten MHHerren Staatsrath Usteri und Herr Rathsherr
+                    Rahn der hohen Behörde des Kleinen Rathes
+                Bericht über ihre zweymalige neue Conferenz mit der auf hiesiger Tagsatzung
+                befindlich gewesenen Ehrengesandt- schaft des Lbl. Standes Thurgau, in
+                Betreff der Heimaths- und Bürgerrechtsangelegneheit der beyden jenseits befindlichen
+                Familien Bachofner von Bärentschweil und
+                    Kündig von Bauma, deren Resultat dahin
+                ging, daß, unter Voraussetzung des Wiedereintritts der Familie
+                    Bachofner in das Bürgerrecht der Gemeinde Bärentschweil, die
+                Ausgleichung in Betreff der Familie Kündig in Entrichtung eines
+                Auskaufes gefunden werden solle, welcher derjenigen Gemeinde, die solche in ihr
+                Bürgerrrecht aufnehmen wird, zu bezahlen wäre, und worüber die Thurgauischen Herren
+                Deputirten, ungeachtet der kräftigsten Vorstellungen, nicht weiter, als auf den
+                Betrag von Frk[en]. 1000. gehen wollten, indem von jener Seite nur unter Berufung
+                auf das ursprüngliche Bürgerrecht dieser Leute, gütlich
+                eingetreten wurde.
+            
+Nachdem nun dieser Gegenstand nochmals in allen Theilen sorgfältig berathen worden,
+                und sich neuerdings ergeben, daß in Betreff der Familie Bachofner
+                von einem Eydsgenößisch schiedsrichterlichen Entscheide nichts zu verhoffen wäre,
+                und für die Familie Kündig zwar mehrere Ansprachstitel auf das
+                Thurgauische Landrecht vorhan- den seyen, allein doch keine vollständige
+                Naturalisation Statt gefunden habe, der Gemeinde Bauma aber
+                nach ihrer eigenen Erklärung wegen gedrückter ökonomischer Lage und Unmöglichkeit
+                den Auskauf an Thurgau zu bezahlen, nichts anders übrig bleibe, als solchen von
+                daher anzunehmen, so haben UHHerren und Obern erkennt, den Wiedereintritt der beyden
+                Familien Bachofner von Bärentschweil und
+                    Kündig von Bauma, in ihr
+                ursprüngliches Gemeinds- und das hiesige Kantonalbürgerrecht hoheitlich zu
+                bestätigen, in der Meynung, daß die Gemeinde Bärentschweil für erstere
+                unentgeldlich, die Gemeinde Bauma hingegen um die obbemeldte,
+                von Thurgau zu entrichtende Recognition der 1000. Frk[en]., die benöthigten
+                Heimathscheine ausstelle, und diesen Betrag zu dem Gemeindgut schlage und zinsbar
+                mache.
+            
+Der Regierung von Thurgau wird dieser Beschluß durch heutige Mißive bekannt gemacht,
+                und angezeigt, daß gegen die obbemeldte zu gewärtigende Auskaufsumme, die
+                Heimathscheine, mittelst deren der fernere Aufenthalt beyder Familien in jenseitigem
+                Kanton und ihre Behand- lung nach concordatsmäßigen Verhältnißen Statt
+                finden könne, ausgefertigt werden sollen.
+            
+Gegenwärtiger Beschluß wird den Lbl. Oberämtern Kyburg und
+                    Grüningen zu Handen der betreffenden Gemeinden
+                zugestellt.
+        </body>
+    </text>
+</TEI>

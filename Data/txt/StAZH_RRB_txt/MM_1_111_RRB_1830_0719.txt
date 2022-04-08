@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ansuchen der Civilgemeinde Freudweil, daß derjenige Theil derselben, welcher
+                    bisdahin zum Notariat Kyburg gehörte, zu dem Notariat Greifensee geschlagen
+                    werden möchte.</title>
+                <respStmt>
+                    <resp ref="#rgr" key="transcript">Transkript: rgr<date when="2010-08-25"
+                            >25.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Ansuchen der Civilgemeinde Freudweil, daß derjenige Theil derselben,
+                        welcher bisdahin zum Notariat Kyburg gehörte, zu dem Notariat Greifensee
+                        geschlagen werden möchte.</title><date when="1830-09-02"
+                        >02.09.1830</date><ident>StAZH MM 1.111 RRB
+                        1830/0719</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.111</biblScope><biblScope unit="page">245</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Das von dem Oberamt Greifensee unterm <date
+                when="1830-08-31">31sten v. M.</date> eingesandte Gesuch der Civilgemeinde
+                Freudweil, Pfarre Uster, um Vereinigung desjenigen Theils
+                derselben, welcher bisdahin zum Notariat Kyburg gehört hat,
+                mit dem Notariatsbezirk Greifensee, überweist der
+                    Kleine Rath der L. Justiz-Commißion zum Behuf des über das
+                Notariat Kyburg im Allgemeinen zu erstattenden Berichtes und
+                Antrages.
+        </body>
+    </text>
+</TEI>

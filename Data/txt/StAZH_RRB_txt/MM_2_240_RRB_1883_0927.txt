@@ -1,0 +1,25 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beantwortg. d. Wirthschaftsrekurses Holder Zürich ans Justiz- & Polizeidepart.</title><respStmt><resp ref="#rke" key="transcript">Transkript: rke29.04.2016</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2016<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Beantwortg. d. Wirthschaftsrekurses Holder Zürich ans Justiz- & Polizeidepart.</title>23.05.1883<ident>StAZH MM 2.240 RRB 1883/0927</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.240</biblScope><biblScope unit="page">441–443</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Präsidial-Verfügungen.]
+23. Mai 1883.
+Der Regierungsrath hat,
+in Sachen des David Holder, zur Burgdorferhalle, Seilergraben, in Zürich,
+betreffend Wirthschaftspatentverweigerung,
+auf den Antrag der Finanzdirektion,
+beschlossen:
+An das eid. Justiz- & Polizeidepartement folgendes Schreiben zu richten:
+„Mit Schreiben vom 27. April d. Js. übermittelten Sie uns den Rekurs des Fürsprech Haab-Bruppacher, Namens des David Holder, zur Burgdorferhalle, Seilergraben, Zürich gegen die von uns beschlossene Verweigerung eines Wirthschaftspatentes für das Jahr 1883 & laden uns zur Rekursbeantwortung ein.
+Allervorderst erlauben wir uns, Sie auf § 6, Ziff. 1 des zürch. Gesetzes betr. die Weinschenken, Speisewirthschaften & die Wirthschaftsabgabe aufmerksam zu machen, wonach das Patent nicht ertheilt werden soll, wenn die Persönlichkeit des Petenten keine Sicherheit für die Betreibung einer ordentlichen und ehrbaren Wirthschaft darbietet.
+Nun ist Rekurrent nach einem in Handen des Stadtrathes Zürich liegenden Berichtes des k. württ. Oberamtes Tuttlingen d. d. 1. Januar 1883 gerichtlich bestraft worden:
+a. Vom k. württ. Oberamtsgericht Tuttlingen laut  Urtheil vom 1. Juli 1864 wegen vorsätzlicher Körperverletzung mit 6 Wochen Gefängniß,
+b. von demselben Gerichte laut Urtheil vom 11. Februar 1873 wegen Körperverletzung mit 14 Tagen Gefängniß;
+c. von demselben Gericht laut Urtheil vom 27. April 1875 wegen Beleidigung mit einer Geldbuße.
+Nach demselben Bericht wurde auch die Ehefrau Holder bestraft:
+1. Von der Strafkammer des k. württ. Gerichtshofes zu Rottweil am 23. Juli 1871 wegen Anstiftung zu qualifizirtem Diebstal mit 14 Tagen Gefängniß & Verlust des bürgerlichen Ehren- & Dienstrechtes;
+2. von derselben Stelle laut Urtheil vom 30. Januar 1877 wegen Körperverletzung mit 4 Wochen Gefängniß.
+Diese Angaben werden wol zur Genüge beweisen, daß den Eheleuten Holder die Führung einer ehrbaren Wirthschaft nicht zuzutrauen ist.
+Die Eheleute Holder wohnen nicht, wie die Rekursschrift ausführt, schon seit einem Jahr in Zürich, sondern laut den persönlichen Angaben der Ehefrau Holder erst seit Ende Dezember 1882, was auch der produzirte Miethvertrag & die Niederlassungsbewilligung bestätigen.  
+Der Standpunkt, man habe den Rekurrenten die Niederlassung nicht verweigert, also hätten sie auch die Qualität zum Wirthschaftsbetrieb, – ist unrichtig, denn zur Niederlassungsverweigerung gehört mehr.
+Ebenso werden Sie sich aus dem Verzeichniß obiger Strafen überzeugen, daß die letzten Bestrafungen nicht schon vor 10 Jahren, sondern 1875 & 1877 stattgefunden haben.
+Indem wir Ihnen die bezüglichen Akten wieder zurückstellen, ersuchen wir Sie auch Ihrerseits den Rekurs als unbegründet abweisen zu wollen.“<p/></body></text></TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vertheilung der für die Brandbeschädigten von Truttikon in den ehemaligen
+                    Bezirken Benken und Andelfingen gefallenen Haussteuer.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-03-10"
+                            >10.03.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Vertheilung der für die Brandbeschädigten von Truttikon in den
+                        ehemaligen Bezirken Benken und Andelfingen gefallenen
+                        Haussteuer.</title>17.05.1803<ident>StAZH MM
+                        1.1 RRB 1803/0155</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.1</biblScope><biblScope
+                        unit="page">147–148</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Nach Anhörung und Erdaurung der von dem Herrn Altstatthalter Hs.
+                    Conrad
+                Toggenburger von Marthalen, Mitglied des
+                hiesigen großen Raths, unterm <date when="1803-05-10">10ten
+                    May</date> an den Kleinen Rath gerichteten Zuschrift, worinn
+                der Herr Toggenburger (in Erfüllung eines unterm <date
+                    when="1803-05-30">30sten</date> Aprill a. c. von der ehemaligen
+                    Verwaltungs-Commißion ihm ertheilten Auftrags) den von ihm in
+                Zuzug der Gemeindsvorgesetzten von Truttikon
+                entworfenen Plan über die Repartition der in den Bezirken Benken und
+                    Andelfingen für einige brandbeschädigte Haushaltungen von
+                    Truttikon eingesammelten, in 969. fl. 20. ß. bestehenden
+                Haussteuer, einsendet, – wurden sowohl die bey diesem Plan zum Fundament
+                angenohmenen Grundsäze, als die Anwendung dieser Grundsäze ganz richtig befunden,
+                und mithin einmüthig erkannt, daß die würkliche Repartition der vorhandenen
+                Steuersumme ganz nach dem vorgelegten Plan, durch den Herrn Altstatthalter
+                    Toggenburger selbst, in allfählig beliebigem Zuzug der
+                Ortsvorgesetzten auf nachstehende Weise bewerkstelliget werde:
+            
+1o Jakob
+                Müller, deßen Verlurst sich auf 696. fl. 51. Xr. belauft, hat von
+                der Steuer zu beziehen fl. 109. ß. 28.
+            
+2o Jakob Wägelj, Küffer, deßen Verlurst 988.
+                fl. 25. Xr. beträgt, hat zu beziehen 153..36.
+            
+3o Johannes Wägelj, deßen Verlurst in 2108. fl. 43. Xr. besteht,
+                hat zu beziehen 325..16.
+            
+4o Matthäus Wägelj, deßen Verlurst in 486 fl. 36. Xr. besteht,
+                hat, da er nicht in die Klaße der durch die Feuersbrunst ganz verarmten, wie die
+                drey vorbenannten gehört zu beziehen 72..20.
+            
+5o Georg Bay, deßen Verlurst zwar 757. fl. 50. Xr. beträgt, bey
+                dem aber die nämliche Betrachtung wie bey dem nächstbevorstehenden eintrittet, hat
+                zu beziehen 100..–.
+            
+6o Hs. Ulrich
+                Keller, deßen Verlurst zwar 1937. fl. 15. Xr. beträgt, aber ihn
+                gleichwol forthin eines bemittelten Zustandes genießen läßt, hat zu beziehen fl.
+                208..–.
+            
+ Summa fl. 969. ß. 20.
+        </body>
+    </text>
+</TEI>

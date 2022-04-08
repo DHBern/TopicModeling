@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rükantwort der Regierung des Cantons Argau, worinn das Ansuchen um Einleitung
+                    zur Revision des Appellations-gerichtlichen Urtheils in dem Prozeß des Wirth
+                    Keller zu Weiningen gegen das Kloster Fahr abgelehnt wird.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-02-13"
+                            >13.02.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Rükantwort der Regierung des Cantons Argau, worinn das Ansuchen um
+                        Einleitung zur Revision des Appellations-gerichtlichen Urtheils in dem
+                        Prozeß des Wirth Keller zu Weiningen gegen das Kloster Fahr abgelehnt
+                        wird.</title>03.11.1804<ident>StAZH MM 1.10
+                        RRB 1804/1793</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.10</biblScope><biblScope
+                        unit="page">39–40</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Das Antwortschreiben der Regierung des Cantons Argau vom <date
+                when="1804-10-31">31ten pti</date>, worinn auf das diesörtige Ansuchen vom <date
+                    when="1804-11-20">20ten</date> ejm. um Einleitung zur Revision der
+                leztinstanzlichen, den hießigen Kantonsangehörigen, Herrn
+                    Hauptmann
+                Keller, Wirth zu
+                    Weiningen, gegen das Kloster Fahr
+                verfällenden Urtheil, die bedenklichen Folgen, welche es haben müßte, wenn ein
+                Canton die leztinstanzlichen Urtheile eines andern Cantons zu vollziehen sich
+                weigern würde, vorgestellt, die Ertheilung des Befehls an den
+                    Keller zu Bezahlung der dem Kloster Fahr
+                zugesprochenen moderierten Kösten und die Execution gedachter Urtheil verlangt, und
+                bemerkt wird, daß derselbe, wenn er hinlängliche Gründe zu einem Revisionsgesuch zu
+                haben glaube, sich damit bey dem Argäuischen Appellations-Gericht anzumelden habe,
+                einerseits, und anderseits, daß es der dortigen Regierung, nach ihrer Verfaßung
+                nicht zustehe, sich im mindesten in das Richterliche Fach zu mischen, auch das
+                dortige Appellationsgericht, selbst nach den sorgfältigsten Berathungen, nach
+                dasigem Gebrauch nicht gewohnt sey, seine leztinstanzlichen Urtheile zu motivieren,
+                sondern dieß nur bey den untern Tribunalien zu beschehen pflege, – wird der
+                    Justiz- und Polizey-Commißion mit dem Ersuchen im Original
+                mitgetheilt, über dieses Rükschreiben ihre klugen Gedanken walten zu laßen, und da
+                    es nach deßelben Innhalt scheinen will, als ob die Bezahlung der
+                gedachten moderierten Kösten verweigert worden wäre, über dieses Speciale ihren
+                Bericht, nebst ihrem Befinden über diesen Gegenstand im Allgemeinen, und ihren
+                Antrag dem Kleinen Rath zu hinterbringen, wie das gedachte
+                Schreiben der Regierung des Cantons Argau der Sache angemeßen zu beantworten
+                sey.
+        </body>
+    </text>
+</TEI>

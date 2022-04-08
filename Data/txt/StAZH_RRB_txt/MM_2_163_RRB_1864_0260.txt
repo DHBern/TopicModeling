@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Fortgesetzte Berathung der Verfassungsrevision, Art. 8–21.</title><respStmt><resp ref="#ukr" key="transcript">Transkript: ukr07.01.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Fortgesetzte Berathung der Verfassungsrevision, Art. 8–21.</title>13.02.1864<ident>StAZH MM 2.163 RRB 1864/0260</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.163</biblScope><biblScope unit="page">356–358</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Die Berathung der Revision der Staatsverfassung wird fortgesetzt:
+Artikel 8 erhält folgende Fassung:
+Jeder Bürger einer Gemeinde des Kantons hat das Recht, in jeder andern unter Erfüllung der gesetzlichen Bedingungen das Bürgerrecht  zu erwerben.
+Schweizerbürger genießen unter denselben Bedingungen, wie die Kantonsbürger, das Recht freier Niederlassung.
+Artikel 9 erhält folgende Fassung:
+Die persönliche Freiheit u. die Unverletzlichkeit der Wohnungen sind gewährleistet. Verhaftungen und Hausdurchsuchungen sind nur unter den vom Gesetz bezeichneten Bedingungen statthaft.
+Auf Artikel 10, welcher bei Berathung des Gesetzesentwurfes der Expertenkommission betreffend die Gerichtsverfassung behandelt wurde, wird später zurückzukommen beschlossen:
+Artikel 12 bleibt in seiner jetzigen Fassung mit Hinzufügung folgenden Satzes als lemma 5:
+Ausnahmen mit Rücksicht auf geringfügige Fälle bleiben der Gesetzgebung vorbehalten.
+Artikel 13 lautet nach Streichung des zweiten Satzes:
+„Die Oeffentlichkeit der Verhandlungen vor den Gerichten ist als Regel aufgestellt.“
+Artikel 14: „Das Gesetz wird für Abschaffung der Peinlichkeit sorgen“ wird weggelassen.
+Artikel 15 lautet nach Streichung des letzten Satzes: 
+„Die Verfassung sichert die Unverletzlichkeit des Eigenthums und gerechte Entschädigung für Abtretungen, die das öffentliche Wohl erheischt. Die Forderung der Entschädigung, wenn sie streitig wird, ist Rechtssache.“
+Dieser Artikel soll künftig unmittelbar nach Artikel 9 folgen.
+Artikel 16 soll lediglich aus dem bisherigen lemma 2 bestehen und lautet demnach:
+„Der Boden soll mit keiner nicht loskäuflichen Last belegt sein, noch belegt werden.“
+Artikel 17 fällt weg.
+    “     18 erhält folgende Fassung:
+„Alle Einwohner des Kantons sollen möglichst gleichmäßig nach Vermögen und Einkommen zu den Staatslasten beitragen.“
+Artikel 19 erhält folgende Fassung:
+„Jeder Kantonsbürger und jeder im Kanton niedergelassene Schweizerbürger ist zu Militärdiensten nach der Bestimmung des Gesetzes verpflichtet.“
+Artikel 20 wird in seiner ursprünglichen Fassung belassen.
+Artikel 21. Es wird beschlossen, auf denselben später zurückkommen [sic!].<p/></body></text></TEI>

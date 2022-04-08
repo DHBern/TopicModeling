@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Recepiße des Standes Schwyz für das Signalement des Johannes Stoker.
+Die entsprechende Rükantwort der Regierung des Cantons Schwyz vom 27ten. pti, auf das derselben unterm 21ten. übermachte Signalement des Johannes Stoker ist ad acta zu legen.

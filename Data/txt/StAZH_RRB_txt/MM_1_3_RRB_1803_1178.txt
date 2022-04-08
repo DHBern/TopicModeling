@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Regierung des Cantons Thurgau wegen Salzeinschwärzungen.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2003-04-25"
+                            >25.04.2003</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Regierung des Cantons Thurgau wegen Salzeinschwärzungen.</title><date
+                        when="1803-11-05">05.11.1803</date><ident>StAZH MM 1.3 RRB
+                        1803/1178</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.3</biblScope><biblScope unit="page"
+                    >290–291</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Die Regierung des Cantons Thurgau macht der hiesigen Regierung unterm
+                31ten pti die freundeidgenößische Anzeige, daß
+                von der Salzwage in Frauenfeld Fäßerweise Salz in den Canton
+                    Zürich verabfolgt worden und daß namentlich durch den
+                dort angeseßenen Müller
+                Ehrensperger von Oberwinterthur unter obigem Datum zwey Fäßer
+                Salz an seinen Bruder und Schwager
+                Conrad
+                Ehrensperger und Forrer,
+                    Wirth in Oberwinterthur auf Bestellung hin abgeliefert werden
+                wollten, und 2 Fäßer an den Waibel
+                Weiler in Rikenbach bereits abgeliefert
+                worden seyen, so wie dann ferner auch 1 Faß Salz für den Bek
+                    Koller in Winterthur zur Abführung
+                bereit gelegen, daß aber die gedachte Regierung nach dießfalls erhaltenem Bericht
+                unverweilt verfügt habe, daß die zum Abführen bereit gelegenen 3 Fäßer Salz auf das
+                Lager zurükgebracht werden, dem Salzauswäger und denjenigen, welche die Lieferung
+                unternommen, ihr ordnungswidriges Verfahren auf das allerernstlichste verwiesen, und
+                den Umständen angemeßen erachtet habe, der hiesigen Behörde auch von den bereits
+                geschehenen Einschwärzungen zu beliebiger Verfügung Kenntniß zu geben. Dieser
+                Anzeige fügt die Thurgauische Regierung bey, daß auch von Zürcherischen
+                Cantonsbürgern seit einiger Zeit an verschiedenen Thurgauischen Grenz-Salzwaagen
+                Salz verkauft werde, gegen welchen unordentlichen Handel sie die
+                hießige Behörde ersucht, ebenfalls die angemeßenen Vorbeugungsmaßregeln
+                zu ergreifen. Der Thurgauischen Regierung ist dieser Beweiß ihrer bundesbrüderlichen
+                Gesinnungen [laut Mißiven] in einem höflichen Antwortschreiben zu verdanken, von
+                den, deßhalben bereits von der hiesigen Behörde getroffenen Verfügungen Kenntniß zu
+                geben, und derselben die dießörtige gegenseitige Bereitheit zuzusichern, allem dem,
+                was rüksichtlich des Salzhandels im Canton Thurgau, den bestehenden
+                constitutionsmäßigen Verhältnißen, oder deßelben besondere Verordnung zuwiderlaufen
+                wurde, auch in hießigem Canton durch die angemeßenen Vorkehrungen vorzubeugen, und
+                überhaupt der dortigen Regierung gegenseitige thätige Beweise freundeidgenößischer
+                Denkart zu geben. In Folge deßen wird das gedachte Schreiben der Salzdirection
+                abschriftlich zugestellt, um sich sowohl zu berathen, wie fernere Klagen von Seite
+                der dortigen Regierung über unerlaubten Salzverkauf in hiesigem Canton vorgebeugt
+                werden könne, als aber auch über die in jenem Schreiben enthaltenen Data die
+                nöthigen Untersuchungen anzustellen, und ihren dießfälligen Bericht und Gutachten
+                dem Kleinen Rathe zu hinterbringen.
+        </body>
+    </text>
+</TEI>

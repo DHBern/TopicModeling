@@ -1,0 +1,27 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Kleinen Raths:</title><respStmt><resp ref="#utn" key="transcript">Transkript: utn29.04.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2009<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Kleinen Raths:</title>06.04.1820-11.07.1820<ident>StAZH MM 1.73 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">1.73</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+MHochgeachter Junker Hans Reinhard, Amtsburgermeister.
+MHochgeachter Junker David Wyß, Burgermeister.
+MHJunker Hs. Conrad Escher, Rathsherr und Alt-Burgermeister.
+MHHerr Paulus Usteri, M. D. und Rathsherr.
+MHHerr Hs. Jacob Pestalutz, Rathsherr.
+MHHerr Rudolf Rebmann, Rathsherr.
+MHHerr Hs. Conrad Finßler, Rathsherr und General-Quartiersmeister.
+MHHerr Diethelm Lavater, M. D. und Rathsherr.
+MHHerr Hs. Jacob Hirzel, Rathsherr.
+MHHerr Hs. Caspar Schinz, Rathsherr.
+MHHerr David Vogel, Rathsherr.
+MHHerr Hs. Caspar Pfenninger, Rathsherr.
+MHHerr Hs. Conrad Escher, Rathsherr.
+MHHerr Salomon Rabn, Rathsherr.
+MHJunker Hs. Conrad Meiß, Rathsherr u. Oberst.
+MHJunker Joh. Heinrich Grebel, Rathsherr.
+MHJunker Ludwig Meyer von Knonau, Rathsherr.
+MHHerr Joh. Heinrich Landolt, Rathsherr.
+MHHerr Hs. Jacob Füßli, Rathsherr und Oberst.
+MHHerr Martin Usteri, Rathsherr.
+MHHerr Hartmann Angst, Rathsherr.
+MHHerr Heinrich Hirzel, Rathsherr.
+MHHerr Hs. Caspar Ott im Berg, Rathsherr.
+MHHerr Heinrich Hotz, Rathsherr.
+MHHerr Joh. Heinrich Sulzer, Rathsherr. <p/></body></text></TEI>

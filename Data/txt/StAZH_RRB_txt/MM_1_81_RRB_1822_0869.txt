@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wahl des Rudolf Lang zum Gemeindraths-Präsident von Unterötweil.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: <date when="2010-08-03"
+                        >03.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Wahl des Rudolf Lang zum Gemeindraths-Präsident von
+                        Unterötweil.</title>09.11.1822<ident>StAZH MM
+                        1.81 RRB 1822/0869</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.81</biblScope><biblScope
+                        unit="page">144–145</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Es haben UHHerren und Obern, auf den Bericht des Lbl. Oberamtes
+                    Zürich d. d. 6ten hujus,
+                aus welchem sich er- gibt, daß der Gemeindraths-Präsident
+                    Heinrich
+                Lang zu Unter-Oetweil [sic!] wegen Verfertigung einer falschen
+                Quittung, durch richterliches Urtheil seines Amtes entsetzt worden, aus dem, von der
+                betreffenden Gemeinde hiezu abgefaßten Dreyervorschlage, zu einem neuen
+                Gemeinds-Präsidenten gewählt, den Gemeindrath Rudolf
+                Lang.
+            
+Hievon wird dem Lbl. Oberamte zu Handen der Gemeinde Unter-Oetweil und ihres neuen
+                Präsidenten Kenntniß gegeben.
+        </body>
+    </text>
+</TEI>

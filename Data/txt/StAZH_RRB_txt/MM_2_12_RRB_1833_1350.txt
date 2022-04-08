@@ -1,0 +1,18 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Wirthschaftsangelegenheiten.</title><respStmt><resp ref="#sbh" key="transcript">Transkript: sbh06.01.2010</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority><pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Wirthschaftsangelegenheiten.</title>02.08.1833<ident>StAZH MM 2.12 RRB 1833/1350</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.12</biblScope><biblScope unit="page">277(279</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+Auf den von dem Finanzrathe mit Weisung vom 31. v. M. hinterbrachten Bericht und Antrag, hat der Regierungsrath folgende  Wirthschaftsangelegenheiten erledigt:
+1.) Metzger Caspar Treichler im Weißhaus und Factor Jacob Fügli zu Richterschweil werden in ihrem Begehren um Ertheilung von Speise-Patenten wegen Mangels an Bedürfniß abgewiesen.
+2.) Dem Caffeewirth Diethelm Fretz zum rothen Thurm wird ein bis Ende des laufenden Jahres geltendes Speise-Patent bewilligt.
+3.) Wird dem Herrn Cantonsrath Ehrensperger zu Veltheim ohne Entrichtung einer Recognition bewilligt, das bisher dem Herrn Rieter zugehörig gewesene Taverne-Recht zum Leuli in Winterthur auf seine Behausung und seinen Nahmen zu translociren.
+4.) Nachfolgenden Bittstellern werden gegen Entrichtung der beygesetzten Recognitionen und der Kanzleytaxe bis Ende des Jahres 1834. gültige Weinschenkpatente ertheilt:
+	Recognition:
+Jacob Hug, Müller zu Dällikon	Frk[en]. 16.
+Christoph Vogel, von Zürich,	zu Dällikon	„        16.
+Rudolf Meyer, Brenner	 „        „	„        16.
+Jacob Meyer, Alt-Friedensrichter	 „        „	„        16.
+Hs. Jacob Meyer, Binzmüller zu Neerach, Pfarre Steinmauer	„        16.
+Herrn Ludwig Bleuler im Schloß Laufen	„        24.
+und endlich:
+5.) wurde dem ebengenannten Herrn Bleuler ein bis Ende dieses Jahres gültiges Speise-Patent bewilligt.
+Bey diesem Anlaße wurde auf gemachten Anzug der Fi-  nanzrath eingeladen, dafür Vorsorge zu treffen, daß nicht entgegen den Bestimmungen des Pachtvertrages, von Herrn Bleuler Reisenden durch übermäßige Forderungen der Zutritt zum Rheinfalle erschwert werde.
+Von diesem Beschluße wird dem Finanzrathe unter Beylegung der betreffenden Acten, sowie von den Sub No. 1. enthaltenen Abweisungen dem Statthalteramte Horgen zu Handen der Abgewiesenen Kenntniß gegeben.<p/></body></text></TEI>

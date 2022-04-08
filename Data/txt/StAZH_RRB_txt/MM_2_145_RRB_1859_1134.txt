@@ -1,0 +1,8 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Zuschrift der Reg. v. Tessin betr. Bezahlung d. Verpflegungskosten für H[errn] [Heinrich] Müller v. Hittnau.</title><respStmt><resp ref="#dsa" key="transcript">Transkript: dsa18.07.2013</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2013<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Zuschrift der Reg. v. Tessin betr. Bezahlung d. Verpflegungskosten für H[errn] [Heinrich] Müller v. Hittnau.</title>31.08.1859<ident>StAZH MM 2.145 RRB 1859/1134</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.145</biblScope><biblScope unit="page">436</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+[Praesidial-Verfügungen.]
+Actum den 31. August 1859.
+Der Direktion des Innern werden zur Antragstellung überwiesen:
+1. Eine Zuschrift der Regierung von Tessin betreffend Bezahlung der Verpflegungskosten für den aus Neapolitanischen Militärdienste zurückgekehrten Heinrich Müller von Hittnau; 
+[Fortsetzung RRB 1859/1135]<p/></body></text></TEI>

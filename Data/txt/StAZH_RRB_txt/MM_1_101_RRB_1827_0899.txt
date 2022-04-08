@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorladung des zu Wollishofen sich aufhaltenden Nagelschmids Johannes Dreher
+                    vor das Amtsrevisorat Schopfheim.</title>
+                <respStmt>
+                    <resp ref="#mal" key="transcript">Transkript: mal<date when="2010-08-16"
+                            >16.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Vorladung des zu Wollishofen sich aufhaltenden Nagelschmids Johannes
+                        Dreher vor das Amtsrevisorat Schopfheim.</title><date when="1827-12-01"
+                        >01.12.1827</date><ident>StAZH MM 1.101 RRB 1827/0899</ident><edition>Protokoll des
+                        Regierungsrats</edition><biblScope unit="volume">1.101</biblScope><biblScope
+                        unit="page">61</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Eine vom 13. v. M: datirte Zuschrift des Großherzogl. Badischen
+                Amtsrevisorates Schopfheim enthält das Ansuchen, daß der in Wollishofen sich
+                aufhaltende Nagelschmid Johannes
+                Dreher auf den 10ten Januar 1828. vor
+                genannte Behörde geladen werden möchte, um der Publication des von
+                    Catharina
+                Dreher, Sebastian Tscherters sel[ige] Wittwe
+                von Gündenhausen, hinterlaßenen letzten Willens
+                beyzuwohnen.
+            
+Der Kleine Rath hat diese Zuschrift dem Oberamt
+                    Zürich mit dem Auftrage überwiesen, den Inhalte derselben
+                dem Dreher zu eröffnen und deßen Empfangsbescheinigung der
+                    Staatskanzley zu Handen des Amtsrevisorates Schopfheim
+                einzusenden.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#rgr" key="transcript">Transkript: rgr22.11.2012</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2011<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>02.10.1852-03.01.1853<ident>StAZH MM 2.118 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.118</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+
+Herr
+Dr. Hs Ulrich Zehnder v. Ob: Engstringen erster Præsident.
+   “
+Dr. Alfred Escher v. Zürich zweiter Præsident.
+   “
+Dr. Joh: Jakob Rüttimann v: Regensberg.
+   “
+Paul Karl Ed: Ziegler v: Zürich eidg: Oberst.
+   “
+Rudolf Bollier v: Horgen.
+   “
+Rudolf Benz v: Pfungen.
+   “
+Felix Wild v: Wædenschweil.
+   “
+Joh: Jakob Müller v: Winterthur.
+   “
+Joh: Jakob Sulzer v: Winterthur.
+Staatsschreiber.
+   “
+Franz Hagenbuch v: Zürich, erster Staatsschreiber.
+   “
+K. Heinrich Weidenmann v. Winterthur zweiter [Staatsschreiber] 
+______________</body></text></TEI>

@@ -1,0 +1,18 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Mitglieder des Regierungsrathes.</title><respStmt><resp ref="#sa" key="transcript">Transkript: sa20.05.2011</resp><name key="editor">Staatsarchiv des Kantons Zürich</name></respStmt></titleStmt><publicationStmt><authority>Staatsarchiv des Kantons Zürich</authority>2009<pubPlace>Zürich</pubPlace></publicationStmt><seriesStmt><title>Regierungsratsbeschlüsse seit 1803 online</title><editor>Staatsarchiv des Kantons Zürich</editor></seriesStmt><sourceDesc><bibl><title>Mitglieder des Regierungsrathes.</title>04.07.1846-26.09.1846<ident>StAZH MM 2.93 Mitgliederliste</ident><edition>Protokoll des Regierungsrats</edition><biblScope unit="volume">2.93</biblScope><biblScope unit="page">up.</biblScope></bibl></sourceDesc></fileDesc><encodingDesc><editorialDecl>
+Die Transkriptionsrichtlinien sind publiziert unter <ref target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html">URL</ref>.</editorialDecl></encodingDesc></teiHeader><text><body>
+MHHerr Dr. Hs. Ulrich Zehnder von Oberengstringen, Amtsbürgermeister.
+           “        Dr. Jonas Furrer von Winterthur, Bürgermeister.
+           “        Eduard Sulzer von Winterthur.
+           “        Melch. Friedrich Sulzer von Winterthur.
+           “        Heinrich Hüni von Horgen.
+           “        Paul Karl Eduard Ziegler von Zürich.
+           “        Joh. Jakob Rüttimann von Regensberg.
+           “        Kaspar Nägeli, Med. Dr. von Kilchberg.
+           “        Joh. Rudolf Sulzer von Winterthur.
+           “        Joh. Jakob Fierz von Küßnacht.
+           “        Joh. Jakob Wieland von Thalweil.
+           “        Melchior Eßlinger von Zürich.
+           “        Rudolf Bollier von Horgen.
+Staatsschreiber.
+MHHerr J. Heinrich Hottinger v. Zürich, erster Staatsschreiber.
+    “       Georg von Wyß von Zürich, zweiter Staatsschreiber.</body></text></TEI>

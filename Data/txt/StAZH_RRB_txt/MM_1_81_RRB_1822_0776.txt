@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß des Großen Raths, betreffend den Nichtbeytritt zu der auf der
+                    dießjährigen Tagsatzung aufgestellten Uebereinkunft, betreffend die
+                    Handelsverhältniße und die von gewißen Französischen Natur- und
+                    Indüstrie-Producten zu erhebenden Einfuhrzöllen.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: /12.08.2010</resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beschluß des Großen Raths, betreffend den Nichtbeytritt zu der auf der
+                        dießjährigen Tagsatzung aufgestellten Uebereinkunft, betreffend die
+                        Handelsverhältniße und die von gewißen Französischen Natur- und
+                        Indüstrie-Producten zu erhebenden Einfuhrzöllen.</title><date
+                        when="1822-10-12">12.10.1822</date><ident>StAZH MM 1.81 RRB
+                        1822/0776</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.81</biblScope><biblScope unit="page"
+                    >39–40</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Der am 7ten, <date when="1822-10-08"
+                    >8ten</date> und 9ten dieß, wegen der
+                dießjährigen Tagsatzungsverhandlungen über die Handelsangelegenheiten
+                außerordentlich versammelt gewesene Große Rath, hat in der
+                Sitzung vom 9ten (laut heute verlesener Ausfertigung)
+                in Genehmigung des Antrags des Kleinen Rathes vom <date
+                    when="1822-10-01">1sten dieß</date>, und des von dem Herrn Referenten
+                (MHochgeachten Herrn Rathsherrn J. J. Hirzel) mündlich vorgeschlagenen Zusatzes,
+                (mit 134. gegen 42. Stimmen) beschloßen: „Es finde der Große Rath
+                die hierorts ad referendum genommene Uebereinkunft vom <date when="1822-10-27"
+                    >27sten</date> und 28sten August d. J. in
+                Verfaßungsrücksichten bedenklich, auch wegen der moralischen, commerciellen und
+                ökonomischen Folgen, für die Schweiz im Allgemeinen und den hiesigen Stand
+                insbesondere, nicht zuträglich, und überhaupt dem Zwecke nicht entsprechend;
+                weswegen dem Vorort erklärt werden soll, daß der hiesige Stand derselben nicht
+                beytreten könne; wobey jedoch der Kleine Rath beauftragt sey, die
+                Angelegenheit der Handelsverhältniße fortwährend aufmerksam im Auge zu behalten,
+                nach Maaßgabe ihrer fernern äußern und innern Entwickelung und nach Erforderniß, den
+                benachbarten deutschen Staaten auf eine der Verfaßung angemeßene Weise
+                die möglichste Beruhigung zu geben, und in sorgfältige Berathung zu nehmen, ob, mit
+                Beseitigung des Douanensystems und der Centralisirung des Zollwesens, ein
+                Vereinigungspunct mit den übrigen Ständen ausfindig gemacht werden könne, und, wenn
+                der Kleine Rath solches möglich glaubte, darüber dem
+                    Großen Rathe einen Antrag zu hinterbringen, und sich von
+                Hochdemselben zu den weitern Schritten förmlich autorisiren zu laßen.“
+            
+[Fortsetzung RRB 1822/0777]
+        </body>
+    </text>
+</TEI>

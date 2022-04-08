@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Weisung an den Großen Rath, betreffend die Bestimmung einer
+                    Mietzins-Entschädigung für die Oberämter Zürich und Winterthur.</title>
+                <respStmt>
+                    <resp ref="#rbp" key="transcript">Transkript: <date when="2010-08-03"
+                            >03.08.2010</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2010
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Weisung an den Großen Rath, betreffend die Bestimmung einer
+                        Mietzins-Entschädigung für die Oberämter Zürich und Winterthur.</title><date
+                        when="1819-12-09">09.12.1819</date><ident>StAZH MM 1.71 RRB
+                        1819/0964</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.71</biblScope><biblScope unit="page"
+                    >329–331</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf den von der Finanz-Commißion, in Folge Auftrags
+                vom 16ten October d. J., unterm <date
+                    when="1819-12-01">1sten d. M.</date> hinterbrachten Bericht und Antrag,
+                betreffend das Ansuchen des Herrn Oberamtmann Weiß von
+                    Zürich, um Anweisung seiner Oberamtlichen Wohnung oder um
+                Bewilligung einer Miethzins-Entschädigung, wurde beschloßen, dießfalls folgende
+                Weisung an den Große Rath zu erlaßen:
+            
+Weisung.
+            
+Da das Gesetz vom 16ten Christmonath 1815, betreffend
+                die Organisation des Gerichtswesens, in seinem 4ten
+                §. Litt. d. bestimmt, daß die Oberamtmänner (mit Ausnahme derjenigen von
+                    Zürich und Winterthur) den Genuß freyer <pb n="330"
+                />Wohnung in Obrigkeitlichen Gebäuden haben sollen; – die seitherige Erfahrung aber
+                gezeigt hat, daß einerseits die Miethung angemeßener Wohnungen für jene beyden
+                Oberämter, sonderheitlich für dasjenige von Zürich, aus
+                bekannten Gründen, immer mit einigen Schwierigkeiten verbunden ist, anderseits aber
+                diese beyden Ämter, nach ihrem Umfang und besondern Verhältnißen, unstreitig und
+                offenkundig die geschäftreichsten und beschwerlichsten sind, so hält der
+                    Kleine Rath dafür, daß dieselben in dieser gedoppelten
+                Beziehung gegründete Ansprache auf eine etwelche Erleichterung rücksichtlich der
+                Wohnung zu machen haben.
+            
+Der Kleine Rath hat desnahen geglaubt, den Gegenstand bey der
+                höchsten Behörde des Großen
+                Raths, von welcher der dießfällige Entscheid abhängt, zur Sprache
+                bringen und damit einen Antrag verbinden zu müßen, welcher dahin geht, daß in
+                Gewärtigung, ob etwa später den beyden Oberämtern Zürich und
+                    Winterthur ebenfalls Obrigkeitliche Gebäude zur Wohnung
+                angewiesen werden sollen, und ob dazu schickliche und angemeßene
+                Localitäten werden ausfindig gemacht werden können, es dem <orgName>Großen
+                    Rath</orgName> belieben möchte, einsweilen dem Kleinen Rath
+                die Vollmacht zu ertheilen, jedem derselben eine jährliche Miethzinsentschädigung
+                von 400. Frk[en]. vom May dieses Jahres an gerechnet, zu
+                vergüten.
+            
+Alles indeßen dem weisen Ermeßen und dem Entscheid der Höchsten Behörde ehrerbietig
+                anheimstellend.
+            
+Zürich den 9ten December 1819.
+            
+Im Nahmen des Kleinen Raths unterzeichnet:
+            
+Der Amtsburgermeister.
+            
+Wyß.
+            
+Der zweyte Staatsschreiber.
+            
+Stapfer.
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stilesheet.css'?>
+Fünfter Legationsbericht von der hießigen Ehrengesandschaft auf dem Congreß in Schaffhausen.
+Der von Seite des hießigen Abgeordneten, Herren Rathsherr Wyß, unterm 16. hujus aus Schaffhausen eingekommene fünfte Legationsbericht, betreffend die von der Eidsgenößischen Deputirten getroffenen Einleitungen zu Beantwortung des zweyten Churbaadischen Memorials, – die Ankonft des Hochfürstl[ichen] Fürstenbergischen Gesandten, Herren Hofrath von Schantz, und die mit demselben vorläufig gepflogenen Erörterungen, – und die bevorstehende Conferenz zwischen dem hiesigen Gesandten und einigen committirten Standes-  gliedern von Schaffhausen in Betreff der streitigen Restitution des Amts Stein, – wurde nachrichtlich verlesen.

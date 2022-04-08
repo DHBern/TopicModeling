@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Repartition für die Brandbeschädigten im Bubheini bey Schönenberg erhobenen
+                    Liebessteuer.</title>
+                <respStmt>
+                    <resp ref="#msu" key="transcript">Transkript: msu<date when="2004-01-20"
+                            >20.01.2004</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                2013
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Repartition für die Brandbeschädigten im Bubheini bey Schönenberg
+                        erhobenen Liebessteuer.</title><date when="1804-09-01"
+                        >01.09.1804</date><ident>StAZH MM 1.9 RRB
+                        1804/1516</ident><edition>Protokoll des Regierungsrats</edition><biblScope
+                        unit="volume">1.9</biblScope><biblScope unit="page"
+                    >129–130</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                
+Die Transkriptionsrichtlinien sind publiziert unter <ref
+                        target="http://www.staatsarchiv.zh.ch/internet/justiz_inneres/sta/de/ueber_uns/organisation/editionsprojekte/tkr.html"
+                        >URL</ref>.
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+Auf das von der Steuercommißion in Bezug auf die Vertheilung der für die
+                Brandbeschädigten von Bubheini bey Schönenberg erhobenen
+                Liebessteuer hinterbrachte sorgfältige Gutachten und beygefügte Repartitions-Entwurf
+                vom 31ten Augusti, wurde beschloßen:
+            
+1. Den gefallenen Steuerbetrag von Netto 1025 fl. 15 ß 6 Hlr. auf die samtlichen
+                Brandbeschädigten, deren schazungsmäßiger Verlurst die Summe von 4246 fl. 16 ß
+                beträgt, folgendermaßen zu vertheilen, nämmlich:
+            
+den Johann und Conrad Höhnen 938 fl.; ihren
+                zwey Schwesteren 11 fl. Dem Jacob
+                Huber und seiner Haushaltung 21 fl. 20 ß. Dem
+                    Jacob
+                Zürrer und seiner Haushaltung 27 fl. 20 ß. Dem
+                    Rudolf
+                Stoker und seiner Haushaltung 7 fl. 15 ß 6 Hlr. Zusammen 1025 fl.
+                15 ß 6 Hlr.
+            
+2. Soll dieser Betrag zu Vertheilung und besonders zu zwekmäßigem Gebrauch deßelben,
+                dem Stillstand der Gemeinde Schönenberg zu Handen der
+                Brandbeschädigten von der Commißion des Innern zugestellt
+                werden.
+            
+3. Von dieser Verfügung wird so- wohl der <orgName>Commißion des
+                    Innern</orgName> für sich, als dem Herrn Unterstatthalter
+                    Ulmer zu Handen der betreffenden Stellen, Kenntniß
+                gegeben.
+        </body>
+    </text>
+</TEI>
